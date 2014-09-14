@@ -1,1 +1,1 @@
-foobar
+Failed to download PicoCMS
