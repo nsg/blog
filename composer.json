@@ -4,7 +4,7 @@
     },
     "extra": {
         "heroku": {
-            "document-root": "web",
+            "document-root": "picocms",
             "index-document": "index.php"
         }
     },
