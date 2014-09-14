@@ -1,15 +1,13 @@
 {
-	"name": "blog.nsg.cc",
-		"description": "My Pico blog",
-		"keywords": ["php", "pico"],
-		"homepage": "http://blog.nsg.cc",
-		"type": "application",
-		"license": "",
-		"authors": [
-		{
-			"name": "Stefan Berggren",
-			"email": "nsg@nsg.cc"
-		}
-	],
-		"bin": []
+	"name": "nsg/blog",
+	"description": "My Pico blog",
+	"homepage": "http://blog.nsg.cc",
+	"authors": [{
+		"name": "Stefan Berggren",
+		"email": "nsg@nsg.cc"
+	}],
+	"require": {
+		"php": ">=5.4.0"
+	},
+	"bin": []
 }
