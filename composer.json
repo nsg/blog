@@ -10,7 +10,8 @@
     },
     "scripts": {
         "post-install-cmd": [
-            "git clone https://github.com/picocms/Pico.git picocms"
+            "git clone https://github.com/picocms/Pico.git picocms",
+            "ls /app/vendor/nginx/conf/nginx.conf"
         ]
     }
 }
