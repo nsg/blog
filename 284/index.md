@@ -1,0 +1,26 @@
+/*
+ Title: Trafik
+ Author: nsg
+ Template: post
+ Permalink: /2007/01/30/284/
+ Date: 2007-01-30T12:03:25+00:00
+ Categories: Uncategorized
+*/
+Hittade följande klipp på [stationsvakt][1]. Intressant körning, men om man läser titeln på klippet så står det:
+
+> Watch and see how the american soldiers have to drive through Iraqi streets to limit risks of attacks
+
+Kan ju förstå problemet, men samtidigt, helt livsfarligt.
+
+
+
+[Källa][2]  
+[Troligt fordon][3]
+
+:: Irak
+
+<small></small>
+
+ [1]: http://stationsvakt.blogspot.com/2007/01/amerikanska-humvees-sopar-rent-framfr.html
+ [2]: http://www.liveleak.com/view?i=8f93275ed9
+ [3]: http://images.google.se/images?q=humvee
