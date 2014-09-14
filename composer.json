@@ -11,7 +11,8 @@
     "scripts": {
         "post-install-cmd": [
             "git clone https://github.com/picocms/Pico.git picocms",
-            "cp nginx.conf /app/vendor/nginx/conf/nginx.conf"
+            "cp nginx.conf /app/vendor/nginx/conf/nginx.conf",
+            "ps -ef"
         ]
     }
 }
