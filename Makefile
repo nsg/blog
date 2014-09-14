@@ -1,4 +1,4 @@
-deploy: build
+deploy: image
 
-build:
+image:
 	docker build -t blog .
