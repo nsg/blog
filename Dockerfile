@@ -6,3 +6,4 @@ ADD . /repo
 ADD apache.conf /etc/apache2/sites-available/site.conf
 RUN a2dissite 000-default.conf
 RUN a2ensite site.conf
+RUN service apache2 reload
