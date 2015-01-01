@@ -1,0 +1,64 @@
+body {
+	background: #0a4874;
+}
+
+h1 {
+	font-size: 2em;
+	margin: 0.5em 1em;
+	font-family: Indie Flower;
+}
+
+h1 a {
+	color: white;
+	text-decoration: none;
+}
+
+h2 {
+	margin: 0px;
+	font-family: Architects Daughter;
+}
+
+#header div {
+	list-style: none;
+	text-align: right;
+	padding: 0 0 0 1em;
+	margin: 0 1em;
+	font-family: Indie Flower;
+	font-size: 2em;
+	float: right;
+}
+
+#header div a {
+	color: white;
+}
+
+#footer {
+	font-family: Architects Daughter;
+	font-size: 2em;
+	text-align: right;
+	color: #666;
+}
+
+#pages a {
+	color: white;
+}
+
+#content {
+	width: 960px;
+	background: 000;
+	margin: 0px 2em;
+	font-family: Lato;
+}
+
+.inner {
+	margin: 2em;
+	padding: 1em;
+	text-align: justify;
+	background: #c4cdd4;
+	box-shadow: 5px 5px 5px #222;
+}
+
+.right {
+	float: right;
+	font-family: Lato;
+}

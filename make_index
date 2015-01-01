@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# Generate headers
+for y in 20*; do
+	echo -e "/*\n Title: $y\n Author: nsg\n Template: page\n Permalink: /$y/\n*/\n" \
+		> $y/index.md;
+done
+
+# Create index
+for y in 20*/*/*/*/index.md; do
+	echo "[$(awk -F': ' '/Title/{print $2}' $y)](/$(dirname $y))" \
+		>> $(echo $y | awk -F'/' '{print $1}')/index.md;
+done
