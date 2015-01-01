@@ -1,4 +1,3 @@
-# blog.nsg.cc
+# nsg.cc
 
-Just push and we have a nice container
-
+Use the Makefile to build the image.
