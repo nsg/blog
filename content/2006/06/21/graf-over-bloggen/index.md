@@ -8,7 +8,7 @@
 */
 &#8220;[Se till vänster, där går en arab][1]&#8221; har en [intressant länk][2] till ett roligt Java Applet som visar en graf över sidans element.
 
-<img id="image81" src="http://web.enesge.eu/%7Es/wordpress/wp-content/uploads/2006/06/graf_blogg.gif" alt="Graf över min blogg" />
+<img id="image81" src="http://cdn.junkpile.se/2006/06/graf_blogg.gif" alt="Graf över min blogg" />
 
 > blue: for links (the A tag)  
 > red: for tables (TABLE, TR and TD tags)  

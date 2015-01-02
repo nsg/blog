@@ -12,18 +12,18 @@ Jag får ta mig tid och läsa en massa snart, men först lite frågor, för att 
 
 Jag börjar med [SvD:s partitest för hela landet][1].
 
-<img id="image99" src="http://web.enesge.eu/%7Es/wordpress/wp-content/uploads/2006/08/partitest-svd-riket.gif" alt="partitest-svd-riket.gif" />
+<img id="image99" src="http://cdn.junkpile.se/2006/08/partitest-svd-riket.gif" alt="partitest-svd-riket.gif" />
 
 Tvåan kommer även den [från svd][2] men handlar om stockholmsfrågor.  
-<img id="image101" src="http://web.enesge.eu/%7Es/wordpress/wp-content/uploads/2006/08/partitest-svd-sthlm.jpg" alt="partitest-svd-sthlm.jpg" />
+<img id="image101" src="http://cdn.junkpile.se/2006/08/partitest-svd-sthlm.jpg" alt="partitest-svd-sthlm.jpg" />
 
 Nu går turen vidare till DN med [sitt test][3]
 
-<img id="image102" src="http://web.enesge.eu/%7Es/wordpress/wp-content/uploads/2006/08/partitest-dn-riket.jpg" alt="partitest-dn-riket.jpg" />
+<img id="image102" src="http://cdn.junkpile.se/2006/08/partitest-dn-riket.jpg" alt="partitest-dn-riket.jpg" />
 
 Nästa test kommer öven det från DN, [ett livsstilstest][4], till mitt försvar över det ovanliga resultatet var att testet var utformat för lite äldre. Många av frågorna passade inte in på en studerande varav den felaktiga vinklingen.
 
-<img id="image103" src="http://web.enesge.eu/%7Es/wordpress/wp-content/uploads/2006/08/livsstilstest-dn.jpg" alt="livsstilstest-dn.jpg" />
+<img id="image103" src="http://cdn.junkpile.se/2006/08/livsstilstest-dn.jpg" alt="livsstilstest-dn.jpg" />
 
 {yta resarverad för mer test, vet du något så meddela mig, jag ska surfa vidare på fler tidningar när jag har tid }
 

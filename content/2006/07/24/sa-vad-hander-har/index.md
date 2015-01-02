@@ -10,7 +10,7 @@
 
 Det är nu snart en månad sedan jag skrev här, jag har haft det skönt på landet, tagit det lungt och slappat lite <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> &#8230; eller en del har väll hänt.
 
-<img id="image88" src="http://web.enesge.eu/%7Es/wordpress/wp-content/uploads/2006/07/1153680526510.jpg" alt="1153680526510.jpg" align="right" />Jag har petat en del med min laptop, jag packade upp min gentoo.tar och la tillbaka den på en egen partition med syfte med att återgå till det, det är en stor skillnad i &#8220;fart&#8221; vet inte hur stor prestandaskillnaden mellan systemen men den största skillnaden är nog att ubuntu vill gärna starta ALLT. Gillar att ha allt avstängt som default såvidare jag inte använder det dagligen. Jo, vist går det att fixa men jag kan lika gärna gå tillbaka till gentoo och få prestandaökningen.
+<img id="image88" src="http://cdn.junkpile.se/2006/07/1153680526510.jpg" alt="1153680526510.jpg" align="right" />Jag har petat en del med min laptop, jag packade upp min gentoo.tar och la tillbaka den på en egen partition med syfte med att återgå till det, det är en stor skillnad i &#8220;fart&#8221; vet inte hur stor prestandaskillnaden mellan systemen men den största skillnaden är nog att ubuntu vill gärna starta ALLT. Gillar att ha allt avstängt som default såvidare jag inte använder det dagligen. Jo, vist går det att fixa men jag kan lika gärna gå tillbaka till gentoo och få prestandaökningen.
 
 Så nu kör jag med tre operativsystem på laptopen, Gentoo Linux, Ubuntu Linux och Windows. Har blivit en del hoppande imellan systemen då ingen funkade perfekt och att ladda ner nått över modem (landet) var det inte fråga om.
 

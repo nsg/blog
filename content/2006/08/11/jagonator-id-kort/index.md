@@ -12,11 +12,11 @@ Jag tog en bild som jag blev &#8220;nöjd med&#8221;, tänkte, bah, jag tar en n
 
 Så här kommer det en bild, nu så var inte den bilden jag pratade om i profil, och den jag nu utgick ifrån var långt från bra, men det blev &#8220;ok&#8221;.
 
-<img id="image95" src="http://web.enesge.eu/%7Es/wordpress/wp-content/uploads/2006/08/jagonator.jpg" alt="jagonator.jpg" />
+<img id="image95" src="http://cdn.junkpile.se/2006/08/jagonator.jpg" alt="jagonator.jpg" />
 
 Men jag känner mig rätt nöjd med tanke på vad jag utgick ifrån.
 
-<img id="image97" src="http://web.enesge.eu/%7Es/wordpress/wp-content/uploads/2006/08/jag-sol.thumbnail.jpg" alt="jag-sol.jpg" />
+<img id="image97" src="http://cdn.junkpile.se/2006/08/jag-sol.thumbnail.jpg" alt="jag-sol.jpg" />
 
 Solen lyser rakt på mig om du undrar varför jag ser så besvärad ut <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
 

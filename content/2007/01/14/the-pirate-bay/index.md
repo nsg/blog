@@ -6,7 +6,7 @@
  Date: 2007-01-14T19:21:51+00:00
  Categories: Internet, Politik
 */
-<img id="image69" src="http://web.enesge.eu/%7Es/wordpress/wp-content/uploads/2006/06/thepiratebay.thumbnail.gif" alt="thepiratebay" align="left" />Jag skrev under förra året [en del inlägg][1] ang. TPB, jag [länkade][2] bl.a. till [gardebring][3] som skrev ett utmärkt inlägg.
+<img id="image69" src="http://cdn.junkpile.se/2006/06/thepiratebay.thumbnail.gif" alt="thepiratebay" align="left" />Jag skrev under förra året [en del inlägg][1] ang. TPB, jag [länkade][2] bl.a. till [gardebring][3] som skrev ett utmärkt inlägg.
 
 Nu (3 Jan) har han skrivit ett uppföljande inlägg som tar upp historian från början, och pratar en del ang. den senaste tidens händelser.
 

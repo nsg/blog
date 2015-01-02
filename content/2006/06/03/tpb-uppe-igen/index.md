@@ -6,7 +6,7 @@
  Date: 2006-06-03T13:53:17+00:00
  Categories: Internet, Teknik
 */
-<img id="image71" src="http://web.enesge.eu/%7Es/wordpress/wp-content/uploads/2006/06/hollybay.thumbnail.jpg" alt="TPB att. Holly" />  
+<img id="image71" src="http://cdn.junkpile.se/2006/06/hollybay.thumbnail.jpg" alt="TPB att. Holly" />  
 Nu är [thepiratebay.org][1] uppe och kör igen, det finns vissa virtuella detaljer som ännu inte är återställda med det fixar nog dom snart.
 
 :: TPB, The Pirate Bay

@@ -23,10 +23,10 @@ Jag tog ett par screenshots.
 
 Först kommer det många tänker på när man säger Xgl, en kub som roterar när man bytar skrivbord.
 
-<img id="image84" src="http://web.enesge.eu/%7Es/wordpress/wp-content/uploads/2006/06/cube.png" alt="aixgl cube" />
+<img id="image84" src="http://cdn.junkpile.se/2006/06/cube.png" alt="aixgl cube" />
 
 Här är samma effekt som osx kallar exposé, d.v.s. att alla fönster zoomas ut och man kan välja vilket man vill ha aktivt.  
-<img id="image85" src="http://web.enesge.eu/%7Es/wordpress/wp-content/uploads/2006/06/expose.png" alt="aixgl expose" />
+<img id="image85" src="http://cdn.junkpile.se/2006/06/expose.png" alt="aixgl expose" />
 
 **Modem, bluetooth och ir**
 
