@@ -17,7 +17,7 @@ index:
 	cd content && ../make_index
 
 tag:
-	docker tag nsgb/blog nsgb/blog:`git tag | head -1`
+	docker tag nsgb/blog nsgb/blog:`git tag | tail -1`
 
 push: image tag
-	docker push nsgb/blog:`git tag | head -1`
+	docker push nsgb/blog:`git tag | tail -1`
