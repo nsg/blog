@@ -50,6 +50,10 @@ h2 {
 	font-family: Lato;
 }
 
+#disqus_thread {
+	margin-top: 2.8em;
+}
+
 .inner {
 	margin: 2em;
 	padding: 1em;

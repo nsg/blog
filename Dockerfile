@@ -19,6 +19,12 @@ RUN cp -r Pico-master/* Pico-master/.htaccess /var/www/html && rm -rf Pico-maste
 RUN rm -r /var/www/html/content/*
 RUN rm -r /var/www/html/themes/*
 
+# Setup Pico RSS
+RUN curl -L -o /tmp/pico-rss_1.2.tar.gz https://github.com/nsg/Pico-RSS-Plugin/archive/1.2.tar.gz
+RUN echo "283452ac7d030db0e0b328e0ca7d84da0e560837  /tmp/pico-rss_1.2.tar.gz | sha1sum -c -"
+RUN tar xf /tmp/pico-rss_1.2.tar.gz && rm /tmp/pico-rss_1.2.tar.gz
+RUN mv Pico-RSS-Plugin-1.2/pico_rss /var/www/html/plugins/
+
 # Add content to image
 ADD content /var/www/html/content
 ADD themes /var/www/html/themes

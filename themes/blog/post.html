@@ -3,6 +3,7 @@
 <head>
 	<meta charset="utf-8" />
 	<title>{{ meta.title }}</title>
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/feed" />
 
 	<!-- web fonts -->
 	<link href='http://fonts.googleapis.com/css?family=Indie+Flower' rel='stylesheet' type='text/css'>
@@ -17,6 +18,7 @@
 		<div id="header">
 			<div>
 				<a href="/">Index</a>
+				<a href="/feed">RSS</a>
 			</div>
 			<h1><a href="/">nsg.cc</a></h1>
 		</div>
@@ -27,7 +29,19 @@
 			<div id="footer">
 				// nsg
 			</div>
+    		<div id="disqus_thread"></div>
 		</div>
 	</div>
+    <script type="text/javascript">
+        var disqus_shortname = 'nsgcc';
+        (function() {
+            var dsq = document.createElement('script');
+			dsq.type = 'text/javascript';
+			dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 </body>
 </html>
