@@ -9,4 +9,8 @@ $config['twig_config'] = array(
 	'debug' => false	
 );
 
+if ($_SERVER['HTTP_HOST'] != "localhost:8080") {
+	$config['base_url'] = 'http://nsg.cc';
+}
+
 ?>
