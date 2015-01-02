@@ -7,7 +7,7 @@
  Categories: Media
 */
 <div class="left">
-  <img src='http://nsg.cc/wp-content/uploads/2007/06/korre.jpg' alt='korre.jpg' /><br /> <small>Bild av <a href="http://www.flickr.com/photos/genista/565361657/">Genista@flickr</a><br /><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/deed.sv">by-nc-sa</a></small>
+  <img src='http://cdn.junkpile.se/2007/06/korre.jpg' alt='korre.jpg' /><br /> <small>Bild av <a href="http://www.flickr.com/photos/genista/565361657/">Genista@flickr</a><br /><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/deed.sv">by-nc-sa</a></small>
 </div>
 
 En ekorre anföll tre personer på rad i Tyskland, tydligen började den med att gå in i en 70-årig kvinnas hus och bita sig fast i handen, kvinnan fick panik och sprang ut, väl ute lyckades hon skaka av den. Ekorren fortsatte mot en byggarbetsplats där den bet en arbetare i både armen och handen innan han lyckade köra iväg den.  

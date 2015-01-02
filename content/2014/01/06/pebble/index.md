@@ -7,7 +7,7 @@
  Categories: Teknik
  Tags: Klocka, Pebble, Smartklocka
 */
-[<img src="http://nsg.cc/wp-content/uploads/2014/01/pebble_small-216x300.jpg" alt="pebble_small" width="216" height="300" class="alignright size-medium wp-image-1299" />][1]Smartklockan Pebble är en av många kickstarter-projekt som jag såg när de höll på men glömde bort att involvera mig i. Det var inte förrän i slutat av maj månad förra året som jag blev påmind av Pebble när jag såg den på armen på en som jag känner. Vi spenderade ett bra tag och pratade om den och testade och visade saker, runt en timma senare så hade jag beställt en egen.
+[<img src="http://cdn.junkpile.se/2014/01/pebble_small-216x300.jpg" alt="pebble_small" width="216" height="300" class="alignright size-medium wp-image-1299" />][1]Smartklockan Pebble är en av många kickstarter-projekt som jag såg när de höll på men glömde bort att involvera mig i. Det var inte förrän i slutat av maj månad förra året som jag blev påmind av Pebble när jag såg den på armen på en som jag känner. Vi spenderade ett bra tag och pratade om den och testade och visade saker, runt en timma senare så hade jag beställt en egen.
 
 Nu dröjde det länge innan jag tillslut fick min klocka då efterfrågan var mycket stor, och det fanns inte sådan stor produktion på den tiden. Det han bli september innan jag tillslut fick den och sedan dess har jag haft på mig den nästa varje dag.
 
@@ -25,4 +25,4 @@ De kommer släppa version 2 av sitt operativsystem som gissningsvis tillhandahå
   Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/Klocka' rel='tag' target='_self'>Klocka</a>, <a class='technorati-link' href='http://bloggar.se/om/Pebble' rel='tag' target='_self'>Pebble</a>, <a class='technorati-link' href='http://bloggar.se/om/Smartklocka' rel='tag' target='_self'>Smartklocka</a>
 </p></small>
 
- [1]: http://nsg.cc/wp-content/uploads/2014/01/pebble_small.jpg
+ [1]: http://cdn.junkpile.se/2014/01/pebble_small.jpg

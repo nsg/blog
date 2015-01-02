@@ -21,7 +21,7 @@ Nu behöver du inte KDE för att köra digiKam, det räcker med att ha de delar 
 digiKam kan uppfattas som rörigt när man startar det första gången om man är van med stilrena program som t.ex. Picasa men jag gillar när program presenterar mycket information samtidigt, så man slipper leta sig fram i någon meny för att hitta någon information.
 
 Jag börjar med att bifoga en bild med ett par av mina bilder.  
-<a class="imagelink" href="http://nsg.cc/wp-content/uploads/2006/12/screenshot-digikam.png" title="digiKam 1"><img id="image158" src="http://www.junkpile.se/%7Es/wp/wp-content/uploads/2006/12/screenshot-digikam.thumbnail.png" alt="digiKam 1" /></a>
+<a class="imagelink" href="http://cdn.junkpile.se/2006/12/screenshot-digikam.png" title="digiKam 1"><img id="image158" src="http://www.junkpile.se/%7Es/wp/wp-content/uploads/2006/12/screenshot-digikam.thumbnail.png" alt="digiKam 1" /></a>
 
 Jag har markerat fyra punkter som jag tänkte prata om.
 

@@ -11,7 +11,7 @@ Har du en fråga så kanske du går till google, eller letar på wikipedia. Elle
 
 Tjänsten är [Wolfram|Alpa][1] och efter några testar så får den godkänt av mig, funkar bra som ett komplement till den vanliga google/wikipedia-sökningen.
 
-<img class="aligncenter size-full wp-image-130" title="wolframalpha" src="http://nsg.cc/wp-content/uploads/2009/05/wolframalpha.png" alt="wolframalpha" width="582" height="317" />
+<img class="aligncenter size-full wp-image-130" title="wolframalpha" src="http://cdn.junkpile.se/2009/05/wolframalpha.png" alt="wolframalpha" width="582" height="317" />
 
 <small> <p class='technorati-tags'>
   Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/s%C3%B6k' rel='tag' target='_self'>sök</a>, <a class='technorati-link' href='http://bloggar.se/om/wolfram%7Calpha' rel='tag' target='_self'>wolfram|alpha</a>

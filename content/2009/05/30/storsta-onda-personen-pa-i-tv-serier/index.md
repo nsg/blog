@@ -63,7 +63,7 @@ Ganska olik mot vad folk röstade, men man ska nog även tänka att folk röstar
 </p>
 
 <p style="text-align: left;">
-  <img class="size-full wp-image-140 aligncenter" title="yellow-eyed_demon" src="http://nsg.cc/wp-content/uploads/2009/05/yellow-eyed_demon.jpg" alt="yellow-eyed_demon" width="287" height="235" />
+  <img class="size-full wp-image-140 aligncenter" title="yellow-eyed_demon" src="http://cdn.junkpile.se/2009/05/yellow-eyed_demon.jpg" alt="yellow-eyed_demon" width="287" height="235" />
 </p>
 
 <small> <p class='technorati-tags'>

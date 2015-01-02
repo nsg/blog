@@ -6,7 +6,7 @@
  Date: 2008-04-16T10:23:09+00:00
  Categories: Personligt, Teknik
 */
-<img src="http://nsg.cc/wp-content/uploads/2008/04/20080414-102917-canon-eos-400d-digital.jpg" title="Dell Latitude c400" alt="Dell Latitude c400" align="middle" />
+<img src="http://cdn.junkpile.se/2008/04/20080414-102917-canon-eos-400d-digital.jpg" title="Dell Latitude c400" alt="Dell Latitude c400" align="middle" />
 
 Ja nu hände det, jag började få förvarningar för ca 2-3 veckor sedan då det började knaka lite i fästet mellan skärmen och datorn men förra veckan så gick det sönder helt, så skärmen har ingen dämpning längre och kan inte stå upp själv. Snabblösningen för resten av dagen var att tejpa upp den med [gaffa][1], inte vackert men det funkade.
 
@@ -19,4 +19,4 @@ På bilden under ser du de som gått sönder, dom hade helt enkelt gått rakt av
 <small></small>
 
  [1]: http://sv.wikipedia.org/wiki/Gaffa
- [2]: http://nsg.cc/wp-content/uploads/2008/04/20080414-104038-canon-eos-400d-digital.jpg
+ [2]: http://cdn.junkpile.se/2008/04/20080414-104038-canon-eos-400d-digital.jpg

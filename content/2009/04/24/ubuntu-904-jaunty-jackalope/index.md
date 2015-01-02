@@ -16,7 +16,7 @@
 </p>
 
 <p style="text-align: center;">
-  <img class="size-full wp-image-96 aligncenter" title="osd" src="http://nsg.cc/wp-content/uploads/2009/04/osd.png" alt="osd" width="306" height="96" />
+  <img class="size-full wp-image-96 aligncenter" title="osd" src="http://cdn.junkpile.se/2009/04/osd.png" alt="osd" width="306" height="96" />
 </p>
 
 <p style="text-align: left;">
@@ -28,7 +28,7 @@
 </p>
 
 <p style="text-align: center;">
-  <img class="size-full wp-image-95 aligncenter" title="screenshot-distribution-upgrade" src="http://nsg.cc/wp-content/uploads/2009/04/screenshot-distribution-upgrade.png" alt="screenshot-distribution-upgrade" width="374" height="287" />
+  <img class="size-full wp-image-95 aligncenter" title="screenshot-distribution-upgrade" src="http://cdn.junkpile.se/2009/04/screenshot-distribution-upgrade.png" alt="screenshot-distribution-upgrade" width="374" height="287" />
 </p>
 
 <small> <p class='technorati-tags'>

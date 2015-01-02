@@ -9,7 +9,7 @@
 Nu kommer den 5e i ordningen, kan inte påstå att det är en speciellt vanlig film denna gången heller, men har du sett filmen så borde det gå och identifiera den, för mer info [klicka här][1].
 
 <div class="middle">
-  <img src='http://nsg.cc/wp-content/uploads/2007/06/gissa.png' alt='gissa.png' />
+  <img src='http://cdn.junkpile.se/2007/06/gissa.png' alt='gissa.png' />
 </div>
 
 Svara i detta inlägg.

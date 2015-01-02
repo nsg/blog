@@ -7,7 +7,7 @@
  Categories: Personligt, Teknik
  Tags: fildelning, oneswarm
 */
-<img class="alignright size-full wp-image-155" title="1s" src="http://nsg.cc/wp-content/uploads/2009/06/1s.gif" alt="1s" width="214" height="219" />Inget ont om idéen, inget ont om protokollet men allt ont om GUI:t.
+<img class="alignright size-full wp-image-155" title="1s" src="http://cdn.junkpile.se/2009/06/1s.gif" alt="1s" width="214" height="219" />Inget ont om idéen, inget ont om protokollet men allt ont om GUI:t.
 
 Jag klickar på mitt bokmärke, OneSwarm laddas ganska fort, på en 2-3 sekunder, det är acceptabelt då jag ändå sitter på mobilt internet nu. Jag hamnar på &#8220;All files&#8221; och minna filer pressenteras (i en stor röra). Jag trycker på en vän för att se om han har nått kul. Jag väntar på att sidan ska laddas, efter en 10 sekunder av &#8220;ingen ting&#8221; så klickar jag igen, kanske missade jag första gången, inget händer igen. Jag läser lite på en annan webbsida redan öppen i en annan tabb, efter en 15-20 sekunder ser jag att saker har hänt. Min väns saker är nu laddade och pressenteras.
 

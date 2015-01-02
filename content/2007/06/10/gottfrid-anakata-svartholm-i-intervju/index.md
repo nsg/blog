@@ -7,7 +7,7 @@
  Categories: Internet, Media, Politik, Teknik
 */
 <div class="left">
-  <img src='http://nsg.cc/wp-content/uploads/2007/06/screenshot-realplayer-gottfrid3-1ram-150x150.png' alt='screenshot-realplayer-gottfrid3-1ram.png' />
+  <img src='http://cdn.junkpile.se/2007/06/screenshot-realplayer-gottfrid3-1ram-150x150.png' alt='screenshot-realplayer-gottfrid3-1ram.png' />
 </div>
 
 [Gottfrid &#8220;Anakata&#8221; Svartholm][1] har blivit intervjuad av Rapport (SVT). Fokus ligger på hans syn på politiskt inkorrekta gruppers rätt att uttrycka sig. Det finns två versioner, en som ser ur att ha gått i TV och en längre oklippt version där man kan höra hela konversationen och inte bara svaren.

@@ -7,7 +7,7 @@
  Categories: Bloggar, Internet, Teknik, Webben
  Tags: google, Google Reader
 */
-[<img src="http://nsg.cc/wp-content/uploads/2013/03/google-reader.png" alt="google-reader" width="465" height="165" class="aligncenter size-full wp-image-1249" />][1]
+[<img src="http://cdn.junkpile.se/2013/03/google-reader.png" alt="google-reader" width="465" height="165" class="aligncenter size-full wp-image-1249" />][1]
 
 Jag minns tiden före Google Reader, jag provade ett par olika verktyg som fanns då, jag byter datorer ofta så att använda någon av de program som finns var aldrig ett val för mig. När Google kom med Google Reader så var det perfekt, den hade det som jag behövde och har nu använt det dagligen i många år.
 
@@ -19,4 +19,4 @@ Tråkigt då den funkade för mig, gjorde det jag ville, det är alltid jobbigt 
   Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/google' rel='tag' target='_self'>google</a>, <a class='technorati-link' href='http://bloggar.se/om/Google+Reader' rel='tag' target='_self'>Google Reader</a>
 </p></small>
 
- [1]: http://nsg.cc/wp-content/uploads/2013/03/google-reader.png
+ [1]: http://cdn.junkpile.se/2013/03/google-reader.png

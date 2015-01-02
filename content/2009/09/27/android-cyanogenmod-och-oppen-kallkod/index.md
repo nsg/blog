@@ -7,13 +7,13 @@
  Categories: Android, Linux, Teknik
  Tags: Android, Cyanogen, cyanogenmod, google, Linux
 */
-<img class="aligncenter size-full wp-image-752" title="cyanogenlogo" src="http://nsg.cc/wp-content/uploads/2009/09/cyanogenlogo.png" alt="cyanogenlogo" width="450" height="65" />
+<img class="aligncenter size-full wp-image-752" title="cyanogenlogo" src="http://cdn.junkpile.se/2009/09/cyanogenlogo.png" alt="cyanogenlogo" width="450" height="65" />
 
 Som du kanske redan vet är Android öppen källkod, men vad du kanske inte vet är exakt vad som är det, och mer viktigt vad som inte är det.
 
 För nu två dagar sedan så fick Steve Kondik, mer känd som cyanogen som utvecklar [cyanogenmod][1] som är en variant av Android (som jag använder) ett brev från Googles juridiska avdelning. Dom krävde att han skulle ta bort mjukvara som Google äger och han inte hade rätten att publicera. Mjukvaran i fråga är saker som Gmail, Maps, Gtalk, Market och nästan &#8220;allt google&#8221;. Ett dåligt drag för Google, och ett tråkigt drag för oss användare.
 
-Åt ena sidan förstår jag Google, det är deras program som dom har rätten att göra vad som vill med och jag kan förstår att dom vill ha kvar kontrollen över dem, över vilka versioner som installeras var, och när. Men samtidigt är det ett mycket dåligt drag av Google för på sikt kommer det bara motivera folk att utveckla alternativa lösningar (program). Det här kommer bara motivera utvecklandet av öppna program men nu i glappet kan det bli lite jobbigt.<img class="alignright size-full wp-image-753" title="android logo bot" src="http://nsg.cc/wp-content/uploads/2009/09/android-logo-bot.jpg" alt="android logo bot" width="187" height="223" />
+Åt ena sidan förstår jag Google, det är deras program som dom har rätten att göra vad som vill med och jag kan förstår att dom vill ha kvar kontrollen över dem, över vilka versioner som installeras var, och när. Men samtidigt är det ett mycket dåligt drag av Google för på sikt kommer det bara motivera folk att utveckla alternativa lösningar (program). Det här kommer bara motivera utvecklandet av öppna program men nu i glappet kan det bli lite jobbigt.<img class="alignright size-full wp-image-753" title="android logo bot" src="http://cdn.junkpile.se/2009/09/android-logo-bot.jpg" alt="android logo bot" width="187" height="223" />
 
 Gmail, Maps, GTalk, YouTube&#8230; är alla program som går att byta ut, det finns publika API:er från Google som man kan använda för att få samma, eller nästan samma funktionalitet. Problemet är dock Market, då market är en betallösning och förmodligen innehåller en del DRM så gissar jag på att det kommer bli svårt (om ens lagligt) ett skriva ett program som ansluter till samma databas. Alternativet är att utveckla en helt egen separat lösning. Det är dock inget som är bra för plattformen programmen kommer spridas ut över de olika marknadsplatserna, ingen utvecklare kommer orka publicera sin applikation på alla och ingen användare kommer orka leta på alla. Sedan det där med betalningar, jag litar på att Google hanterar mitt kreditkort korrekt men något litet okänt företag? Nej.
 

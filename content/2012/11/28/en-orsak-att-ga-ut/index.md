@@ -7,7 +7,7 @@
  Categories: Android, Internet
  Tags: Android, google, Ingress, Niantic Labs
 */
-<img src="http://nsg.cc/wp-content/uploads/2012/11/Ingress_Logo-300x300.png" alt="" title="Ingress_Logo" width="150" height="150" class="alignright size-medium wp-image-1233" />För några veckor sedan var det få som visste vilka Niantic Labs var, även om de fortfarande arbetar lite i skym undan så har de fått en del exponering i samband med spelet [Ingress][1] ([W][2]) som det släppte för snart två veckor sedan.
+<img src="http://cdn.junkpile.se/2012/11/Ingress_Logo-300x300.png" alt="" title="Ingress_Logo" width="150" height="150" class="alignright size-medium wp-image-1233" />För några veckor sedan var det få som visste vilka Niantic Labs var, även om de fortfarande arbetar lite i skym undan så har de fått en del exponering i samband med spelet [Ingress][1] ([W][2]) som det släppte för snart två veckor sedan.
 
 Ingress är ett spel utvecklat av [Niantic Labs][3] för Android som är en del av Google. I korta drag så använder du din android-enhet (t.ex. telefon) tillsammans med applikationen och gps:en för att vandra runt i riktiga värden och leta efter portaler. Det finns portaler vid speciella byggnader, statyer och liknande. Du kan sedan ta över en portal och skydda den. Det finns två lag som tävlar mot varandra. Spelet pågår över hela värden och det dyker ständigt upp nya portaler, i dag är det i de större städerna det händer saker men fram över kommer det nog komma upp portaler ute på landet med. Det är användare som tipsar om bra ställen för portaler.
 

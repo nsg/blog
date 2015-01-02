@@ -7,7 +7,7 @@
  Categories: Internet, Personligt, Teknik, Webben
  Tags: aging tabs, firefox, informational tab, tabbar, tree style tab
 */
-[<img class="alignleft size-full wp-image-791" title="screenshot3" src="http://nsg.cc/wp-content/uploads/2010/02/screenshot3.png" alt="screenshot3" width="183" height="385" />][1] Surfar du mycket på webben, ofta på olika sidor så kommer du efter ett tag notera att du har lite väl många tabbar uppe. Jag har ofta märkt att jag har börjat stänga tabbar, inte för att de är gamla och irrelevanta utan för att det börjar bli jobbigt trångt uppe bland tabbarna.
+[<img class="alignleft size-full wp-image-791" title="screenshot3" src="http://cdn.junkpile.se/2010/02/screenshot3.png" alt="screenshot3" width="183" height="385" />][1] Surfar du mycket på webben, ofta på olika sidor så kommer du efter ett tag notera att du har lite väl många tabbar uppe. Jag har ofta märkt att jag har börjat stänga tabbar, inte för att de är gamla och irrelevanta utan för att det börjar bli jobbigt trångt uppe bland tabbarna.
 
 Det är synd, med snabba moderna datorer med mycket minne så är det osmidigt att du ska tvingas stänga en webbsida, jag gillar t.ex. att ha en 5-6 tabbar öppna till sidor och tjänster som jag ofta använder, ytligare ett par tabbar för sidor jag ska läsa &#8220;någon gång under dagen&#8221; och sedan ett 10-tal (ibland mer) när jag läser om något, t.ex. wikipedia-artiklar, manualer, guider o.s.v.
 
@@ -25,7 +25,7 @@ Slutligen som jag sa, det finns mängder med tillägg som löser tabb-hanteringe
   Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/aging+tabs' rel='tag' target='_self'>aging tabs</a>, <a class='technorati-link' href='http://bloggar.se/om/firefox' rel='tag' target='_self'>firefox</a>, <a class='technorati-link' href='http://bloggar.se/om/informational+tab' rel='tag' target='_self'>informational tab</a>, <a class='technorati-link' href='http://bloggar.se/om/tabbar' rel='tag' target='_self'>tabbar</a>, <a class='technorati-link' href='http://bloggar.se/om/tree+style+tab' rel='tag' target='_self'>tree style tab</a>
 </p></small>
 
- [1]: http://nsg.cc/wp-content/uploads/2010/02/screenshot3.png
+ [1]: http://cdn.junkpile.se/2010/02/screenshot3.png
  [2]: https://addons.mozilla.org/en-US/firefox/addon/5890
  [3]: https://addons.mozilla.org/en-US/firefox/addon/4930
  [4]: https://addons.mozilla.org/en-US/firefox/addon/3542

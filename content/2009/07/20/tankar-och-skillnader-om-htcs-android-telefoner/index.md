@@ -7,7 +7,7 @@
  Categories: Android, Linux, Personligt, Teknik
  Tags: Android, g1, g2, g3, google, htc, htc dream, htc hero, htc magic, Linux
 */
-<img class="alignright size-full wp-image-704" title="android g1, g2 och g3" src="http://nsg.cc/wp-content/uploads/2009/07/g1-g2-g3.png" alt="android g1, g2 och g3" width="351" height="305" />Första gången jag hörde talas om Android var i samband med att Google köpte upp Android. Jag blev direkt glad, inte för att just det var Google utan för att det var ett Linux-baserat system för mobiltelefoner och med hjälp av Google så skulle det bli något av projektet.
+<img class="alignright size-full wp-image-704" title="android g1, g2 och g3" src="http://cdn.junkpile.se/2009/07/g1-g2-g3.png" alt="android g1, g2 och g3" width="351" height="305" />Första gången jag hörde talas om Android var i samband med att Google köpte upp Android. Jag blev direkt glad, inte för att just det var Google utan för att det var ett Linux-baserat system för mobiltelefoner och med hjälp av Google så skulle det bli något av projektet.
 
 Vet du inte vad Android är så är det ett operativsystem för smartphones, d.v.s. lite mer avancerade mobiltelefoner. Android är dock mycket flexibelt och det ser även ut att sprida sig till icke-telefoner som t.ex. små datorer (netbooks) och andra små enheter. Hur det går med det återstår att se men android på mobiltelefoner ser ut att ha en ljus framtid.
 

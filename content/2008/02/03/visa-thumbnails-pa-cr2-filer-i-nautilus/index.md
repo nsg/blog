@@ -6,7 +6,7 @@
  Date: 2008-02-03T20:14:32+00:00
  Categories: Linux, Teknik
 */
-<img src="http://nsg.cc/wp-content/uploads/2008/02/cr2.png" title="cr2.png" alt="cr2.png" align="left" />Har du en digital systemkamera, och kör Gnome. Då vill du nog att Nautilus ska generera thumbnails även för dina raw-bilder. Det är jobbigt och onödigt att behöva använde ett program för att kunna bläddra igenom dem när du letar efter en bild.
+<img src="http://cdn.junkpile.se/2008/02/cr2.png" title="cr2.png" alt="cr2.png" align="left" />Har du en digital systemkamera, och kör Gnome. Då vill du nog att Nautilus ska generera thumbnails även för dina raw-bilder. Det är jobbigt och onödigt att behöva använde ett program för att kunna bläddra igenom dem när du letar efter en bild.
 
 Jag kör ubuntu 7.10 (Gutsy), den identifierar minna raw-bilder (från en Canon EOS 400d) korrekt som *image/x-canon-cr2*. Dubbelklickar jag på den så öppnas F-Spot View som visar bilden, helt ok. Men det blir ingen tumnagel.
 

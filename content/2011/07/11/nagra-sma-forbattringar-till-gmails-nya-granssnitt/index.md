@@ -13,13 +13,13 @@ Jag provade nyligen det nya temat i Gmail som är en förhandsvisning av det nya
 
 För det första blev det den mer kompakta layouten då den vanliga var lite väl luftig. Visst det var kanske snyggare men man vill ju kunna få lite översikt på skärmen med.
 
-[<img class="aligncenter size-large wp-image-1035" title="gmail-gp-stylish-before" src="http://nsg.cc/wp-content/uploads/2011/07/gmail-gp-stylish-before1-1024x637.png" alt="" width="1024" height="637" />][2]
+[<img class="aligncenter size-large wp-image-1035" title="gmail-gp-stylish-before" src="http://cdn.junkpile.se/2011/07/gmail-gp-stylish-before1-1024x637.png" alt="" width="1024" height="637" />][2]
 
 Det var tre saker som jag störde mig på. Jag tyckte inte om att de hade flyttat ner reklamen till botten, den var i vägen. Även om den rent teknisk var mindre i vägen där nere så såg jag den oftare och jag fick känslan att den var i vägen. Som synes på bilden så har jag min chat på höger sida (en funktion från Google Labs) och det blev för stort utrymme till vänster om den, det såg fult ut. Slutligen när jag ändå var inne på att ändra saker så passade jag på att göra &#8220;Compose&#8221;-knappen lite mindre dominerande. Klickar aldrig på den ändå (kör med c på tangentbordet).
 
 Jag valde mig att använda Firefox tillägget [Stylish][3] där man kan redigera stilmallen på webbsidor på ett enkelt sätt om man kan css. Resultatet blev så här:
 
-[<img class="aligncenter size-large wp-image-1034" title="gmail-gp-stylish-after" src="http://nsg.cc/wp-content/uploads/2011/07/gmail-gp-stylish-after1-1024x650.png" alt="" width="1024" height="650" />][4]
+[<img class="aligncenter size-large wp-image-1034" title="gmail-gp-stylish-after" src="http://cdn.junkpile.se/2011/07/gmail-gp-stylish-after1-1024x650.png" alt="" width="1024" height="650" />][4]
 
 Mycket bättre. Här kommer koden om du vill se hur jag gjorde. Kanske du har fler förbättringar eller ett bättre/snyggare sätt att göra det på. Dela gärna med dig.
 
@@ -51,6 +51,6 @@ Happy hacking!
 </p></small>
 
  [1]: http://nsg.cc/2011/07/10/det-ar-inte-alltid-bast-att-kora-paketen-fran-dist/
- [2]: http://nsg.cc/wp-content/uploads/2011/07/gmail-gp-stylish-before1.png
+ [2]: http://cdn.junkpile.se/2011/07/gmail-gp-stylish-before1.png
  [3]: https://addons.mozilla.org/en-US/firefox/addon/stylish/
- [4]: http://nsg.cc/wp-content/uploads/2011/07/gmail-gp-stylish-after1.png
+ [4]: http://cdn.junkpile.se/2011/07/gmail-gp-stylish-after1.png

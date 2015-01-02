@@ -19,4 +19,4 @@ Om du undrar vad det första problemet med mitt användarnamn var så var det en
   Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/anv%C3%A4ndarnamn' rel='tag' target='_self'>användarnamn</a>, <a class='technorati-link' href='http://bloggar.se/om/Linux' rel='tag' target='_self'>Linux</a>, <a class='technorati-link' href='http://bloggar.se/om/vmware' rel='tag' target='_self'>vmware</a>, <a class='technorati-link' href='http://bloggar.se/om/vmware+server' rel='tag' target='_self'>vmware server</a>
 </p></small>
 
- [1]: http://nsg.cc/wp-content/uploads/2009/03/vmware-configplfix_username.patch
+ [1]: http://cdn.junkpile.se/2009/03/vmware-configplfix_username.patch

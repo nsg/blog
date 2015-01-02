@@ -7,7 +7,7 @@
  Categories: Bloggar, Internet, Teknik
 */
 <div class="left">
-  <img src='http://nsg.cc/wp-content/uploads/2007/06/metro.png' alt='metro.png' />
+  <img src='http://cdn.junkpile.se/2007/06/metro.png' alt='metro.png' />
 </div>
 
 Såg att [metro har lanserat en bloggtjänst][1], föga förvånade. Den har en del reklam på sig, men till ovanligheten så delar dom med sig av intäkterna, 3 öre/sidvisning. Visst inget fel med ett, säkert ett mycket revligt alternativ för folk som inte vill hålla på och krångla med annonser själv. Bara och blogga och så ramlar det in pengar.

@@ -21,7 +21,7 @@ Slutligen har den inre prylnörden inom mig fått lite utrymme att växa till si
 
 Ha en bra år, det tänker jag ha!
 
-<img src="http://nsg.cc/wp-content/uploads/2014/01/tablets.jpg" alt="tablets" width="600" height="434" class="aligncenter size-full wp-image-1286" />
+<img src="http://cdn.junkpile.se/2014/01/tablets.jpg" alt="tablets" width="600" height="434" class="aligncenter size-full wp-image-1286" />
 
 <small> <p class='technorati-tags'>
   Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/Canon' rel='tag' target='_self'>Canon</a>, <a class='technorati-link' href='http://bloggar.se/om/EOS+70D' rel='tag' target='_self'>EOS 70D</a>, <a class='technorati-link' href='http://bloggar.se/om/South+Pole' rel='tag' target='_self'>South Pole</a>

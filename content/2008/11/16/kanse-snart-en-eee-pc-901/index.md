@@ -11,7 +11,7 @@ Min bärbara dator har jag nu haft i snart 3 år, och den var redan ganska gamma
 
 Jag har aldrig haft någon bra batteritid på datorn då batteriet var lite slitet redan när jag köpte den begagnad men de senaste året har den gått från dåligt till helt oanvändbart. Som det är nu så går det bra att köra den på batteri för att flytta laddaren från en kontakt till en annan, eller en snabbare förflyttning mellan två ställen men inte mer än det. Att få för sig att använda datorn när det inte finns en kontakt i närheten går inte.
 
-Det senaste halvåret har en ny produktlinje växt fram, [netbooks][1], eller mycket lätta små billiga bärbara datorer. [ASUS][2] började trenden med sin [Eee PC][3] och det är en Eee som jag nu funderar på att köpa, en Eee 901 närmare bestämt.[<img class="alignleft size-medium wp-image-12" title="eeepc_901_3g" src="http://nsg.cc/wp-content/uploads/2008/11/eeepc_901_3g-300x244.jpg" alt="" width="300" height="244" />][4]
+Det senaste halvåret har en ny produktlinje växt fram, [netbooks][1], eller mycket lätta små billiga bärbara datorer. [ASUS][2] började trenden med sin [Eee PC][3] och det är en Eee som jag nu funderar på att köpa, en Eee 901 närmare bestämt.[<img class="alignleft size-medium wp-image-12" title="eeepc_901_3g" src="http://cdn.junkpile.se/2008/11/eeepc_901_3g-300x244.jpg" alt="" width="300" height="244" />][4]
 
 Den väger 1,1 kg, har en [Intel Atom CPU][5] som drar väldigt lite stöm, en [SSD][6]-disk och det i kombination med en liten skärm och ett bra batteri ger en batteritid på upp till 7 timmar. Helt fantastiskt, speciellt med tanke på vad jag är van vid.
 
@@ -38,7 +38,7 @@ Komplett:s svar att det skulle vara inne nästa vecka verkar nog stämma då jag
  [1]: http://en.wikipedia.org/wiki/Netbook
  [2]: http://en.wikipedia.org/wiki/ASUS
  [3]: http://en.wikipedia.org/wiki/ASUS_Eee_PC
- [4]: http://nsg.cc/wp-content/uploads/2008/11/eeepc_901_3g.jpg
+ [4]: http://cdn.junkpile.se/2008/11/eeepc_901_3g.jpg
  [5]: http://en.wikipedia.org/wiki/Intel_atom
  [6]: http://en.wikipedia.org/wiki/Solid-state_drive
  [7]: http://en.wikipedia.org/wiki/Hsupa

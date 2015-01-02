@@ -7,7 +7,7 @@
  Categories: Teknik, Webben
  Tags: användarnamn, facebook
 */
-[<img class="alignright size-medium wp-image-148" title="facebook-logo" src="http://nsg.cc/wp-content/uploads/2009/06/facebook-logo-300x112.jpg" alt="facebook-logo" width="300" height="112" />][1]Trött på adresser som slutar på /profile.php?id=555277637 eller liknande på facebook? Såg nyss att facebook snart kommer tillåta dig att skapa ett användarnamn i stället så du får en finare adress i stil med http://www.facebook.com/stefan. Snyggare, och lättare att komma ihåg.
+[<img class="alignright size-medium wp-image-148" title="facebook-logo" src="http://cdn.junkpile.se/2009/06/facebook-logo-300x112.jpg" alt="facebook-logo" width="300" height="112" />][1]Trött på adresser som slutar på /profile.php?id=555277637 eller liknande på facebook? Såg nyss att facebook snart kommer tillåta dig att skapa ett användarnamn i stället så du får en finare adress i stil med http://www.facebook.com/stefan. Snyggare, och lättare att komma ihåg.
 
 Varför tipsar jag dig om det då, och inte låter dig upptäcka det själv? Jo för att det kommer bli en del folk som vill ha de bra namnen, och som vanligt är det &#8220;först till kvarn&#8221; som gäller.
 
@@ -21,5 +21,5 @@ Några saker att tänka på är: När vi väl har valt ett användarnamn så kan
   Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/anv%C3%A4ndarnamn' rel='tag' target='_self'>användarnamn</a>, <a class='technorati-link' href='http://bloggar.se/om/facebook' rel='tag' target='_self'>facebook</a>
 </p></small>
 
- [1]: http://nsg.cc/wp-content/uploads/2009/06/facebook-logo.jpg
+ [1]: http://cdn.junkpile.se/2009/06/facebook-logo.jpg
  [2]: http://www.facebook.com/username/

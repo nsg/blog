@@ -7,7 +7,7 @@
  Categories: Personligt, Teknik
 */
 <div class="middle">
-  <img id="image371" src="http://nsg.cc/wp-content/uploads/2007/03/pcrw1610_tlf_.jpg" alt="philips pcrw1610" />
+  <img id="image371" src="http://cdn.junkpile.se/2007/03/pcrw1610_tlf_.jpg" alt="philips pcrw1610" />
 </div>
 
 För nu rätt många år sedan köpte jag min första och enda brännare, en cd-brännare från Philips*, den har gjort sitt jobb bra men har en egenskap och båka med andra enheter på samma bus (sladd). Vanligvis så märkte man det direkt med att en enhet, eller båda &#8220;försvann&#8221;. Lösningen har alltid varit att låta den sitta själv på sin egen sladd.

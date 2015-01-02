@@ -8,14 +8,14 @@
 */
 Att betala med kort är bra, och det borde så många som möjligt göra. Men det finns ett problem, säkerhet. Visst att betala med t.ex. ditt VISA i en ICA-Butik är inget problem för du litar på butiken, men vad händer när du inte gör det?
 
-<img src="http://nsg.cc/wp-content/uploads/2007/11/kort-dagen-modell.png" title="Kortbetalning med dagens modell" alt="Kortbetalning med dagens modell" align="left" />Om kort ska ersätta pengar så måste problemet att du måste lita på buktiken övervinnas. Min lösning är helt enkelt att flytta delar av köpet över till den betalande. Låt mig ge ett exempel.
+<img src="http://cdn.junkpile.se/2007/11/kort-dagen-modell.png" title="Kortbetalning med dagens modell" alt="Kortbetalning med dagens modell" align="left" />Om kort ska ersätta pengar så måste problemet att du måste lita på buktiken övervinnas. Min lösning är helt enkelt att flytta delar av köpet över till den betalande. Låt mig ge ett exempel.
 
 I Dag:  
 Du går till din lokala butik, han drar kortet och du slår (ibland) in en kod, du litar på butiken att han inte kommer spara din kod som du slagit in, och att han inte tar en kopia av kortet. Slutligen så låter du butiken dra pengar från ditt konto.
 
 Självklar är buktiken rädd om sitt tillstånd av banken att kunna hantera kort så sannolikheten är inte så stor att något liknande skulle hända med man får inte glömma bort tredje part som inte har något att förlora.
 
-<img src="http://nsg.cc/wp-content/uploads/2007/11/kort-morgondagen-modell.png" title="Morgondagens modell vid kortköp" alt="Morgondagens modell vid kortköp" align="right" />
+<img src="http://cdn.junkpile.se/2007/11/kort-morgondagen-modell.png" title="Morgondagens modell vid kortköp" alt="Morgondagens modell vid kortköp" align="right" />
 
 Min ide är att lägga baken som mellanhand mellan butiken och köparen.
 

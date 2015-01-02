@@ -7,7 +7,7 @@
  Categories: Personligt, Teknik, Webben
  Tags: dark light, firefox, gnome, Linux, new wave, personas, skal, skin, teman
 */
-<img class="alignright size-full wp-image-163" title="screenshot5" src="http://nsg.cc/wp-content/uploads/2009/06/screenshot5.png" alt="screenshot5" width="171" height="120" />Jag satte mig och läste igenom de olika [funktionerna i Firefox][1], jag såg att jag hade missat en sak tidigare på den sidan, personas.
+<img class="alignright size-full wp-image-163" title="screenshot5" src="http://cdn.junkpile.se/2009/06/screenshot5.png" alt="screenshot5" width="171" height="120" />Jag satte mig och läste igenom de olika [funktionerna i Firefox][1], jag såg att jag hade missat en sak tidigare på den sidan, personas.
 
 Personas är ett snabbt, enkelt och bekvämt sätt att applicera &#8220;skinns&#8221; på Firefox. Bara att installera Personas och sedan välja och vraka i ett stort arkiv, bara att klicka &#8220;wear this&#8221; för att använda ett skal. Kolla hur det ser ut innan? Låt bara muspekaren ligga över länken någon sekund så byts ditt tema temporärt till det.
 

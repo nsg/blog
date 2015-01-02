@@ -18,7 +18,7 @@ För ett tag sedan så hittade jag [WASD Keyboards][2], de erbjöd inte både sn
 
 Perfekt, nu kan jag fuska när det behövs igen.
 
-[<img class="aligncenter size-large wp-image-1155" title="visa-tbord" src="http://nsg.cc/wp-content/uploads/2012/04/visa-tbord-1024x682.jpg" alt="" width="1024" height="682" />][3]
+[<img class="aligncenter size-large wp-image-1155" title="visa-tbord" src="http://cdn.junkpile.se/2012/04/visa-tbord-1024x682.jpg" alt="" width="1024" height="682" />][3]
 
 <small> <p class='technorati-tags'>
   Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/Cherry+MX' rel='tag' target='_self'>Cherry MX</a>, <a class='technorati-link' href='http://bloggar.se/om/Das+Keyboard' rel='tag' target='_self'>Das Keyboard</a>, <a class='technorati-link' href='http://bloggar.se/om/Tangentbord' rel='tag' target='_self'>Tangentbord</a>, <a class='technorati-link' href='http://bloggar.se/om/WASD+Keyboards' rel='tag' target='_self'>WASD Keyboards</a>
@@ -26,4 +26,4 @@ Perfekt, nu kan jag fuska när det behövs igen.
 
  [1]: http://nsg.cc/2011/08/02/hur-mycket-ska-man-lagga-pa-ett-tangentbord/
  [2]: http://www.wasdkeyboards.com/
- [3]: http://nsg.cc/wp-content/uploads/2012/04/visa-tbord.jpg
+ [3]: http://cdn.junkpile.se/2012/04/visa-tbord.jpg

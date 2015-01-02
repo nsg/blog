@@ -14,15 +14,15 @@ Jag sitter nu för tiden med en betaversion av firefox 4, det finns i dag många
 Steg ett är att ladda ner tillägget, det ligger i en xpi-fil. Enklast är att högerklicka på knappen &#8220;Install Anyway&#8221; och spara filen till valfritt ställe.
 
 <p style="text-align: center;">
-  <a href="http://nsg.cc/wp-content/uploads/2010/11/ff-ext1.png"><img class="size-full wp-image-940 aligncenter" title="Spara xpi-filen" src="http://nsg.cc/wp-content/uploads/2010/11/ff-ext1.png" alt="" width="385" height="326" /></a>
+  <a href="http://cdn.junkpile.se/2010/11/ff-ext1.png"><img class="size-full wp-image-940 aligncenter" title="Spara xpi-filen" src="http://nsg.cc/wp-content/uploads/2010/11/ff-ext1.png" alt="" width="385" height="326" /></a>
 </p>
 
 ### Uppdatera paketet
 
-<img class="size-full wp-image-939 alignright" title="Öppna xpi-filen" src="http://nsg.cc/wp-content/uploads/2010/11/ff-ext2.png" alt="" width="352" height="137" />
+<img class="size-full wp-image-939 alignright" title="Öppna xpi-filen" src="http://cdn.junkpile.se/2010/11/ff-ext2.png" alt="" width="352" height="137" />
 
 Nästa steg är att öppna filen, xpi-filen är egentligen en zip-fil så du kan använda valfritt program för syftet. Jag dubbelklickade bara på filen så öppnade &#8220;File Roller/Archive Manager&#8221; filen. Du kan även högerklicka på filen som synes på bilden om vill vara säker på vad som händer, första valet är det som kommer hända när du dubbelklickar.  
-Filen du vill redigera heter &#8220;install.rdf&#8221;, det är bara att dubbeklicka  på den för att öppna filen i &#8220;gedit/Text Editor&#8221;. Leta upp raden &#8220;<!-- Firefox -->&#8221;, några rader under står det <em:maxVersion>version</em:maxVersion>, byt ut version mot din version eller en större. Nu är det bara att spara filen, dialogen under kommer dyka upp. Det är bara att klicka på uppdatera. gedit kommer nu förmodligen att du vill spara filen igen, det kommer inte gå då den inte existerar längre. Stäng bara programmet samt File Roller.[<img class="aligncenter size-full wp-image-937" title="Spara ändringen i xpi-filen" src="http://nsg.cc/wp-content/uploads/2010/11/ff-ext4.png" alt="" width="378" height="235" />][1]
+Filen du vill redigera heter &#8220;install.rdf&#8221;, det är bara att dubbeklicka  på den för att öppna filen i &#8220;gedit/Text Editor&#8221;. Leta upp raden &#8220;<!-- Firefox -->&#8221;, några rader under står det <em:maxVersion>version</em:maxVersion>, byt ut version mot din version eller en större. Nu är det bara att spara filen, dialogen under kommer dyka upp. Det är bara att klicka på uppdatera. gedit kommer nu förmodligen att du vill spara filen igen, det kommer inte gå då den inte existerar längre. Stäng bara programmet samt File Roller.[<img class="aligncenter size-full wp-image-937" title="Spara ändringen i xpi-filen" src="http://cdn.junkpile.se/2010/11/ff-ext4.png" alt="" width="378" height="235" />][1]
 
 ### Klart
 
@@ -32,4 +32,4 @@ Nu ska det vara klar, du kan öppna filen i webbläsaren mha. File > Open File m
   Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/firefox' rel='tag' target='_self'>firefox</a>, <a class='technorati-link' href='http://bloggar.se/om/firefox+4' rel='tag' target='_self'>firefox 4</a>, <a class='technorati-link' href='http://bloggar.se/om/firefox+beta' rel='tag' target='_self'>firefox beta</a>, <a class='technorati-link' href='http://bloggar.se/om/mozilla+firefox' rel='tag' target='_self'>mozilla firefox</a>
 </p></small>
 
- [1]: http://nsg.cc/wp-content/uploads/2010/11/ff-ext4.png
+ [1]: http://cdn.junkpile.se/2010/11/ff-ext4.png

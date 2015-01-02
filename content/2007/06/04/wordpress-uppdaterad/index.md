@@ -7,7 +7,7 @@
  Categories: Bloggen
 */
 <div class="left">
-  <img src='http://nsg.cc/wp-content/uploads/2007/06/wp.png' alt='wordpress' />
+  <img src='http://cdn.junkpile.se/2007/06/wp.png' alt='wordpress' />
 </div>
 
 Äntligen har jag tagit mig tid och uppdatera [wordpress][1] till senaste version, jag har haft en lite äldre nu ett tag och har inte velat uppdatera då jag inte visste hur mycket problem det skulle bli då min installation är rätt modifierad.  

@@ -7,7 +7,7 @@
  Categories: Personligt, Teknik
  Tags: Das Keyboard, Tangentbord
 */
-[<img class="aligncenter size-full wp-image-1056" title="das_keyboard" src="http://nsg.cc/wp-content/uploads/2011/08/mechanical_keyboard.jpg" alt="" width="920" height="385" />][1]Jag har haft ett ganska billigt men prisvärt tangentbord för ca 200 kr ett bra tag nu, det är ett ganska litet tunt tangentbord med låg profil, det har gjort vad det skulle och har varit rätt ok att skriva på. Det har dock börjat bli långsamt sämre, det började med att knappar på numpaden inte tog ordentligt när jag tryckte på dem. Förmodligen av skräp som hade letar sig ner på fel ställen i tangentbordet, att plocka bort tangenterna för att rengöra var dock tyvärr ingen lösning så de knapparna inte gick att ta bort. Efter några månader till så började fler knappar bråka, de funkade fortfarande om man tryckte lite extra hårt men det glömde man oftast så man missade knappar hela tiden. Det var jobbigt att inte veta om man skrev fel eller inte, speciellt när man skrev lösenord och inte ser vad man skriver. Skrev jag fel, eller missade jag en knapp?
+[<img class="aligncenter size-full wp-image-1056" title="das_keyboard" src="http://cdn.junkpile.se/2011/08/mechanical_keyboard.jpg" alt="" width="920" height="385" />][1]Jag har haft ett ganska billigt men prisvärt tangentbord för ca 200 kr ett bra tag nu, det är ett ganska litet tunt tangentbord med låg profil, det har gjort vad det skulle och har varit rätt ok att skriva på. Det har dock börjat bli långsamt sämre, det började med att knappar på numpaden inte tog ordentligt när jag tryckte på dem. Förmodligen av skräp som hade letar sig ner på fel ställen i tangentbordet, att plocka bort tangenterna för att rengöra var dock tyvärr ingen lösning så de knapparna inte gick att ta bort. Efter några månader till så började fler knappar bråka, de funkade fortfarande om man tryckte lite extra hårt men det glömde man oftast så man missade knappar hela tiden. Det var jobbigt att inte veta om man skrev fel eller inte, speciellt när man skrev lösenord och inte ser vad man skriver. Skrev jag fel, eller missade jag en knapp?
 
 Det var inte hållbart, jag försökte fixa det med tryckluft men det hjälpte knappt så jag började fundera på alternativ, och den här gången tänkte jag köpa något lite dyrare och bättre tangentbord med mer skrivkänsla.
 
@@ -23,7 +23,7 @@ För mer information se Wikipedia som har en [bra artikel][4], eller Das Keyboar
   Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/Das+Keyboard' rel='tag' target='_self'>Das Keyboard</a>, <a class='technorati-link' href='http://bloggar.se/om/Tangentbord' rel='tag' target='_self'>Tangentbord</a>
 </p></small>
 
- [1]: http://nsg.cc/wp-content/uploads/2011/08/mechanical_keyboard.jpg
+ [1]: http://cdn.junkpile.se/2011/08/mechanical_keyboard.jpg
  [2]: http://www.daskeyboard.com/
  [3]: http://en.wikipedia.org/wiki/Model_M_keyboard
  [4]: http://en.wikipedia.org/wiki/Das_Keyboard

@@ -7,7 +7,7 @@
  Categories: Teknik, Webben
  Tags: bugg, fel, firefox, fullskärm, gnome, Linux, maximera, storlek, ubuntu
 */
-<img class="size-full wp-image-23 alignleft" title="firefox" src="http://nsg.cc/wp-content/uploads/2009/01/firefox.jpg" alt="firefox" width="150" height="145" />På en av minna datorer och en vänns dator så har firefox fassnat i något som vid första anblick såg ut att vara fullskärmsläge, men vid en närmare koll så var det att fönstret låg över allt på skärmen, d.v.s. inklusive alla paneler och fönsterkanterna låg utanför skärmen,  du kan inte nå minimera-, maximera-, stäng-knapparna.
+<img class="size-full wp-image-23 alignleft" title="firefox" src="http://cdn.junkpile.se/2009/01/firefox.jpg" alt="firefox" width="150" height="145" />På en av minna datorer och en vänns dator så har firefox fassnat i något som vid första anblick såg ut att vara fullskärmsläge, men vid en närmare koll så var det att fönstret låg över allt på skärmen, d.v.s. inklusive alla paneler och fönsterkanterna låg utanför skärmen,  du kan inte nå minimera-, maximera-, stäng-knapparna.
 
 Problemet uppstod i båda fallen på Ubuntu 8.10 med firefox 3.0.5 och vad som hade hänt var att firefox hade glömt bort hur fönstret skulle ligga och plasserade det lite fel. Lösningen är enkel, ändra sorleken på fönstret så kommer den nya storleken sparas.
 

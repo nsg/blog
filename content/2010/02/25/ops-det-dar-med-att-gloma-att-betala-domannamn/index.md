@@ -36,5 +36,5 @@ Det första (check-redemption-period) gör en whois regelbundet och skickar ett 
   Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/dom%C3%A4nnamn' rel='tag' target='_self'>domännamn</a>, <a class='technorati-link' href='http://bloggar.se/om/nsg.cc' rel='tag' target='_self'>nsg.cc</a>
 </p></small>
 
- [1]: http://nsg.cc/wp-content/uploads/2010/02/check-redemption-period
- [2]: http://nsg.cc/wp-content/uploads/2010/02/check-pending-delete
+ [1]: http://cdn.junkpile.se/2010/02/check-redemption-period
+ [2]: http://cdn.junkpile.se/2010/02/check-pending-delete

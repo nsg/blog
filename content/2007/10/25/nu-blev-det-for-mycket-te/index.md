@@ -6,7 +6,7 @@
  Date: 2007-10-25T16:17:26+00:00
  Categories: Personligt, Teknik
 */
-<img src="http://nsg.cc/wp-content/uploads/2007/10/dsc00007.JPG" title="dsc00007.JPG" alt="dsc00007.JPG" align="left" />För ungefär tre år sedan köpte jag ett nytt tangentbord, 39 kr kostade jag på mig ([läs lite mer här][1]). Det var ett lyft från mitt gamla IBM-tangentbord från 90-talet, det var inget speciellt jämfört från det gamla förutom att det var tystare. Jag hade börjat tröttat på det gamlas klick-kopeli-klick-ljud som många säkert känner till.
+<img src="http://cdn.junkpile.se/2007/10/dsc00007.JPG" title="dsc00007.JPG" alt="dsc00007.JPG" align="left" />För ungefär tre år sedan köpte jag ett nytt tangentbord, 39 kr kostade jag på mig ([läs lite mer här][1]). Det var ett lyft från mitt gamla IBM-tangentbord från 90-talet, det var inget speciellt jämfört från det gamla förutom att det var tystare. Jag hade börjat tröttat på det gamlas klick-kopeli-klick-ljud som många säkert känner till.
 
 Jag har varit nöjd med det, det har gjort precis vad man förväntar sig för 39kr. Men för några dagar sedan så brände jag mig på min kopp te som var varmare än jag räknat med och en del te åkte ner i tangentbordet. Gick det sönder? Nej, inte alls, det var inte första gången mitt tangentbord fick smaka på te, en hållbar rackare. Jag torkade upp så gott det gick och kände mig nöjd.
 
