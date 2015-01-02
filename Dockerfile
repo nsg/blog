@@ -18,6 +18,7 @@ RUN unzip /tmp/picocms.zip && rm /tmp/picocms.zip
 RUN cp -r Pico-master/* Pico-master/.htaccess /var/www/html && rm -rf Pico-master
 RUN rm -r /var/www/html/content/*
 RUN rm -r /var/www/html/themes/*
+ADD htaccess /var/www/html/.htaccess
 
 # Setup Pico RSS
 RUN curl -L -o /tmp/pico-rss_1.2.tar.gz https://github.com/nsg/Pico-RSS-Plugin/archive/1.2.tar.gz
