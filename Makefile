@@ -1,19 +1,23 @@
-deploy: image
-
 image: index
-	docker build -t blog .
+	docker build -t nsgb/blog .
 
 dev: image
 	docker run -t -i -p 8080:80 \
 		-v $$PWD/themes:/var/www/html/themes \
 		-v $$PWD/content:/var/www/html/content \
-		blog
+		nsgb/blog
 
 debug: image
 	docker run -t -i -p 8080:80 \
 		-v $$PWD/themes:/var/www/html/themes \
 		-v $$PWD/content:/var/www/html/content \
-		--entrypoint=/bin/bash blog
+		--entrypoint=/bin/bash nsgb/blog
 
 index:
 	cd content && ../make_index
+
+tag:
+	docker tag nsgb/blog nsgb/blog:`git tag | head -1`
+
+push: image tag
+	docker push nsgb/blog:`git tag | head -1`
