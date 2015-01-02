@@ -14,7 +14,7 @@ Jag sitter nu för tiden med en betaversion av firefox 4, det finns i dag många
 Steg ett är att ladda ner tillägget, det ligger i en xpi-fil. Enklast är att högerklicka på knappen &#8220;Install Anyway&#8221; och spara filen till valfritt ställe.
 
 <p style="text-align: center;">
-  <a href="http://cdn.junkpile.se/2010/11/ff-ext1.png"><img class="size-full wp-image-940 aligncenter" title="Spara xpi-filen" src="http://nsg.cc/wp-content/uploads/2010/11/ff-ext1.png" alt="" width="385" height="326" /></a>
+  <a href="http://cdn.junkpile.se/2010/11/ff-ext1.png"><img class="size-full wp-image-940 aligncenter" title="Spara xpi-filen" src="http://cdn.junkpile.se/2010/11/ff-ext1.png" alt="" width="385" height="326" /></a>
 </p>
 
 ### Uppdatera paketet
