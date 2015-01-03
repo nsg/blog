@@ -13,4 +13,8 @@ if ($_SERVER['HTTP_HOST'] != "localhost:8080") {
 	$config['base_url'] = 'http://nsg.cc';
 }
 
+$config['cache_enabled'] = true;
+$config['cache_dir'] = '/tmp/content/cache/';
+$config['cache_time'] = 86400 * 14;
+
 ?>

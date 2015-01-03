@@ -26,6 +26,10 @@ RUN echo "283452ac7d030db0e0b328e0ca7d84da0e560837  /tmp/pico-rss_1.2.tar.gz | s
 RUN tar xf /tmp/pico-rss_1.2.tar.gz && rm /tmp/pico-rss_1.2.tar.gz
 RUN mv Pico-RSS-Plugin-1.2/pico_rss /var/www/html/plugins/
 
+# Setup Pico Cache
+RUN curl -L -o /var/www/html/plugins/pico_cache.php https://raw.githubusercontent.com/glumb/pico_cache/c3e024729c7d98cce9b550ebe0eb5870a91b7eca/pico_cache.php
+RUN echo "da6546ff86f6c5335f4b8571418d93642a21daec  /var/www/html/plugins/pico_cache.php" | sha1sum -c -
+
 # Add content to image
 ADD content /var/www/html/content
 ADD themes /var/www/html/themes
