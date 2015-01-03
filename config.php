@@ -4,9 +4,9 @@ $config['site_title'] = 'nsg.cc';
 $config['theme'] = 'blog'; 	
 $config['date_format'] = 'jS M Y';
 $config['twig_config'] = array(	
-	'cache' => false,		
+	'cache' => true,
 	'autoescape' => false,
-	'debug' => false	
+	'debug' => false
 );
 
 if ($_SERVER['HTTP_HOST'] != "localhost:8080") {
