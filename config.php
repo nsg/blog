@@ -4,7 +4,7 @@ $config['site_title'] = 'nsg.cc';
 $config['theme'] = 'blog'; 	
 $config['date_format'] = 'jS M Y';
 $config['twig_config'] = array(	
-	'cache' => true,
+	'cache' => '/tmp/cache',
 	'autoescape' => false,
 	'debug' => false
 );
