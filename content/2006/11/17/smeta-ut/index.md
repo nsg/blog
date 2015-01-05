@@ -7,11 +7,11 @@
  Categories: Uncategorized
 */
 Satt i gimp och lekte lite med &#8220;smeta-ut-knappen&#8221;.  
-<img id="image139" src="http://www.junkpile.se/%7Es/wordpress/wp-content/uploads/sm_knapp.gif" alt="" align="right" />  
+<img id="image139" src="http://cdn.junkpile.se/2006/11/sm_knapp.gif" alt="" align="right" />  
 Resultatet blev intressant&#8230;
 
-[<img id="image140" src="http://www.junkpile.se/%7Es/wordpress/wp-content/uploads/abstr.thumbnail.png" alt="" />][1]
+[<img id="image140" src="http://cdn.junkpile.se/2006/11/abstr-150x150.png" alt="" />][1]
 
 <small></small>
 
- [1]: http://www.junkpile.se/%7Es/wordpress/wp-content/uploads/abstr.png
+ [1]: http://cdn.junkpile.se/2006/11/abstr.png

@@ -16,7 +16,7 @@ Nr två är &#8220;[har inte rättigheter till installerade paket i ubuntu][5]&#
 
 För övrigt var det intressant att jag hamnade på platts [två][8] med &#8220;[media skadestånd][9]&#8220;, &#8220;[Ubuntu Mounting][10]&#8221; och på plats [ett][11] med &#8220;[fixa id kort][12]&#8220;. Alla inte för invecklade sökningar med rätt normala sökord. intressant.
 
-<img id="image117" src="http://www.junkpile.se/%7Es/wordpress/wp-content/uploads/ingooglingar.png" alt="bild över ingooglingar" />
+<img id="image117" src="http://cdn.junkpile.se/2006/10/ingooglingar.png" alt="bild över ingooglingar" />
 
 Visa är intresanta, t.ex. &#8220;4110836984492&#8243;, ger ingen träff för mig ialflall, kanse något fel? :) 
 

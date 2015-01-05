@@ -11,23 +11,23 @@ Jag hade med min kamera idag, så jag passade på och fota lite, det är bildern
 
 [Först][1] hittade jag en intressant blomma, såg riktigt snyggt ut där den stod.
 
-<img id="image106" src="http://www.junkpile.se/%7Es/wordpress/wp-content/uploads/dscn5115.mod.small.jpg" alt="dscn5115.mod.small.jpg" />
+<img id="image106" src="http://cdn.junkpile.se/2006/09/dscn5115.mod.small.jpg" alt="dscn5115.mod.small.jpg" />
 
 Jag fick vidare och vinkeln på [huset][2] var intressant mot himlen, tog en bild.
 
-<img id="image107" src="http://www.junkpile.se/%7Es/wordpress/wp-content/uploads/dscn5117.small.jpg" alt="dscn5117.small.jpg" />
+<img id="image107" src="http://cdn.junkpile.se/2006/09/dscn5117.small.jpg" alt="dscn5117.small.jpg" />
 
 Nästa bild är inte direkt vacker, men det är intressant ställe med vägar som gå åt olika håll, fick en lust och ta en [bild][3].
 
-<img id="image108" src="http://www.junkpile.se/%7Es/wordpress/wp-content/uploads/dscn5119.small.jpg" alt="dscn5119.small.jpg" />
+<img id="image108" src="http://cdn.junkpile.se/2006/09/dscn5119.small.jpg" alt="dscn5119.small.jpg" />
 
 Strax efter såg jag följande målat på [ett tak][4], [skön humor][5] :) 
 
-<img id="image109" src="http://www.junkpile.se/%7Es/wordpress/wp-content/uploads/dscn5123.small.jpg" alt="dscn5123.small.jpg" />
+<img id="image109" src="http://cdn.junkpile.se/2006/09/dscn5123.small.jpg" alt="dscn5123.small.jpg" />
 
 Slutligen när jag ver [nästan hemma][6] såg jag följande.
 
-<img id="image110" src="http://www.junkpile.se/%7Es/wordpress/wp-content/uploads/dscn5125.mod.small.jpg" alt="dscn5125.mod.small.jpg" />
+<img id="image110" src="http://cdn.junkpile.se/2006/09/dscn5125.mod.small.jpg" alt="dscn5125.mod.small.jpg" />
 
 Totalt tog det mig bara strax över en timma, mycket kortare än jag trodde.
 

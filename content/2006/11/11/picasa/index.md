@@ -24,7 +24,7 @@ An annan lustig sak är att enligt hjälpen så ska det finnas flera olika alter
 > 
 > Save As -- Click &#8220;File&#8221; > &#8220;Save as &#8221; when you want to create a copy with a different file name or save your copy to a different location.
 
-<img id="image134" src="http://www.junkpile.se/%7Es/wordpress/wp-content/uploads/picasa1.png" alt="picasa1.png" align="left" />  
+<img id="image134" src="http://cdn.junkpile.se/2006/11/picasa1.png" alt="picasa1.png" align="left" />  
 Men det enda jag har hittat är &#8220;Save a Copy&#8221; som är det minst attraktiva alternativet.  
 &#8220;Save&#8221; och &#8220;Save Changes&#8221; hade varit trevligt och kunna använda, bara och ta bort säkerhetskopian med ovan nämda shell-script sedan för att rensa upp. Men då jag inte hittar det så&#8230; hmpf.
 

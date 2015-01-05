@@ -12,7 +12,7 @@
 
 Tänka sig, gjorde en mycket trevlig upptäckt nyss. Episod 10 till 20 i säsong 10 av Stargate SG-1 har sänds (i kanada antar jag), jag följde den kanadensiska sändningarna av Stargate Atlantis, precis som förra året då som började sända vårens &#8220;dos&#8221; 2-3 månader tidigare än USA. Tydligen gjorde dom samma sak med SG-1 i år, så nu har jag hela 10 avsnitt och se.
 
-Men det kommer kännas lite tråkigt samtidigt, för varje avsnitt jag ser så kommer jag ett avsnitt närmare slutet, och då menar jag slutet, då serien är nerlagd <img src="http://nsg.cc/wp-includes/images/smilies/icon_sad.gif" alt=":(" class="wp-smiley" /> &#8230; dock så ser jag fram mot ersättaren och filmerna ([se gammal post om det][1]).
+Men det kommer kännas lite tråkigt samtidigt, för varje avsnitt jag ser så kommer jag ett avsnitt närmare slutet, och då menar jag slutet, då serien är nerlagd :( &#8230; dock så ser jag fram mot ersättaren och filmerna ([se gammal post om det][1]).
 
 *Från och ned nu så kommer jag prata om avsnitt 20, säsong 3 av Stargate: Atlantis, har du inte sett det, sluta läs nu!*
 

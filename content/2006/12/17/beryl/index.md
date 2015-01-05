@@ -20,7 +20,7 @@ Transparenta fönster är den andra saken jag gillar, en svag transparens på te
 <img id="image163" src="http://cdn.junkpile.se/2006/12/cube-layer1.png" alt="cube-layer1.png" />  
 *Här ligger jag på &#8220;[kuben][4]&#8221; mellan två skrivbord, notera transparansen på terminalen, men även att kuben är svagt transparent, man ser bakomliggande skrivbord svagt skina igenom.*
 
-Jag kör även [3D Window Layer][6], uteslutande för att det är snyggt och jag kan <img src="http://nsg.cc/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /> 
+Jag kör även [3D Window Layer][6], uteslutande för att det är snyggt och jag kan ;) 
 
 <img id="image164" src="http://cdn.junkpile.se/2006/12/cube-layer2.png" alt="cube-layer2.png" />  
 *Notera att fönstren ligger i olika nivåer. Dock bara när kuben roterar.*
@@ -38,5 +38,5 @@ Jag kör även [3D Window Layer][6], uteslutande för att det är snyggt och jag
  [3]: http://en.wikipedia.org/wiki/Compiz
  [4]: http://www.beryl-project.org/features.php
  [5]: http://krusader.sourceforge.net/
- [6]: http://www.junkpile.se/~s/wp/2006/11/beryl-aixgl/
- [7]: http://www.junkpile.se/~s/wp/2006/07/xgl-video/
+ [6]: http://nsg.cc/2006/11/beryl-aixgl/
+ [7]: http://nsg.cc/2006/07/xgl-video/

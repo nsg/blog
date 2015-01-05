@@ -10,7 +10,7 @@ Det är mitt i natten och jag kan inte sova, som vanligt blir jag kreativ då, b
 
 Notera att jag även tog bort den &#8220;fula&#8221; baren överst på sidan och ersatte den med något mindre inte lika ögonfallande, och snyggare i min mening.
 
-Nu ska jag nog ge mig för i kväll och göra ett försök snart och sova, snart var det ja \*tar en klunk te\* <img src="http://nsg.cc/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" /> 
+Nu ska jag nog ge mig för i kväll och göra ett försök snart och sova, snart var det ja \*tar en klunk te\* :P
 
 <small></small>
 
