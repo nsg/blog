@@ -12,7 +12,7 @@ Jag kollade in [Gateworld][1] som jag inte varit på ett tag, jag läste en hel 
 Vet du inte vad [Stargate][2] är så är det en [film från 1994][3]. 1997 så började man med [Stargate: SG-1][4] som är en tv-serie som fortsätter efter filmen, den är nu den längsta SciFi serien. År 2004 skapades [Stargate: Atlantis][5] som är en &#8220;spin-off&#8221; från SG-1, dom har blandat skådespelare och refererat till varandra i några avsnitt men Atlantis går och se fristående.
 
 **Notis**: *Får du lust att se serien nu, så sluta läs. Alltid roligare och inte veta för mycket. Dessutom kommer jag utgå från att du sett ALLT från och med nu.*  
-<img id="image259" class="post_img" src="http://www.junkpile.se/%7Es/wp/wp-content/uploads/2007/01/stargate.jpg" alt="Stargate" align="left" />  
+<img id="image259" class="post_img" src="http://cdn.junkpile.se/2007/01/stargate.jpg" alt="Stargate" align="left" />  
 Nu verkar det troligt att det kommer bli en till &#8220;spin-off&#8221;, om det blir från Atlantis eller SG-1 vet jag inte, men jag gissar på SG-1 då den läggs ner och det vore tråkigt och inte följa vad som händer på Jorden och i Vintergatan.
 
 Istället för en 11:e säsong av SG-1 så kommer det tydligen produceras två filmer (DVD/TV-Film, ingen Bio om jag fattat korrekt). Den första kommer troligen avsluta Ori-storyn medan film två kanske startar den andra &#8220;spin-off&#8221;:en?

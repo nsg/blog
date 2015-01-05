@@ -10,7 +10,7 @@ Jag har flyttat kategorierna så dom visas till höger i en &#8220;flytande&#822
 Dom kommer fram och synd tydligare nu.
 
 Ett litet problem blir det i IE (provat i v6) då den inte stödjer max-height attributet i css, resulterade till följande lite lustiga resultat.  
-<img id="image314" src="http://junkpile.se/%7Es/wp/wp-content/uploads/2007/02/visaie6.PNG" alt="visaie6.PNG" />
+<img id="image314" src="http://cdn.junkpile.se/2007/02/visaie6.PNG" alt="visaie6.PNG" />
 
 Förövrigt stoppade jag även in relaterat-länkarna i en ruta i samma stil.
 

@@ -18,7 +18,7 @@ Då jag har varit pigg och glad redan när solen kom upp [så][5] har [det][6] b
 
 *Folk hittade vad dom sökte efter
 
-<img id="image282" src="http://junkpile.se/%7Es/wp/wp-content/uploads/2007/01/vy5.jpg" alt="vy5.jpg" />
+<img id="image282" src="http://cdn.junkpile.se/2007/01/vy5.jpg" alt="vy5.jpg" />
 
 **Statistik**  
 *beryl* är det vanligaste sökordet, följt av wiie som går till följande [meningslösa inlägg][9] <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 

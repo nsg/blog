@@ -8,7 +8,7 @@
 */
 Vet inte om det är något vidare praktiskt, men klart intressant sätt och räkna på.
 
-<img id="image350" src="http://junkpile.se/%7Es/wp/wp-content/uploads/2007/03/rakna-kul.png" alt="rakna-kul.png" />
+<img id="image350" src="http://cdn.junkpile.se/2007/03/rakna-kul.png" alt="rakna-kul.png" />
 
 För en film som visar hur det funkar, [kolla här][1].
 

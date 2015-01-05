@@ -14,14 +14,14 @@ Det är minna hemtrakter, nu bor jag inte där längre men jag gjorde det för c
 
 Nej, jag hoppar inte ner i vattnet, utan att det är en slänt efter att man har kommit över, folk gillar att ta en genväg om det går, så det har bildats en stig där. Kan förstå att någon som inte hör hemma där tror att man hoppar över räcket ner i vattnet/marken.
 
-<img id="image317" src="http://junkpile.se/%7Es/wp/wp-content/uploads/2007/02/branmann-bron.png" alt="Brandmänn på bro" />  
+<img id="image317" src="http://cdn.junkpile.se/2007/02/branmann-bron.png" alt="Brandmänn på bro" />  
 *Bild från Livräddarna*
 
 Det kommer vara svårt och gå där nu och inte tänka på det, när jag hoppar över räcket <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
 
 [Här har du ett flygfoto][3] där du tydligt ser två stigar. Den kraftiga är den jag brukar ta, medan den närmare vattnet går igenom &#8220;skogen&#8221; och är praktisk för viss, egentligen borde jag ta den oxå, men det är kraftigare lutning där så jag gillar inte den lika mycket. Tror det var den som kvinnan tog, för brandmännen hittade ingen kropp. Jo, dom räknade ut det själva efter tipps av en boende om genvägen.
 
-<img id="image318" src="http://junkpile.se/%7Es/wp/wp-content/uploads/2007/02/visa-bro.png" alt="Visa bron" />
+<img id="image318" src="http://cdn.junkpile.se/2007/02/visa-bro.png" alt="Visa bron" />
 
 En sak till som är intressant, när jag fortfarande bodde hemma gick jag över bron varje dag för att ta tunnelbanan till skolan. En dag när jag kom hem så var det full rulle, båtar i vattnet, helikopter som flög runt efter stranden, massa brandmänn om letade efter strandkanten. Det kanske var detta jag såg, eller så var det inte första gången dom var där och letade efter hoppare eller &#8220;hoppare&#8221;.
 

@@ -21,7 +21,7 @@ Som Patrick nämner i kommentarerna så är det självklart:
 
 Skyller nog på att jag är trött <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
 
-<img id="image151" src="http://www.junkpile.se/%7Es/wp/wp-content/uploads/2006/12/rocket.gif" alt="rocket.gif" />
+<img id="image151" src="http://cdn.junkpile.se/2006/12/rocket.gif" alt="rocket.gif" />
 
 :: ISS, Fuglesang, Rymden, Rymdfärja
 

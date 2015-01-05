@@ -7,7 +7,7 @@
  Categories: Linux, Politik, Teknik
 */
 <div class="left">
-  <img id="image424" src="http://junkpile.se/%7Es/wp/wp-content/uploads/2007/05/rms.jpg" alt="rms.jpg" />
+  <img id="image424" src="http://cdn.junkpile.se/2007/05/rms.jpg" alt="rms.jpg" />
 </div>
 
 Richard Stallman* har hållit två tal i Sverige den närmaste tiden, Nu går det att ladda ner hans tal från Linköping från [denna sida][1]. Jag rekommenderar torrenten, den maxade min anslutning så jag var tvungen att begränsa bandbredden så det skulle gå och surfa under tiden, 7 minuter för 400MB, trevligt.

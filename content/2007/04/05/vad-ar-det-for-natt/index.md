@@ -9,7 +9,7 @@
 [Damon skrev][1] för två dagar sedan om &#8220;reklamen&#8221; som [Tjuvlyssnat][2] nu har på sin sida om räknar ner mot nått. Det var inte speciellt svårt och &#8220;komma runt det&#8221; då den använde datorns klocka för att avgöra vilken tid det är <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
 
 <div class="middle">
-  <img id="image380" src="http://junkpile.se/%7Es/wp/wp-content/uploads/2007/04/fatale.png" alt="Fatale" />
+  <img id="image380" src="http://cdn.junkpile.se/2007/04/fatale.png" alt="Fatale" />
 </div>
 
 [Fatale.se][3] är tom, men det förvånade inte mig. Så något kommer hända där om 4 dagar men vad? Jag räknar kallt med att det INTE är något intressant, men man blir lite nyfiken ändå <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 

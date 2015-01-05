@@ -6,7 +6,7 @@
  Date: 2007-02-07T00:44:17+00:00
  Categories: Internet, Media, Politik
 */
-<img id="image287" src="http://junkpile.se/%7Es/wp/wp-content/uploads/2007/02/google.png" alt="gooGle" />
+<img id="image287" src="http://cdn.junkpile.se/2007/02/google.png" alt="gooGle" />
 
 Jag har just sett klart en dokumentär om Google, klart intressant.
 

@@ -18,7 +18,7 @@ Källa: [myextralife][2] ([via][3]) ([via][4])[
 
 <small></small>
 
- [1]: http://junkpile.se/%7Es/wp/wp-content/uploads/2008/05/spidermantatoo.png
+ [1]: http://cdn.junkpile.se/2008/05/spidermantatoo.png
  [2]: http://www.myextralife.com/?p=8239
  [3]: http://www.geekologie.com/2008/04/wicked_spider_man_tattoo_lacks.php
  [4]: http://www.emptees.com/posts/1730-craziest-tatoo-i-ve-seen

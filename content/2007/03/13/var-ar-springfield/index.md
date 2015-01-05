@@ -12,7 +12,7 @@ Jag [skrev om ett klipp][3] som visade en massa intros på Simpsons, ett var int
 
 Jag tog och la google-maps över bilden, den tecknade bilden är långt ifrån bra, men det ger en ett hum.
 
-<img id="image352" src="http://junkpile.se/%7Es/wp/wp-content/uploads/2007/03/simpsons.png" alt="simpsons.png" />
+<img id="image352" src="http://cdn.junkpile.se/2007/03/simpsons.png" alt="simpsons.png" />
 
 I närheten så fans det två städer med namnet, [Springfield, Missouri][4] och [Springfield, Illinois][5]. Den sista är huvudstad i staten Illinois, känns för viktig så men gissning är den i Missouri, dock är den lite för stor med sinna 151,580 personer. Men vad förväntade jag mig, att hitta den riktiga? Nej.
 

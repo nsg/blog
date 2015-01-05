@@ -13,4 +13,4 @@ Känns om att jag inte behöver säga så mycket mer.
 
 <small></small>
 
- [1]: http://junkpile.se/%7Es/wp/wp-content/uploads/2008/02/eosd400exif.png
+ [1]: http://cdn.junkpile.se/2008/02/eosd400exif.png

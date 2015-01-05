@@ -10,7 +10,7 @@ Här kommer lite grafer från [knuff][1] ang. lanseringen av [Twingly][2] den 7 
 
 Nu några grafer för att analysera mera.
 
-<img id="image307" src="http://junkpile.se/%7Es/wp/wp-content/uploads/2007/02/knuffgraf-samman.png" alt="knuffgraf-samman.png" />
+<img id="image307" src="http://cdn.junkpile.se/2007/02/knuffgraf-samman.png" alt="knuffgraf-samman.png" />
 
 Jag har markerat när Twingly startade (ljust område) och markerat varannan vecka med blått. Man ser tydligt att Svd har ökat markant men expressen och aftonbladet inte nödvändigtvis har tappat så många besökare. Nu finns det ingen skala på graferna så en jämförelse är inte så rättvis, men den ger en ett hum.
 

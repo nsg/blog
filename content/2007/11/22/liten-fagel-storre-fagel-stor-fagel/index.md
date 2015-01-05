@@ -22,4 +22,4 @@ Alltid kul när det händer något över det vanliga.
 
 <small></small>
 
- [1]: http://junkpile.se/%7Es/wp/wp-content/uploads/2007/11/pb220119-small.JPG
+ [1]: http://cdn.junkpile.se/2007/11/pb220119-small.JPG

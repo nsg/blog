@@ -22,6 +22,6 @@ Slutligen om någon undrar varför jag har varit så inaktiv den närmaste tiden
 
 <small></small>
 
- [1]: http://junkpile.se/%7Es/wp/wp-content/uploads/2007/09/phppt46dt.jpg "phppt46dt.jpg"
+ [1]: http://cdn.junkpile.se/2007/09/phppt46dt.jpg "phppt46dt.jpg"
  [2]: http://mj.barczyk.se/blog/2230/mitt-fejs-ur-olika-synvinklar
- [3]: http://junkpile.se/%7Es/wp/wp-content/uploads/2007/09/phpmdazlg.jpg "phpmdazlg.jpg"
+ [3]: http://cdn.junkpile.se/2007/09/phpmdazlg.jpg "phpmdazlg.jpg"

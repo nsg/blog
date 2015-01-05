@@ -8,7 +8,7 @@
 */
 Jag har bloggen Moderskeppet i min rss-läsare. Tycker det är intressant och läsa, även om jag inte har tillgång till Photoshop som han skriver om. Men han kommer med en del tipps ibland dom kan &#8220;översättas&#8221; till The Gimp.  
 [Idag skrev han][1] om lite olika bloggar, en av dem är bloggen [Photoshopidéer][2] som tipsade om följande två länkar.  
-<img id="image330" src="http://junkpile.se/%7Es/wp/wp-content/uploads/2007/03/tom.jpg" alt="tom.jpg" />  
+<img id="image330" src="http://cdn.junkpile.se/2007/03/tom.jpg" alt="tom.jpg" />  
 *[Tom Cruise][3], kladdade lite själv på den.*
 
 [Best Worth1000 Photoshop Galleries][4]  

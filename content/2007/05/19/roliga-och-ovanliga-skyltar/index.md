@@ -7,7 +7,7 @@
  Categories: Humor
 */
 <div class="middle">
-  <img id="image418" src="http://junkpile.se/%7Es/wp/wp-content/uploads/2007/05/skyltar.png" alt="Skyltar" />
+  <img id="image418" src="http://cdn.junkpile.se/2007/05/skyltar.png" alt="Skyltar" />
 </div>
 
 Jag har haft den här sidan öppen i en tabb i Firefox nu i flera dagar, känns som det är hög tid att ta mig i kragen och skriva om sidan.  

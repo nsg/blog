@@ -7,7 +7,7 @@
  Categories: Internet, Teknik
 */
 <div class="center">
-  <img id="image358" src="http://junkpile.se/%7Es/wp/wp-content/uploads/2007/03/greasetube.png" alt="Förändra YouTube" />
+  <img id="image358" src="http://cdn.junkpile.se/2007/03/greasetube.png" alt="Förändra YouTube" />
 </div>
 
 Gillar du [Google Video][1], men gillar filmerna på [YouTube][2]? En lösning är att använda [ett skript][3]. Du behöver [Greasemonkey][4] som kör skriptet vid rätt tillfälle.

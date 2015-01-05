@@ -10,7 +10,7 @@ Jag fotade nyss en serie på fem bilder över horisonten ut genom mitt fönster,
 
 Här kommer den, den är på 8446&#215;439 så det är ingen liten bild <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
 
-<a class="imagelink" href="http://junkpile.se/%7Es/wp/wp-content/uploads/2007/01/utsikt.jpg" title="Min utsikt Jan 2007">8446&#215;439 JPEG, 682Kb</a>
+<a class="imagelink" href="http://cdn.junkpile.se/2007/01/utsikt.jpg" title="Min utsikt Jan 2007">8446&#215;439 JPEG, 682Kb</a>
 
 :: Bild, foto
 

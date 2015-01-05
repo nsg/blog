@@ -31,9 +31,9 @@
 
 <small></small>
 
- [1]: http://junkpile.se/%7Es/wp/wp-content/uploads/2007/10/eve-banner.png
- [2]: http://junkpile.se/%7Es/wp/wp-content/uploads/2007/10/mob-linux.png
- [3]: http://junkpile.se/%7Es/wp/wp-content/uploads/2007/06/ted.png
- [4]: http://junkpile.se/%7Es/wp/wp-content/uploads/2007/06/firefoxfallt.png
- [5]: http://junkpile.se/%7Es/wp/wp-content/uploads/2007/06/wsyp.png
- [6]: http://junkpile.se/%7Es/wp/wp-content/uploads/2007/06/starwrek5f-small.png
+ [1]: http://cdn.junkpile.se/2007/10/eve-banner.png
+ [2]: http://cdn.junkpile.se/2007/10/mob-linux.png
+ [3]: http://cdn.junkpile.se/2007/06/ted.png
+ [4]: http://cdn.junkpile.se/2007/06/firefoxfallt.png
+ [5]: http://cdn.junkpile.se/2007/06/wsyp.png
+ [6]: http://cdn.junkpile.se/2007/06/starwrek5f-small.png
