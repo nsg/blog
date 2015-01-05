@@ -9,6 +9,6 @@ done
 
 # Create index
 for y in 20*/*/*/*/index.md; do
-	echo " * [$(awk -F': ' '/Title/{print $2}' $y)](/$(dirname $y))" \
+	echo " * [$(awk -F': ' '/Title/{print $2}' $y)](/$(dirname $y)/)" \
 		>> $(echo $y | awk -F'/' '{print $1}')/index.md;
 done
