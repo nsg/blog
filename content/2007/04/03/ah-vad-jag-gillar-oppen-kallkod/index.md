@@ -8,6 +8,6 @@
 */
 <img id="image376" src="http://cdn.junkpile.se/2007/04/gparted.png" alt="dparted - dialog" />
 
-Alltid lika kul när man kör program som är öppen källkod, mycket mer personliga meddelanden <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Alltid lika kul när man kör program som är öppen källkod, mycket mer personliga meddelanden :) 
 
 <small></small>

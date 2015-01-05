@@ -6,7 +6,7 @@
  Date: 2006-07-30T12:28:18+00:00
  Categories: Linux, Teknik
 */
-*Min svenska layout ar lite paj sa du far leva utan svenska tecken <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> *
+*Min svenska layout ar lite paj sa du far leva utan svenska tecken :) *
 
 Jag hittade dinna video pa google video i gar, yttligare en i mangden som visar XGL, men denna var ovanligt bra tycker jag.
 

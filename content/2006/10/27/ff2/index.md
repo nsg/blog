@@ -7,7 +7,7 @@
  Categories: Internet
 */
 **v2.0**  
-Om du är en firefox-användare och inte har uppfattat att version 2.0 är släppt så rekommenderar jag dig att uppdatera, dom har implementerat rättstavning direkt i webbläsaren, helt underbart, speciellt för mig som stavar fel på varannat ord <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Om du är en firefox-användare och inte har uppfattat att version 2.0 är släppt så rekommenderar jag dig att uppdatera, dom har implementerat rättstavning direkt i webbläsaren, helt underbart, speciellt för mig som stavar fel på varannat ord :) 
 
 För övrigt är det väll inte så mycket nytt som jag har upptäckt som jag inte redan hade plugins för, men det är skönt att det ligger i firefox nu så man slipper hundratusen plugins.
 

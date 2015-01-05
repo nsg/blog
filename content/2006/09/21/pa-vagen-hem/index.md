@@ -21,7 +21,7 @@ Nästa bild är inte direkt vacker, men det är intressant ställe med vägar so
 
 <img id="image108" src="http://www.junkpile.se/%7Es/wordpress/wp-content/uploads/dscn5119.small.jpg" alt="dscn5119.small.jpg" />
 
-Strax efter såg jag följande målat på [ett tak][4], [skön humor][5] <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Strax efter såg jag följande målat på [ett tak][4], [skön humor][5] :) 
 
 <img id="image109" src="http://www.junkpile.se/%7Es/wordpress/wp-content/uploads/dscn5123.small.jpg" alt="dscn5123.small.jpg" />
 

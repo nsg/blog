@@ -12,7 +12,7 @@
 
 Dom dom skrev inte om något speciellt intressant förutom lite<a href="http://cdn.junkpile.se/2007/07/dscn7022.JPG" onclick="return false;" title="Direct link to file"><img src="http://cdn.junkpile.se/2007/07/dscn7022.thumbnail.JPG" title="dscn7022.JPG" alt="dscn7022.JPG" align="right" height="128" width="170" /></a> historia bakom simpsons, men det speciellt var inte själva atikeln utan resten av tidningen.
 
-Ofta så har inte artikelförfattaren bara sitt namn på slutet utan även en bild, men nu var det inte riktigt deras <a href="http://cdn.junkpile.se/2007/07/dscn7023.JPG" onclick="return false;" title="Direct link to file"><img src="http://cdn.junkpile.se/2007/07/dscn7023.thumbnail.JPG" title="dscn7023.JPG" alt="dscn7023.JPG" align="left" height="128" width="86" /></a>vanliga bilder, det var i simpsonsstil. Notera att tidningen tills artikeln hade normala bilder, men efter artikeln, simpsons <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Ofta så har inte artikelförfattaren bara sitt namn på slutet utan även en bild, men nu var det inte riktigt deras <a href="http://cdn.junkpile.se/2007/07/dscn7023.JPG" onclick="return false;" title="Direct link to file"><img src="http://cdn.junkpile.se/2007/07/dscn7023.thumbnail.JPG" title="dscn7023.JPG" alt="dscn7023.JPG" align="left" height="128" width="86" /></a>vanliga bilder, det var i simpsonsstil. Notera att tidningen tills artikeln hade normala bilder, men efter artikeln, simpsons :) 
 
 Även om aftonbladet och expressen nu för tiden är en skittidning och innehåller till stor del skvaller så har dom en viss frihet till humor ändå, tvivlar på att jag kommer få se något liknande i SvD eller DN.
 

@@ -19,7 +19,7 @@ Tog en bild, tyvärr har jag ingen vettig kamera (ännu), och ingen möjlighet a
 <img id="image334" src="http://cdn.junkpile.se/2007/03/manen_2300.jpg" alt="Månförmörkelse" />
 
 **00:48**  
-Kom in nu efter att ha vandrat runt en timma ute, månen var klart fin, dock hade jag hoppats på lite rödare färg. Rundturen var även lärorik, min kamera är inte gjord för att fota månen <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Kom in nu efter att ha vandrat runt en timma ute, månen var klart fin, dock hade jag hoppats på lite rödare färg. Rundturen var även lärorik, min kamera är inte gjord för att fota månen :) 
 
 <img id="image335" src="http://cdn.junkpile.se/2007/03/manen_2350.jpg" alt="Månförmörkelse" />
 

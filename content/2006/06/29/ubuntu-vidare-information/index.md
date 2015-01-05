@@ -15,7 +15,7 @@ Sedan har dom ändrat och byggt sin egen metacity för att hantera 3d:n.
 Naktdelen är att men måste köra gnome, och fördelen är att man kan slå på/av 3d:n som man vill.
 
 Nu så är det något paket jag använder som gör att jag inte kan byta grafikmode, t.ex. om jag går till konsoll och tillbaka igen så hänger sig allt. Samma sak är det när jag kommer ur suspend.  
-Det är jobbigt att jag inte kan suspenda så jag har funderat på att ta bort aixgl men det är så fint med det <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Det är jobbigt att jag inte kan suspenda så jag har funderat på att ta bort aixgl men det är så fint med det :) 
 
 Vill du se video:s goggla lite på Xgl så bör du hitta flera, saker som att fönstrerna &#8220;fladdrar&#8221; när man flyttar dem, äkta transparens m.m. är ett par ev finesserna.
 
@@ -34,7 +34,7 @@ En sak jag har velat testa att tag är mitt modem, men bristen på vanliga telef
 
 När jag höll på så provade jag på att installera lite program för min usb-bluetoothadapter, det funkade perfekt och skicka filer både till och från min telefon, jag har inte testat andra saker som adressbok och så men det intresserar inte mig så mycket. Trevligt när saker funkar direkt.
 
-Jag installerade även program för min ir-port men jag har inte hunnit test dom ännu då bluetooh är så mycket trevligare <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Jag installerade även program för min ir-port men jag har inte hunnit test dom ännu då bluetooh är så mycket trevligare :) 
 
 :: Ubuntu, Aixgl, Xgl, Modem, Linux, Bluetooh, IR
 

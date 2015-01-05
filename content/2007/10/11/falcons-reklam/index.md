@@ -6,7 +6,7 @@
  Date: 2007-10-11T18:49:30+00:00
  Categories: Humor
 */
-Falkons reklamfilmer som nu går på tv gillar jag skarpt, så roliga. Riktig bra <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Falkons reklamfilmer som nu går på tv gillar jag skarpt, så roliga. Riktig bra :) 
 
 
 

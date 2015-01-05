@@ -18,10 +18,10 @@ IAU bestämde förenklat att en planet är en himlakropp som roterar runt en stj
 
 Viktigt att veta är ett det är många som är mot den nya definitionen och sätter sig i mot, så det är inte helt säkert att definitionen kommer bli kvar i sin nuvarande form. Det blir att vänta och se.
 
-*Jag har inte läst igenom och rättat då jag tänkte sova, beklagar alla fel <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> *
+*Jag har inte läst igenom och rättat då jag tänkte sova, beklagar alla fel :) *
 
 **Edit** *2007-12-02*:  
-Jag har ändrar en del stavfel i texten, hoppas det blev mer rätt nu <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Jag har ändrar en del stavfel i texten, hoppas det blev mer rätt nu :) 
 
 :: Pluto, Rymden, Dwaf Planet, Planet
 

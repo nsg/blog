@@ -9,9 +9,9 @@
 ![][1]  
 [Gör en egen karta][2]
 
-Jag måste resa mera, för att göra saken värre så var jag mycket liten då jag bilade till Italien sist så Tyskland, Österrike och Schweiz kan jag inte påstå att jag minns något av, Danmark och Norge var bara en kort avstickare. Måste få pengar och tid, och åka någon stans, någon gång <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Jag måste resa mera, för att göra saken värre så var jag mycket liten då jag bilade till Italien sist så Tyskland, Österrike och Schweiz kan jag inte påstå att jag minns något av, Danmark och Norge var bara en kort avstickare. Måste få pengar och tid, och åka någon stans, någon gång :) 
 
-Edit: På [Se till vänster, där går en arab][3] hittade jag sidan så här har du lite credit och en länk <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Edit: På [Se till vänster, där går en arab][3] hittade jag sidan så här har du lite credit och en länk :) 
 
 <small></small>
 

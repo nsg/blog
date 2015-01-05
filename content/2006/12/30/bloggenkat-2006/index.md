@@ -20,11 +20,11 @@ Minns inte, men jag hade nog en mer dagbokssyn över det, men antar att det inte
 
 > 3. Vilken var den första blogg du förälskade dig i?
 
-Kan inte minnas vilka bloggar jag läste på den tiden, men bloggen [Frihet Fildelning Feminism][2] har jag läst ett bra tag, jag instämmer med det mesta hon skriver, bortsett från kungahuset då <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Kan inte minnas vilka bloggar jag läste på den tiden, men bloggen [Frihet Fildelning Feminism][2] har jag läst ett bra tag, jag instämmer med det mesta hon skriver, bortsett från kungahuset då :) 
 
 > 4. Hur känner du inför dina första blogginlägg, när du såhär i efterhand läser dem?
 
-Kvalitén har gått upp och ner, tack och lov mera upp på slutet <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Kvalitén har gått upp och ner, tack och lov mera upp på slutet :) 
 
 > 5. Hur många bloggar återvänder du till regelbundet, som läsare?
 
@@ -44,11 +44,11 @@ Då jag inte läser så många personliga bloggar så har jag inte så stor kol 
 
 > 9. Vad tycker dina närmaste om att du bloggar?
 
-Hm, ingen som har sagt något, varken positivt eller negativt av dem som vet, så jag vet inte <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> (som jag skulle by mig) <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Hm, ingen som har sagt något, varken positivt eller negativt av dem som vet, så jag vet inte :) (som jag skulle by mig) :) 
 
 > 10. Tycker folk som känner dig att du är dig själv i din blogg?
 
-Hänvisar till ovanstående svar, intressant, måste fråga vad dom tycker <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Hänvisar till ovanstående svar, intressant, måste fråga vad dom tycker :) 
 
 > 11. Har du hittat en fungerande gräns för hur privat du vill vara i din blogg, eller tänjs den gränsen hela tiden?
 
@@ -56,7 +56,7 @@ Bloggen började mer som en dagbok, men har utvecklats till en mera fakta- eller
 
 > 12. Nämn några saker som du aldrig bloggar om, och varför.
 
-Detaljerat privata saker, jag kan ta upp lite saker ibland men jag håller mig borta från en dagbok så jag vet att ingen egentligen vill läsa det <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Detaljerat privata saker, jag kan ta upp lite saker ibland men jag håller mig borta från en dagbok så jag vet att ingen egentligen vill läsa det :) 
 
 > 13. I vilken utsträckning bloggar du för att få bekräftelse, tror du?
 
@@ -81,7 +81,7 @@ Nej, jag är inte så aktiv på att kommentera, och har i bloggen har de få kom
 
 > 18. Har du själv skrivit saker du ångrar i din egen eller andras bloggar?
 
-Nej, brukar tänka först <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Nej, brukar tänka först :) 
 
 > 19. Hur ser bloggandets nackdelar ut, för dig?
 
@@ -93,11 +93,11 @@ Ja, jag tror jag bloggar. Frågan är hur aktiv jag kommer vara. Det kan gå åt
 
 > 21. Tror du att bloggarna har (eller kommer att ha) någon inverkan på vår kultur, eller är de en grupp människor som mest påverkar varandra?
 
-Seriösa bloggar som skriver om vettiga saker, kommer definitivt påverka, om dom inte av en händelse försvinner bort i tidens gång. Men några inlägg här, några där borde påverka. <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Seriösa bloggar som skriver om vettiga saker, kommer definitivt påverka, om dom inte av en händelse försvinner bort i tidens gång. Men några inlägg här, några där borde påverka. :) 
 
 > 22. Avslutningsvis 1: Kan du sammanfatta kort vad ditt bloggskrivande har betytt för dig?
 
-Att få ut en tanke ut huvudet, innan jag började blogga hade jag ofta tankar och idéer som jag kände för att uttrycka, men komma aldrig till skott. Ironiskt så har idéerna minskat när jag började blogga <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Att få ut en tanke ut huvudet, innan jag började blogga hade jag ofta tankar och idéer som jag kände för att uttrycka, men komma aldrig till skott. Ironiskt så har idéerna minskat när jag började blogga :) 
 
 > 23. Avslutningsvis 2: Kan du sammanfatta kort vad bloggläsandet har betytt för dig?
 

@@ -38,7 +38,7 @@ Förövrigt har [katallaxi.se][8] skrivit en utmärkt sammanfattnig med länkar 
 
 Om det inte kommer fram någon mer information som nu cirkulerar så är det helt galet, inte kan man trampa in och plocka med sig servrar hursomhälst, dessutom rök ju piratbyråns server med som garanterat inte har gjort någon olagligt, man får en känsla åt censur med tanke på att piratbyrån är antipiratbyråns motståndare.
 
-Det vore så kul om TPB skötte det här snyggt nu och fick gå fria och dessutom stämma polisen eller antipiratbyrån för deras övergrepp. <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Det vore så kul om TPB skötte det här snyggt nu och fick gå fria och dessutom stämma polisen eller antipiratbyrån för deras övergrepp. :) 
 
 Edit: TPB verkar inte vara ensam, se [swebits.org][13]
 

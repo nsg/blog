@@ -24,7 +24,7 @@ Edit2:
 
 Ah, ta även en titt på &#8220;*For April Fool&#8217;s Day, Google &#8220;launched&#8221; MentalPlex technology*&#8221; på denna [sidan][6].
 
-Ett tips, efter att du gjort din sökning, ladda om sidan lite, det finns många olika felmeddelanden <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Ett tips, efter att du gjort din sökning, ladda om sidan lite, det finns många olika felmeddelanden :) 
 
 :: Google, Duvor, MentalPlex
 

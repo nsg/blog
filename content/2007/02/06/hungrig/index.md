@@ -9,7 +9,7 @@
   
 [YouTube: HallstaKlooters -- LUNCH (100 cheeseburgare)][1]
 
-100 cheeseburgare betalat med enkronor <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> &#8230; jag har gjort något liknande en gång, men det var inte i närheten av den summan, betalade en kompis 150kr, han sa ju KRONOR, klart han ska ha enkronor, blev av med massa mynt <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+100 cheeseburgare betalat med enkronor :) &#8230; jag har gjort något liknande en gång, men det var inte i närheten av den summan, betalade en kompis 150kr, han sa ju KRONOR, klart han ska ha enkronor, blev av med massa mynt :) 
 
 :: cheeseburgare, enkrona, enkronor
 

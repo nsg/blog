@@ -19,7 +19,7 @@ Här kommer två videos, en från tidigare i år från Google I/O som visar Andr
 
 
 
-Nu har jag gjort tillräckligt med reklam, jag får se själv när jag testar applikationerna. Då man måste ha Spotify Premium (99kr/mån) för att kunna använda applikationerna så får jag vänta ett tag tills jag känner att jag har pengar. Men förmodligen kommer jag inte kunna hålla mig så länge <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Nu har jag gjort tillräckligt med reklam, jag får se själv när jag testar applikationerna. Då man måste ha Spotify Premium (99kr/mån) för att kunna använda applikationerna så får jag vänta ett tag tills jag känner att jag har pengar. Men förmodligen kommer jag inte kunna hålla mig så länge :) 
 
 En sak till, ni som tycker att Spotify även borde ha haft en reklamfinansierad version på telefonerna så håller jag med er, men det är inte säkert att det är Spotifys fel, det finns helt andra avtal med musikindustrin för datorer med internetuppkoppling och mobiltelefoner med internetuppkoppling. Det kan vara så enkelt att dom inte får. Helt galet i så fall, men det är så det är.
 

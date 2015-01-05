@@ -12,7 +12,7 @@ Programmet körs inte &#8220;native&#8221; utan emuleras via [wine][3] men det v
 
 Jag vet inte ännu om jag kommer börja använda det eller inte, det har sina fördelar men man är väldigt begränsad, den envisas med att aldrig ändra orginalbilden, om man ber den att spara så skapar den en bakup, mjo, kan vara bra men arkivet jag arbetar med nu är på 2.4Gb, och det är inte allt, om den ska göra massa bakuper på alla filer jag petar lite på, då blir jag tokig.
 
-En fullösning vore att skriva ett shell-script som rensar upp <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> Men det hade varit bättre om det fanns en sådan inställning.
+En fullösning vore att skriva ett shell-script som rensar upp :) Men det hade varit bättre om det fanns en sådan inställning.
 
 An annan lustig sak är att enligt hjälpen så ska det finnas flera olika alternativ för att spara.
 
@@ -66,7 +66,7 @@ Det känns som hela inlägget klankar ner på picasa men det är min spontana k�
 
 Edit:
 
-[Intressant][4], han tar upp många saker som jag glömde eller inte tog upp då det kändes som att jag har klagat enog <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+[Intressant][4], han tar upp många saker som jag glömde eller inte tog upp då det kändes som att jag har klagat enog :) 
 
 :: Picasa, Bilder, Linux, Wine
 

@@ -14,7 +14,7 @@ Jag har bloggen Moderskeppet i min rss-läsare. Tycker det är intressant och l�
 [Best Worth1000 Photoshop Galleries][4]  
 [Fatty Celebrities][5]
 
-Kul och kolla på <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Kul och kolla på :) 
 
 :: Bilder, Photoshop, The Gimp
 

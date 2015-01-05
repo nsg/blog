@@ -10,7 +10,7 @@
 
 Jag städade ren min 120G hårdisk igår och installerade OpenSUSE på den, mest för att testa lite hur det går för den. Jag har kört det en gång tidigare för ca 3 år sedan i skolan under en period på några veckor då vi höll på med administration av en unix/linux dator och SUSE var deras val.
 
-Jag hade itne så stor koll på vart jag skulle bege mig för att ladda ner suse, jag gick till [suse.org][1] som verkarde logiskt, blev redictad till [novell.com/linux][2] och började leta, men i sann företragsanda så hamnade man bara på deras köpalternativ hela tiden, smart men irriterande <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Jag hade itne så stor koll på vart jag skulle bege mig för att ladda ner suse, jag gick till [suse.org][1] som verkarde logiskt, blev redictad till [novell.com/linux][2] och började leta, men i sann företragsanda så hamnade man bara på deras köpalternativ hela tiden, smart men irriterande :) 
 
 Efter en omgång i google fattade jag att dom hade gjort på samma vis som med redhat/fendora och att det var [opensuse.org][3] som gällde.
 
@@ -41,7 +41,7 @@ Jag klickade på updateringsmanagern som lös upp nere vid klockan, den visade a
 
 <img id="image91" src="http://cdn.junkpile.se/2006/07/suse-bugg.png" alt="suse-bugg.png" />
 
-Kul nu krachade hela programmet instället, jag gick tillbaka till YaST och lät den uppdatera instället, men all sin seghet och allt som jag nämde tidigare <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Kul nu krachade hela programmet instället, jag gick tillbaka till YaST och lät den uppdatera instället, men all sin seghet och allt som jag nämde tidigare :) 
 
 <img id="image92" src="http://cdn.junkpile.se/2006/07/YaST2-update.png" alt="YaST2-update.png" />
 

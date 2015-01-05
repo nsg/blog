@@ -20,7 +20,7 @@ Nu när jag ändå skriver lite om stargate så tycker jag sista avsnittet av at
 
 Attacken mot Asurans värld var cool, deras vapen som dom anföll tillbaka med är även det intressant, man fick se staden åka ner under ytan igen, och slutligen se den lyfta och flyga iväg upp i rymden och in i hyperspace. Klart intressant avsnitt, ser verkligen fram i mot säsong 4.
 
-Asurans är nog minna favorit-fiender nog tror jag, Wraith har ibland känns lite speciella, klart intressanta men jag föredrar teknik, och där passar Asuran perfekt, det är det dom är <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Asurans är nog minna favorit-fiender nog tror jag, Wraith har ibland känns lite speciella, klart intressanta men jag föredrar teknik, och där passar Asuran perfekt, det är det dom är :) 
 
 :: Asuran, Stargate, Atlantis, Stargate SG-1, Stargate Atlantis, SG1, Wraith
 

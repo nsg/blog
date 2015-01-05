@@ -12,9 +12,9 @@ Två exempel:
 
 > Dom kallar det, &#8220;Pen Island&#8221;, och registrerade penisland.net
 
-> Eller, &#8220;Therapist Finder&#8221; som blir therapistfinder.com är även den kul <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+> Eller, &#8220;Therapist Finder&#8221; som blir therapistfinder.com är även den kul :) 
 
-Jovars, man ser det man vill se, men frågan är varför dom behöll adressen/namnet när dom insåg vad många läser <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Jovars, man ser det man vill se, men frågan är varför dom behöll adressen/namnet när dom insåg vad många läser :) 
 
 <small></small>
 

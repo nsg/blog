@@ -25,7 +25,7 @@ Efter att ha googlat runt lite mer så såg jag att jag skulle få tre devices o
 > crw-rw&#8212;- 1 root dialout 188, 1 2007-10-05 09:21 /dev/ttyUSB1  
 > crw-rw&#8212;- 1 root dialout 188, 2 2007-10-05 09:21 /dev/ttyUSB2
 
-Jag försökte olika trix med att ladda ut/in moduler, m.m. men inget verkade hjälpa, slutligen hittade jag en lösning, inte snygg, rätt jobbig men den duger tills vidare. Om jag startar datorn med modemet i så funkar det <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Jag försökte olika trix med att ladda ut/in moduler, m.m. men inget verkade hjälpa, slutligen hittade jag en lösning, inte snygg, rätt jobbig men den duger tills vidare. Om jag startar datorn med modemet i så funkar det :) 
 
 > Uppdaterat  
 > Notera att det jag trode här var inte hela sanningen, jag hade tidigare installerat ett program gjort för vodafone men för samma modem. När jag försökte få modemet att funka på min bärbara dator (7,10, Gutsy Gibbon) så ville det inte funka förän programmet var installerat.  

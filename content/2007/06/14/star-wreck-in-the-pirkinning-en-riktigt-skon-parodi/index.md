@@ -34,7 +34,7 @@ Genom åren förfinades deras kunskaper, animeringarna blev bättre och bättre.
 
 Fem år senare år 2005 kom en långfilm av mycket hög kvalité. *Star Wreck: In the Pirkinning* och handlar om Capt. Pirk som har kastats bak i tiden till nutid (2005?), han använder sin vetskap till att ta över världen och blir envåldshärskare, en mycket dålig sådan. Av en tillfällighet så får han kontakt av människor från en annan dimension, från rymdstationen Babel 13 (Parodi på Babylon 5). Sak leder till sak, och Pirk och Capt Sherrypie på Babel 13 hamnar i krig.
 
-Star Wreck: In the Pirkinning innehåller mängder med skämt, har du sett både Star Trek och Babylon 5 så har du en film med mängder av skämt, kolla bara på namnen på några b13 karaktärer. Ambassador <acronym title="Kosh">Flush</acronym>, <acronym title="Michael Garibaldi">Mikhail Garybrandy</acronym>, <acronym title="Albert Bester">Festerbester</acronym> eller Lt <acronym title="Keffer">Kefir</acronym> med sin <acronym title="Starfury">Star Flurry</acronym> <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> Helt underbart.
+Star Wreck: In the Pirkinning innehåller mängder med skämt, har du sett både Star Trek och Babylon 5 så har du en film med mängder av skämt, kolla bara på namnen på några b13 karaktärer. Ambassador <acronym title="Kosh">Flush</acronym>, <acronym title="Michael Garibaldi">Mikhail Garybrandy</acronym>, <acronym title="Albert Bester">Festerbester</acronym> eller Lt <acronym title="Keffer">Kefir</acronym> med sin <acronym title="Starfury">Star Flurry</acronym> :) Helt underbart.
 
 En helt underbart film som måste ses om du sett B5 och/eller Star Trek. Ah, älskar parodier.
 

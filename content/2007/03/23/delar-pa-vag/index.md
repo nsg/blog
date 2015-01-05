@@ -27,7 +27,7 @@ Så om allt går bra så kanske det kommer upp ett blogginlägg i morgon ang. mi
 
 > Stockholm Södra, Försändelsen har sorterats
 
-Hoppas nu jag får ut den idag <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Hoppas nu jag får ut den idag :) 
 
 :: Handel, Postorder
 

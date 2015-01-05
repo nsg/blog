@@ -18,7 +18,7 @@ För övrigt var det intressant att jag hamnade på platts [två][8] med &#8220;
 
 <img id="image117" src="http://www.junkpile.se/%7Es/wordpress/wp-content/uploads/ingooglingar.png" alt="bild över ingooglingar" />
 
-Visa är intresanta, t.ex. &#8220;4110836984492&#8243;, ger ingen träff för mig ialflall, kanse något fel? <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Visa är intresanta, t.ex. &#8220;4110836984492&#8243;, ger ingen träff för mig ialflall, kanse något fel? :) 
 
 Som du ser är det många som sökt på ubuntu eller linuxrellaterat och hamnat här, det är intressant när jag bara skrivit [tre][13] [inlägg][14] [om][15] ubuntu resp. [ett][16] om suse. Men åt andra sidan är det mycket text i dem.
 

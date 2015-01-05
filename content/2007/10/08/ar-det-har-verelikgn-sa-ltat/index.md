@@ -14,7 +14,7 @@ Det var inte så lätt som det ser ut då vissa kombinationer av ord är svårar
 
 > Nu ttesar jag att blnada om ttxeen två gåegnr på okila stät fsörta ggånen ltie ltät för hnad och adrna gåengn med mtit sikrpt
 
-Läsbart ja, till en viss del. Jag provade att läsa en artikel från DN, men det var inte lätt <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Läsbart ja, till en viss del. Jag provade att läsa en artikel från DN, men det var inte lätt :) 
 
 Notera en sak, den är mycket snabbt ihoppskriven och tar inte hänsyn till punkter eller komma-tecken så ta bort dem innan annars kan du få resultat som: hej, -> hje, då den tolkar &#8220;,&#8221; som sista bokstav.
 

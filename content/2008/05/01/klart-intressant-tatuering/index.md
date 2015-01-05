@@ -9,7 +9,7 @@
 ![spidermantatoo.png][1]
 
 Kolla på bilden ovan, det är en tatuering. En av de klart intressantaste jag har sett på länge.  
-Frågan är dock hur han kommer se ut när han blir äldre, eller när han  inte orkar raka bröstet längre, kommer se ganska kul ut. Men trots det är det en cool tatuering, kul att kolla på men att ha, nej, aldrig i livet <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Frågan är dock hur han kommer se ut när han blir äldre, eller när han  inte orkar raka bröstet längre, kommer se ganska kul ut. Men trots det är det en cool tatuering, kul att kolla på men att ha, nej, aldrig i livet :) 
 
 Källa: [myextralife][2] ([via][3]) ([via][4])[  
 ][2]

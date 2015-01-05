@@ -17,6 +17,6 @@ Jag sitter nu i mitt studentrum, flyttade för ca 2,5 veckor sedan. Mycket kvar 
 Nu borde jag egentligen vara på en föreläsning i Linjär Algebra men föreläsaren är inte så bra, sedan i kombination med att han är från Norge och som han själv skriver &#8220;Föreläsningarna ges på svorska&#8221; så det kan va lite svårt att förstå vad han säger även om man har vant sig vid en del av hans ordval.  
 Jag har en läxa i Kommunikation i ingenjörsvetenskap att göra tills fredag och prioriterar det istället, kan läsa in föreläsningen själv.
 
-Jaha, det här blev lite uppradat och framtvingat men det var det nästan <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Jaha, det här blev lite uppradat och framtvingat men det var det nästan :) 
 
 <small></small>

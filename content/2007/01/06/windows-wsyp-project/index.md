@@ -14,7 +14,7 @@ Var ett bra tag sedan jag såg denna första gången, tror jag t.o.m. nämnde de
 Tyvärr verkar denna källan inte ha så bra kvalité men den får duga.
 
 **Edit**  
-Hm, kanske skulle ha kollat klart på HELA klippet innan jag postade, såg att det var lite &#8220;reklam&#8221; på slutet, men det tror jag ni överlever, bara och tycka på stopp om du lider för mycket. <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Hm, kanske skulle ha kollat klart på HELA klippet innan jag postade, såg att det var lite &#8220;reklam&#8221; på slutet, men det tror jag ni överlever, bara och tycka på stopp om du lider för mycket. :) 
 
 :: Humor, Microsoft, WESYP
 

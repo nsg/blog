@@ -16,13 +16,13 @@ Jag kom hem vid 22.30 den kvällen.
 Nästa dag var jag där strax innan 10, vi fortatte med förberedelserna som var allt från att sätta upp kravallstängsel (studenter kan bli rätt vilda, mer om det sen), duka och sätta upp en scen.  
 Lokalen (eller snarare lokalerna) ligger i Fryshuset. Vi hade hyrt en enorm sal som verkar kunna använas till det mesta men den verkar mäst användas som tre st fotboll/basket(/&#8230;)-planer separerade av gardiner.
 
-Bara två av tre &#8220;planer&#8221; användes, den ena var sittningslokal och den andra användes före sittningen, som dansgolv m.m. T.ex. så fanns det hoppborg där <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Bara två av tre &#8220;planer&#8221; användes, den ena var sittningslokal och den andra användes före sittningen, som dansgolv m.m. T.ex. så fanns det hoppborg där :) 
 
-Stängslet satte vi upp mellan de två &#8220;planerna&#8221; då gardiner inte skulle funkat för att hålla tillbaka vilda studenter <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> från sittningslokalen, utseéndet där inne var okänt för dem och det fanns inga resarverade plattser så alla hade brottom in när dom blev insläppta.
+Stängslet satte vi upp mellan de två &#8220;planerna&#8221; då gardiner inte skulle funkat för att hålla tillbaka vilda studenter :) från sittningslokalen, utseéndet där inne var okänt för dem och det fanns inga resarverade plattser så alla hade brottom in när dom blev insläppta.
 
 Senare stängde vi salarna och folk fick hålla till 1 resp. 2 trappor ner på &#8220;mysrummet&#8221; (matsal med lite dekor) och klubben. Det pågick fram till ca 03 då dom stängde p.g.a. att *- Okänd: &#8220;Det är bara personal som dansar&#8221;* eller sa kan &#8220;där inne&#8221;, aja, han kollade in i klubben i allafall, folk hade börjat röra sig hemåt, skönt för mig då jag fick gå då och ta näst sista tunnelbanan hem istället för att vara där till 5-6. Vi hade tillstånd att hålla på till 05 om vi ville.
 
-*Nu blev inte det här det mest välskrivna, men jag måste få iväg texten någon gång <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> *
+*Nu blev inte det här det mest välskrivna, men jag måste få iväg texten någon gång :) *
 
 :: squVALp, fest, fryshuset
 

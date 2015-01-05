@@ -6,7 +6,7 @@
  Date: 2007-04-14T00:18:52+00:00
  Categories: Teknik
 */
-Det här blir ett kort inlägg som hänvisar till en klart läsvärd text, se dock till att ha mycket tid till övers och ett stort intresse av teknik, annars tar du nog dig inte igenom den <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Det här blir ett kort inlägg som hänvisar till en klart läsvärd text, se dock till att ha mycket tid till övers och ett stort intresse av teknik, annars tar du nog dig inte igenom den :) 
 
 [A Cost Analysis of Windows Vista Content Protection][1] ([via][2])
 

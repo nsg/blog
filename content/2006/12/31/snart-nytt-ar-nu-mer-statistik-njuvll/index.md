@@ -44,14 +44,14 @@ Här är det både operativsystem och webbläsare, intressant. XP &#038; IE6 är
 <img id="image251" src="http://cdn.junkpile.se/2006/12/full-sok.png" alt="Statistik" />  
 Slutligen, de populäraste sökningarna.
 
-&#8220;Wiie&#8221; är intressant då [inlägget][2] bara har det som titel, hade ingen tanke på konsolen Wii då jag skrev titeln, jag antar att de flesta besöken blir besvikna när dom kommer hit då det är en av minna mer meningslösa poster som jag gjort <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />  
+&#8220;Wiie&#8221; är intressant då [inlägget][2] bara har det som titel, hade ingen tanke på konsolen Wii då jag skrev titeln, jag antar att de flesta besöken blir besvikna när dom kommer hit då det är en av minna mer meningslösa poster som jag gjort :)  
 Dessutom är det intressant att den ligger så bra som den gör i träffarna i Google, först träffen hos mig.
 
 &#8220;[partitest][3]&#8221; ligger tvåa, och här har besökarna hamnar på något vettigt, då jag levererar länkar till partitest.
 
 Det jag är överlag mest intresserad över är hur högt jag har kommit på normala ord som &#8220;burkar&#8221;, &#8220;rymdfärja&#8221; &#8230; jag ligger inte lika bra till nu, men brukar ligger kvar på första sidan. Och då har jag bara nämnt order 2 gånger varav en av de är i titeln.
 
-Nu har jag svamlat klart för i kväll <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> Ska bara göra ett experiment först, jag ska nu komma på några ord, och se hur bra det går att googla fram nästa år i olika sökmotorer.  
+Nu har jag svamlat klart för i kväll :) Ska bara göra ett experiment först, jag ska nu komma på några ord, och se hur bra det går att googla fram nästa år i olika sökmotorer.  
 Ett sätter jag i titeln, ett inom ett h1 element och ett rakt upp och ner i texten.
 
 # toblorex

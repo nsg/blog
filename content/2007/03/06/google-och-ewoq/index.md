@@ -14,7 +14,7 @@ Och när jag klickar på den så tar det stopp med texten.
 
 > The user xxxxxxxxx@gmail.com is not a member of EWOQ. Please ask your EWOQ contact for access.
 
-Jag har googlat lite på det, men inte fått någon självklar information, en del diskuterade i stil med är någon form av manuell kontroll över indexet. Någon som har bättre koll på vad det här kan vara för google-projekt? Vad står EWOQ för? Google föreslår EWOK i alla fall <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Jag har googlat lite på det, men inte fått någon självklar information, en del diskuterade i stil med är någon form av manuell kontroll över indexet. Någon som har bättre koll på vad det här kan vara för google-projekt? Vad står EWOQ för? Google föreslår EWOK i alla fall :) 
 
 :: Google, EWOQ
 

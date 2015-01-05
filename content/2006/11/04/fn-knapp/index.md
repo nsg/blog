@@ -16,9 +16,9 @@ Det hela var lagom irriterande då jag tryckte fel hela tiden, men jag vande mig
 
 Den andra förändringen är knappen Fn, den har ätit upp en liten bit av den högra shift-knappen **(3)**, irritationen har inte varit så stor på den förutom de få gångerna jag tryckt på den istället för shift. Den har stödj för en del funktioner som jag glömt bort, men Fn-F12 la jag på minnet då den låste tangentbordet.
 
-Nu för att återkoppla så kom jag på att låsa tangentbordet medan jag rengör tangenterna var en utmärkt idé, förutom det kan knappen säkert vara trevlig om man har barn, katter eller annat jobbigt folk, men då jag har inge av det så blir det en &#8220;rengör-tangentbordet-knapp&#8221; <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Nu för att återkoppla så kom jag på att låsa tangentbordet medan jag rengör tangenterna var en utmärkt idé, förutom det kan knappen säkert vara trevlig om man har barn, katter eller annat jobbigt folk, men då jag har inge av det så blir det en &#8220;rengör-tangentbordet-knapp&#8221; :) 
 
-Nu har jag svamlat klart för i natt om tangentbord <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Nu har jag svamlat klart för i natt om tangentbord :) 
 
 :: Tangentbord
 

@@ -17,7 +17,7 @@ Men jag hittade inget sätt och få inställningen att &#8220;sitta kvar&#8221;,
 
 Med &#8220;the old way&#8221; så menar jag att direkt editera konfigurationsfilen /etc/fstab som innehåller information om vilka partitioner som finns, och hur dom ska hanteras.
 
-Det är en kort fil, dock kan det vara en del kommentarer i filen, och i Ubuntu är det säkert mycket kommentarer <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> men syntaxen är som följande:
+Det är en kort fil, dock kan det vara en del kommentarer i filen, och i Ubuntu är det säkert mycket kommentarer :) men syntaxen är som följande:
 
 `/dev/hdb3               /home           reiserfs        noatime         0 0`
 
@@ -50,7 +50,7 @@ De två sista kan du ignorera, skriv bara 0 på dem.
 För att sedan få partitionen mountad skriv:  
 `sudo mount /mnt/katalognamn`  
 */mnt/katalognamn* är sökvägen som du valt tidigare.  
-Eller så kan du starta om datorn, men det vill man väll inte göra? <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Eller så kan du starta om datorn, men det vill man väll inte göra? :) 
 
 Ett exempel:
 

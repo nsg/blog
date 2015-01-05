@@ -6,9 +6,9 @@
  Date: 2006-08-11T02:09:10+00:00
  Categories: Personligt, Politik
 */
-Tanken med detta inlägget är att sammla och göra alla partitest jag kommer över, inte för att jag är direkt osäker på vad jag ska rösta innom för område, men jag funderar på Fp, M eller C som kandidater, jag har inte ännu satt mig in i deras program utan bara lyssnat på de vanliga vallöfterna och hur som allmänt betett sig <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Tanken med detta inlägget är att sammla och göra alla partitest jag kommer över, inte för att jag är direkt osäker på vad jag ska rösta innom för område, men jag funderar på Fp, M eller C som kandidater, jag har inte ännu satt mig in i deras program utan bara lyssnat på de vanliga vallöfterna och hur som allmänt betett sig :) 
 
-Jag får ta mig tid och läsa en massa snart, men först lite frågor, för att det är kul <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Jag får ta mig tid och läsa en massa snart, men först lite frågor, för att det är kul :) 
 
 Jag börjar med [SvD:s partitest för hela landet][1].
 

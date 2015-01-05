@@ -6,7 +6,7 @@
  Date: 2006-05-25T13:43:03+00:00
  Categories: Linux, Teknik
 */
-De senaste dagarna har jag bråkat lite med nätet, jag har både ett wlan-kort och ett vanligt nätverkskort i datorn. WLAN:et kör jag i skolan och sladd här hemma. Problemet är ett datorn har en förkärlek för att låta båda vara på när den går ur suspend eller startar, det kan skapa lite prob då datorn inte vet om det är på min eller min grannes upploppling den ska surfa på <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />  
+De senaste dagarna har jag bråkat lite med nätet, jag har både ett wlan-kort och ett vanligt nätverkskort i datorn. WLAN:et kör jag i skolan och sladd här hemma. Problemet är ett datorn har en förkärlek för att låta båda vara på när den går ur suspend eller startar, det kan skapa lite prob då datorn inte vet om det är på min eller min grannes upploppling den ska surfa på :)  
 En mindre sak igentligen, men rätt störande i längden, men då jag ändå hoppar mellan skola/hemma en del så gör det inte så mycket.
 
 En smart funktion vore (skriver i psedo-kod):  

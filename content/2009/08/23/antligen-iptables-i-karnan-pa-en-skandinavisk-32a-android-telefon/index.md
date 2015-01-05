@@ -26,7 +26,7 @@ Vill du prova? Du hittar bra guider på [Swedroids wiki][5], notera att du INTE 
 
 För ett tag sedan provade jag den nya kärnan med [android-wifi-tether][6], allt funkade perfekt. Ett trådlöst nätverk skapades som det bara var att ansluta till, det kan inte vara enklare. Nu kan jag använda min telefon som modem så länge den är i lägenheten, jag kan svara, går runt med den och prata, sitta och leka med den utan att sladden är i vägen o.s.v. &#8230; en enorm förbättring. Att det sedan inte kräver någon konfiguration på datorn gör att man enkelt kan starta ett wlan någon annan stans och dela med sig till någon kompis om man skulle vilja.
 
-Nu väntar jag bara på skype, en bra twitterklient (inte hittat någon som funkar som jag vill) och en bra facebook-applikation (som funkar som jag vill) så är jag nöjd (ett litet tag) <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Nu väntar jag bara på skype, en bra twitterklient (inte hittat någon som funkar som jag vill) och en bra facebook-applikation (som funkar som jag vill) så är jag nöjd (ett litet tag) :) 
 
 <small> <p class='technorati-tags'>
   Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/Android' rel='tag' target='_self'>Android</a>, <a class='technorati-link' href='http://bloggar.se/om/Cyanogen' rel='tag' target='_self'>Cyanogen</a>, <a class='technorati-link' href='http://bloggar.se/om/htc' rel='tag' target='_self'>htc</a>, <a class='technorati-link' href='http://bloggar.se/om/htc+magic' rel='tag' target='_self'>htc magic</a>, <a class='technorati-link' href='http://bloggar.se/om/Linux' rel='tag' target='_self'>Linux</a>, <a class='technorati-link' href='http://bloggar.se/om/magic' rel='tag' target='_self'>magic</a>

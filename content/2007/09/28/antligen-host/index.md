@@ -8,7 +8,7 @@
 */
 Hösten har kommit, det blir kallare, chansen att bli sjuk ökat och alla saker som skola och jobb kommer tillbaka, men det finns en stor fördel som hösten har. TV-Serier börjar sändas igen.
 
-Serier som nyligen har, eller kommer sändas är [Stargate Atlantis][1], [Heroes][2] och [House][3]. Atlantis sänds i morgon medan Heroes och House redan har sänt första avsnittet. Om någon börjar bli förvirrad så pratar jag naturligtvis om tiderna i USA/Kanada, att vänta månader eller år på att de kanske kommer hit gör man inte <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Serier som nyligen har, eller kommer sändas är [Stargate Atlantis][1], [Heroes][2] och [House][3]. Atlantis sänds i morgon medan Heroes och House redan har sänt första avsnittet. Om någon börjar bli förvirrad så pratar jag naturligtvis om tiderna i USA/Kanada, att vänta månader eller år på att de kanske kommer hit gör man inte :) 
 
 Tyvärr är det en halv oändlighet innan [Battlestar Galactica][4] börjar igen, och [SG-1][5] [filmerna][6] kommer även de dröja ett tag om jag minns korrekt.
 
@@ -17,9 +17,9 @@ Tyvärr så är det lite svajigt om det kommer bli en full säsong två, de sju 
 
 En annan serie som jag gillar är [Kyle XY][8], den har det sänds 1,5 säsonger av. Resten av säsong 2 kommer troligtvis att sändas i början av nästa år. Kyle är ingen vanlig tonåring, han minns inget sedan ha vaknade upp i skogen. Han kunde inget, allt var nytt, att äta, gå på toa och prata. Men han är otroligt begåvad, han lär sig att prata på bara någon dag och han minns allt han läser, han är ett supergeni. En stor vikt i serien handlar om vart kan kommer i från.
 
-Som du säkert förstår så är det Sci-Fi som jag gillar bäst. Jag har snöat in på det ordentligt de närmaste åren <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Som du säkert förstår så är det Sci-Fi som jag gillar bäst. Jag har snöat in på det ordentligt de närmaste åren :) 
 
-<small>För övrigt kan jag påpeka att jag har varit väldigt inaktiv här då jag inte har haft uppkoppling hemma nu på ett tag, så allt surfande har skett i skolan som t.ex. nu då jag i en datorsal och surfar lite innan jag ska hem. Men jag ska fixa något, datornörd som jag är så överlever jag inte utan uppkoppling <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> </small>
+<small>För övrigt kan jag påpeka att jag har varit väldigt inaktiv här då jag inte har haft uppkoppling hemma nu på ett tag, så allt surfande har skett i skolan som t.ex. nu då jag i en datorsal och surfar lite innan jag ska hem. Men jag ska fixa något, datornörd som jag är så överlever jag inte utan uppkoppling :) </small>
 
 :: Stargate, Stargate Atlantis, House, Heroes, Kyle XY, Jericho, TV, TV-Serie
 

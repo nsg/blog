@@ -10,6 +10,6 @@
 
 Jag kom hem i går men blogglusten har inte återkommit ännu, men jag har en sak som jag funderar att skriva om, måste läsa på lite först bara&#8230;
 
-*Jag funderar på att börja köra i WYSIWYG-läge istället för HTML-läge. Jag valde HTML då jag tyckte att **WYSIWYG genererade ful kod, men jag har börjat blivit lite lat och bekväm <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> *
+*Jag funderar på att börja köra i WYSIWYG-läge istället för HTML-läge. Jag valde HTML då jag tyckte att **WYSIWYG genererade ful kod, men jag har börjat blivit lite lat och bekväm :) *
 
 <small></small>

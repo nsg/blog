@@ -14,6 +14,6 @@ En notis, siffran efter är antal sidladdningar/klick, d.v.s. ingen koll alls. S
 
 :: Refferer, Besökare, Referer
 
-Ja, jag vet att det stavas &#8220;**Referer**&#8221; Blev lite fel, men nu får det vara kvar, lite kul <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Ja, jag vet att det stavas &#8220;**Referer**&#8221; Blev lite fel, men nu får det vara kvar, lite kul :) 
 
 <small></small>

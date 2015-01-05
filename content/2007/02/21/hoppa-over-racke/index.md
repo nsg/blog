@@ -17,7 +17,7 @@ Nej, jag hoppar inte ner i vattnet, utan att det är en slänt efter att man har
 <img id="image317" src="http://cdn.junkpile.se/2007/02/branmann-bron.png" alt="Brandmänn på bro" />  
 *Bild från Livräddarna*
 
-Det kommer vara svårt och gå där nu och inte tänka på det, när jag hoppar över räcket <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Det kommer vara svårt och gå där nu och inte tänka på det, när jag hoppar över räcket :) 
 
 [Här har du ett flygfoto][3] där du tydligt ser två stigar. Den kraftiga är den jag brukar ta, medan den närmare vattnet går igenom &#8220;skogen&#8221; och är praktisk för viss, egentligen borde jag ta den oxå, men det är kraftigare lutning där så jag gillar inte den lika mycket. Tror det var den som kvinnan tog, för brandmännen hittade ingen kropp. Jo, dom räknade ut det själva efter tipps av en boende om genvägen.
 

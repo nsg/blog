@@ -53,7 +53,7 @@ Tidigare i dag spenderade jag ungefär två timmar med betan av Windows 7, vill 
 
 *[<img class="alignnone size-full wp-image-46" title="12-snip" src="http://cdn.junkpile.se/2009/01/12-snip.png" alt="12-snip" width="772" height="596" />][12]*
 
-*Ett program för att ta skärmbilder på delar av skärmen, som du ser här har den även stödj för oregelbundna former. Lite synd att jag inte upptäckte den tidigare då jag spenderade massor av tid att kopiera in i Paint <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> *
+*Ett program för att ta skärmbilder på delar av skärmen, som du ser här har den även stödj för oregelbundna former. Lite synd att jag inte upptäckte den tidigare då jag spenderade massor av tid att kopiera in i Paint :) *
 
 *[<img class="alignnone size-full wp-image-47" title="13-wmp-img" src="http://cdn.junkpile.se/2009/01/13-wmp-img.png" alt="13-wmp-img" width="790" height="556" />][13]*
 

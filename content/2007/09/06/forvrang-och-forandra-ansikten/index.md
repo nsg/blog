@@ -14,7 +14,7 @@ Kan du gissa vem det är här under?
 
 <img src="http://cdn.junkpile.se/2007/09/php3mqzzh.jpg" title="php3mqzzh.jpg" alt="php3mqzzh.jpg" align="left" /> Kanske lite väl lätt, men de andra gick knappt och känna igen.
 
-Slutligen om någon undrar varför jag har varit så inaktiv den närmaste tiden så är det för att jag nu och ett tag fram över inte har uppkoppling hemma. Tack och lov så finns skolan <img src="http://nsg.cc/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Slutligen om någon undrar varför jag har varit så inaktiv den närmaste tiden så är det för att jag nu och ett tag fram över inte har uppkoppling hemma. Tack och lov så finns skolan :) 
 
 <a href="http://morph.cs.st-andrews.ac.uk/Transformer/" target="_blank">Faces of the Future</a>
 
