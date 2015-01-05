@@ -4,7 +4,7 @@
  Template: page
  Permalink: /om/
 */
-[<img class="aligncenter size-full wp-image-966" title="3jag" src="http://nsg.cc/wp-content/uploads/2006/05/3jag.png" alt="" width="642" height="189" />][1]
+[<img class="aligncenter size-full wp-image-966" title="3jag" src="http://cdn.junkpile.se/2006/05/3jag.png" alt="" width="642" height="189" />][1]
 
 Jag heter Stefan Berggren, jag bloggar först och främst för att jag tycker att det är kul att skriva men även för att dela med mig av saker jag upptäcker, lär mig eller ibland något kul. Kvalitén och mängden inlägg varierar kraftigt beroende hur mycket jag har att göra, vad jag har att skriva om samt om jag har skrivlust.
 
@@ -32,7 +32,7 @@ Jag har även ett intresse för fotografering samt science fiction så förmodli
 
 <small></small>
 
- [1]: http://nsg.cc/wp-content/uploads/2006/05/3jag.png
+ [1]: http://cdn.junkpile.se/2006/05/3jag.png
  [2]: http://twitter.com/nsgb "Besök mig på Twitter"
  [3]: http://facebook.com/stefan.berggren "Besök mig på Facebook"
  [4]: https://plus.google.com/114514271638622480493/about "esök mig på Google+"
