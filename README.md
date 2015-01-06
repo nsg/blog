@@ -1,25 +1,26 @@
 # nsg.cc
 
-1. Edit the files
-2. Test it on localhost:8080 with
+## For local dev
 
 ```
 make dev
 ```
 
-3. Problems? Get a shell and debug it with
+## Need a shell?
 
 ```
 make debug
 ```
 
-(you need to start apache your self with `apache2ctl start`)
-
-4. Tag a release in git
-5. Upload a Docker image based on the tag
+## Make a release
 
 ```
-make push
+make deploy
 ```
 
-6. Deploy the container!
+This will: 
+
+* Make a git tag
+* Tag the image
+* Upload the image to repo
+* Deploy the image
