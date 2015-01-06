@@ -32,7 +32,7 @@ git-push:
 docker-push: image docker-tag
 	docker push nsgb/blog:`git describe --tags`
 
-deploy: git-push docker-push
+deploy: docker-push git-push
 	shdeploy \
 		-H nsg.cc \
 		-d www \
