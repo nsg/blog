@@ -31,8 +31,8 @@ RUN curl -L -o /var/www/html/plugins/pico_cache.php https://raw.githubuserconten
 RUN echo "da6546ff86f6c5335f4b8571418d93642a21daec  /var/www/html/plugins/pico_cache.php" | sha1sum -c -
 
 # Setup Pico Tags
-RUN curl -L -o /var/www/html/plugins/pico_tags.php https://raw.githubusercontent.com/nsg/picocms-tags/400-if-tag-not-found/pico-tags.php
-#RUN echo "a3b4490e7e7ffda47b46f80ac09f51121c747774  /var/www/html/plugins/pico_tags.php" | sha1sum -c -
+RUN curl -L -o /var/www/html/plugins/pico_tags.php https://raw.githubusercontent.com/nsg/picocms-tags/dc50f02c40c0bb5dbd693889a5ca046bcf6b3aac/pico-tags.php
+RUN echo "3a3c724fee216a40011ebbcc504a9c3257c8741b  /var/www/html/plugins/pico_tags.php" | sha1sum -c -
 
 # Add content to image
 ADD content /var/www/html/content
