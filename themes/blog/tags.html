@@ -26,7 +26,7 @@
 			<h2>Posts tagged {{ meta.title }}</h2>
 			<ul>
 			{% for tag in meta.tags %}
-				<li><a href="{{ tag.url }}">{{ tag.title }}</a></li>
+				<li><a href="{{ tag.url }}">{{ tag.name }}</a></li>
 			{% endfor %}
 			</ul>
 			<div id="footer">
