@@ -20,21 +20,21 @@ index:
 	cd content && ../make_index
 
 git-tag:
-	git tag `git tag | tail -1 | awk -F. '{print $$1"."$$NF+1}'`
+	git tag `git describe --tags | awk -F. '{print $$1"."$$NF+1}'`
 
 docker-tag: git-tag
-	docker tag nsgb/blog nsgb/blog:`git tag | tail -1`
+	docker tag nsgb/blog nsgb/blog:`git describe --tags`
 
 git-push:
 	git push
 	git push --tags
 
 docker-push: image docker-tag
-	docker push nsgb/blog:`git tag | tail -1`
+	docker push nsgb/blog:`git describe --tags`
 
 deploy: git-push docker-push
 	shdeploy \
 		-H nsg.cc \
 		-d www \
-		-i nsgb/blog:`git tag | tail -1` \
+		-i nsgb/blog:`git describe --tags` \
 		-o nsg.cc
