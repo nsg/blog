@@ -25,10 +25,14 @@ git-tag:
 docker-tag: git-tag
 	docker tag nsgb/blog nsgb/blog:`git tag | tail -1`
 
-push: image docker-tag
+git-push:
+	git push
+	git push --tags
+
+docker-push: image docker-tag
 	docker push nsgb/blog:`git tag | tail -1`
 
-deploy: push
+deploy: git-push docker-push
 	shdeploy \
 		-H nsg.cc \
 		-d www \
