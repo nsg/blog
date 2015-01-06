@@ -1,6 +1,9 @@
 image: index
 	docker build -t nsgb/blog .
 
+reimage:
+	docker build --no-cache -t nsgb/blog .
+
 dev: image
 	docker run -t -i -p 8080:80 \
 		-v $$PWD/themes:/var/www/html/themes \
