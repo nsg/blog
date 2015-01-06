@@ -19,8 +19,11 @@ debug: image
 index:
 	cd content && ../make_index
 
-tag:
+git-tag:
+	git tag `git tag | tail -1 | awk -F. '{print $$1"."$$NF+1}'`
+
+docker-tag: git-tag
 	docker tag nsgb/blog nsgb/blog:`git tag | tail -1`
 
-push: image tag
+push: image docker-tag
 	docker push nsgb/blog:`git tag | tail -1`
