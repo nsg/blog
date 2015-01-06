@@ -40,3 +40,5 @@ ADD themes /var/www/html/themes
 ADD config.php /var/www/html/config.php
 
 ADD supervisor.conf /etc/supervisor/conf.d/
+ADD debug /usr/local/bin/debug
+RUN chmod +x /usr/local/bin/debug

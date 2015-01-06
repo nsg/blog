@@ -11,7 +11,7 @@ debug: image
 	docker run -t -i -p 8080:80 \
 		-v $$PWD/themes:/var/www/html/themes \
 		-v $$PWD/content:/var/www/html/content \
-		--entrypoint=/bin/bash nsgb/blog
+		--entrypoint=/usr/local/bin/debug nsgb/blog
 
 index:
 	cd content && ../make_index
