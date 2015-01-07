@@ -15,7 +15,7 @@ Det är ett kul och lite beroendeframkallande spel där man lär känna nya pers
 
 Tyvärr så kom spelet lagom till vintern i Sverige, men man får pälsa på sig och stå ut med lite kyla för att försvara sina portaler. På vägen hem ska jag t.ex. i dag möte upp med en kompis för att göra ett försök att ta över ett område för att utöka vårat territorium.
 
-
+<iframe width="640" height="360" src="http://www.youtube.com/embed/92rYjlxqypM" frameborder="0" allowfullscreen></iframe>
 
 Ett spel var inte det jag förväntade mig att Google skulle skulle släppa som nästa sak, men när man tänker på det så är det smart. De får fler personer att använda GPS:en på sin android-enhet samtidigt som de vandrar runt och frivilligt anger vart intressanta saker ligger. De kan även följa vart folk går för att avgöra vart det finns gångvägar m.m. Mycket intressant data att använda till Google Maps.
 

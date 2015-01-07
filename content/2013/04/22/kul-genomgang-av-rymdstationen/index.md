@@ -9,7 +9,7 @@
 */
 Hittade följande klipp där ESA (European Space Agency) astronauten André Kuipers (Nederländerna) går igenom och visar rymdstationen. Jag har sätt många klipp och saker förr men det som var kul var att han gick igenom den modul för modul och förklarade vad som var vad och man fick se mycket saker som jag inte sätt innan.
 
-
+<iframe width="640" height="360" src="http://www.youtube.com/embed/afBm0Dpfj_k" frameborder="0" allowfullscreen></iframe>
 
 Jag gillade specifikt att man fick se mycket av den ryska delen av stationen, normalt sätt när de filmar så gör de det i den amerikanska delen (förmodligen för att det är rymligare där).
 
