@@ -1,5 +1,10 @@
-FROM nsgb/baseimage:v2
+FROM ubuntu:14.04
 MAINTAINER Stefan Berggren
+
+RUN apt-get -y update
+RUN apt-get -y install supervisor
+
+ENTRYPOINT /usr/bin/supervisord -c /etc/supervisor/supervisord.conf --nodaemon
 
 RUN apt-get -y install apache2 php5 curl unzip
 
