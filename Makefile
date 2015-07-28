@@ -1,3 +1,8 @@
+TAG=$(shell date +%Y-%m-%d_%H%M%S)
+
+status:
+	git status --porcelain | wc -l | grep 0
+
 image: index
 	docker build -t nsgb/blog .
 
@@ -19,22 +24,14 @@ debug: image
 index:
 	cd content && ../make_index
 
-git-tag:
-	git tag `git describe --tags | awk -F. '{print $$1"."$$NF+1}'`
+docker-tag: status
+	docker tag nsgb/blog nsgb/blog:${TAG}
+	docker tag -f nsgb/blog nsgb/blog:latest
+	git tag ${TAG} -m "Pushed to Docker Hub"
 
-docker-tag: git-tag
-	docker tag nsgb/blog nsgb/blog:`git describe --tags`
-
-docker-tag-latest:
-	docker tag nsgb/blog nsgb/blog:latest
-
-git-push:
-	git push
-	git push --tags
-
-docker-push: image docker-tag docker-tag-latest
-	docker push nsgb/blog:`git describe --tags`
+docker-push: image docker-tag
+	docker push nsgb/blog:${TAG}
 	docker push nsgb/blog:latest
 
-deploy: docker-push git-push
+deploy: docker-push
 	ssh root@app.stefanberggren.se service blog restart
