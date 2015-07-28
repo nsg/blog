@@ -32,6 +32,8 @@ docker-tag: status
 docker-push: image docker-tag
 	docker push nsgb/blog:${TAG}
 	docker push nsgb/blog:latest
+	git push
+	git push --tags
 
 deploy: docker-push
 	ssh root@app.stefanberggren.se service blog restart
