@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Remove cache
+rm /var/www/html/plugins/pico_cache.php || :
+
 apache2ctl start
 
 /bin/bash
