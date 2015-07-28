@@ -25,16 +25,16 @@ git-tag:
 docker-tag: git-tag
 	docker tag nsgb/blog nsgb/blog:`git describe --tags`
 
+docker-tag-latest:
+	docker tag nsgb/blog nsgb/blog:latest
+
 git-push:
 	git push
 	git push --tags
 
-docker-push: image docker-tag
+docker-push: image docker-tag docker-tag-latest
 	docker push nsgb/blog:`git describe --tags`
+	docker push nsgb/blog:latest
 
 deploy: docker-push git-push
-	shdeploy \
-		-H nsg.cc \
-		-d www \
-		-i nsgb/blog:`git describe --tags` \
-		-o nsg.cc
+	ssh root@app.stefanberggren.se service blog restart
