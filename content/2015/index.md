@@ -9,3 +9,4 @@
  * [Hello there 2015](/2015/01/02/hello-there-2015/)
  * [Containers](/2015/01/07/containers/)
  * [Stress](/2015/01/07/stress/)
+ * [De-Google my life](/2015/07/28/de-google-my-life/)
