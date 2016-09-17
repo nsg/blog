@@ -27,3 +27,6 @@ docker-push: image docker-tag
 	docker push ${IMAGE}:latest
 	git push
 	git push --tags
+
+deploy: docker-push
+	ssh root@nsg.cc service blog restart
