@@ -1,7 +1,7 @@
 +++
 date = "2016-09-17T22:42:00+01:00"
 title = "Meizu Pro 5"
-tags = ["Personal"]
+tags = ["Personal", "Meizu Pro 5", "Ubuntu Touch"]
 +++
 
 The grass is always greener on the other side, or something. I have gotten really tired on Android, it feels like it’s moving in the wrong direction, at least for me. So I have been thinking about my options, but Apple products are a nogo for me, and Windows Phone is a joke so ...
