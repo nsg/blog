@@ -1,39 +1,29 @@
-TAG=$(shell date +%Y-%m-%d_%H%M%S)
+TAG := $(shell date +%Y-%m-%d_%H%M%S)
+IMAGE = nsgb/blog
 
 status:
 	git status --porcelain | wc -l | grep 0
 
-image: index
-	docker build -t nsgb/blog .
+image:
+	docker build -t ${IMAGE} .
 
 reimage:
-	docker build --no-cache -t nsgb/blog .
+	docker build --no-cache -t ${IMAGE} .
 
-dev: image
-	docker run -t -i -p 8080:80 \
-		-v $$PWD/themes:/var/www/html/themes \
-		-v $$PWD/content:/var/www/html/content \
-		nsgb/blog
+run: image
+	docker run -ti -p 8080:8080 -v $$PWD/site:/site ${IMAGE} \
+		hugo server --buildDrafts --bind 0.0.0.0 -p 8080
 
-debug: image
-	docker run -t -i -p 8080:80 \
-		-v $$PWD/themes:/var/www/html/themes \
-		-v $$PWD/content:/var/www/html/content \
-		--entrypoint=/usr/local/bin/debug nsgb/blog
-
-index:
-	cd content && ../make_index
+bash: image
+	docker run -ti -p 8080:8080 -v $$PWD/site:/site ${IMAGE} bash
 
 docker-tag: status
-	docker tag nsgb/blog nsgb/blog:${TAG}
-	docker tag -f nsgb/blog nsgb/blog:latest
+	docker tag ${IMAGE} ${IMAGE}:${TAG}
+	docker tag -f ${IMAGE} ${IMAGE}:latest
 	git tag ${TAG} -m "Pushed to Docker Hub"
 
 docker-push: image docker-tag
-	docker push nsgb/blog:${TAG}
-	docker push nsgb/blog:latest
+	docker push ${IMAGE}:${TAG}
+	docker push ${IMAGE}:latest
 	git push
 	git push --tags
-
-deploy: docker-push
-	ssh root@app.stefanberggren.se service blog restart

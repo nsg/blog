@@ -1,0 +1,16 @@
+baseurl = "http://localhost/"
+languageCode = "en-us"
+title = "nsg"
+disqusShortname = "nsgcc"
+theme = "angels-ladder"
+
+[permalinks]
+post = "/:year/:month/:day/:filename/"
+
+[Params]
+subtitle = "A blog about me, what I do and stuff"
+twitter = "https://twitter.com/nsgb"
+github = "https://github.com/nsg"
+showRSS = true
+profile = "https://pbs.twimg.com/profile_images/218093529/lego-jag-head.png"
+copyright = "Written by Stefan Berggren"
