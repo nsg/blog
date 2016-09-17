@@ -18,4 +18,4 @@ ADD site /site
 WORKDIR /site/blog
 
 # Production parameters
-CMD hugo server --bind 0.0.0.0 --appendPort=false
+CMD hugo server --bind 0.0.0.0 -p 8080 --appendPort=false
