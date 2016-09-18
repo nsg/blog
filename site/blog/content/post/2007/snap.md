@@ -4,7 +4,7 @@ title = "Snap"
 +++
 
 <div class="middle">
-  <img src='http://cdn.junkpile.se/2007/06/snap.png' alt='snap.png' />
+  <img src='/images/2007/06/snap.png' alt='snap.png' />
 </div>
 
 Jag har tittat på tjänsten [Snap][1] nu ett tag, dom började med att ge en liten &#8220;Snap Shot&#8221; av sidan som en länk pekar på, bekvämt att slippa trycka på en länk för att få en snabb koll på om man känner igen sidan. Den senaste tiden har dom utökat sitt utbud lite, om man t.ex. pekar på ett youtube-klipp så visas inte en skärmbild av sidan, utan youtube-filmen, riktigt bekvämt. Samma sak är det med bloggar där RSS-feeden visas i stället.

@@ -4,7 +4,7 @@ title = "Döda flyger och piratkopiering dör"
 +++
 
 <div class="middle">
-  <a href="http://flickr.com/photos/inju/218930736/"><img id="image361" src="http://cdn.junkpile.se/2007/03/218930736_9ec143dd31-cat.jpg" alt="218930736_9ec143dd31-cat.jpg" /></a>
+  <a href="http://flickr.com/photos/inju/218930736/"><img id="image361" src="/images/2007/03/218930736_9ec143dd31-cat.jpg" alt="218930736_9ec143dd31-cat.jpg" /></a>
 </div>
 
 Vad gör man som flygvärdinna om en passagerare dör? Uppgraderar passageraren till första klass tydligen. Lite bisarrt när man tänker på det, speciellt då kropen tydligen åkte runt p.g.a. luftgropar. Fast åt andra sidan, vad ska dom göra? Jag antar att dom flyttade kroppen till första klass då det var betydligt mindre folk där. <del datetime="2007-03-19T19:26:04+00:00">Läs mer på <a href="http://www.svd.se/dynamiskt/utrikes/did_14847831.asp">SvD</a></del>. Konstigt, funkar inte längre här kommer en på [DN][1].

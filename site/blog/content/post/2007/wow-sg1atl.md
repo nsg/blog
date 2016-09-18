@@ -4,7 +4,7 @@ title = "Wow sg1&#038;atl"
 +++
 
 <div class="center">
-  <img id="image355" src="http://cdn.junkpile.se/2007/03/gal.jpg" alt="gal.jpg" /><br /><em>Bild på <a href="http://en.wikipedia.org/wiki/Moros_(Stargate)">Moros</a>, längre fram i historien känd dom Myrrdin, och slutligen känd som Merlin</em>
+  <img id="image355" src="/images/2007/03/gal.jpg" alt="gal.jpg" /><br /><em>Bild på <a href="http://en.wikipedia.org/wiki/Moros_(Stargate)">Moros</a>, längre fram i historien känd dom Myrrdin, och slutligen känd som Merlin</em>
 </div>
 
 Tänka sig, gjorde en mycket trevlig upptäckt nyss. Episod 10 till 20 i säsong 10 av Stargate SG-1 har sänds (i kanada antar jag), jag följde den kanadensiska sändningarna av Stargate Atlantis, precis som förra året då som började sända vårens &#8220;dos&#8221; 2-3 månader tidigare än USA. Tydligen gjorde dom samma sak med SG-1 i år, så nu har jag hela 10 avsnitt och se.

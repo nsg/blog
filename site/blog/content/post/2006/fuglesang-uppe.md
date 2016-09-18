@@ -5,7 +5,7 @@ title = "Fuglesang uppe"
 
 Nu i natt för ca 1 timme sedan (02:47) lyfte Fuglesang.
 
-<img id="image156" src="http://cdn.junkpile.se/2006/12/toiss.gif" alt="toiss.gif" />
+<img id="image156" src="/images/2006/12/toiss.gif" alt="toiss.gif" />
 
 &#8212;
 

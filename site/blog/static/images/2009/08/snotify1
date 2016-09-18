@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# Your username
+# Default, user running nautilus:
+# USERNAME=`ps u -e | grep nautilus | awk -F ' ' '{print $1}' | tail -1`
+
+USERNAME="`ps u -e | grep nautilus | awk -F ' ' '{print $1}' | tail -1`"
+
+# Path to notify binary
+NOTIFY="/usr/bin/notify-send"
+
+# Path to snotify
+SNOTIFY="/opt/snotify/snotify"
+
+DEFAULT_TIMEOUT=5000

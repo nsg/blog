@@ -9,7 +9,7 @@ Det är ett nytt fönster i morgon, men ca 23 minuter tidigare istället. Men fr
 
 Det återstår och se när han kommer upp.
 
-<img id="image153" src="http://cdn.junkpile.se/2006/12/rocket-delay.gif" alt="rocket-delay.gif" />
+<img id="image153" src="/images/2006/12/rocket-delay.gif" alt="rocket-delay.gif" />
 
 :: ISS, Fuglesang, Rymden, Rymdfärja
 

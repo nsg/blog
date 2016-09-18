@@ -8,7 +8,7 @@ Nu är jag glad, fick bluetooth att funka under gentoo. Provade lite på det fö
 Så av en den tillfällighet nu mitt i natten så kom jag förbi bluetooth-guiden på [gentoo-wiki][1], vet inte om det är samma eller ej, som jag följde förut, den kan vara uppdaterad, eller så var jag mindre trött denna gången :) 
 
 Har dock haft lite problem med gnome:s usb-program, men kde:s funkar perfekt, gillade ändå dem bättre :)  
-<img id="image121" src="http://cdn.junkpile.se/2006/10/bluetooth.png" alt="BlÃ¥tand i bruk" />  
+<img id="image121" src="/images/2006/10/bluetooth.png" alt="BlÃ¥tand i bruk" />  
 Nu ska jag skyffla runt lite mer filer :) kanske prova lite program för att läsa adressbok, skicka sms &#8230;
 
 :: Bluetooth, Blåtand

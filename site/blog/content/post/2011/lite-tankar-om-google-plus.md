@@ -4,7 +4,7 @@ title = "Lite tankar om Google+"
 tags = ["Google"]
 +++
 
-[<img class="aligncenter size-full wp-image-1045" title="google-plus" src="http://cdn.junkpile.se/2011/07/google-plus.png" alt="" width="775" height="56" />][1]
+[<img class="aligncenter size-full wp-image-1045" title="google-plus" src="/images/2011/07/google-plus.png" alt="" width="775" height="56" />][1]
 
 Google gör som de brukar göra när de släpper något nytt, allt för att skapa hype. I min omgivning har intresset varit stort men betydligt svalare än när Google Wave var nytt. Nu känns dock inte Google+ nytt och intressant utan mer &#8220;Googles Facebook&#8221;.
 
@@ -22,4 +22,4 @@ Invite? Ja, jag har den möjligheten men delar bara ut de till folk jag känner,
   Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/google' rel='tag' target='_self'>google</a>
 </p></small>
 
- [1]: http://cdn.junkpile.se/2011/07/google-plus.png
+ [1]: /images/2011/07/google-plus.png

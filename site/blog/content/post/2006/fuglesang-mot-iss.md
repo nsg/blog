@@ -18,7 +18,7 @@ Som Patrick nämner i kommentarerna så är det självklart:
 
 Skyller nog på att jag är trött :) 
 
-<img id="image151" src="http://cdn.junkpile.se/2006/12/rocket.gif" alt="rocket.gif" />
+<img id="image151" src="/images/2006/12/rocket.gif" alt="rocket.gif" />
 
 :: ISS, Fuglesang, Rymden, Rymdfärja
 

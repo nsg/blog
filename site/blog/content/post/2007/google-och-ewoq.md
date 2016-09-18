@@ -3,7 +3,7 @@ date = "2007-03-06T02:22:07+00:00"
 title = "Google och EWOQ"
 +++
 
-[<img id="image340" src="http://cdn.junkpile.se/2007/03/ewok.jpg" alt="ewok" class="left" />][1]Sedan jag började logga referers så har jag fått in en del intressanta länkar, en av dem är följande.
+[<img id="image340" src="/images/2007/03/ewok.jpg" alt="ewok" class="left" />][1]Sedan jag började logga referers så har jag fått in en del intressanta länkar, en av dem är följande.
 
 > https://www.google.com/evaluation/search/rating/task-edit?task=55952169
 

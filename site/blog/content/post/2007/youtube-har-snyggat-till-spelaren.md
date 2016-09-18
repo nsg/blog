@@ -4,7 +4,7 @@ title = "YouTube har snyggat till spelaren"
 +++
 
 <div class="left">
-  <img src='http://cdn.junkpile.se/2007/06/ny-youtube.png' alt='ny-youtube.png' />
+  <img src='/images/2007/06/ny-youtube.png' alt='ny-youtube.png' />
 </div>
 
 Jag upptäckte just att YouTube har snyggat till sin spelare (embeded-versionen), se bilden eller [förrförra inlägget][1].

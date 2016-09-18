@@ -35,7 +35,7 @@ Vill du läsa på hur weave fungerar på har du här ett intressant (och teknisk
 </p>
 
 <p style="text-align: left;">
-  <img class="size-full wp-image-78 aligncenter" title="screenshot-firefox-weave" src="http://cdn.junkpile.se/2009/03/screenshot-firefox-weave.png" alt="screenshot-firefox-weave" width="572" height="561" />
+  <img class="size-full wp-image-78 aligncenter" title="screenshot-firefox-weave" src="/images/2009/03/screenshot-firefox-weave.png" alt="screenshot-firefox-weave" width="572" height="561" />
 </p>
 
 <p style="text-align: left;">

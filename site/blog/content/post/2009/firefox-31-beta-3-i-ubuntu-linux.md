@@ -87,4 +87,4 @@ Så där, det här var ett långt och krångligt, men lärorikt! sätt att insta
 </p></small>
 
  [1]: http://nsg.cc/2009/03/20/mozilla-weave-synkronisera-din-data/
- [2]: http://cdn.junkpile.se/2009/03/ff_sw.sh
+ [2]: /images/2009/03/ff_sw.sh

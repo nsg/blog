@@ -4,7 +4,7 @@ title = "Rullstol i 80 km/h"
 +++
 
 <div class="middle">
-  <img src='http://cdn.junkpile.se/2007/06/truckfront.jpg' alt='truckfront.jpg' />
+  <img src='/images/2007/06/truckfront.jpg' alt='truckfront.jpg' />
 </div>
 
 [SvD skriver][1] att en rullstolsbunden amerikan av misstag fastnade i grillen på en lastbil i ett övergångsställe och följde med den 6 kilometer, bitvis i 80 km/h. Det kan inte vara kul och sitta där, tänk om det lossnade i farten, den hade säkert mosats mellan gatan och lastbilen, eller kanske knuffats undan.

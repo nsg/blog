@@ -3,7 +3,7 @@ date = "2007-02-11T00:11:38+00:00"
 title = "Omskärelse"
 +++
 
-<img id="image297" src="http://cdn.junkpile.se/2007/02/omsk.png" alt="Omskärelse" />  
+<img id="image297" src="/images/2007/02/omsk.png" alt="Omskärelse" />  
 Jag ramlade in på bloggen *[Biggles Filosoferar][1]* av en tillfällighet, och landade på [detta intressanta inlägg][2].
 
 Han tar upp 10 funktioner som förhuden har, en eller två visste jag, ett par har man kunnat ana sig till. Men att den var så funktionsrik som den verkar vara hade jag ingen aning om.  
@@ -21,7 +21,7 @@ Det är ett svårt problem, i dagens läge tror jag inte det skulle funka så br
 
 Klart intressant sak om diskutera, vad tycker du? Vad har du för inställning?
 
-[Manlig omskärelse][3] <img id="image296" src="http://cdn.junkpile.se/2007/02/wikipedia.png" alt="Wikipedia" />
+[Manlig omskärelse][3] <img id="image296" src="/images/2007/02/wikipedia.png" alt="Wikipedia" />
 
 [Vårdguiden: Manlig omskärelse][4]
 

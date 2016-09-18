@@ -3,7 +3,7 @@ date = "2007-02-07T14:21:46+00:00"
 title = "Bildt"
 +++
 
-<img id="image289" src="http://cdn.junkpile.se/2007/02/alladessadagar.png" alt="Alla Dessa Dagar" />  
+<img id="image289" src="/images/2007/02/alladessadagar.png" alt="Alla Dessa Dagar" />  
 Carl Bildt har nu bloggat på sin [nya blogg][1] på svenska i ca 1,5 vecka. Inte helt oväntat så har han mycket besökare. Det som jag tycker om är att han håller en sådan vardaglig ton när han skriver, man märker att det är en personlig blogg, eller så personlig blogg som det kan bli med tanke på hans yrke.
 
 Hans [gamla blogg][2] som han skrev på engelska var mer stängd och officiell i sitt utförande, det fanns inte heller någon möjlighet att skriva kommentarer.

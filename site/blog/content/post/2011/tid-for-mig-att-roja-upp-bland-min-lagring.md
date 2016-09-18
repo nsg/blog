@@ -17,7 +17,7 @@ Det skönt att ha lite extra utrymme på hårddisken så det inte tar slut så j
 Den uppmärksamme noterade att jag skrev &#8220;för en vecka sedan&#8221; och inte &#8220;i dag&#8221;. Orsaken till det är att priset har ökat kraftigt senaste tiden på disk, så pass mycket att det är värt att nämnas. [Dustin][1] har just nu rabatt på en disk på 2T, den kostar &#8220;bara&#8221; 1990 kr. Det är långt över dubbla priset. Hur kommer det sig? Det har varit mycket översvämningar i Thailand, fabriker, leverantörer och vägar står/är stilla/nere/förstörda och det kommer mycket få leveranser av diskar till omvärlden. Det har skapat ett underskott av hårddiskar på marknaden och inte förvånande så stiger priserna.
 
 <div id="attachment_1066" style="width: 576px" class="wp-caption aligncenter">
-  <a href="http://cdn.junkpile.se/2011/11/2tfor1900sek.png"><img class="size-full wp-image-1066" title="2tfor1900sek" src="http://cdn.junkpile.se/2011/11/2tfor1900sek.png" alt="" width="566" height="251" /></a><p class="wp-caption-text">
+  <a href="/images/2011/11/2tfor1900sek.png"><img class="size-full wp-image-1066" title="2tfor1900sek" src="http://cdn.junkpile.se/2011/11/2tfor1900sek.png" alt="" width="566" height="251" /></a><p class="wp-caption-text">
     I början av november så kostade hårddiskarna "lite" mer än de brukade. För en vecka sedan köpte jag två identiska för 668 kr styck. Dagen efter kostade de ca 1800 kr.
   </p>
 </div>
@@ -35,7 +35,7 @@ Mitt system ligger på den RAID:en och den funkar bra och gör vad den ska, jag 
 Problemet är de andra diskarna, alla är olika stora. Just nu sitter det tre vanliga diskar i min dator. 320G, 500G och 2T. 320 disken är en disk som Windows får använda för att installera stora saker på vid behov, startar sällan Windows så den gör inte mycket nu för tiden. Tanken var sedan att bygga en RAID1 (spegel) mellan min 500G-disk och en partition på 500G på min 2T disk. Det skulle ge mig 500G av speglad säker lagring, och 1,5T osäker lagring. Tyvärr blev det inte så då min spegel råkade bli lite större än 500G och jag hade inte tid och ork att fixa det så nu ser det ut så här.
 
 <div id="attachment_1078" style="width: 582px" class="wp-caption aligncenter">
-  <a href="http://cdn.junkpile.se/2011/11/Disklayout-before1.png"><img class="size-full wp-image-1078   " title="Disklayout-before(1)" src="http://cdn.junkpile.se/2011/11/Disklayout-before1.png" alt="" width="572" height="324" /></a><p class="wp-caption-text">
+  <a href="/images/2011/11/Disklayout-before1.png"><img class="size-full wp-image-1078   " title="Disklayout-before(1)" src="http://cdn.junkpile.se/2011/11/Disklayout-before1.png" alt="" width="572" height="324" /></a><p class="wp-caption-text">
     Tycker du att det ser rörigt ut? Det gör jag med. Jag har tre LVM:er, en för snabb disk (SSD), en för säker disk (RAID1) och slutligen en för resten. Det är som jag ville ha det, dock är allt under riktigt rörigt, speciellt med "lvm i raid i lvm" och det skulle bli jobbigt om någon disk dog då det skulle bli en del jobb att få ihop allt igen.
   </p>
 </div>
@@ -47,7 +47,7 @@ Problemet är de andra diskarna, alla är olika stora. Just nu sitter det tre va
 När jag är klar så tänker jag bli av med den gamla 320G disken, Windows får 500G disken att leka med i stället och kvar för Linux blir två SSD:er och tre 2T-diskar. Här kommer en bild på hur det ska se ut när jag är klar.
 
 <div id="attachment_1084" style="width: 618px" class="wp-caption aligncenter">
-  <a href="http://cdn.junkpile.se/2011/11/Disklayout-after.png"><img class="size-full wp-image-1084   " title="Disklayout-after" src="http://cdn.junkpile.se/2011/11/Disklayout-after.png" alt="" width="608" height="343" /></a><p class="wp-caption-text">
+  <a href="/images/2011/11/Disklayout-after.png"><img class="size-full wp-image-1084   " title="Disklayout-after" src="http://cdn.junkpile.se/2011/11/Disklayout-after.png" alt="" width="608" height="343" /></a><p class="wp-caption-text">
     Mycket renare, bort med den icke-RAID:ade lvm:en och in med massor av säker lagring.
   </p>
 </div>
@@ -75,7 +75,7 @@ md3 är SSD:erna och ska ej röras, spegeln heter md127. Allt ser bra ut, både 
 Efter det stoppar jag in mina två nya 2T diskar och bootar dator igen och nu bör det se ut så här:
 
 <div id="attachment_1090" style="width: 692px" class="wp-caption aligncenter">
-  <a href="http://cdn.junkpile.se/2011/11/CopyofDisklayout-before.png"><img class="size-full wp-image-1090" title="CopyofDisklayout-before" src="http://cdn.junkpile.se/2011/11/CopyofDisklayout-before.png" alt="" width="682" height="386" /></a><p class="wp-caption-text">
+  <a href="/images/2011/11/CopyofDisklayout-before.png"><img class="size-full wp-image-1090" title="CopyofDisklayout-before" src="http://cdn.junkpile.se/2011/11/CopyofDisklayout-before.png" alt="" width="682" height="386" /></a><p class="wp-caption-text">
     Min "säkra" lvm som ligger i spegeln är inte säker längre då hälften av spegeln är borta. Men all data går att nå och skulle disken gå sönder nu så kan jag koppla tillbaka de andra diskarna och nå min data.
   </p>
 </div>
@@ -127,7 +127,7 @@ Efter det stoppar jag in mina två nya 2T diskar och bootar dator igen och nu b�
 </p>
 
 <div id="attachment_1096" style="width: 607px" class="wp-caption aligncenter">
-  <a href="http://cdn.junkpile.se/2011/11/disk-utility.png"><img class="size-large wp-image-1096  " title="disk utility" src="http://cdn.junkpile.se/2011/11/disk-utility-1024x200.png" alt="" width="597" height="117" /></a><p class="wp-caption-text">
+  <a href="/images/2011/11/disk-utility.png"><img class="size-large wp-image-1096  " title="disk utility" src="http://cdn.junkpile.se/2011/11/disk-utility-1024x200.png" alt="" width="597" height="117" /></a><p class="wp-caption-text">
     Du får en bra översikt av din disk, vilka partitioner den har, om SMART har raporterat något fel m.m. Jag tycker om Disk Utility då man får en bra översikt. Sedan att det är enklare skadar inte heller.
   </p>
 </div>
@@ -135,13 +135,13 @@ Efter det stoppar jag in mina två nya 2T diskar och bootar dator igen och nu b�
 Jag ser tre diskar som heter &#8220;2.0 TB Hard Disk&#8221;, det är lätta att se vilka diskar som är nya då de är helt tomma. Jag klickade på SMART Data-knappen och valde att köra ett &#8220;extended test&#8221;. Det kommer ta lång tid men jag har ingen broska utan kan använda datorn som vanligt.
 
 <div id="attachment_1095" style="width: 642px" class="wp-caption aligncenter">
-  <a href="http://cdn.junkpile.se/2011/11/smarttest.png"><img class="size-full wp-image-1095" title="smarttest" src="http://cdn.junkpile.se/2011/11/smarttest.png" alt="" width="632" height="531" /></a><p class="wp-caption-text">
+  <a href="/images/2011/11/smarttest.png"><img class="size-full wp-image-1095" title="smarttest" src="http://cdn.junkpile.se/2011/11/smarttest.png" alt="" width="632" height="531" /></a><p class="wp-caption-text">
     Inte en av de nya diskarna, det här är en av mina SSD:er men här ser du i alla fall ut det ser ut innan man startar testet samt hur det kan se ut efter att ha använt disken ett tag.
   </p>
 </div>
 
 <div id="attachment_1094" style="width: 652px" class="wp-caption aligncenter">
-  <a href="http://cdn.junkpile.se/2011/11/smarttestrunning.png"><img class="size-full wp-image-1094" title="smarttestrunning" src="http://cdn.junkpile.se/2011/11/smarttestrunning.png" alt="" width="642" height="530" /></a><p class="wp-caption-text">
+  <a href="/images/2011/11/smarttestrunning.png"><img class="size-full wp-image-1094" title="smarttestrunning" src="http://cdn.junkpile.se/2011/11/smarttestrunning.png" alt="" width="642" height="530" /></a><p class="wp-caption-text">
     Här är en av de nya diskarna, det går bra att stänga ner alla fönster om du vill då testet pågår internt i disken. Stäng inte av datorn bara (eller starta om).
   </p>
 </div>
@@ -163,13 +163,13 @@ Jag ser tre diskar som heter &#8220;2.0 TB Hard Disk&#8221;, det är lätta att 
 </p>
 
 <div id="attachment_1113" style="width: 690px" class="wp-caption aligncenter">
-  <a href="http://cdn.junkpile.se/2011/11/Screenshot-2.0-TB-Hard-Disk-ATA-ST2000DL003-9VT166-%E2%80%93-Benchmark.png"><img class="size-full wp-image-1113" title="Screenshot-2.0 TB Hard Disk (ATA ST2000DL003-9VT166) – Benchmark" src="http://cdn.junkpile.se/2011/11/Screenshot-2.0-TB-Hard-Disk-ATA-ST2000DL003-9VT166-%E2%80%93-Benchmark.png" alt="" width="680" height="542" /></a><p class="wp-caption-text">
+  <a href="/images/2011/11/Screenshot-2.0-TB-Hard-Disk-ATA-ST2000DL003-9VT166-%E2%80%93-Benchmark.png"><img class="size-full wp-image-1113" title="Screenshot-2.0 TB Hard Disk (ATA ST2000DL003-9VT166) – Benchmark" src="http://cdn.junkpile.se/2011/11/Screenshot-2.0-TB-Hard-Disk-ATA-ST2000DL003-9VT166-%E2%80%93-Benchmark.png" alt="" width="680" height="542" /></a><p class="wp-caption-text">
     Här ser man att det spelar roll vart på disken som datan ligger.
   </p>
 </div>
 
 <p style="text-align: left;">
-  <a href="http://cdn.junkpile.se/2011/11/Screenshot-2.0-TB-Hard-Disk-ATA-ST2000DL003-9VT166-%E2%80%93-Benchmark-1.png"><br /> </a><a href="http://cdn.junkpile.se/2011/11/Screenshot-2.0-TB-Hard-Disk-ATA-ST2000DL003-9VT166-%E2%80%93-Benchmark-1.png"><br /> </a>Jag väljer åter igen att använda mig av kommandoraden för att arbeta med min RAID, tycker det känns som man har mer kontroll. Men det går att arbeta med den från Disk Utility med om du föredrar.
+  <a href="/images/2011/11/Screenshot-2.0-TB-Hard-Disk-ATA-ST2000DL003-9VT166-%E2%80%93-Benchmark-1.png"><br /> </a><a href="http://cdn.junkpile.se/2011/11/Screenshot-2.0-TB-Hard-Disk-ATA-ST2000DL003-9VT166-%E2%80%93-Benchmark-1.png"><br /> </a>Jag väljer åter igen att använda mig av kommandoraden för att arbeta med min RAID, tycker det känns som man har mer kontroll. Men det går att arbeta med den från Disk Utility med om du föredrar.
 </p>
 
 <p style="text-align: left;">
@@ -304,7 +304,7 @@ Vi applicerar samma teknik som innan:
 Förra gången flyttade jag bara 564G, den här gången är det 1,1T så det kommer ta strax över dubbelt så lång tid, vilken tur att jag har planer för dagen. Det blir en tur för mig till tekniska för att se på NASA utställningen.
 
 <div id="attachment_1130" style="width: 498px" class="wp-caption aligncenter">
-  <a href="http://cdn.junkpile.se/2011/11/145r.jpg"><img class="size-full wp-image-1130" title="145r" src="http://cdn.junkpile.se/2011/11/145r.jpg" alt="" width="488" height="364" /></a><p class="wp-caption-text">
+  <a href="/images/2011/11/145r.jpg"><img class="size-full wp-image-1130" title="145r" src="http://cdn.junkpile.se/2011/11/145r.jpg" alt="" width="488" height="364" /></a><p class="wp-caption-text">
     Några timmar efter ha kollar på modeller och replica av raketer och kapslar, samt en och annan äkta del. Gått hem, ätit mat och fastnat i långa diskussioner, hamnat framför datorn och spelat minecraft så är det fortfarande 20% kvar. Tror nog inte jag kommer vidare i kväll då klockan redan är efter midnatt. Ang. bilden så är det en liten souvenir som jag köpte i kiosken.
   </p>
 </div>

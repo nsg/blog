@@ -3,7 +3,7 @@ date = "2007-01-30T09:42:29+00:00"
 title = "100% packet loss"
 +++
 
-<img id="image275" src="http://cdn.junkpile.se/2007/01/broken.jpg" alt="Trasig" />
+<img id="image275" src="/images/2007/01/broken.jpg" alt="Trasig" />
 
 Man inser inte hur beroende man är av en sak innan den går sönder, eller att man inte kan använda den av en annan orsak. I det här fallet var det serven som denna sidan körs på som jag inte kom åt under ca 16 timmar. Jag kör inte bara en del olika sidor från den utan även irc, lite irc-bottar och en del annat som är bekvämt och kunna nå från distans oberoende vart jag är.
 

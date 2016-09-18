@@ -3,7 +3,7 @@ date = "2007-02-07T00:44:17+00:00"
 title = "GoogleBakom kulisserna"
 +++
 
-<img id="image287" src="http://cdn.junkpile.se/2007/02/google.png" alt="gooGle" />
+<img id="image287" src="/images/2007/02/google.png" alt="gooGle" />
 
 Jag har just sett klart en dokumentär om Google, klart intressant.
 

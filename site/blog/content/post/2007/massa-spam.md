@@ -4,7 +4,7 @@ title = "Massa spam"
 +++
 
 <p style="text-align: center">
-  <img src="http://cdn.junkpile.se/2007/07/spam2.png" alt="spam2.png" />
+  <img src="/images/2007/07/spam2.png" alt="spam2.png" />
 </p>
 
 Nej jag pratar inte om kommentarsspam, utan vanlig klassisk spam via mail. Jag har noterat att jag fått mängder av spam som ser nästan identiskt ut, spelar egentligen ingen roll då alla fint identifieras som spam och landar i spamlådan, men jag undrar om den typen av spam bara cirkulerar nu eller om jag bara har haft otur.

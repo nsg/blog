@@ -28,7 +28,7 @@ Ett val mellan [Gnome][4] och [KDE][5] kom även upp, jag valde Gnome.
 
 **Bootad och klar**
 
-<img id="image90" src="http://cdn.junkpile.se/2006/07/suse-blandat.png" alt="suse-blandat.png" />
+<img id="image90" src="/images/2006/07/suse-blandat.png" alt="suse-blandat.png" />
 
 *Här kör jag gnome-terminal, YaST, Nautilus och Firefox.*
 
@@ -36,11 +36,11 @@ Den startar fint och ger ifrån sig ett konsoll-beep vid inloggningsprompten, GA
 
 Jag klickade på updateringsmanagern som lös upp nere vid klockan, den visade att det var en himmla massa paket att uppdatera, men misslyckades med det p.g.a. av något paket som krävde något som var trasigt. Jaha, jag startade YaST updater som uppdaterade något, jag provade igen och fick följande roliga meddelande.
 
-<img id="image91" src="http://cdn.junkpile.se/2006/07/suse-bugg.png" alt="suse-bugg.png" />
+<img id="image91" src="/images/2006/07/suse-bugg.png" alt="suse-bugg.png" />
 
 Kul nu krachade hela programmet instället, jag gick tillbaka till YaST och lät den uppdatera instället, men all sin seghet och allt som jag nämde tidigare :) 
 
-<img id="image92" src="http://cdn.junkpile.se/2006/07/YaST2-update.png" alt="YaST2-update.png" />
+<img id="image92" src="/images/2006/07/YaST2-update.png" alt="YaST2-update.png" />
 
 En intressant sak var att det som standard bara var ett skrivbord inställt, användarvänligt men lite udda då det enligt min mening är en trivial del av linux då vissa apps blir jobbga och köra om man inte har ett eget skrivbord för dem (tänk The Gimp).
 

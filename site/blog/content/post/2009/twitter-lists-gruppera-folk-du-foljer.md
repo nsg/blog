@@ -7,7 +7,7 @@ tags = ["listor", "twitter"]
 Jag såg en [tweet komma upp nyss på min laptop][1] om att CyanogenMod 4.2 har kommit ut, jag gick in på [twitter][2] för att klicka på länken och blev såg:
 
 <p style="text-align: center;">
-  <a href="http://cdn.junkpile.se/2009/10/twitter-lists-1.png"><img class="size-full wp-image-773  aligncenter" title="twitter-lists-1" src="http://cdn.junkpile.se/2009/10/twitter-lists-1.png" alt="twitter-lists-1" width="610" height="135" /></a>
+  <a href="/images/2009/10/twitter-lists-1.png"><img class="size-full wp-image-773  aligncenter" title="twitter-lists-1" src="http://cdn.junkpile.se/2009/10/twitter-lists-1.png" alt="twitter-lists-1" width="610" height="135" /></a>
 </p>
 
 Intressant, av texten att tolka så är det inte så många som har fått tillgång till det än, om det är hundratal, tusentals eller hundratusentals framgår det inte.
@@ -19,7 +19,7 @@ En annan fördel är att man kan följa en lista, precis som vilken användare s
 <http://twitter.com/nsgb/teknik> (Saker om teknik, som jag följer)
 
 <p style="text-align: center;">
-  <img class="size-full wp-image-774 aligncenter" title="twitter-lists-2" src="http://cdn.junkpile.se/2009/10/twitter-lists-2.png" alt="twitter-lists-2" width="604" height="186" />
+  <img class="size-full wp-image-774 aligncenter" title="twitter-lists-2" src="/images/2009/10/twitter-lists-2.png" alt="twitter-lists-2" width="604" height="186" />
 </p>
 
 <small> <p class='technorati-tags'>

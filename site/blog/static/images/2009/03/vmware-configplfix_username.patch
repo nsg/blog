@@ -1,0 +1,11 @@
+--- vmware-config.pl	2009-02-28 04:46:23.000000000 +0100
++++ /usr/bin/vmware-config.pl	2009-02-28 04:05:53.000000000 +0100
+@@ -3033,7 +3033,7 @@
+   my $answer = shift;
+   my $source = shift;
+ 
+-  if ($answer=~/^[^-]?[a-zA-Z0-9.\@\$_-]+$/) {
++  if ($answer=~/^[^-][a-zA-Z0-9.\@\$_-]+$/) {
+     my @id_params = getpwnam $answer;
+     if ((scalar(@id_params) != 0) && length($answer) < 32) {
+       return $answer;

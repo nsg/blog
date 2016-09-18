@@ -11,7 +11,7 @@ Stallman körde sin vanliga inövade presentation, som börjat med att beskriva 
 
 Det var en fråga som en person ställde som var intressant. Frågan löd hur han såg på [BIOS][5], då nästan alla BIOS på marknaden är icke-fria. Stallman sa att han köpte datorer med fritt BIOS då det gick, men det var ett stort problem med bärbara datorer då det bara fanns en dator på markanden som hade ett fritt BIOS, och det var [OLPC][6], som han snart skulle byta till för att flippa ett icke-fritt BIOS.
 
-<img src="http://cdn.junkpile.se/2008/02/rms-hedersdoktor.jpg" title="rms-hedersdoktor.jpg" alt="rms-hedersdoktor.jpg" align="left" />Programvara sparad på t.ex. ROM som sitter på ett kretskort såg han som en del av elektroniken, d.v.s. han hade inget problem med det, det är nog en förklaring om varför han kände att han kunde använda sin bärbara dator med gott samvete (IBM Thinkpad tror jag det var).
+<img src="/images/2008/02/rms-hedersdoktor.jpg" title="rms-hedersdoktor.jpg" alt="rms-hedersdoktor.jpg" align="left" />Programvara sparad på t.ex. ROM som sitter på ett kretskort såg han som en del av elektroniken, d.v.s. han hade inget problem med det, det är nog en förklaring om varför han kände att han kunde använda sin bärbara dator med gott samvete (IBM Thinkpad tror jag det var).
 
 För övrigt så är det även intressant att han varken äger en mobiltelefon eller använder kreditkort, allt för att inte myndigheter och företag ska kunna kartlägga honom. Han tar frihet och anonymitet riktigt seriöst.
 

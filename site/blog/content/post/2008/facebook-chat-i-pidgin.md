@@ -3,7 +3,7 @@ date = "2008-05-31T16:33:27+00:00"
 title = "Facebook Chat i Pidgin"
 +++
 
-<img src="http://cdn.junkpile.se/2008/05/screenshot19.png" title="screenshot19.png" alt="screenshot19.png" align="left" />Det har funnits i [Adium][1] nu ett tag så nu är det [Pidgins][2] tur att stödja [Facebook][3]
+<img src="/images/2008/05/screenshot19.png" title="screenshot19.png" alt="screenshot19.png" align="left" />Det har funnits i [Adium][1] nu ett tag så nu är det [Pidgins][2] tur att stödja [Facebook][3]
 
 Jag pratar inte (ännu) om något som funkar direkt genom att ha senaste versionen, nej du måste ladda ner och installera ett pluggin själv. Men det är enkelt, tog mig bara en minut.
 

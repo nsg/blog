@@ -27,15 +27,15 @@ Du gör bara en sökning efter koordinaterna i [Google Earth][3] eller [Google M
 Något man inte ser så tydligt dock på filmen när firefox-loggon visas är bilarna/flygplanen och personerna under vackert uppradade, det syns även tydligt att flygbilden är liten och lokal. Säkert inskickad till Google.
 
 <div class="middle">
-  <img id="image389" src="http://cdn.junkpile.se/2007/04/google-earth-1.png" alt="google-earth-1.png" /><br /> Notera rutan, man ser att det är en liten lokal bild.
+  <img id="image389" src="/images/2007/04/google-earth-1.png" alt="google-earth-1.png" /><br /> Notera rutan, man ser att det är en liten lokal bild.
 </div>
 
 <div class="middle">
-  <img id="image387" src="http://cdn.junkpile.se/2007/04/google-earth-2.png" alt="google-earth-2.png" /><br /> Notera bilarna.
+  <img id="image387" src="/images/2007/04/google-earth-2.png" alt="google-earth-2.png" /><br /> Notera bilarna.
 </div>
 
 <div class="middle">
-  <img id="image388" src="http://cdn.junkpile.se/2007/04/google-earth-3.png" alt="google-earth-3.png" /><br /> FX + folk, att personerna ligger och väntar i gräset är nog bevis nog att flygfotot är beställt.
+  <img id="image388" src="/images/2007/04/google-earth-3.png" alt="google-earth-3.png" /><br /> FX + folk, att personerna ligger och väntar i gräset är nog bevis nog att flygfotot är beställt.
 </div>
 
 :: Google, Google Earth, Google Maps, Jorden, Bilder

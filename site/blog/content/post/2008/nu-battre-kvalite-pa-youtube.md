@@ -3,7 +3,7 @@ date = "2008-03-01T15:01:36+00:00"
 title = "Nu bättre kvalité på YouTube"
 +++
 
-Du kanske har hört att YouTube håller på att arbeta med att förbättra kvalitén på sina filmer. Det har inte kommit publikt ännu men du kan ta en förhandstitt genom att lägga till **&fmt=18** eller **&fmt=6 **(18 är bättre, tror jag) i adressen. På bilden så ser du en liten inspelning jag gjorde för ett halvår sedan, man ser tydligt att det är bättre kvalité.<img src="http://cdn.junkpile.se/2008/03/youtube-hd.png" title="youtube-hd.png" alt="youtube-hd.png" align="left" />
+Du kanske har hört att YouTube håller på att arbeta med att förbättra kvalitén på sina filmer. Det har inte kommit publikt ännu men du kan ta en förhandstitt genom att lägga till **&fmt=18** eller **&fmt=6 **(18 är bättre, tror jag) i adressen. På bilden så ser du en liten inspelning jag gjorde för ett halvår sedan, man ser tydligt att det är bättre kvalité.<img src="/images/2008/03/youtube-hd.png" title="youtube-hd.png" alt="youtube-hd.png" align="left" />
 
 Det var på bloggen [webbsnack][1] som jag hittade tipsen, han använder följande video som exempel, ett mycket bra exempel då skillnaden syns tydligt.
 

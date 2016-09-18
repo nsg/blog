@@ -14,7 +14,7 @@ Guiden är skriven utifrån att du kör Ubuntu 7.04 (Feisty Fawn), har du en äl
 > Uppdaterat 2007-11-09  
 > Notera att du kan behöva installera ett program för att få det att funka, eventuellt  ändra i configurationsfilen /etc/wvdial.conf, se i min mer [avancerade &#8220;text-guide&#8221;][1] för mer information.
 
-<img title="screenshot3.png" src="http://cdn.junkpile.se/2007/10/screenshot3.png" alt="screenshot3.png" align="left" />Det första du vill göra är att plocka bort pin-koden från sim-kortet, det går att ha kvar den men det blir mycket enklare utan den. Du tar enklast bort den genom att installera modemet i en windows-installation och med hjälp av programmet stänga av kollen. Har du inte windows tillgängligt så kan du stoppa in simkortet i en mobiltelefon och göra samma sak där.
+<img title="screenshot3.png" src="/images/2007/10/screenshot3.png" alt="screenshot3.png" align="left" />Det första du vill göra är att plocka bort pin-koden från sim-kortet, det går att ha kvar den men det blir mycket enklare utan den. Du tar enklast bort den genom att installera modemet i en windows-installation och med hjälp av programmet stänga av kollen. Har du inte windows tillgängligt så kan du stoppa in simkortet i en mobiltelefon och göra samma sak där.
 
 Något är fel som gör att modemet bara funkar om det redan är i datorn när den startar, jag hoppas att det kommer vara fixat i nästa version av ubuntu som nu snart kommer.
 
@@ -31,4 +31,4 @@ Funkar allt som det ska så borde du efter ett tag vara uppkopplad, funkar det i
 <small></small>
 
  [1]: http://junkpile.se/~s/wp/2007/10/huawei-e2200-hsdpa/
- [2]: http://cdn.junkpile.se/2007/10/screenshot4.png "screenshot4.png"
+ [2]: /images/2007/10/screenshot4.png "screenshot4.png"

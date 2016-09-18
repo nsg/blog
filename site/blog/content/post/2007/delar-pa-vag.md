@@ -5,11 +5,11 @@ title = "Delar på väg"
 
 I söndags så beställde jag nya delar till datorn (postorder). Men tyvärr går det segt, men jag håller tummarna att det förhoppningsvis kommer i morgon så jag kan hämta ut dem. Gjorde en koll nu och de rör på sig (wiie*), de är nu i Örebro får dock hoppas att de går iväg i natt och är här snart. Hoppas att de **inte** tar den här vägen:
 
-<img id="image365" src="http://cdn.junkpile.se/2007/03/paket-loc.png" alt="Örebro-sthlm" />
+<img id="image365" src="/images/2007/03/paket-loc.png" alt="Örebro-sthlm" />
 
 Så snart kan paketet vara inom synhåll (om var stålmannen och kunde se genom väggar).
 
-<img id="image366" src="http://cdn.junkpile.se/2007/03/tomteboda.jpg" alt="tomteboda" />  
+<img id="image366" src="/images/2007/03/tomteboda.jpg" alt="tomteboda" />  
 *Tomteboda -- Postterminal, tagit från mitt fönster.*
 
 Så vad är det? Jo saken är det att jag behövde ett nytt grafikkort, känns ju dumt och köpa ett agp-kort idag så det blev ett pci-e. Men då behövde jag nytt moderkort som hade en sådan platts, och ny cpu och nytt minne. Sedan slängde jag till en ny sata-disk + ny låda när jag ändå var i farten. Så om jag har tur ska jag ha kul i morgon kväll (kompilera linux på x86_64, prova LVM, Xen = kul), men jag kanske installerar Vista först, har länge velat pröva det men min nuvarande är på tok för slö.

@@ -18,7 +18,7 @@ Nu behöver du inte KDE för att köra digiKam, det räcker med att ha de delar 
 digiKam kan uppfattas som rörigt när man startar det första gången om man är van med stilrena program som t.ex. Picasa men jag gillar när program presenterar mycket information samtidigt, så man slipper leta sig fram i någon meny för att hitta någon information.
 
 Jag börjar med att bifoga en bild med ett par av mina bilder.  
-<a class="imagelink" href="http://cdn.junkpile.se/2006/12/screenshot-digikam.png" title="digiKam 1"><img id="image158" src="http://cdn.junkpile.se/2006/12/screenshot-digikam.thumbnail.png" alt="digiKam 1" /></a>
+<a class="imagelink" href="/images/2006/12/screenshot-digikam.png" title="digiKam 1"><img id="image158" src="http://cdn.junkpile.se/2006/12/screenshot-digikam.thumbnail.png" alt="digiKam 1" /></a>
 
 Jag har markerat fyra punkter som jag tänkte prata om.
 
@@ -40,11 +40,11 @@ Tag filters: Jag har inte provat den då jag inte använder tags, jag sorterar h
 
 Nästa bild skiljer sig inte så mycket från den förra med skillnaden att jag har valt &#8220;Dates&#8221; istället och visar alla bilder tagna mars 2006. Notera även att jag har skrivit en kommentar till ett par bilder.
 
-<a class="imagelink" href="http://cdn.junkpile.se/2006/12/screenshot-digikam-1.png" title="digiKam 2"><img id="image160" src="http://cdn.junkpile.se/2006/12/screenshot-digikam-1.thumbnail.png" alt="digiKam 2" /></a>
+<a class="imagelink" href="/images/2006/12/screenshot-digikam-1.png" title="digiKam 2"><img id="image160" src="http://cdn.junkpile.se/2006/12/screenshot-digikam-1.thumbnail.png" alt="digiKam 2" /></a>
 
 Nästa bild visar en sökning som jag har gjort på &#8220;solnedgång&#8221;.
 
-<img id="image161" src="http://cdn.junkpile.se/2006/12/screenshot-quick-search-digikam-1.png" alt="digiKam 3" />
+<img id="image161" src="/images/2006/12/screenshot-quick-search-digikam-1.png" alt="digiKam 3" />
 
 Möjligheten att spara träffarna finns även, dom hamnar då under fliken &#8220;Searches&#8221; som jag nämnde tidigare. Bekvämt.
 

@@ -13,7 +13,7 @@ tags = ["asus", "eee", "jaunty jackalope", "Linux", "netbook", "notifyosd", "ubu
 </p>
 
 <p style="text-align: center;">
-  <img class="size-full wp-image-96 aligncenter" title="osd" src="http://cdn.junkpile.se/2009/04/osd.png" alt="osd" width="306" height="96" />
+  <img class="size-full wp-image-96 aligncenter" title="osd" src="/images/2009/04/osd.png" alt="osd" width="306" height="96" />
 </p>
 
 <p style="text-align: left;">
@@ -25,7 +25,7 @@ tags = ["asus", "eee", "jaunty jackalope", "Linux", "netbook", "notifyosd", "ubu
 </p>
 
 <p style="text-align: center;">
-  <img class="size-full wp-image-95 aligncenter" title="screenshot-distribution-upgrade" src="http://cdn.junkpile.se/2009/04/screenshot-distribution-upgrade.png" alt="screenshot-distribution-upgrade" width="374" height="287" />
+  <img class="size-full wp-image-95 aligncenter" title="screenshot-distribution-upgrade" src="/images/2009/04/screenshot-distribution-upgrade.png" alt="screenshot-distribution-upgrade" width="374" height="287" />
 </p>
 
 <small> <p class='technorati-tags'>

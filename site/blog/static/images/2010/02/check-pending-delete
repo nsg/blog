@@ -1,0 +1,31 @@
+#!/bin/bash
+
+DOMAIN_NAME=$1
+DELAY=$2
+MAIL=$3
+
+if [ "x$3" = "x" ]; then
+    echo "Usage: $0 domain-name.ltd delay-in-seconds email-adress";
+    echo "Example: $0 example.com 120 my.email@example.com"
+    exit;
+fi
+
+
+echo "Pending delete check för $DOMAIN_NAME every $DELAY seconds";
+echo "A E-Mail message will be sent to $MAIL"
+
+while [ true ]; do
+
+    echo -n "[$(date)] "
+
+    whois $DOMAIN_NAME | grep "Status: PENDING-DELETE"
+
+    if [ $? = "1" ]; then
+        echo "Pending delete is over for $DOMAIN_NAME" | mail -s "[$DOMAIN_NAME] Pending delete" $MAIL
+        echo "Pending delete is over for $DOMAIN_NAME, ending process.";
+        exit;
+    fi
+
+    sleep $DELAY
+
+done

@@ -4,7 +4,7 @@ title = "Är det verkligen bra att blocka reklam"
 +++
 
 <div class="left">
-  <img id="image425" src="http://cdn.junkpile.se/2007/05/kop.png" alt="Köp" />
+  <img id="image425" src="/images/2007/05/kop.png" alt="Köp" />
 </div>
 
 Det finns mängder med olika typer av reklam när man rör sig runt på nätet. Vissa är riktigt snälla, men märker dom knappt som t.ex. [Googles AdSense][1], vi har mellansteget med klassiska banners som gör reklam för någon produkt men som inte stör för mycket. Slutligen har vi de riktigt jobbiga, de som blinkar och hoppar i ögonvrån hela tiden när man försöker fokusera på texten. Jag kan förstå att folk tröttnar och installerar plugins som t.ex. [Adblock Plus][2].

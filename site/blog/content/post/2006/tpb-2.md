@@ -3,7 +3,7 @@ date = "2006-06-02T16:40:21+00:00"
 title = "TPB 2"
 +++
 
-<img id="image69" src="http://cdn.junkpile.se/2006/06/thepiratebay.thumbnail.gif" alt="thepiratebay" />  
+<img id="image69" src="/images/2006/06/thepiratebay.thumbnail.gif" alt="thepiratebay" />  
 Ja, det har hännt en del, men jag kommer inte ta upp det så noga, om du är intresserad läs någon av bloggarna i det [förra inlägget][1].
 
 Tänkte tippsa om [TPBs juridiske rådgivare][2] som har börjat blogga. Han har även tagit sig tid att [översätta till engelska][3].

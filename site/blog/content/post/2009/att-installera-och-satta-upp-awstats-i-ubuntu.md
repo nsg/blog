@@ -4,7 +4,7 @@ title = "Att installera och sätta upp AWStats i Ubuntu"
 tags = ["Apache", "awstats", "cron", "Debian", "Linux", "Loggar", "Statistik", "Ubuntu"]
 +++
 
-<img class="alignright size-full wp-image-691" title="awstats" src="http://cdn.junkpile.se/2009/06/awstats_logo4.png" alt="awstats" width="111" height="51" />Jag har just spenderat några timmar med att installera och sätta upp AWStats på en av mina servrar. Jag tänkte dokumentera hur jag gjorde.
+<img class="alignright size-full wp-image-691" title="awstats" src="/images/2009/06/awstats_logo4.png" alt="awstats" width="111" height="51" />Jag har just spenderat några timmar med att installera och sätta upp AWStats på en av mina servrar. Jag tänkte dokumentera hur jag gjorde.
 
 AWStats är ett utmärkt program för att få statistik för din webbplats. AWStats har även stödj för andra typer av statistik som t.ex. ftp-servrar men det kommer jag inte ta upp här. Vill du veta mer kan du läsa på den officiella hemsidan eller kolla på ett demo.
 

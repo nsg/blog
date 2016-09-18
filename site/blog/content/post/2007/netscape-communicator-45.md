@@ -3,11 +3,11 @@ date = "2007-03-12T01:28:55+00:00"
 title = "Netscape Communicator 4.5"
 +++
 
-<img id="image346" src="http://cdn.junkpile.se/2007/03/jag-nuforr.gif" alt="Bild på mig, nu och förr" class="left" /> Ah, vet vet inte vilken min första webbläsare var, har minnen av Explorer 3.0 och Netscape. Netscape var dock den jag surfade först med på webben med. Efter att ha provat runt lite så är det version 4.5 som gav den äkta nostalgikänslan, jag minns att jag satt i skolan i årskurs 7 (1997-98) och surfade, det var min riktiga längre kontakt med internet. Visst jag hade varit i kontakt med det tidigare men då i mycket begränsad mängd och mera suttit som åskådare än surfare.  
+<img id="image346" src="/images/2007/03/jag-nuforr.gif" alt="Bild på mig, nu och förr" class="left" /> Ah, vet vet inte vilken min första webbläsare var, har minnen av Explorer 3.0 och Netscape. Netscape var dock den jag surfade först med på webben med. Efter att ha provat runt lite så är det version 4.5 som gav den äkta nostalgikänslan, jag minns att jag satt i skolan i årskurs 7 (1997-98) och surfade, det var min riktiga längre kontakt med internet. Visst jag hade varit i kontakt med det tidigare men då i mycket begränsad mängd och mera suttit som åskådare än surfare.  
 Det var jag och en kompis som satt och skrev HTML på rasterna och kollade runt lite på webben. Vi satt vid varsin dator och hade varsin hemsida på torget.se, och den [senaste versionen av sidan][1] ligger kvar (hurra).
 
 <div class="middle">
-  <a href="http://hemsidor.torget.se/users/d/darkwar/"><img id="image347" src="http://cdn.junkpile.se/2007/03/darkwar.png" alt="darkwar.png" /></a>
+  <a href="http://hemsidor.torget.se/users/d/darkwar/"><img id="image347" src="/images/2007/03/darkwar.png" alt="darkwar.png" /></a>
 </div>
 
 Men kan få en känsla om vad jag gjorde då genom att kolla på länkarna på sidan. Humor, skämt, star wars och en del html/javascript. Som jag nämnde innan så är det här den sista sidan, tyvärr har jag inte kvar sidan som jag hade innan, den bestod av frames, svart bakgrund med gul/vit (säkert lite rött också) text. Typisk personlig hemsida för den tiden :) Den som du ser nu är en liten halvklar omdesign som jag gjorde när jag hittade bakgrunden på en webbsida och fick inspiration.
