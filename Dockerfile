@@ -18,4 +18,10 @@ ADD site /site
 WORKDIR /site/blog
 
 # Production parameters
-CMD hugo server --bind 0.0.0.0 -p 8080 --appendPort=false --baseURL="http://nsg.cc"
+CMD hugo server \
+	--bind 0.0.0.0 \
+	-p 8080 \
+	--appendPort=false \
+	--baseURL="http://nsg.cc" \
+	--disableLiveReload=true \
+	--log=true
