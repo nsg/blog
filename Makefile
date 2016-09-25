@@ -29,4 +29,4 @@ docker-push: image docker-tag
 	git push --tags
 
 deploy: docker-push
-	ssh root@nsg.cc service blog restart
+	ssh root@46.101.146.196 service blog restart
