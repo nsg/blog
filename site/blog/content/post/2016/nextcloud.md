@@ -1,7 +1,7 @@
 +++
 date = "2016-09-30T21:24:00+01:00"
 title = "Nextcloud"
-tags = ["Nextcloud", "Ubuntu Touch"]
+tags = ["Nextcloud", "Owncloud"]
 +++
 
 ## Nextcloud vs. Owncloud
