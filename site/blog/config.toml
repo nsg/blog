@@ -2,11 +2,38 @@ languageCode = "en-us"
 title = "nsg"
 disqusShortname = "nsgcc"
 theme = "nuo"
+enableRobotsTXT = true
+pygmentsuseclasses = true
+PygmentsCodeFences = true
+canonifyurls = true
 
 [permalinks]
 post = "/:year/:month/:day/:filename/"
 
 [Params]
+author = "nsg"
 email = "nsg@nsg.cc"
 github = "nsg"
 twitter = "nsgb"
+disqusShortname = "nsgcc"
+changyan = false
+googleSiteVerification = false
+copyright = ""
+avatar = "https://pbs.twimg.com/profile_images/218093529/lego-jag-head.png"
+seotitle = "nsg's blog"
+subtitle = "My thoughts since '05"
+description = "Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again."
+paginate = 10
+
+[[menu.main]]
+  name = "Home"
+  weight = 10
+  identifier = "home"
+  url = "/"
+
+[[menu.main]]
+  name = "GitHub"
+  weight = 20
+  identifier = "github"
+  url = "https://github.com/nsg"
+
