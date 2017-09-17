@@ -20,7 +20,7 @@ bash: image
 
 docker-tag: status
 	${DOCKER} tag ${IMAGE} ${IMAGE}:${TAG}
-	${DOCKER} tag -f ${IMAGE} ${IMAGE}:latest
+	${DOCKER} tag ${IMAGE} ${IMAGE}:latest
 	git tag ${TAG} -m "Pushed to Docker Hub"
 
 site/blog/themes/blackburn:
