@@ -1,3 +1,3 @@
-[submodule "site/blog/themes/angels-ladder"]
-	path = site/blog/themes/angels-ladder
-	url = https://github.com/tanksuzuki/angels-ladder
+[submodule "site/blog/themes/nuo"]
+	path = site/blog/themes/nuo
+	url = https://github.com/laozhu/hugo-nuo
