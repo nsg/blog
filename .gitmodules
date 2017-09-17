@@ -1,3 +1,6 @@
 [submodule "site/blog/themes/nuo"]
 	path = site/blog/themes/nuo
 	url = https://github.com/laozhu/hugo-nuo
+[submodule "site/blog/themes/blackburn"]
+	path = site/blog/themes/blackburn
+	url = https://github.com/yoshiharuyamashita/blackburn.git

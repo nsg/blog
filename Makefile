@@ -5,7 +5,7 @@ DOCKER ?= sudo docker
 status:
 	git status --porcelain | wc -l | grep 0
 
-image: site/blog/themes/nuo
+image: site/blog/themes/blackburn
 	${DOCKER} build -t ${IMAGE} .
 
 reimage:
@@ -23,7 +23,7 @@ docker-tag: status
 	${DOCKER} tag -f ${IMAGE} ${IMAGE}:latest
 	git tag ${TAG} -m "Pushed to Docker Hub"
 
-site/blog/themes/nuo:
+site/blog/themes/blackburn:
 	submodule update --init --recursive
 
 docker-push: image docker-tag
