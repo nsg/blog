@@ -17,6 +17,6 @@ CMD hugo server \
 	--bind 0.0.0.0 \
 	-p 8080 \
 	--appendPort=false \
-	--baseURL="http://nsg.cc" \
+	--baseURL="https://nsg.cc" \
 	--disableLiveReload=true \
 	--log=true
