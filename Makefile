@@ -1,30 +1,31 @@
 TAG := $(shell date +%Y-%m-%d_%H%M%S)
 IMAGE = nsgb/blog
+DOCKER ?= sudo docker
 
 status:
 	git status --porcelain | wc -l | grep 0
 
 image:
-	docker build -t ${IMAGE} .
+	${DOCKER} build -t ${IMAGE} .
 
 reimage:
-	docker build --no-cache -t ${IMAGE} .
+	${DOCKER} build --no-cache -t ${IMAGE} .
 
 run: image
-	docker run -ti -p 8080:8080 -v $$PWD/site:/site ${IMAGE} \
+	${DOCKER} run -ti -p 8080:8080 -v $$PWD/site:/site ${IMAGE} \
 		hugo server --buildDrafts --bind 0.0.0.0 -p 8080 --baseURL="http://localhost"
 
 bash: image
-	docker run -ti -p 8080:8080 -v $$PWD/site:/site ${IMAGE} bash
+	${DOCKER} run -ti -p 8080:8080 -v $$PWD/site:/site ${IMAGE} bash
 
 docker-tag: status
-	docker tag ${IMAGE} ${IMAGE}:${TAG}
-	docker tag -f ${IMAGE} ${IMAGE}:latest
+	${DOCKER} tag ${IMAGE} ${IMAGE}:${TAG}
+	${DOCKER} tag -f ${IMAGE} ${IMAGE}:latest
 	git tag ${TAG} -m "Pushed to Docker Hub"
 
 docker-push: image docker-tag
-	docker push ${IMAGE}:${TAG}
-	docker push ${IMAGE}:latest
+	${DOCKER} push ${IMAGE}:${TAG}
+	${DOCKER} push ${IMAGE}:latest
 	git push
 	git push --tags
 
