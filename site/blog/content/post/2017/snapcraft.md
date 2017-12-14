@@ -212,7 +212,7 @@ This is mostly a problem in 3rd party repositories. But most people have at leas
 
 #### The Good
 
-> It's sanboxed
+> It's sandboxed
 
 If the application tries to do something nasty, it is sandboxed and can't do to much damage the to host system. This do of course depends on what permissions the package has.
 
