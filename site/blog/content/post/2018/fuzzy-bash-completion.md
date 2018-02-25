@@ -61,4 +61,4 @@ s() {
 complete -F __s__complete s
 ```
 
-It's now possible for me to type things like `ssh mariadb<tab>` or `ssh nyc*maria<tab>`.
+It's now possible for me to type things like `s mariadb<tab>` or `s nyc*maria<tab>`.
