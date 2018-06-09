@@ -40,7 +40,7 @@ An interesting thing with GitLab is it's open source core. All three offers ente
 
 This makes it possible for me to use GitLab at, for example, git.nsg.cc instead of gitlab.com. I have control of all the code, with is exactly my type of solution. Just one problem, why would anyone bother to make an account on my installation just to submit an issue or to open an merge request? For a large project, sure, for a small project, most likely not.
 
-Working federation will solve this, when it is possible to fork gitlab.com/project/repo to git.nsg.cc/nsg/repo, and then provide a merge request back and commit to issues, all with my identity from git.nsg.cc, them we are home! [There is some discussions of it over here](https://gitlab.com/gitlab-org/gitlab-ce/issues/4013).
+Working federation will solve this, when it is possible to fork gitlab.com/project/repo to git.nsg.cc/nsg/repo, and then provide a merge request back and comment to issues, all with my identity from git.nsg.cc, them we are home! [There is some discussions of it over here](https://gitlab.com/gitlab-org/gitlab-ce/issues/4013).
 
 ## What will I do?
 
