@@ -1,6 +1,7 @@
 TAG := $(shell date +%Y-%m-%d_%H%M%S)
 IMAGE = nsgb/blog
 DOCKER ?= sudo docker
+HOSTNAME := $(shell hostname)
 
 status:
 	git status --porcelain | wc -l | grep 0
@@ -13,7 +14,7 @@ reimage:
 
 run: image
 	${DOCKER} run -ti -p 8080:8080 -v $$PWD/site:/site ${IMAGE} \
-		hugo server --buildDrafts --bind 0.0.0.0 -p 8080 --baseURL="http://narsil.localdomain"
+		hugo server --buildDrafts --bind 0.0.0.0 -p 8080 --baseURL="http://${HOSTNAME}.localdomain"
 
 bash: image
 	${DOCKER} run -ti -p 8080:8080 -v $$PWD/site:/site ${IMAGE} bash
