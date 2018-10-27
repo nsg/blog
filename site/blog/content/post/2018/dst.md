@@ -48,6 +48,6 @@ So this is fantastic, more sunlight is good, right? Yeah, there is a small diffe
 
 ## Final words
 
-It look like DST will be removed in EU next year, nothing is really finalized but currently the suggestion is to let the member countries a choice if they like to stay in Daylight Saving Time or their real original time zones (Standard Time). For Sweden we have the choice if we like to stay inside UTC+1 (CEST) or UTC+2. Sweden is nicely aligned with the sun in the UTC+1 time zone so I really think we should keep it, it is our normal real standard time. Then of course, it would be confusing if every country around us choose to keep DST so I guess it makes sense to try to pick something together with the other member states.
+It look like DST will be removed in EU next year, nothing is really finalized but currently the suggestion is to let the member countries a choose if they like to stay in Daylight Saving Time or their real original time zones (Standard Time). For Sweden we have the choice if we like to stay in UTC+1 (CEST) or UTC+2. Sweden is nicely aligned with the sun in the UTC+1 time zone so I really think we should keep it, it is our normal real standard time. Then of course, it would be confusing if every country around us choose to keep DST so I guess it makes sense to try to pick something together with the other member states.
 
-I'm really happy that we till stop changing the time for no reason!
+I'm really happy that we will stop changing the time for no reason!
