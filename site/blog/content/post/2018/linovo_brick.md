@@ -66,4 +66,4 @@ The S3/S0i3-thing can I live with, I can use hibernate until I either Linux get 
 
 But what do I do with Thunderbolt BIOS Assist Mode, will I ever again be brave to enable that again? How is the Linux support without it?
 
-It saddens me that my first Lenovo experience is this horrible, tomorrow I will contact the store and possible then Linovo to get this thing sorted.
+It saddens me that my first Lenovo experience is this horrible, tomorrow I will contact the store and possible then Lenovo to get this thing sorted.
