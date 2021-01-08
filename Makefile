@@ -14,7 +14,7 @@ reimage:
 
 run: image
 	${DOCKER} run -ti -p 8080:8080 -v $$PWD/site:/site ${IMAGE} \
-		hugo server --buildDrafts --bind 0.0.0.0 -p 8080 --baseURL="http://${HOSTNAME}.localdomain"
+		hugo server --buildDrafts --bind 0.0.0.0 -p 8080 --baseURL="http://${HOSTNAME}.lan.nsgsrv.net"
 
 bash: image
 	${DOCKER} run -ti -p 8080:8080 -v $$PWD/site:/site ${IMAGE} bash
