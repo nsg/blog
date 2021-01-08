@@ -32,6 +32,3 @@ docker-push: image docker-tag
 	${DOCKER} push ${IMAGE}:latest
 	git push
 	git push --tags
-
-deploy: docker-push
-	ssh root@46.101.146.196 service blog restart
