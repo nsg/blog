@@ -1,5 +1,5 @@
 FROM ubuntu:18.04
-MAINTAINER Stefan Berggren
+LABEL maintainer="Stefan Berggren"
 
 ARG HUGO_VERSION=0.49.2
 ARG HUGO=https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.deb
