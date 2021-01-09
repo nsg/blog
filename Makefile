@@ -30,5 +30,11 @@ site/blog/themes/blackburn/theme.toml:
 docker-push: image docker-tag
 	${DOCKER} push ${IMAGE}:${TAG}
 	${DOCKER} push ${IMAGE}:latest
+
+git-push:
 	git push
 	git push --tags
+
+deploy: git-push docker-push
+	@echo "You need to bump the tag in the cluster!"
+	@echo "image: nsgb/blog:${TAG}"
