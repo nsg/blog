@@ -13,11 +13,8 @@ reimage:
 	${DOCKER} build --no-cache -t ${IMAGE} .
 
 run: image
-	${DOCKER} run -ti -p 8080:8080 -v $$PWD/site:/site ${IMAGE} \
+	${DOCKER} run -ti -p 8080:8080 -v $$PWD/site:/src ${IMAGE} \
 		server --buildDrafts --bind 0.0.0.0 -p 8080 --baseURL="http://${HOSTNAME}.lan.nsgsrv.net"
-
-bash: image
-	${DOCKER} run -ti -p 8080:8080 -v $$PWD/site:/site ${IMAGE} bash
 
 docker-tag: status
 	${DOCKER} tag ${IMAGE} ${IMAGE}:${TAG}
