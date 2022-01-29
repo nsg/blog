@@ -12,8 +12,6 @@ theme = "blackburn"
 [params]
   subtitle = "My thoughts since '05"
   brand = "nsg's blog"
-  highlightjs = "androidstudio"
-  highlightjs_extra_languages = ["yaml"]
   dateFormat = "2006-01-02"
   custom_css = ["css/style.css"]
 
