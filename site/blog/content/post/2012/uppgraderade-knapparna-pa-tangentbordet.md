@@ -21,6 +21,6 @@ Perfekt, nu kan jag fuska när det behövs igen.
   Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/Cherry+MX' rel='tag' target='_self'>Cherry MX</a>, <a class='technorati-link' href='http://bloggar.se/om/Das+Keyboard' rel='tag' target='_self'>Das Keyboard</a>, <a class='technorati-link' href='http://bloggar.se/om/Tangentbord' rel='tag' target='_self'>Tangentbord</a>, <a class='technorati-link' href='http://bloggar.se/om/WASD+Keyboards' rel='tag' target='_self'>WASD Keyboards</a>
 </p></small>
 
- [1]: http://nsg.cc/2011/08/02/hur-mycket-ska-man-lagga-pa-ett-tangentbord/
+ [1]: /post/2011/hur-mycket-ska-man-lagga-pa-ett-tangentbord/
  [2]: http://www.wasdkeyboards.com/
  [3]: /images/2012/04/visa-tbord.jpg
