@@ -47,3 +47,4 @@ theme = "blackburn"
 [markup]
   [markup.highlight]
     lineNos = true
+    style = "monokai"
