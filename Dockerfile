@@ -2,9 +2,9 @@ FROM klakegg/hugo:0.91.2
 
 ENV USER blog
 RUN adduser -g FALSE -D -H $USER
-USER $USER
 
-ADD site /src
+ADD --chown=${USER} site /src
+USER $USER
 WORKDIR /src/blog
 
 # Production parameters
