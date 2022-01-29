@@ -1,4 +1,4 @@
-FROM klakegg/hugo:0.49.2
+FROM klakegg/hugo:0.91.2
 
 ENV USER blog
 RUN adduser -g FALSE -D -H $USER
