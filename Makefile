@@ -8,6 +8,9 @@ run: build
 	${DOCKER} run -ti -p 8080:8080 -v $$PWD/site:/src ${IMAGE} \
 		server --disableFastRender --buildDrafts --bind 0.0.0.0 -p 8080 --baseURL="http://${HOSTNAME}.lan.nsgsrv.net"
 
+run-prod: build
+	${DOCKER} run -ti -p 8080:8080 ${IMAGE}
+
 build: site/blog/themes/blackburn/theme.toml
 	echo > site/blog/themes/blackburn/layouts/partials/share.html
 	${DOCKER} build -t ${IMAGE} .
