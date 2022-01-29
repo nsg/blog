@@ -43,3 +43,7 @@ theme = "blackburn"
 [social]
   twitter = "nsgb"
   github = "nsg"
+
+[markup]
+  [markup.highlight]
+    lineNos = true
