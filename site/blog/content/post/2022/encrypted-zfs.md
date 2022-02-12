@@ -1,5 +1,5 @@
 +++
-date = "2022-02-13T13:20:00+01:00"
+date = "2022-02-12T13:20:00+01:00"
 title = "Encrypted ZFS"
 tags = ["zfs", "encrypted"]
 +++
