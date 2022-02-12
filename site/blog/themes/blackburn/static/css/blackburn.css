@@ -17,6 +17,11 @@ p > code:hover {
   outline: 1px solid #aaa;
 }
 
+img[src$='#center'] {
+    display: block;
+    margin: 0.7rem auto;
+}
+
 a {
   color: #3b8bba;
   text-decoration: none;
