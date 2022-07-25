@@ -5,7 +5,7 @@ HOSTNAME := $(shell hostname)
 KUBECTL := kubectl --kubeconfig ${HOME}/.kube/k8s.yaml
 
 run: build
-	${DOCKER} run -ti -p 8080:8080 -v $$PWD/site:/src:U  ${IMAGE} \
+	${DOCKER} run -ti -p 8080:8080 -v $$PWD/site:/src  ${IMAGE} \
 		server --disableFastRender --buildDrafts --bind 0.0.0.0 -p 8080 --baseURL="http://${HOSTNAME}.lan.nsgsrv.net"
 
 run-prod: build
