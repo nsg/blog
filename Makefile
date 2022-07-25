@@ -1,6 +1,6 @@
 TAG := $(shell date +%Y-%m-%d_%H%M%S)
 IMAGE = nsgb/blog
-DOCKER ?= sudo docker
+DOCKER ?= podman
 HOSTNAME := $(shell hostname)
 KUBECTL := kubectl --kubeconfig ${HOME}/.kube/k8s.yaml
 
