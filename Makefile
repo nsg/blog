@@ -2,7 +2,6 @@ TAG := $(shell date +%Y-%m-%d_%H%M%S)
 IMAGE = nsgb/blog
 DOCKER ?= podman
 HOSTNAME := $(shell hostname)
-KUBECTL := kubectl --kubeconfig ${HOME}/.kube/k8s.yaml
 
 run: build
 	${DOCKER} run -ti -p 8080:8080 -v $$PWD/site:/src  ${IMAGE} \
@@ -25,4 +24,5 @@ push: build
 	${DOCKER} push ${IMAGE}:latest
 
 deploy: push
-	${KUBECTL} set image deployment/nsgcc blog=nsgb/blog:${TAG}
+	${DOCKER} tag ${IMAGE} ${IMAGE}:prod
+	${DOCKER} push ${IMAGE}:prod
