@@ -1,5 +1,6 @@
 FROM docker.io/klakegg/hugo:0.91.2
 
+ADD site /src
 WORKDIR /src/blog
 
 # Production parameters
