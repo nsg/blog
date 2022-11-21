@@ -43,6 +43,7 @@ theme = "blackburn"
 [social]
   twitter = "nsgb"
   github = "nsg"
+  mastodon = "https://mastodon.app.stefanberggren.se/@nsg"
 
 [markup]
   [markup.highlight]
