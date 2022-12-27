@@ -1,4 +1,4 @@
-base_url = "nsg.cc"
+base_url = "https://nsg.cc"
 title = "nsg's blog"
 compile_sass = true
 build_search_index = true
