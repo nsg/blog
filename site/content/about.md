@@ -9,3 +9,9 @@ I have a background in system administration and programming, I have built compu
 I love to write code, mostly around Linux, and I find containers, security and provisioning interesting I have spent a considering amount of time with this both professionally and privately.
 
 I prefer my own cloud over the public kind, both for privacy and fun reasons. I have got a little more pragmatic getting older realizing that I have to prioritize on what to spend my time on.
+
+## Links
+
+* [Mastodon](https://mastodon.app.stefanberggren.se/@nsg)
+* [Twitter](https://twitter.com/nsgb)
+* [GitHub](https://github.com/nsg)
