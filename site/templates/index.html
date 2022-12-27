@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% import "macros.html" as macros %}
+{% block title %}{{ config.title }}{% endblock title %}
+{% block page_header %}{% endblock page_header %}
+{% block section %}
+  {% set num = 0 %}
+  {% for post in section.subsections %}
+    {% set post_section = get_section(path=post) %}
+    {% for year in post_section.subsections | sort | reverse %}
+      {% set year_section = get_section(path=year) %}
+      {% for page in year_section.pages %}
+      {% set_global num = num + 1 %}
+        {% if num < 11 %}
+          {{ macros::post_preview(page=page) }}        
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  {% endfor %}
+{% endblock section %}

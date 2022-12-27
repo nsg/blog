@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% import "macros.html" as macros %}
+{% block title %} Year {{ section.title }} | {{ config.title }}{% endblock title %}
+{% block page_header %}
+  {% if section.title == "all" %}
+    <h2>Showing all posts from the entire archive</h2>
+  {% else %}
+    <h2>Showing posts from year <em>{{ section.title }}</em></h2>
+  {% endif %}
+{% endblock page_header %}
+{% block section %}
+
+  <article>
+    <ul>
+      {% for page in section.pages %}
+        {{ macros::post_preview(page=page) }}
+      {% endfor %}
+    </ul>
+  </article>
+  
+  <article>
+    {% for year in section.subsections | sort | reverse %}
+      {% set year_section = get_section(path=year) %}
+      <h3><a href="{{ year_section.permalink }}">{{ year_section.title }}</a></h3>
+      {% if year_section.title == "2014" %}
+        <div class="flag-container">
+          <div class="flag"></div>
+          I blogged in Swedish before 2015
+        </div>
+      {% endif %}
+      <ul>
+        {% for page in year_section.pages %}
+          <li>
+            <a href="{{ page.permalink }}">{{ page.title }}</a>
+            <span class="date">{{ page.date | date(format="%Y-%m-%d") }}</span>
+          </li>
+        {% endfor %}
+      </ul>
+    {% endfor %}
+  </article>
+
+{% endblock section %}

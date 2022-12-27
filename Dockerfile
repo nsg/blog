@@ -1,7 +1,7 @@
-FROM docker.io/klakegg/hugo:0.91.2
+# https://github.com/getzola/zola/pkgs/container/zola
+FROM ghcr.io/getzola/zola:v0.16.1
 
-ADD site /src
-WORKDIR /src/blog
+ADD site /site
+WORKDIR /site
 
-# Production parameters
-CMD ["server", "--bind 0.0.0.0", "-p 8080", "--appendPort=false", "--baseURL=https://nsg.cc", "--disableLiveReload=true", "--log=true", "--minify"]
+CMD ["serve", "--port", "8080", "-i", "0.0.0.0"]

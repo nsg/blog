@@ -1,0 +1,34 @@
+{% macro post_preview(page) %}
+    <h2><a href="{{ page.permalink }}">{{ page.title }}</a></h2>
+    <article>
+        {% set_global image_url = false %}
+        {% set paragraphs = page.content | split(pat="\n") %}
+        {% for paragraph in paragraphs %}
+          {% if paragraph is containing("img") %}
+            {% for p in paragraph | split(pat='"') %}
+              {% if p is containing("image") %}
+                {% set_global image_url = p %}
+                {% break %}
+              {% endif %}
+            {% endfor %}
+            {% break %}
+          {% endif %}
+        {% endfor %}
+
+        {% set paragraphs = page.content | split(pat="\n") %}
+        {% for paragraph in paragraphs %}
+          {% if paragraph | wordcount > 20 %}
+            {% if image_url %}
+              <a href="{{ page.permalink }}">
+                <img class="latest-image-preview" src="{{ image_url }}">
+              </a>
+            {% endif %}
+            {{ paragraph | safe}}
+            {% break %}
+          {% endif %}
+        {% endfor %}
+        <div class="continue">
+          <a href="{{ page.permalink }}">Continue Reading</a>
+        </div>
+      </article>
+{% endmacro post_preview %}

@@ -1,0 +1,138 @@
+<!DOCTYPE HTML>
+<html>
+
+{% if config.feed_filename == "atom.xml" %}
+  {% set atom_type = "application/atom+xml" %}
+{% else %}
+  {% set atom_type = "application/rss+xml" %}
+{% endif %}
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="{{ get_url(path="main.css") | safe }}">
+  <link rel="alternate" type="{{ atom_type | safe }}" title="RSS"  href="{{ get_url(path=config.feed_filename) | safe }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+  <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+</head>
+
+<body data-theme="light">
+  <header>
+    <h1><a href="/">{{ config.title }}</a></h1>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="/">Latest</a></li>
+      <li><a href="/post">Archive</a></li>
+      <li><a href="/tags">Tags</a></li>      
+      <li><a href="/about">About</a></li>
+    </ul>
+
+    <div class="search">
+      <form>
+        <label for="search"></label>
+        <input name="search">
+      </form>
+      <div class="search-result"></div>
+    </div>
+
+    <div class="theme-toggle">
+      <label class="switch" for="theme-toggle">
+        <input type="checkbox" id="theme-toggle">
+        <span class="slider"></span>
+      </label>
+    </div>
+  </nav>
+
+  <main>
+    {% block page_header %}
+    <section>
+      {% if page.title %}
+        <h2>{{ page.title }}</h2>
+      {% elif section.title %}
+        <h2>{{ section.title }}</h2>
+      {% endif %}
+    </section>
+    {% endblock page_header %}
+
+    <section>
+      {% block section %}
+        <article>
+          {% block article %}
+            {{ section.content | safe }}
+          {% endblock article %}
+        </article>
+      {% endblock section %}
+    </section>
+
+    {% if page.date %}
+      <section class="postend">
+        {% set this_ts = now() | date(format="%s") | int %}
+        {% set post_ts = page.date | date(format="%s") | int %}
+        {% if post_ts < this_ts - 86400 * 365 * 2 %}
+          <strong>Please note</strong> that this is a old post from the
+          year <strong>{{ page.year }}</strong> and the information may
+          be outdated.
+        {% endif %}
+        {% if page.backlinks %}
+          Pages that link here are
+          {% for backlink in page.backlinks %}
+            <a href="{{ backlink.permalink }}">{{ backlink.title }}</a>
+          {% endfor %} and they may be relevant.
+        {% endif %}
+        All these {{ page.word_count }} words are written by 
+        <a href="/about">Stefan Berggren</a>, feel free and contact
+        me if you like.
+      </section>
+    {% endif %}
+  </main>
+
+  <footer>
+    For more information about this blog, see <a href="/about">about</a>.
+  </footer>
+
+  <script>
+
+    function get_os_dark_mode() {
+      return window.matchMedia("(prefers-color-scheme: dark)").matches
+    }
+
+    function get_user_dark_mode() {
+      return sessionStorage.getItem("toggle_checked") == "true";
+    }
+
+    let dark = get_user_dark_mode()
+    if (dark == null) {
+      dark = get_os_dark_mode();
+      sessionStorage.setItem("toggle_checked", dark);
+    }
+
+    let toggle = document.getElementById('theme-toggle')
+    toggle.checked = dark;
+
+    function update_theme() {
+      var body = document.getElementsByTagName('body')[0];
+      let toggle = document.getElementById('theme-toggle')
+      if (toggle.checked) {
+        body.setAttribute('data-theme', 'dark');
+      } else {
+        body.setAttribute('data-theme', 'light');
+      }
+    }
+
+    (function() {
+      let toggle = document.getElementById('theme-toggle')
+      toggle.addEventListener('change', (event) => {
+        update_theme()
+        sessionStorage.setItem("toggle_checked", toggle.checked ? true : false);
+      });
+    })();
+    
+    update_theme();
+
+  </script>
+  <script type="text/javascript" src="{{ get_url(path="elasticlunr.min.js") | safe }}"></script>
+  <script type="text/javascript" src="{{ get_url(path="search_index.en.js") | safe }}"></script>
+  <script type="text/javascript" src="{{ get_url(path="main.js") | safe }}"></script>
+</body>
+
+</html>

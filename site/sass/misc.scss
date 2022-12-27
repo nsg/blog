@@ -1,0 +1,33 @@
+.flag {
+    background-color: #006AA7;
+    width: 40px;
+    height: 24px;
+    position: relative;
+    margin: auto;
+
+    &:before {
+        background-color: #FECC00;
+        content: "";
+        height: 15%;
+        left: 0;
+        margin-top: -5%;
+        position: absolute;
+        top: 50%;
+        width: 100%;
+    }
+
+    &:after {
+        background-color: #FECC00;
+        content: "";
+        height: 100%;
+        left: 30%;
+        margin-left: -5%;
+        position: absolute;
+        top: 0;
+        width: 9%;
+    }
+}
+
+.flag-container {
+    text-align: center;
+}

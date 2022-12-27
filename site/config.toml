@@ -1,0 +1,16 @@
+base_url = "nsg.cc"
+title = "nsg's blog"
+compile_sass = true
+build_search_index = true
+generate_feed = true
+paginate_by = 10
+default_language = "en"
+port = 8080
+
+taxonomies = [
+    { name = "tags", feed = true}
+]
+
+[markdown]
+highlight_code = true
+highlight_theme = "base16-ocean-light"

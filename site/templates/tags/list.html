@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block title %}All Tags | {{ config.title }}{% endblock title %}
+{% block page_header %}
+    <h2>All tags in all posts</em></h2>
+{% endblock page_header %}
+{% block section %}
+    <article>
+        <ul>
+        {% set_global first_char_last = "" %}
+        {% for term in terms %}
+            {% set first_char = term.name | truncate(length=1, end="") | upper %}
+            {% if first_char != first_char_last %}
+                </ul>
+                <h3>{{ first_char }}</h3>
+                <ul>
+            {% endif %}
+            <li>
+                <a href="{{ term.permalink }}">{{ term.name }}</a>
+            </li>
+            {% set_global first_char_last = first_char %}
+        {% endfor %}
+    </article>
+{% endblock section %}

@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% import "macros.html" as macros %}
+{% block title %}Tag {{ term.name }} | {{ config.title }}{% endblock title %}
+{% block page_header %}
+    <h2>Showing posts tagged with <em>{{ term.name }}</em></h2>
+{% endblock page_header %}
+{% block section %}
+    {% for page in term.pages %}
+        {{ macros::post_preview(page=page) }}
+    {% endfor %}
+{% endblock section %}

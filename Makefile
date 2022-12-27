@@ -1,28 +1,18 @@
-TAG := $(shell date +%Y-%m-%d_%H%M%S)
 IMAGE = nsgb/blog
-DOCKER ?= podman
 HOSTNAME := $(shell hostname)
 
 run: build
-	${DOCKER} run -ti -p 8080:8080 -v $$PWD/site:/src  ${IMAGE} \
-		server --disableFastRender --buildDrafts --bind 0.0.0.0 -p 8080 --baseURL="http://${HOSTNAME}.lan.nsgsrv.net"
+	podman run -v$(shell pwd)/site:/site -p 1111:1111 -p 1024:1024 ${IMAGE} serve -p 1111 -i 0.0.0.0 --base-url "${HOSTNAME}.lan.nsgsrv.net"
 
-run-prod: build
-	${DOCKER} run -ti -p 8080:8080 ${IMAGE}
+runprod: build
+	podman run -p 8080:8080 ${IMAGE}
 
-build: site/blog/themes/blackburn/theme.toml
-	echo > site/blog/themes/blackburn/layouts/partials/share.html
-	${DOCKER} build -t ${IMAGE} .
-	git -C site/blog/themes/blackburn checkout -- layouts/partials/share.html
+build: build-image
+	podman run -v$(shell pwd)/site:/site ${IMAGE} build
 
-site/blog/themes/blackburn/theme.toml:
-	git submodule update --init --recursive
+build-image:
+	podman build -t ${IMAGE} .
 
-push: build
-	${DOCKER} tag ${IMAGE} ${IMAGE}:${TAG}
-	${DOCKER} push ${IMAGE}:${TAG}
-	${DOCKER} push ${IMAGE}:latest
-
-deploy: push
-	${DOCKER} tag ${IMAGE} ${IMAGE}:prod
-	${DOCKER} push ${IMAGE}:prod
+deploy: build
+	podman tag ${IMAGE} ${IMAGE}:prod
+	podman push ${IMAGE}:prod
