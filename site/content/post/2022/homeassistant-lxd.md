@@ -18,11 +18,11 @@ The storage is two mirrored SSD:s so a single failed storage drive will not kill
 
 ## Prepare the system
 
-I created a LXD image based on the KVM image of Home Assistant OS published by the project. You can read how I did that in the blog post [Import a qcow2 image to LXD](/post/2022/import-qcow2-to-lxd/).
+I created a LXD image based on the KVM image of Home Assistant OS published by the project. You can read how I did that in the blog post [Import a qcow2 image to LXD](@/post/2022/import-qcow2-to-lxd.md).
 
 ## Launch Home Assistant OS
 
-I use init (instead of launch) to create a stopped VM. Home Assistant OS images are not signed so we need to turn secure boot off, two CPU cores and 4GiB RAM feels about right. `haos` refers to my [Home Assistant OS image](/post/2022/import-qcow2-to-lxd/).
+I use init (instead of launch) to create a stopped VM. Home Assistant OS images are not signed so we need to turn secure boot off, two CPU cores and 4GiB RAM feels about right. `haos` refers to my [Home Assistant OS image](@/post/2022/import-qcow2-to-lxd.md).
 
 ```sh
 lxc init haos homeassistant --vm \

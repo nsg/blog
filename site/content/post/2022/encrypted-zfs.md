@@ -5,7 +5,7 @@ title = "Encrypted ZFS"
 tags = ["zfs", "encrypted"]
 +++
 
-Last night I installed a new server with an [LUKS encrypted drive](/post/2022/unlock-luks-encrypted-disk-over-ssh/). The server also has a large ZFS pool that is used as the main data storage, of course that needs to be encrypted as well.
+Last night I installed a new server with an [LUKS encrypted drive](@/post/2022/unlock-luks-encrypted-disk-over-ssh.md). The server also has a large ZFS pool that is used as the main data storage, of course that needs to be encrypted as well.
 
 If you just like to know how ZFS encryption works, I recommend that you read [Jim Salter's excellent article about it](https://arstechnica.com/gadgets/2021/06/a-quick-start-guide-to-openzfs-native-encryption/).
 
