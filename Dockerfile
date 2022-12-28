@@ -11,6 +11,7 @@ COPY --from=build /public /public
 # support legacy RSS URL
 COPY --from=build /public/rss.xml /public/index.xml
 COPY --from=build /public/rss.xml /public/post/index.xml
+COPY --from=build /public/rss.xml /public/tags/index.xml
 ENV SERVER_PORT 8080
 ENV SERVER_ROOT /public
 ENV SERVER_ERROR_PAGE_404 /public/404/index.html
