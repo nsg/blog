@@ -10,19 +10,28 @@ function init_search() {
           body: {boost: 1},
         }
       };
+    var search_div_display_state;
 
     form.addEventListener("submit", (event) => {
         let text = event.target.getElementsByTagName("input")[0].value;
         let results = index.search(text, options);
         var ul = document.createElement("ul");
+        
+        result_div.innerHTML = "";
 
+        if (results.length == 0) {
+          var li = document.createElement("li");
+          li.innerHTML = "No results found";
+          ul.appendChild(li);
+        }
+        
         results.forEach(r => {
-            var li = document.createElement("li");
-            var a = document.createElement("a");
-            a.innerHTML = r.doc.title;
-            a.href = r.doc.id;
-            li.appendChild(a);
-            ul.appendChild(li);
+          var li = document.createElement("li");
+          var a = document.createElement("a");
+          a.innerHTML = r.doc.title;
+          a.href = r.doc.id;
+          li.appendChild(a);
+          ul.appendChild(li);
         });
         
         result_div.appendChild(ul);

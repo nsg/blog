@@ -117,15 +117,6 @@ nav {
     .search {
         margin: 0 1rem;
 
-        label {
-            &:before {
-                content: '🔍';
-                filter: grayscale(100%);
-                position: relative;
-                left: 2rem;
-            }
-        }
-
         input {
             border: 0;
             border-radius: 5px;
@@ -134,7 +125,7 @@ nav {
             background-color: var(--nav-bg-search);
             transition: background-color 0.4s ease-in-out;
             color: var(--nav-text);
-            padding: 0 2rem;
+            padding: 0 0.6rem;
             
             &:hover {
                 background-color: var(--nav-bg-search2);
@@ -154,15 +145,19 @@ nav {
             ul {
                 display: grid;
 
-                a {
+                li {
                     color: var(--nav-text);
-                    padding: 0.2rem;
-                    white-space: nowrap;
-                    border-bottom: none;
-                    border-left: 10px solid transparent;
 
-                    &:hover {
-                        border-left: 10px solid var(--nav-text);
+                    a {
+                        color: var(--nav-text);
+                        padding: 0.2rem;
+                        white-space: nowrap;
+                        border-bottom: none;
+                        border-left: 10px solid transparent;
+
+                        &:hover {
+                            border-left: 10px solid var(--nav-text);
+                        }
                     }
                 }
             }
@@ -288,5 +283,86 @@ footer {
 
     a {
         color: var(--middle-gray);
+    }
+}
+
+@media only screen and (max-width: 850px) {
+    nav {
+        &::before,  &::after {
+            border: 0 ;
+        }
+
+        max-width: 100%;
+        margin: 0;
+    }
+}
+
+@media only screen and (max-width: 700px) {
+    nav {
+        padding: 0.4rem 0.2rem;
+
+        ul {
+            padding-right: 0.2rem;
+
+            li {
+                padding-right: 0.8rem;
+            }
+        }
+
+        .search {
+            input {
+                width: 2.5rem;
+
+                &:focus {
+                    position: fixed;
+                    left: 0.4rem;
+                    width: 16rem;
+                }
+            }
+        }
+
+        .search-result {
+            left: 0;
+            width: 100%;
+            background-color: var(--nav-bg);
+            border: 1px solid var(--nav-text);
+            z-index: 10;
+
+            ul {
+                padding: 1rem;
+            }
+        }
+    }
+
+    header {
+        padding: 0.2rem;
+
+        h1 {
+            font-size: 2rem;
+        }
+    }
+
+    main {
+        section {
+            h2 {
+                font-size: 1.6rem;
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    nav {
+        .search {
+            display: none;
+        }
+    }
+}
+
+@media only screen and (max-width: 350px) {
+    nav {
+        .theme-toggle {
+            display: none;
+        }
     }
 }
