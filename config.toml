@@ -1,0 +1,22 @@
+[general]
+port = 8080
+root = "/public"
+page404 = "/public/404/index.html"
+cache-control-headers = false
+
+[advanced]
+
+[[advanced.headers]]
+source = "*"
+[advanced.headers.headers]
+Cache-Control = "public, max-age=60"
+
+[[advanced.headers]]
+source = "*.{js,css}"
+[advanced.headers.headers]
+Cache-Control = "public, max-age=3600"
+
+[[advanced.headers]]
+source = "*.{png,jpg,jpeg}"
+[advanced.headers.headers]
+Cache-Control = "public, max-age=7776000" # 90 days
