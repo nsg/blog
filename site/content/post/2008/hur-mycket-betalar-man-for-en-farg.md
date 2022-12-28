@@ -1,6 +1,7 @@
 +++
 date = "2008-12-04T15:13:50+00:00"
 title = "Hur mycket betalar man för en färg?"
+[taxonomies]
 tags = ["asus", "eee", "eee pc", "laptop", "netbook"]
 +++
 

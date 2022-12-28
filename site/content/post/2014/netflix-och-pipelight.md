@@ -1,6 +1,7 @@
 +++
 date = "2014-04-12T16:07:21+00:00"
 title = "Netflix och Pipelight"
+[taxonomies]
 tags = ["Netflix", "Pipelight", "Silverlight", "Linux"]
 +++
 

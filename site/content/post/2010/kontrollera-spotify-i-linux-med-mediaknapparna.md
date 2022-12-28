@@ -1,6 +1,7 @@
 +++
 date = "2010-09-05T00:02:01+00:00"
 title = "Kontrollera Spotify i Linux med mediaknapparna."
+[taxonomies]
 tags = ["Linux", "Spotify", "xdotool"]
 +++
 

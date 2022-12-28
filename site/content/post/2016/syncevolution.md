@@ -1,6 +1,7 @@
 +++
 date = "2016-10-08T17:59:00+01:00"
 title = "Syncevolution"
+[taxonomies]
 tags = ["Ubuntu Touch", "Syncevolution"]
 +++
 

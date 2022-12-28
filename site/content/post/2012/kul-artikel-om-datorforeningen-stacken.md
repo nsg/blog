@@ -1,6 +1,7 @@
 +++
 date = "2012-06-17T21:49:41+00:00"
 title = "Kul artikel om Datorföreningen Stacken"
+[taxonomies]
 tags = ["Stacken", "Personal"]
 +++
 

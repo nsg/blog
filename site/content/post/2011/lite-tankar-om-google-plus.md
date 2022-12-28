@@ -1,6 +1,7 @@
 +++
 date = "2011-07-11T15:42:28+00:00"
 title = "Lite tankar om Google+"
+[taxonomies]
 tags = ["Google"]
 +++
 

@@ -1,6 +1,7 @@
 +++
 date = "2015-01-07T16:01:00+01:00"
 title = "Containers"
+[taxonomies]
 tags = ["Docker", "Containers"]
 +++
 

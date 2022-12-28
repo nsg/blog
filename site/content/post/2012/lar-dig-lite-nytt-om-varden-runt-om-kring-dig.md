@@ -1,6 +1,7 @@
 +++
 date = "2012-06-11T20:01:03+00:00"
 title = "Lär dig lite nytt om värden runt om kring dig"
+[taxonomies]
 tags = ["Forskning", "Teknik", "Vetenskap"]
 +++
 

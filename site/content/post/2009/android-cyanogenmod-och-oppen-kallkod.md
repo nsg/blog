@@ -1,6 +1,7 @@
 +++
 date = "2009-09-27T12:19:18+00:00"
 title = "Android, Cyanogenmod och öppen källkod"
+[taxonomies]
 tags = ["Android", "Cyanogen", "Cyanogenmod", "Google", "Linux"]
 +++
 

@@ -1,6 +1,7 @@
 +++
 date = "2009-08-02T02:01:43+00:00"
 title = "Anslut automatiskt med AziLink och Android"
+[taxonomies]
 tags = ["Android", "azid", "Google Calendar", "Linux", "snotify"]
 +++
 

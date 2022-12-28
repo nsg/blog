@@ -1,6 +1,7 @@
 +++
 date = "2017-12-14T14:45:00+01:00"
 title = "Snapcraft"
+[taxonomies]
 tags = ["snaps", "snapcraft", "packages"]
 +++
 

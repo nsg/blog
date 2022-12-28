@@ -1,6 +1,7 @@
 +++
 date = "2011-07-11T14:47:24+00:00"
 title = "Några små förbättringar till Gmails nya gränssnitt"
+[taxonomies]
 tags = ["GMail", "Google", "Stylish"]
 +++
 

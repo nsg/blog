@@ -1,6 +1,7 @@
 +++
 date = "2009-12-06T18:39:22+00:00"
 title = "Tankar om Google Wave"
+[taxonomies]
 tags = ["google", "google wave", "wave"]
 +++
 

@@ -1,6 +1,7 @@
 +++
 date = "2009-06-10T11:19:10+00:00"
 title = "Snart användarnamn på facebook"
+[taxonomies]
 tags = ["Användarnamn", "Facebook"]
 +++
 

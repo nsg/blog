@@ -1,6 +1,7 @@
 +++
 date = "2018-08-31T10:40:00+02:00"
 title = "Daylight Saving Time"
+[taxonomies]
 tags = ["dst","time", "eu"]
 +++
 

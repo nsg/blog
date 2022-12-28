@@ -1,6 +1,7 @@
 +++
 date = "2016-10-29T22:07:00+01:00"
 title = "Phone Update"
+[taxonomies]
 tags = ["Ubuntu Touch"]
 +++
 

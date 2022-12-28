@@ -1,6 +1,7 @@
 +++
 date = "2009-03-20T14:26:17+00:00"
 title = "Användarnamn på en bokstav och vmware server"
+[taxonomies]
 tags = ["Användarnamn", "Linux", "VMware", "VMware server"]
 +++
 

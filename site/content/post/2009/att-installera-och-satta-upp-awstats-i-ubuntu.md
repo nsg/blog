@@ -1,6 +1,7 @@
 +++
 date = "2009-06-27T21:48:22+00:00"
 title = "Att installera och sätta upp AWStats i Ubuntu"
+[taxonomies]
 tags = ["Apache", "awstats", "cron", "Debian", "Linux", "Loggar", "Statistik", "Ubuntu"]
 +++
 

@@ -1,6 +1,7 @@
 +++
 date = "2009-02-10T16:09:51+00:00"
 title = "Byt färg på din calender i iPhone/iPod touch"
+[taxonomies]
 tags = ["Google", "Google Calendar", "iphone", "ipod", "ipod touch", "Nuevasync", "Touch"]
 +++
 

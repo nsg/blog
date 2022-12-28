@@ -1,6 +1,7 @@
 +++
 date = "2013-04-22T15:08:40+00:00"
 title = "Kul genomgång av rymdstationen"
+[taxonomies]
 tags = ["ESA", "ISS", "Space"]
 +++
 

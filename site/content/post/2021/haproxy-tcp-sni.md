@@ -1,6 +1,7 @@
 +++
 date = "2021-04-30T13:37:00+02:00"
 title = "HAProxy TCP forward with SNI"
+[taxonomies]
 tags = ["haproxy", "kubernetes", "k8s"]
 +++
 

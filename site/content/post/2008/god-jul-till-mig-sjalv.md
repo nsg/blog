@@ -1,6 +1,7 @@
 +++
 date = "2008-12-25T16:23:17+00:00"
 title = "God Jul (till mig själv)"
+[taxonomies]
 tags = ["asus", "eee", "eee pc", "Linux", "netbook", "ubuntu"]
 +++
 

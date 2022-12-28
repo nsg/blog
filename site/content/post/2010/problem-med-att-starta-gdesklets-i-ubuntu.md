@@ -1,6 +1,7 @@
 +++
 date = "2010-09-14T12:14:23+00:00"
 title = "Problem med att starta gdesklets i ubuntu?"
+[taxonomies]
 tags = ["gdesklets", "Linux", "Python"]
 +++
 

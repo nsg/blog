@@ -1,6 +1,7 @@
 +++
 date = "2010-02-09T11:59:43+00:00"
 title = "Ett sätt att hantera många tabbar i firefox"
+[taxonomies]
 tags = ["Aging tabs", "Firefox", "Informational tab", "Tabbar", "Tree style tab"]
 +++
 

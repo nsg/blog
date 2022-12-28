@@ -1,6 +1,7 @@
 +++
 date = "2009-08-23T15:49:59+00:00"
 title = "Äntligen iptables i kärnan på en skandinavisk 32A android-telefon"
+[taxonomies]
 tags = ["Android", "Cyanogen", "HTC", "HTC Magic", "Linux", "Magic"]
 +++
 

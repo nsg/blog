@@ -1,6 +1,7 @@
 +++
 date = "2017-09-24T16:06:00+02:00"
 title = "Firejail"
+[taxonomies]
 tags = ["Containers", "Sandbox", "Security"]
 +++
 

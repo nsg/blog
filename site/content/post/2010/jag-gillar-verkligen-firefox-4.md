@@ -1,6 +1,7 @@
 +++
 date = "2010-10-18T12:34:46+00:00"
 title = "Jag gillar verkligen firefox 4"
+[taxonomies]
 tags = ["Firefox", "Firefox 4", "Mozilla", "Mozilla Firefox"]
 +++
 

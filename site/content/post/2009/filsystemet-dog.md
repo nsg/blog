@@ -1,6 +1,7 @@
 +++
 date = "2009-06-07T01:42:56+00:00"
 title = "Filsystemet dog"
+[taxonomies]
 tags = ["Backup", "LAN", "Server"]
 +++
 

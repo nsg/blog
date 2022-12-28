@@ -1,6 +1,7 @@
 +++
 date = "2011-03-28T21:23:06+00:00"
 title = "Inget tema i Ubuntu? Har du en SSD eller mycket snabb disk?"
+[taxonomies]
 tags = ["Gnome", "Linux", "SSD", "Ubuntu"]
 +++
 

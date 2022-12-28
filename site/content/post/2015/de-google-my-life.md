@@ -1,6 +1,7 @@
 +++
 date = "2015-07-28T23:22:00"
 title = "De-Google my life"
+[taxonomies]
 tags = ["Google", "Personal"]
 +++
 

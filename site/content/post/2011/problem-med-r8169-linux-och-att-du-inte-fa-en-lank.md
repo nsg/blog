@@ -1,6 +1,7 @@
 +++
 date = "2011-03-24T18:25:07+00:00"
 title = "Problem med r8169, Linux och att du inte få en länk?"
+[taxonomies]
 tags = ["Linux", "r8169", "Ubuntu"]
 +++
 

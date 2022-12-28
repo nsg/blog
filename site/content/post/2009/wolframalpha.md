@@ -1,6 +1,7 @@
 +++
 date = "2009-05-19T18:52:12+00:00"
 title = "Wolfram|Alpha"
+[taxonomies]
 tags = ["sök", "wolfram|alpha"]
 +++
 

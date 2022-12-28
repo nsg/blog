@@ -1,6 +1,7 @@
 +++
 date = "2009-05-18T09:18:17+00:00"
 title = "Nytt, bytt och tankar"
+[taxonomies]
 tags = ["Inlägg", "Skriva", "Tankar"]
 +++
 

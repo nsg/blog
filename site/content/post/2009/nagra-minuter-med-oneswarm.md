@@ -1,6 +1,7 @@
 +++
 date = "2009-06-25T22:34:06+00:00"
 title = "Några minuter med OneSwarm"
+[taxonomies]
 tags = ["Fildelning", "Oneswarm"]
 +++
 

@@ -1,6 +1,7 @@
 +++
 date = "2011-11-12T11:26:09+00:00"
 title = "Tid för mig att röja upp bland min lagring"
+[taxonomies]
 tags = ["Linux", "LVM", "MD", "mdadm", "parted", "RAID", "RAID5", "Ubuntu"]
 +++
 

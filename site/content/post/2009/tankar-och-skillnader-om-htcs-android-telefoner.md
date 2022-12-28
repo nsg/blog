@@ -1,6 +1,7 @@
 +++
 date = "2009-07-20T12:51:17+00:00"
 title = "Tankar och skillnader om htc:s android-telefoner"
+[taxonomies]
 tags = ["Android", "g1", "g2", "g3", "google", "htc", "htc dream", "htc hero", "htc magic", "Linux"]
 +++
 

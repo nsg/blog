@@ -1,6 +1,7 @@
 +++
 date = "2009-04-24T22:36:09+00:00"
 title = "Några intryck från Jaunty"
+[taxonomies]
 tags = ["Gnome", "Jaunty Jackalope", "Linux", "Notifyosd", "Ubuntu"]
 +++
 

@@ -1,6 +1,7 @@
 +++
 date = "2009-07-22T00:08:44+00:00"
 title = "Använd din android/HTC magic som modem"
+[taxonomies]
 tags = ["Android", "HTC Magic", "OpenVPN", "Ubuntu"]
 +++
 

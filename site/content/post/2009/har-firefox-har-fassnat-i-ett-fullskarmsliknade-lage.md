@@ -1,6 +1,7 @@
 +++
 date = "2009-01-02T14:01:51+00:00"
 title = "Har firefox fassnat i ett fullskärmsliknade läge?"
+[taxonomies]
 tags = ["Bugg", "Fel", "Firefox", "Fullskärm", "Gnome", "Linux", "Maximera", "Storlek", "Ubuntu"]
 +++
 

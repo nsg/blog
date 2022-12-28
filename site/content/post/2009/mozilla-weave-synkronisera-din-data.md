@@ -1,6 +1,7 @@
 +++
 date = "2009-03-20T16:28:59+00:00"
 title = "Mozilla Weave &#8211; Synkronisera din data"
+[taxonomies]
 tags = ["Extensions", "Firefox", "Mozilla", "Mozilla Firefox", "Mozilla Weave", "Synkronisera", "Weave"]
 +++
 

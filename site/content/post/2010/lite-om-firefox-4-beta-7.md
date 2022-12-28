@@ -1,6 +1,7 @@
 +++
 date = "2010-11-13T16:48:22+00:00"
 title = "Lite om Firefox 4 Beta 7"
+[taxonomies]
 tags = ["Firefox", "Firefox 4", "Firefox beta", "Mozilla Firefox"]
 +++
 

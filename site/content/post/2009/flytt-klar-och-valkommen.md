@@ -1,6 +1,7 @@
 +++
 date = "2009-06-26T22:07:15+00:00"
 title = "Flytt klar, och välkommen"
+[taxonomies]
 tags = ["Blogg", "nsg", "Wordpress"]
 +++
 

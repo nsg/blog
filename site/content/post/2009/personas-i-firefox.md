@@ -1,6 +1,7 @@
 +++
 date = "2009-06-26T13:37:05+00:00"
 title = "Personas i Firefox"
+[taxonomies]
 tags = ["Dark Light", "Firefox", "Gnome", "Linux", "New Wave", "Personas", "Skal", "Skin", "Teman"]
 +++
 

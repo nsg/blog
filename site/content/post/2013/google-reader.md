@@ -1,6 +1,7 @@
 +++
 date = "2013-03-14T10:53:26+00:00"
 title = "Google Reader"
+[taxonomies]
 tags = ["Google", "Google Reader"]
 +++
 

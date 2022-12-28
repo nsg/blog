@@ -1,6 +1,7 @@
 +++
 date = "2011-07-10T00:27:23+00:00"
 title = "Flytt till ny server"
+[taxonomies]
 tags = ["Personal"]
 +++
 

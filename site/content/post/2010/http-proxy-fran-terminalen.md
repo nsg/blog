@@ -1,6 +1,7 @@
 +++
 date = "2010-10-18T15:18:32+00:00"
 title = "HTTP proxy från terminalen"
+[taxonomies]
 tags = ["Bash", "Linux", "Proxy", "Skript"]
 +++
 

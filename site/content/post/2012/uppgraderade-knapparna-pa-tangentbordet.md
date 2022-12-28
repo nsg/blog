@@ -1,6 +1,7 @@
 +++
 date = "2012-04-13T20:48:35+00:00"
 title = "Uppgraderade knapparna på tangentbordet"
+[taxonomies]
 tags = ["Cherry MX", "Das Keyboard", "Tangentbord", "WASD Keyboards"]
 +++
 

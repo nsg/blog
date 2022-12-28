@@ -1,6 +1,7 @@
 +++
 date = "2009-01-12T22:29:43+00:00"
 title = "Lite bilder från windows 7"
+[taxonomies]
 tags = ["IE", "IE8", "Internet Explorer", "Microsoft", "Win7", "Windows", "Windows 7"]
 +++
 

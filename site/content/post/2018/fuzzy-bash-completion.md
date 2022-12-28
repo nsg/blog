@@ -1,6 +1,7 @@
 +++
 date = "2018-02-25T15:30:00+01:00"
 title = "Fuzzy Bash completion"
+[taxonomies]
 tags = ["bash", "shell"]
 +++
 

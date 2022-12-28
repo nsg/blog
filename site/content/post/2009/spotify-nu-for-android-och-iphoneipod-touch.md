@@ -1,6 +1,7 @@
 +++
 date = "2009-09-07T07:47:15+00:00"
 title = "Spotify nu för Android och iPhone/iPod touch"
+[taxonomies]
 tags = ["Android", "android market", "app store", "iphone", "ipod", "ipod touch", "market", "musik", "spotify", "touch"]
 +++
 

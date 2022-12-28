@@ -1,6 +1,7 @@
 +++
 date = "2009-04-24T16:57:39+00:00"
 title = "Ubuntu 9.04 (Jaunty Jackalope)"
+[taxonomies]
 tags = ["asus", "eee", "jaunty jackalope", "Linux", "netbook", "notifyosd", "ubuntu"]
 +++
 

@@ -1,6 +1,7 @@
 +++
 date = "2008-11-16T18:11:02+00:00"
 title = "Kanse snart en EEE PC 901?"
+[taxonomies]
 tags = ["asus", "eee", "eee pc", "hsupa", "laptop", "netbook"]
 +++
 

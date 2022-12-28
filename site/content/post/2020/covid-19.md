@@ -1,6 +1,7 @@
 +++
 date = "2020-07-19T15:30:00+02:00"
 title = "COVID 19"
+[taxonomies]
 tags = ["COVID", "Corona", "Virus", "COVID19", "Pesonal"]
 +++
 

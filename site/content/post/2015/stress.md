@@ -1,6 +1,7 @@
 +++
 date = "2015-01-07T15:03:00+01:00"
 title = "Stress"
+[taxonomies]
 tags = ["Personal"]
 +++
 

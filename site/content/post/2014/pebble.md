@@ -1,6 +1,7 @@
 +++
 date = "2014-01-06T18:57:38+00:00"
 title = "Pebble"
+[taxonomies]
 tags = ["Klocka", "Pebble", "Smartklocka"]
 +++
 

@@ -1,6 +1,7 @@
 +++
 date = "2016-09-25T11:25:00+01:00"
 title = "Let's Encrypt"
+[taxonomies]
 tags = ["Let's Encrypt", "HAProxy", "Certbot"]
 +++
 

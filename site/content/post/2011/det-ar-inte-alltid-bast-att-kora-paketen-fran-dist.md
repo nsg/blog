@@ -1,6 +1,7 @@
 +++
 date = "2011-07-10T00:41:06+00:00"
 title = "Det är inte alltid bäst att köra paketen från dist."
+[taxonomies]
 tags = ["Debian", "Ubuntu", "Wordpress", "Personal"]
 +++
 

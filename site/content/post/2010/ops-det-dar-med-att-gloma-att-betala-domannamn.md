@@ -1,6 +1,7 @@
 +++
 date = "2010-02-25T12:52:05+00:00"
 title = "Ops, det där med att glöma att betala domännamn."
+[taxonomies]
 tags = ["domännamn", "nsg.cc", "Personal"]
 +++
 

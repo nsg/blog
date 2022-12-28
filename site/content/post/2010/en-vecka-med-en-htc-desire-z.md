@@ -1,6 +1,7 @@
 +++
 date = "2010-11-25T18:22:54+00:00"
 title = "En vecka med en HTC Desire Z"
+[taxonomies]
 tags = ["Android", "Linux", "HTC", "HTC Desire Z"]
 +++
 

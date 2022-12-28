@@ -1,6 +1,7 @@
 +++
 date = "2008-09-28T22:20:09+00:00"
 title = "Det gick ju inte som jag tänkte mig"
+[taxonomies]
 tags = ["Bloggen", "nsg"]
 +++
 

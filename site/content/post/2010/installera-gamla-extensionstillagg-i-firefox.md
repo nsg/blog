@@ -1,6 +1,7 @@
 +++
 date = "2010-11-28T17:07:23+00:00"
 title = "Installera gamla extensions/tillägg i Firefox"
+[taxonomies]
 tags = ["Firefox", "Firefox 4", "Firefox beta", "Mozilla Firefox"]
 +++
 

@@ -1,6 +1,7 @@
 +++
 date = "2018-10-27T18:18:55+02:00"
 title = "Lenovo No More"
+[taxonomies]
 tags = ["lenovo", "DOA", "x1 yoga", "screen"]
 +++
 

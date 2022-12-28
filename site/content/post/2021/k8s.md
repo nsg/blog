@@ -1,6 +1,7 @@
 +++
 date = "2021-01-09T00:18:00+01:00"
 title = "Kubernetes"
+[taxonomies]
 tags = ["Kubernetes", "K8s", "Container"]
 +++
 

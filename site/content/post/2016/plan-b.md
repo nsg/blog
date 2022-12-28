@@ -1,6 +1,7 @@
 +++
 date = "2016-11-25T23:40:00+01:00"
 title = "Plan B"
+[taxonomies]
 tags = ["Personal", "Ubuntu Touch", "Pixel"]
 +++
 

@@ -1,6 +1,7 @@
 +++
 date = "2008-06-26T00:07:47+00:00"
 title = "Ny blogg"
+[taxonomies]
 tags = ["blogg", "Bloggen", "nsg"]
 +++
 

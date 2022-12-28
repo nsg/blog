@@ -1,6 +1,7 @@
 +++
 date = "2015-01-02T23:55:00+01:00"
 title = "Hello there 2015"
+[taxonomies]
 tags = ["Personal"]
 +++
 

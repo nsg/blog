@@ -1,6 +1,7 @@
 +++
 date = "2017-09-17T17:31:00+02:00"
 title = "New Theme"
+[taxonomies]
 tags = ["Personal"]
 +++
 

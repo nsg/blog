@@ -1,6 +1,7 @@
 +++
 date = "2018-09-23T12:22:55+02:00"
 title = "How I bricked by new Lenovo"
+[taxonomies]
 tags = ["lenovo", "brick", "x1 yoga", "s3", "s0i3", "bios"]
 +++
 

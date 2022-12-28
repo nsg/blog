@@ -1,6 +1,7 @@
 +++
 date = "2016-09-18T12:00:00+01:00"
 title = "Dekko"
+[taxonomies]
 tags = ["Ubuntu Touch"]
 +++
 

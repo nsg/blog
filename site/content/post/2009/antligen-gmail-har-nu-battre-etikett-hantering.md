@@ -1,6 +1,7 @@
 +++
 date = "2009-02-05T16:05:48+00:00"
 title = "Äntligen, Gmail har nu bättre etikett-hantering"
+[taxonomies]
 tags = ["Etikett", "GMail", "Google", "Google labs", "Google mail", "Label", "Mail", "Tag"]
 +++
 

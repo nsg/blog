@@ -1,6 +1,7 @@
 +++
 date = "2010-09-04T13:08:25+00:00"
 title = "Lite nyare, lite bättre?"
+[taxonomies]
 tags = ["Personal"]
 +++
 

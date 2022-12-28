@@ -1,6 +1,7 @@
 +++
 date = "2009-10-02T09:46:18+00:00"
 title = "Google Wave och Spotify Offline"
+[taxonomies]
 tags = ["Google", "Google wave", "Spotify", "wave"]
 +++
 

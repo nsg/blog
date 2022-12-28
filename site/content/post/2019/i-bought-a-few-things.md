@@ -1,6 +1,7 @@
 +++
 date = "2019-10-27T14:00:00+01:00"
 title = "I bought a few things"
+[taxonomies]
 tags = ["lenovo", "dell", "screen", "laptop", "tesla", "car", "pebble", "fitbit"]
 +++
 

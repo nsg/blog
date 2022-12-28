@@ -1,6 +1,7 @@
 +++
 date = "2016-09-17T22:42:00+01:00"
 title = "Meizu Pro 5"
+[taxonomies]
 tags = ["Personal", "Meizu Pro 5", "Ubuntu Touch"]
 +++
 

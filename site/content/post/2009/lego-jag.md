@@ -1,6 +1,7 @@
 +++
 date = "2009-05-18T23:46:54+00:00"
 title = "Lego jag"
+[taxonomies]
 tags = ["Lego", "Sci-fi", "Star Trek"]
 +++
 

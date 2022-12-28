@@ -1,6 +1,7 @@
 +++
 date = "2009-05-29T11:13:53+00:00"
 title = "Nästan 3 veckor nere från nätet"
+[taxonomies]
 tags = ["Server", "Webhotell"]
 +++
 

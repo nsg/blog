@@ -1,6 +1,7 @@
 +++
 date = "2018-06-09T14:30:00+02:00"
 title = "GitHub - The central spot for code"
+[taxonomies]
 tags = ["git", "github", "code", "microsoft"]
 +++
 

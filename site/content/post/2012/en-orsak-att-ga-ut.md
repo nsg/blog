@@ -1,6 +1,7 @@
 +++
 date = "2012-11-28T15:39:25+00:00"
 title = "En orsak att gå ut"
+[taxonomies]
 tags = ["Android", "Google", "Ingress", "Niantic Labs"]
 +++
 

@@ -1,6 +1,7 @@
 +++
 date = "2014-01-06T12:04:11+00:00"
 title = "Timely Alarm Clock"
+[taxonomies]
 tags = ["Android", "Bitspin", "Google", "Timely"]
 +++
 

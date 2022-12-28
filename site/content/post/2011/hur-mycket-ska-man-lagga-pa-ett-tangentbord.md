@@ -1,6 +1,7 @@
 +++
 date = "2011-08-02T22:59:28+00:00"
 title = "Hur mycket ska man lägga på ett tangentbord?"
+[taxonomies]
 tags = ["Das Keyboard", "Tangentbord"]
 +++
 

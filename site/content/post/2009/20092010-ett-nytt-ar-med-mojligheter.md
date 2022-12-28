@@ -1,6 +1,7 @@
 +++
 date = "2009-01-01T21:25:43+00:00"
 title = "2009..2010 ett nytt år med möjligheter"
+[taxonomies]
 tags = ["2009", "Nytt år", "Personal"]
 +++
 
