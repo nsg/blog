@@ -11,7 +11,7 @@ If you just like to know how ZFS encryption works, I recommend that you read [Ji
 
 Compared to LUKS, ZFS encryption is a feature you enable on datasets/volumes. This has the disadvantage that you can see the structure and metadata of unlocked datasets/volumes. For example the name of a dataset, disk usage and so on. This is most likely not a problem, but a minor detail that is good do know.
 
-```shell
+```sh
 zfs create \
     -o encryption=aes-256-gcm \
     -o keylocation=file:///etc/zfs-disk-encryption-key \

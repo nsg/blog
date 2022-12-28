@@ -13,13 +13,13 @@ Firejail also arrives with a large list of profiles, for example one for Firefox
 
 Like to play a little? Install firejail and try these commands:
 
-```shell
+```sh
 $ firejail xterm
 ```
 
 A xterm window should open, it looks somewhat normal but try for example to run a few administrative commands that requires a little more permission:
 
-```shell
+```sh
 $ ip a
 Cannot open netlink socket: Operation not supported
 $ mount
@@ -32,13 +32,13 @@ This is default permissions loaded from `/etc/firejail/default.profile`, if you 
 
 Let's restrict this even more, let's hide more things in dev, empty etc and give me my own private tmp.
 
-```shell
+```sh
 $ firejail --private-dev --private-etc=none --private-tmp xterm
 ```
 
 Once again a xterm window, let's try a few things...
 
-```shell
+```sh
 $ ls /etc
 $ ls /tmp
 $ touch /tmp/foo
@@ -50,7 +50,7 @@ dri  full  log  null  ptmx  pts  random  shm  snd  tty  urandom  zero
 
 Fun, but we can still see files in my home directory, all my precious files.
 
-```shell
+```sh
 $ firejail --private-dev --private-etc=none --private-tmp --private xterm
 ```
 
@@ -58,7 +58,7 @@ $ firejail --private-dev --private-etc=none --private-tmp --private xterm
 
 Of course in my Abricotine use case I need to be able to edit my blog's markdown files and they are hosted inside my home folder. For this use case we have the whitelist option.
 
-```shell
+```sh
 $ firejail --private-dev --private-etc=none --private-tmp --whitelist=~/Downloads xterm
 ```
 

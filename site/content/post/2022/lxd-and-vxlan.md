@@ -45,7 +45,7 @@ Endpoint = my-remote-server.example.com:1234
 
 The content is placed in `/etc/wireguard/wg0.conf` on both servers. After than you need enable and start the configuration on both server and you should have a tunnel open.
 
-```shell
+```sh
 systemctl enable wg-quick@wg0
 systemctl start wg-quick@wg0
 ```
@@ -56,7 +56,7 @@ systemctl start wg-quick@wg0
 
 Configure a new network bridge called _br-vxlan_, I disabled IPv6 because I do not need it. A ipv4 subnet will be allocated and shared via DHCP on this network.
 
-```shell
+```sh
 lxc network create br-vxlan \
     tunnel.server2.protocol=vxlan \
     tunnel.server2.id=10 \
@@ -67,7 +67,7 @@ lxc network create br-vxlan \
 
 Attach our new network to the default profile, name it _vxlan0_.
 
-```shell
+```sh
 lxc network attach-profile br-vxlan default vxlan0
 ```
 
@@ -75,7 +75,7 @@ lxc network attach-profile br-vxlan default vxlan0
 
 This configuration is similar to the above. I disabled IPv4 because addresses will be provided via DHCP from server1. On this server I created a separate profile instead of placing the configuration inside the default profile.
 
-```shell
+```sh
 lxc network create br-vxlan \
     tunnel.server1.protocol=vxlan \
     tunnel.server1.id=10 \

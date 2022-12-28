@@ -25,7 +25,7 @@ In a perfect world that would be all we ever needed, but it's not a perfect worl
 
 A deb is a bundle of files that are unpacked directly on your filesystem with an complex system that makes sure that different packages do not conflict. A snap is squashfs image with the extension `.snap`. They are mounted in to your system and are isolated from each other.
 
-```shell
+```sh
 $ snap download hello-world
 Fetching snap "hello-world"
 Fetching assertions for "hello-world"
@@ -58,14 +58,14 @@ This is a hello world snap with just a few scripts so it's tiny. The directory `
 
 Let us install it instead and see what happens:
 
-```shell
+```sh
 $ sudo snap install hello-world
 hello-world 6.3 from 'canonical' installed
 ```
 
 It's installed (or should I say mounted?)
 
-```shell
+```sh
 $ mount | grep hello
 /var/lib/snapd/snaps/hello-world_27.snap on /snap/hello-world/27 type squashfs (ro,nodev,relatime)
 ```
@@ -74,7 +74,7 @@ It is mounted under `/snap/hello-world/27`, this is the snap directory path, `/s
 
 Let's query snapd for some info about our snap:
 
-```shell
+```sh
 $ snap info hello-world
 name:      hello-world
 summary:   "The 'hello-world' of snaps"
@@ -100,7 +100,7 @@ channels:
 
 This snap contains four commands, there is a stable, candidate, beta and edge channels. We did not specify a channel on install so we got the stable channel.
 
-```shell
+```sh
 /snap/hello-world/
 ├── 27
 │   ├── bin
@@ -121,7 +121,7 @@ This path can be referred to as `$SNAP` inside the snaped application. Some syst
 
 We can use the command `hello-world.env` included in the snap to inspect our environment from the inside.
 
-```shell
+```sh
 $ hello-world.env | grep 'snap/' | sort
 HOME=/home/nsg/snap/hello-world/27
 SNAP_COMMON=/var/snap/hello-world/common
