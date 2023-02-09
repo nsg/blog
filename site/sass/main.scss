@@ -18,6 +18,10 @@
     --nav-bg-search2: rgb(161, 161, 161);
     --nav-text: #eee;
     --link-hover: rgb(40, 34, 121);
+    --code-background: #eee;
+    --code-block-background: #222;
+    --code-block-background2: #444;
+    --code-block-text: #eee;
 }
 
 [data-theme="dark"] {
@@ -32,6 +36,7 @@
     --nav-bg-search2: #fff;
     --nav-text: #222;
     --link-hover: rgb(134, 126, 240);
+    --code-background: rgb(48, 48, 48);
 }
 
 body {
@@ -191,6 +196,8 @@ main {
 
         img {
             max-width: 100%;
+            display: block;
+            margin: auto;
         }
 
         h2 {
@@ -255,6 +262,65 @@ main {
                 }
             }
         }
+
+        blockquote {
+            padding: 1.2rem 2rem 1.2rem;
+            margin: 1rem 0;
+            position: relative;
+            font-style: italic;
+            background: linear-gradient(90deg, var(--code-block-background) 0%, var(--code-block-background2) 100%);
+            color: var(--code-block-text);
+
+            &:before {
+                content: "\201C";
+                font-size:4em;
+                font-family:Arial;
+                position: absolute;
+                left: 0.1rem;
+                top: 0rem;
+                color: var(--middle-gray);
+            }
+
+            a {
+                color: var(--code-block-text);
+            }
+        }
+
+        p {
+            code {
+                background-color: var(--code-background);
+                padding-left: 0.4rem;
+                padding-right: 0.4rem;
+                font-size: 1.1rem;
+                transition: background-color 0.4s ease-in-out;
+    
+                &:hover {
+                    background-color: var(--nav-bg2);
+                    color: var(--nav-text)
+                }
+            }    
+        }
+
+        pre {
+            position: relative;
+            padding: 2.2rem 2rem 1.2rem;
+            background: linear-gradient(90deg, var(--code-block-background) 0%, var(--code-block-background2) 100%);
+
+            &:before {
+                content: "\2317";
+                font-size:2em;
+                font-family:Arial;
+                position: absolute;
+                left: 0.4rem;
+                top: 0rem;
+                color: var(--middle-gray);
+            }
+
+            code {
+                font-size: 1rem;
+            }    
+        }
+
     }
 
     .postend {
