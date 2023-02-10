@@ -6,11 +6,13 @@ WORKDIR /site
 
 RUN ["/bin/zola", "build", "--output-dir", "/public"]
 
-FROM docker.io/joseluisq/static-web-server:2
-COPY --from=build /public /public
+# https://hub.docker.com/_/nginx
+FROM docker.io/library/nginx:1.22
+COPY --from=build /public /usr/share/nginx/html
+RUN rm /etc/nginx/nginx.conf /etc/nginx/conf.d/default.conf
+COPY nginx.conf /etc/nginx/nginx.conf
+
 # support legacy RSS URL
-COPY --from=build /public/rss.xml /public/index.xml
-COPY --from=build /public/rss.xml /public/post/index.xml
-COPY --from=build /public/rss.xml /public/tags/index.xml
-ADD config.toml /config.toml
-ENV SERVER_CONFIG_FILE /config.toml
+#COPY --from=build /public/rss.xml /public/index.xml
+#COPY --from=build /public/rss.xml /public/post/index.xml
+#COPY --from=build /public/rss.xml /public/tags/index.xml
