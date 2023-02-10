@@ -305,6 +305,7 @@ main {
             position: relative;
             padding: 2.2rem 2rem 1.2rem;
             background: linear-gradient(90deg, var(--code-block-background) 0%, var(--code-block-background2) 100%);
+            overflow: auto;
 
             &:before {
                 content: "\2317";
