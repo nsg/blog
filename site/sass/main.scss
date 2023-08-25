@@ -39,6 +39,18 @@
     --code-background: rgb(48, 48, 48);
 }
 
+@keyframes pulsate {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.2);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
 body {
     margin: 0 0 8rem;
     font-family: HankenGrotesk;
@@ -122,49 +134,17 @@ nav {
     .search {
         margin: 0 1rem;
 
-        input {
+        button {
+            height: 100%;
+            filter: grayscale(100%);
+            background-color: inherit;
             border: 0;
-            border-radius: 5px;
-            height: 26px;
-            width: 8rem;
-            background-color: var(--nav-bg-search);
-            transition: background-color 0.4s ease-in-out;
-            color: var(--nav-text);
-            padding: 0 0.6rem;
-            
+            font-size: 120%;
+            cursor: pointer;
+
             &:hover {
-                background-color: var(--nav-bg-search2);
-            }
-        }
-
-        .search-result {
-            display: none;
-            position: absolute;
-            top: 4em;
-            background-color: var(--nav-bg-search);
-            border: 1px solid var(--text-color);
-            padding: 0.4rem 0rem;
-            font-size: 1rem;
-            min-width: 13rem;
-
-            ul {
-                display: grid;
-
-                li {
-                    color: var(--nav-text);
-
-                    a {
-                        color: var(--nav-text);
-                        padding: 0.2rem;
-                        white-space: nowrap;
-                        border-bottom: none;
-                        border-left: 10px solid transparent;
-
-                        &:hover {
-                            border-left: 10px solid var(--nav-text);
-                        }
-                    }
-                }
+                animation: pulsate 1s ease-out;
+                filter: grayscale(50%);
             }
         }
     }
@@ -387,18 +367,6 @@ footer {
                 }
             }
         }
-
-        .search-result {
-            left: 0;
-            width: 100%;
-            background-color: var(--nav-bg);
-            border: 1px solid var(--nav-text);
-            z-index: 10;
-
-            ul {
-                padding: 1rem;
-            }
-        }
     }
 
     header {
@@ -430,6 +398,60 @@ footer {
     nav {
         .theme-toggle {
             display: none;
+        }
+    }
+}
+
+#search {
+    max-width: 810px;
+    margin: auto;
+    overflow: auto;
+    display: none;
+    padding-top: 2em;
+    
+    .results {
+        height: 0px;
+        transition: height 0.4s ease-in-out;
+        opacity: 0;
+        border-bottom: 10px solid var(--nav-bg);
+        font-size: 1.2em;
+    }
+
+    ul {
+        padding: 0;
+
+        li {
+            color: var(--text-color);
+            list-style: none;
+            padding: 0.3em;
+            
+            a {
+                color: var(--link-color);
+                white-space: nowrap;
+                text-decoration: none;
+                display: block;
+            }
+
+            &:hover {
+                background: linear-gradient(90deg, var(--nav-bg) 0%, var(--nav-bg2) 100%);
+                color: var(--nav-text);
+            }
+        }
+    }
+
+    input {
+        font-size: 1.4em;
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        border: 0;
+        border-bottom: 2px solid var(--nav-bg);
+
+        &:focus, &:active {
+            border: 0;
+            border-bottom: 2px solid var(--nav-bg2);
+            outline: none;
+            background: linear-gradient(0deg, var(--nav-bg2) 0%, var(--bg-color) 8%);
         }
     }
 }

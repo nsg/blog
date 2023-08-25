@@ -28,11 +28,7 @@
     </ul>
 
     <div class="search">
-      <form>
-        <label for="search"></label>
-        <input name="search" placeholder="Search">
-      </form>
-      <div class="search-result"></div>
+      <button id="search-button">🔍</button>
     </div>
 
     <div class="theme-toggle">
@@ -42,7 +38,14 @@
       </label>
     </div>
   </nav>
+  <div id="search">
+    <form>
+      <label for="search"></label>
+      <input name="search" placeholder="Enter search query">
+    </form>
 
+    <div class="results"></div>
+  </div>
   <main>
     {% block page_header %}
     <section>
