@@ -456,3 +456,31 @@ footer {
         }
     }
 }
+
+.tagsq, .tags .tag {
+    display: inline-block;
+    margin: 0.2rem;
+    padding: 0.2rem 0.4rem;
+    border-radius: 0.2rem;
+    background-color: var(--nav-bg);
+    color: var(--nav-text);
+    font-size: 0.8em;
+    text-decoration: none;
+    transition: background-color 0.4s ease-in-out;
+
+    a {
+        color: var(--nav-text);
+        text-decoration: none;
+    }
+
+    &:hover {
+        background-color: var(--nav-bg2);
+        color: var(--nav-text);
+    }
+}
+
+.tags h3 {
+    border-bottom: 1px solid var(--middle-gray);
+    margin-bottom: 0.4em;
+    margin-top: 2em;
+}
