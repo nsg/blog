@@ -1,6 +1,6 @@
 ---
 
-name: Create and publish a Docker image
+name: Create and publish a OCI image
 
 on:
   push:
@@ -36,6 +36,7 @@ jobs:
           tags: |
             type=sha
             type=ref,event=branch
+
       - name: Build and push Docker image
         uses: docker/build-push-action@v2
         with:
