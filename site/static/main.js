@@ -22,6 +22,13 @@ function init_search() {
       event.preventDefault();
     });
 
+    document.addEventListener("keyup", (event) => {
+      if (event.key == "Escape") {
+        search_div.style.display = "none";
+        document.querySelector(".search button").style.display = "block";
+      }
+    });
+
     form.addEventListener("keyup", (event) => {
       do_search(index, options, event.target.value);
     });
