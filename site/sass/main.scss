@@ -455,6 +455,12 @@ footer {
             background: linear-gradient(0deg, var(--nav-bg2) 0%, var(--bg-color) 8%);
         }
     }
+
+    .loading {
+        text-align: center;
+        font-size: 1.2em;
+        padding: 0.5em;
+    }
 }
 
 .tagsq, .tags .tag {
@@ -483,4 +489,8 @@ footer {
     border-bottom: 1px solid var(--middle-gray);
     margin-bottom: 0.4em;
     margin-top: 2em;
+}
+
+.hidden {
+    display: none;
 }

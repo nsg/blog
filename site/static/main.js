@@ -1,13 +1,23 @@
 function toggle_search(target) {
   let search_div = document.querySelector("#search");
+  let search_input = document.querySelector("#search input");
+  let search_loading = document.querySelector("#search .loading");
+  let result_div = document.querySelector("#search .results");
 
   if (target.classList.contains("search-open")) {
     search_div.style.display = "none";
     target.classList.remove("search-open");
   } else {
     search_div.style.display = "block";
+    search_input.classList.add("hidden");
     target.classList.add("search-open");
-    document.querySelector("#search input").focus();
+
+    load_search_index(() => {
+      search_loading.style.display = "none";
+      search_input.classList.remove("hidden");
+      search_input.focus();
+    });
+
   }
 }
 
@@ -18,7 +28,12 @@ function close_search() {
   }
 }
 
-function load_search_index(target) {
+function load_search_index(callback) {
+    if (document.querySelectorAll("script[src*='search_index']")[0] != undefined) {
+      callback();
+      return;
+    }
+
     let elasticlunr = document.createElement("script");
     let search_index = document.createElement("script");
 
@@ -30,7 +45,7 @@ function load_search_index(target) {
     }
 
     search_index.onload = () => {
-      toggle_search(target)
+      callback();
     }
 
     document.head.appendChild(elasticlunr);
@@ -55,12 +70,12 @@ function init_search() {
   let form = search_div.getElementsByTagName("form")[0];
 
     document.querySelector(".search button").addEventListener("keypress", (event) => {
-      load_search_index(event.target);
+      toggle_search(event.target);
       event.preventDefault();
     });
 
     document.querySelector(".search button").addEventListener("click", (event) => {
-      load_search_index(event.target);
+      toggle_search(event.target);
       event.preventDefault();
     });
 
