@@ -56,7 +56,6 @@ body {
     font-family: HankenGrotesk;
     background-color: var(--bg-color);
     color: var(--text-color);
-    transition: background-color 0.4s ease-in-out;
 }
 
 header {
@@ -94,7 +93,6 @@ nav {
         right: 0;
         border-top: 10px solid var(--bg-color);
         border-left: 10px solid var(--nav-bg2);
-        transition: border-top 0.4s ease-in-out;
         width: 0;
     }
 
@@ -105,7 +103,6 @@ nav {
         left: 0;
         border-bottom: 10px solid var(--bg-color);
         border-right: 10px solid var(--nav-bg);
-        transition: border-bottom 0.4s ease-in-out;
         width: 0;
     }
 

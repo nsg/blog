@@ -122,8 +122,51 @@ function do_search(text) {
   result_div.style.display = "block";
 }
 
+function os_prefer_dark_mode() {
+  return window.matchMedia("(prefers-color-scheme: dark)").matches
+}
+
+function user_prefer_dark_mode() {
+  return sessionStorage.getItem("toggle_checked") == "true";
+}
+
+function user_prefer_undefined() {
+  return sessionStorage.getItem("toggle_checked") == null;
+}
+
+function update_theme() {
+  let toggle = document.getElementById('theme-toggle')
+  if (toggle.checked) {
+    set_theme('dark');
+  } else {
+    set_theme('light');
+  }
+}
+
+function set_theme(mode) {
+  document.querySelector('body').setAttribute('data-theme', mode);
+}
+
+function init_theme() {
+  let toggle = document.getElementById('theme-toggle')
+
+  toggle.addEventListener('change', (event) => {
+    update_theme()
+    sessionStorage.setItem("toggle_checked", event.target.checked ? true : false);
+  });
+
+  if (user_prefer_undefined()) {
+    toggle.checked = os_prefer_dark_mode();
+  } else {
+    toggle.checked = user_prefer_dark_mode();
+  }
+
+  update_theme();
+}
+
 function content_loaded() {
   init_search();
+  init_theme();
 }
 
 document.addEventListener("DOMContentLoaded", content_loaded());

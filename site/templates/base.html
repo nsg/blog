@@ -94,49 +94,12 @@
   </footer>
 
   <script>
-
-    function get_os_dark_mode() {
-      return window.matchMedia("(prefers-color-scheme: dark)").matches
-    }
-
-    function get_user_dark_mode() {
-      return sessionStorage.getItem("toggle_checked") == "true";
-    }
-
-    let dark = get_user_dark_mode()
-    if (dark == null) {
-      dark = get_os_dark_mode();
-      sessionStorage.setItem("toggle_checked", dark);
-    }
-
-    let toggle = document.getElementById('theme-toggle')
-    toggle.checked = dark;
-
-    function update_theme() {
-      var body = document.getElementsByTagName('body')[0];
-      let toggle = document.getElementById('theme-toggle')
-      if (toggle.checked) {
-        body.setAttribute('data-theme', 'dark');
-      } else {
-        body.setAttribute('data-theme', 'light');
-      }
-    }
-
-    (function() {
-      let toggle = document.getElementById('theme-toggle')
-      toggle.addEventListener('change', (event) => {
-        update_theme()
-        sessionStorage.setItem("toggle_checked", toggle.checked ? true : false);
-      });
-    })();
     // These are called from main.js only when the search button is clicked.
     // The search index is quite large and we don't want to load it unless explicitly needed.
     const elasticlunr_path = "{{ get_url(path="elasticlunr.min.js") | safe }}";
     const search_index_path = "{{ get_url(path="search_index.en.js") | safe }}";
-    
-    update_theme();
-
   </script>
+
   <script type="text/javascript" src="{{ get_url(path="main.js") | safe }}"></script>
 </body>
 
