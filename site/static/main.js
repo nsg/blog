@@ -18,20 +18,49 @@ function close_search() {
   }
 }
 
+function load_search_index(target) {
+    let elasticlunr = document.createElement("script");
+    let search_index = document.createElement("script");
+
+    elasticlunr.src = elasticlunr_path;
+    search_index.src = search_index_path;
+
+    elasticlunr.onload = () => {
+      document.head.appendChild(search_index);
+    }
+
+    search_index.onload = () => {
+      toggle_search(target)
+    }
+
+    document.head.appendChild(elasticlunr);
+}
+
+function search_index(text) {
+  let index = elasticlunr.Index.load(window.searchIndex);
+
+  let options = {
+    bool: "AND",
+    fields: {
+      title: {boost: 2},
+      body: {boost: 1},
+    }
+  };
+
+  return index.search(text, options);
+}
+
 function init_search() {
-    let search_div = document.querySelector("#search");
-    let form = search_div.getElementsByTagName("form")[0];
-    let index = elasticlunr.Index.load(window.searchIndex);
-    let options = {
-        bool: "AND",
-        fields: {
-          title: {boost: 2},
-          body: {boost: 1},
-        }
-      };
+  let search_div = document.querySelector("#search");
+  let form = search_div.getElementsByTagName("form")[0];
+
+    document.querySelector(".search button").addEventListener("keypress", (event) => {
+      load_search_index(event.target);
+      event.preventDefault();
+    });
 
     document.querySelector(".search button").addEventListener("click", (event) => {
-      toggle_search(event.target);
+      load_search_index(event.target);
       event.preventDefault();
     });
 
@@ -48,15 +77,16 @@ function init_search() {
     });
 
     form.addEventListener("keyup", (event) => {
-      do_search(index, options, event.target.value);
+      do_search(event.target.value);
     });
 }
 
-function do_search(index, options, text) {
+function do_search(text) {
+
   let result_div = document.querySelector("#search .results");
   result_div.style.opacity = "1";
 
-  let results = index.search(text, options);
+  let results = search_index(text);
   var ul = document.createElement("ul");
     
   result_div.innerHTML = "";
@@ -92,4 +122,8 @@ function do_search(index, options, text) {
   result_div.style.display = "block";
 }
 
-document.addEventListener("DOMContentLoaded", init_search());
+function content_loaded() {
+  init_search();
+}
+
+document.addEventListener("DOMContentLoaded", content_loaded());
