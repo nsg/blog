@@ -13,6 +13,7 @@ function init_search() {
     document.querySelector(".search button").addEventListener("click", (event) => {
       search_div.style.display = "block";
       event.target.style.display = "none";
+      document.querySelector("#search input").focus();
     });
 
     form.addEventListener("submit", (event) => {
