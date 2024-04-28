@@ -284,19 +284,9 @@ main {
 
         pre {
             position: relative;
-            padding: 2.2rem 2rem 1.2rem;
+            padding: 1.2rem;
             background: linear-gradient(90deg, var(--code-block-background) 0%, var(--code-block-background2) 100%);
             overflow: auto;
-
-            &:before {
-                content: "\2317";
-                font-size:2em;
-                font-family:Arial;
-                position: absolute;
-                left: 0.4rem;
-                top: 0rem;
-                color: var(--middle-gray);
-            }
 
             code {
                 font-size: 1rem;
