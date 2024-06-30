@@ -1,6 +1,8 @@
 +++
 date = "2007-04-05T19:22:52+00:00"
 title = "Vad är det för nått?"
+[taxonomies]
+tags = ["fatale", "fatale.se", "reklam"]
 +++
 
 [Damon skrev][1] för två dagar sedan om &#8220;reklamen&#8221; som [Tjuvlyssnat][2] nu har på sin sida om räknar ner mot nått. Det var inte speciellt svårt och &#8220;komma runt det&#8221; då den använde datorns klocka för att avgöra vilken tid det är :) 
@@ -17,7 +19,7 @@ Vad jag klura ut från sidan är att det är en [WordPress][4]-blogg och följan
 
 Frågan är om ramsan har någon relevans, kan det då kanske ha med [Coca-Cola Zero][5] att göra?
 
-:: Fatale, Fatale.se, Reklam
+
 
 <small></small>
 

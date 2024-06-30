@@ -1,13 +1,15 @@
 +++
 date = "2007-01-06T03:34:37+00:00"
 title = "Intercourse, Condom, Fucking"
+[taxonomies]
+tags = ["humor", "orter", "städer", "namn"]
 +++
 
 Intercourse, Condom, Fucking har en sak gemensamt, och nej, det är inte det du säkert tänker på. Jag syftar naturligtvis på städer, byar och orter med de namnen. Det är en [ovanligt rolig artikel i Aftonbladet][1] som jag rekommenderar att läsa angående ordsnamn.
 
 Hittade med hjälp av [knuff][2] även [denna bloggpost][3] med fler orter i Sverige.
 
-:: Humor, Orter, Städer, Namn
+
 
 <small></small>
 

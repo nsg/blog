@@ -1,6 +1,8 @@
 +++
 date = "2007-02-07T00:44:17+00:00"
 title = "GoogleBakom kulisserna"
+[taxonomies]
+tags = ["google", "sök"]
 +++
 
 <img id="image287" src="/images/2007/02/google.png" alt="gooGle" />
@@ -19,7 +21,7 @@ Känner du dig lite orolig nu och har ett google-konto, surfa in på <http://www
 
 Jag håller tummarna att Google aldrig kommer missbruka någon information, för det vore synd och förlora en sådana bra tjänster som Google erbjuder, för skulle dom tappa folks förtroende så går dom rätt fort i konkurs.
 
-:: Google, Sök
+
 
 <small></small>
 

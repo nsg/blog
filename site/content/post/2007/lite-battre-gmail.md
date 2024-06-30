@@ -1,6 +1,8 @@
 +++
 date = "2007-08-30T16:38:49+00:00"
 title = "Lite bättre Gmail"
+[taxonomies]
+tags = ["gmail", "greasemonkey"]
 +++
 
 Det har byggts upp en del post som ligger kvar i inboxen på mitt [gmail][1]-konto, det är en del jobb att städa upp då jag vill sätta rätt etiketter innan jag arkiverar dem, men nu har jag hittat ett script som gör saken så mycket enklare.  
@@ -18,7 +20,7 @@ Lite snabbt om du vill prova:
 2.  [Klicka här][8] för att installera skriptet, för mer information [klicka här][9].
 3.  Ladda om gmail, klicka på &#8220;h&#8221; för att få upp hjälpen.
 
-:: Gmail, Greasemonkey
+
 
 <small></small>
 

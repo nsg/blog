@@ -1,6 +1,8 @@
 +++
 date = "2007-02-11T00:53:07+00:00"
 title = "Intressant"
+[taxonomies]
+tags = ["svd", "dn", "twingly"]
 +++
 
 Jag tog en titt in på [knuff][1] och såg följande syn.
@@ -11,7 +13,7 @@ Notera att det bara är SvD &#038; DN som ligger i &#8220;toppen&#8221;, om minn
 
 Intressant, undra om det ligger något i det.
 
-:: Svd, DN, Twingly
+
 
 <small></small>
 

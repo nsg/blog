@@ -1,6 +1,8 @@
 +++
 date = "2008-01-03T02:43:05+00:00"
 title = "Lite om attacken på aftonbladet"
+[taxonomies]
+tags = ["aftonbladet", "flashback", "vuxna förbannade hackare", "hackare", "lösenord"]
 +++
 
 [Jag har nu skrivit ett längre bättre inlägg om samma sak][1]
@@ -11,7 +13,7 @@ Klockan är nu 03:30 och diskunionen pågår för fullt i forumet, det är nu li
 
 Det finns mycket att säga om lösenorden, men det kommer i ett senare inlägg. Nu ska jag sova.
 
-:: Aftonbladet, Flashback, Vuxna Förbannade Hackare, Hackare, Lösenord
+
 
 <small></small>
 

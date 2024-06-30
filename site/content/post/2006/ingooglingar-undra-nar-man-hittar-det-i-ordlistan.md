@@ -1,6 +1,8 @@
 +++
 date = "2006-10-15T18:49:05+00:00"
 title = "Ingooglingar (undra när man hittar det i ordlistan)"
+[taxonomies]
+tags = ["google", "sök"]
 +++
 
 Jag har haft [Google Analytics][1] på sidan ett tag nu, jag har en del besökare, även om de flesta inte verkar stanna länge så är det kul ändå att dom hittade hit. Dom två stora vägarna hit är via google (ca 60%) och bloggar.se (ca 30%). Jag tänkte undersöka lite av de vanliga sökorden på google som leder hit.
@@ -19,7 +21,7 @@ Visa är intresanta, t.ex. &#8220;4110836984492&#8243;, ger ingen träff för mi
 
 Som du ser är det många som sökt på ubuntu eller linuxrellaterat och hamnat här, det är intressant när jag bara skrivit [tre][13] [inlägg][14] [om][15] ubuntu resp. [ett][16] om suse. Men åt andra sidan är det mycket text i dem.
 
-:: Google, Sök
+
 
 <small></small>
 

@@ -1,6 +1,8 @@
 +++
 date = "2007-05-21T21:48:24+00:00"
 title = "Torloc eller Torrent Locator"
+[taxonomies]
+tags = ["torloc", "torrent"]
 +++
 
 Torloc (Torrent Locator) är ett litet ajax-skript (med php bakom) som hämtar information från The Pirate Bay, tanken är att den ska lista ut den torrent som du är ute efter. T.ex. om jag skriver &#8220;lost&#8221; så får jag nu senaste episoden. Skulle förslaget inte duga, t.ex. att du vill ha bättre kvalité, öka mini-storleken till 500.
@@ -11,6 +13,6 @@ Här kommer den, bara och testa på, tänk på att det säkert finns massor av b
 
 
 
-:: Torloc, Torrent
+
 
 <small></small>

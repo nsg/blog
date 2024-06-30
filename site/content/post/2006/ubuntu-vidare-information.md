@@ -1,6 +1,8 @@
 +++
 date = "2006-06-29T10:59:28+00:00"
 title = "Ubuntu &#8211; Vidare information"
+[taxonomies]
+tags = ["ubuntu", "aixgl", "xgl", "modem", "linux", "bluetooh", "ir"]
 +++
 
 Jag har inte ännu bestämmt mig om jag ska köra vidare med ubuntu eller byta tillbaka till gentoo, men det är så mycket lättare och få saker och funka under ubuntu så det är lockande och stanna kvar.
@@ -33,6 +35,6 @@ När jag höll på så provade jag på att installera lite program för min usb-
 
 Jag installerade även program för min ir-port men jag har inte hunnit test dom ännu då bluetooh är så mycket trevligare :) 
 
-:: Ubuntu, Aixgl, Xgl, Modem, Linux, Bluetooh, IR
+
 
 <small></small>

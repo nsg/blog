@@ -1,6 +1,8 @@
 +++
 date = "2006-05-31T19:39:28+00:00"
 title = "PB/TPB nere"
+[taxonomies]
+tags = ["tpb", "pb", "the pirate bay", "piratbyrån", "censur", "polis", "fildelning", "swebits"]
 +++
 
 Ja, nu hände det, polisen har gett sig på TPB ([The Pirate Bay][1]) med näbbar och klor. Det intressanta var att dom inte har någon som helst (vad som det har framgått) laglig grund för beslaget. Jag kommer inte skriva så mycket själv om idiotin här utan citera och ge länkar.
@@ -51,7 +53,7 @@ Edit 2: [svt.se][14] skriver en del intressanta saker&#8230;
 
 Edit 3: [Rick Falkvinge][15] skriver en del intressanta saker på sin blogg, rek!
 
-:: TPB, PB, The Pirate Bay, Piratbyrån, censur, polis, fildelning, swebits
+
 
 <small></small>
 

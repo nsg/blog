@@ -1,6 +1,8 @@
 +++
 date = "2007-03-02T19:30:56+00:00"
 title = "Förfula"
+[taxonomies]
+tags = ["bilder", "photoshop", "the gimp"]
 +++
 
 Jag har bloggen Moderskeppet i min rss-läsare. Tycker det är intressant och läsa, även om jag inte har tillgång till Photoshop som han skriver om. Men han kommer med en del tipps ibland dom kan &#8220;översättas&#8221; till The Gimp.  
@@ -13,7 +15,7 @@ Jag har bloggen Moderskeppet i min rss-läsare. Tycker det är intressant och l�
 
 Kul och kolla på :) 
 
-:: Bilder, Photoshop, The Gimp
+
 
 <small></small>
 

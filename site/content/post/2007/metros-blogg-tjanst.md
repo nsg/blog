@@ -1,6 +1,8 @@
 +++
 date = "2007-06-18T19:31:19+00:00"
 title = "Metros “blogg”-tjänst"
+[taxonomies]
+tags = ["metro", "blogg", "metrobloggen", "feed", "rss"]
 +++
 
 <div class="left">
@@ -28,7 +30,7 @@ Jag hittade bara en annan bloggare som sett samma sak, [Johan på knuff][4].
 [Metro: Börja blogga – tjäna pengar!][5]  
 [SvD: 3 öre per visning gör inte bloggaren rik][6]
 
-:: Metro, Blogg, Metrobloggen, feed, rss
+
 
 <small></small>
 

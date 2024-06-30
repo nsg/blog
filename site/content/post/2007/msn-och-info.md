@@ -1,6 +1,8 @@
 +++
 date = "2007-08-09T22:35:57+00:00"
 title = "MSN och .info"
+[taxonomies]
+tags = ["info", "msn"]
 +++
 
 Det är inget nytt för mig direkt, men jag råkade ut för det för första gången idag. Jag hade kunnat skriva ett långt inlägg relaterat till det här, men då min blogglust är nästan på noll så får det bli kort och effektivt.
@@ -20,6 +22,6 @@ Jag tycker att det är lite väl hårt att stänga av ett helt domännamn bara f
 
 <small>Ska även påpeka att jag kommer inte vara så aktiv här den närmaste tiden då <a href="http://www.d.kth.se/mottagningen/">mottagningen</a> i skolan börjar.</small>
 
-:: Info, MSN
+
 
 <small></small>

@@ -1,6 +1,8 @@
 +++
 date = "2008-02-11T11:34:03+00:00"
 title = "Det funkar inte längre"
+[taxonomies]
+tags = ["bloggar", "rss", "bloggläsande", "feed"]
 +++
 
 <img src="/images/2008/02/screenshot4.png" title="screenshot4.png" alt="screenshot4.png" align="left" />Jag har kommit efter mitt bloggläsande den senaste tiden, det har inte bara märkts att jag inte har kommenterat så mycket, utan även att jag knappt har skrivit något här på bloggen.
@@ -9,6 +11,6 @@ Den senaste veckan så har jag börjat läsa ikapp lite i min rss-läsare, men v
 
 Som läsare av bloggar så kan det lätt bli att man samlar på sig för många, t.ex. att jag som mest hade över 5000 olästa inlägg är inte bra. Så nu gör jag det enda vettiga, läser det jag vill läsa, markerar resten som läst och slutligen röjer upp och tar bort bloggar som jag inte är så intresserad av längre.
 
-:: Bloggar, RSS, Bloggläsande, Feed
+
 
 <small></small>

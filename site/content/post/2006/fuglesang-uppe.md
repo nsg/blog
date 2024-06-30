@@ -1,6 +1,8 @@
 +++
 date = "2006-12-10T03:08:23+00:00"
 title = "Fuglesang uppe"
+[taxonomies]
+tags = ["iss", "fuglesang", "rymden", "rymdfärja"]
 +++
 
 Nu i natt för ca 1 timme sedan (02:47) lyfte Fuglesang.
@@ -21,7 +23,7 @@ Ett filmklipp på uppskjutningen finns nu på YouTube
   
 tack *Hannes W* för tipset.
 
-:: ISS, Fuglesang, Rymden, Rymdfärja
+
 
 <small></small>
 

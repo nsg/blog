@@ -1,6 +1,8 @@
 +++
 date = "2007-03-27T12:26:47+00:00"
 title = "Gentoo 2006.1"
+[taxonomies]
+tags = ["linux", "gentoo"]
 +++
 
 *(Uppdaterade posten och la till åäö ist. för aao, infogade även några länkar)*
@@ -15,7 +17,7 @@ Ligger på paket 31 av 438 nu, hållar på att kompilera [Xorg][4] och [KDE][5] 
 
 **Notera**! Om du inte vet så mycket om Linux så tar en installation av en annan typ av linux inte mycket längre tid än windows, orsaken att det tar tid med Gentoo är att ALLT kompileras, dock är fördelen att man har stor valfrihet och har stora möjligheter att optimera.
 
-:: Linux, Gentoo
+
 
 <small></small>
 

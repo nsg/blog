@@ -1,6 +1,8 @@
 +++
 date = "2007-03-19T19:24:53+00:00"
 title = "Döda flyger och piratkopiering dör"
+[taxonomies]
+tags = ["fildelning", "flyg", "död", "piratkopiering"]
 +++
 
 <div class="middle">
@@ -11,7 +13,7 @@ Vad gör man som flygvärdinna om en passagerare dör? Uppgraderar passageraren 
 
 Alla som hade dator innan y2k minns nog hur man piratkopierade då, man bytte fysiska brända skivor från kompisar, oftast mot en peng som täckte kostnaden då skivor kostade en del då. Det var tider innan [p2p][2] var så pass populärt och tillgängligt. En del gjorde grova pengar på att bränna seriöst och sälja till ungdomar, men dom är idag nästan helt utkonkurrerade av t.ex. [bittorrent][3]. Du hittar en intressant artikel på [här][4].
 
-:: Fildelning, Flyg, Död, Piratkopiering
+
 
 <small></small>
 

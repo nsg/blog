@@ -1,6 +1,8 @@
 +++
 date = "2007-04-25T02:04:03+00:00"
 title = "Ny lovande planet funnen"
+[taxonomies]
+tags = ["planet", "exoplanet", "stjärna", "liv"]
 +++
 
 Tydligen har schweiziska, franska och portugisiska astronomer vid European Southern Observatory (ESO) i Tyskland hittat en ny planet runt en annan stjärna lite över 20 ljusår bort. Det som är nytt är att planeten är bara 50% större än jorden. Tidigare har astronomerna bara hittat stora planeter som sannolikt inte är så intresanta.
@@ -17,7 +19,7 @@ Lite mer intressanta saker är att planeten hittades med hjälp att studera stj�
 
 Källor: [DN][2], [Space.com][3], [SvD][4].
 
-:: Planet, Exoplanet, Stjärna, Liv
+
 
 <small></small>
 

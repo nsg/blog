@@ -1,6 +1,8 @@
 +++
 date = "2007-03-15T02:42:02+00:00"
 title = "Wow sg1&#038;atl"
+[taxonomies]
+tags = ["asuran", "stargate", "atlantis", "stargate sg-1", "stargate atlantis", "sg1", "wraith"]
 +++
 
 <div class="center">
@@ -19,7 +21,7 @@ Attacken mot Asurans värld var cool, deras vapen som dom anföll tillbaka med �
 
 Asurans är nog minna favorit-fiender nog tror jag, Wraith har ibland känns lite speciella, klart intressanta men jag föredrar teknik, och där passar Asuran perfekt, det är det dom är :) 
 
-:: Asuran, Stargate, Atlantis, Stargate SG-1, Stargate Atlantis, SG1, Wraith
+
 
 <small></small>
 

@@ -1,6 +1,8 @@
 +++
 date = "2006-05-30T15:24:52+00:00"
 title = "irrepressible"
+[taxonomies]
+tags = ["irrepressible", "censur"]
 +++
 
 [irrepressible.info][1] är en site som arbetar för ett öppet, fritt internet
@@ -12,7 +14,7 @@ Dom har en intressant kampanj på gång där man kan hjälpa till att sprida blo
 Exempel:  
 
 
-:: irrepressible, censur
+
 
 <small></small>
 

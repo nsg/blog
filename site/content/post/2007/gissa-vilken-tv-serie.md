@@ -1,6 +1,8 @@
 +++
 date = "2007-05-03T23:57:58+00:00"
 title = "Gissa vilken tv-serie"
+[taxonomies]
+tags = ["lek", "gissa"]
 +++
 
 Nu kommer del 4 av min lek, gissa vad det är för serie.
@@ -11,7 +13,7 @@ Nu kommer del 4 av min lek, gissa vad det är för serie.
 
 [Klicka här för mer info][1]
 
-:: Lek, Gissa
+
 
 <small></small>
 

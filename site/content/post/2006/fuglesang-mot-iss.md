@@ -1,6 +1,8 @@
 +++
 date = "2006-12-08T01:40:55+00:00"
 title = "Fuglesang mot ISS"
+[taxonomies]
+tags = ["iss", "fuglesang", "rymden", "rymdfärja"]
 +++
 
 Om ca 1 timma och 20 minuter (3:36) så är Christer Fuglesang schemalagd att åka upp till ISS. Fråga mig inte varför dom har valt en sådan udda tid* men jag hoppas allt går bra. 14 år har han nu väntat på att lämna planeten så jag hoppas för hans skull att det nu blir av.
@@ -20,6 +22,6 @@ Skyller nog på att jag är trött :)
 
 <img id="image151" src="/images/2006/12/rocket.gif" alt="rocket.gif" />
 
-:: ISS, Fuglesang, Rymden, Rymdfärja
+
 
 <small></small>

@@ -1,6 +1,8 @@
 +++
 date = "2007-02-23T14:37:43+00:00"
 title = "Privatfilm från 9/11"
+[taxonomies]
+tags = ["wtc", "world trade center", "terrorist", "911"]
 +++
 
 En familj filmade terrorattacken mot WTC och har nu 5 år senare bestämt sig att släppa filmen på nätet. Det är ett 26 minuter långt klipp, klart intressant och se, då man hör personerna i rummet och deras kommentarer.
@@ -20,7 +22,7 @@ Filmen hittar du på bl.a. [Google Video][3].
 <embed style="width:400px; height:326px;" id="VideoPlayback" type="application/x-shockwave-flash" src="http://video.google.com/googleplayer.swf?docId=-5370762387415552903&#038;hl=en" flashvars="">
 </embed>
 
-:: WTC, World Trade Center, Terrorist, 911
+
 
 <small></small>
 

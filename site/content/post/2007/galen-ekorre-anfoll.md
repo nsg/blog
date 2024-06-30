@@ -1,6 +1,8 @@
 +++
 date = "2007-06-19T00:52:48+00:00"
 title = "Galen ekorre anföll"
+[taxonomies]
+tags = ["ekorre", "anfall"]
 +++
 
 <div class="left">
@@ -14,7 +16,7 @@ Tydligen tyckte inte ekorren det var tillräckligt då den fortsatte till en 72-
 
 Jag undrar vad det tog åt den, enligt experter så gissade dom på att det kan bero på att det är parningssäsong eller att den var sjuk. Det känns som den var lite småtokig i alla fall.
 
-:: Ekorre, Anfall
+
 
 <small></small>
 

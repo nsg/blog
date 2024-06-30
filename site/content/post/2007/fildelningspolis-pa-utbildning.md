@@ -1,6 +1,8 @@
 +++
 date = "2007-02-19T14:28:48+00:00"
 title = "Fildelningspolis på utbildning"
+[taxonomies]
+tags = ["mpa", "polisen", "fildelning"]
 +++
 
 *Jag läste om det redan i går ([FFF][1]) men nu läste jag att även [DN][2] och IDG har tagit upp det ([via][3]).* Även [SvD skriver][4] om det.
@@ -22,7 +24,7 @@ Varför är dom så rädda för DRM-fria filer? Inte tror jag att den illigala k
 
 Det ska bli intressant och se hur det utvecklar sig, och hur man ser tillbaka på hela den här perioden om 30 år.
 
-:: MPA, Polisen, fildelning
+
 
 <small></small>
 

@@ -1,6 +1,8 @@
 +++
 date = "2007-04-08T00:14:46+00:00"
 title = "Gaim blir Pidgin"
+[taxonomies]
+tags = ["pidgin", "gaim", "aol"]
 +++
 
 Jag har sedan jag började använda Linux på heltid för ett par år sedan använt IM-klienten [Gaim][1] till mitt ICQ och MSN-behov. Jag har besökt Gaims hemsida några gånger och har funderat på texten
@@ -11,7 +13,7 @@ Att det står där förvånade mig inte då det är många sidor som man sett li
 
 Det nya namnet kommer bli [Pidgin][3], dock behålls versionsnumret så snart kommer jag att köra Pidgin 2.0.0
 
-:: Pidgin, Gaim, AOL
+
 
 <small></small>
 

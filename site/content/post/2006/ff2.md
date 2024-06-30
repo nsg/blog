@@ -1,6 +1,8 @@
 +++
 date = "2006-10-27T01:08:30+00:00"
 title = "ff2"
+[taxonomies]
+tags = ["firefox", "linka alert", "jsview"]
 +++
 
 **v2.0**  
@@ -23,7 +25,7 @@ Jag är på index.php som har tagit i mot variabeln *page* med *http_post*, scri
 
 Slutsatsen är nog att det inte var så bra ändå, men tanken var god.
 
-:: Firefox, Linka Alert, JSView
+
 
 <small></small>
 

@@ -1,6 +1,8 @@
 +++
 date = "2007-01-03T18:57:23+00:00"
 title = "College Saga"
+[taxonomies]
+tags = ["humor"]
 +++
   
 [YouTube][1]
@@ -14,7 +16,7 @@ title = "College Saga"
   
 [YouTube][4]
 
-:: Humor
+
 
 <small></small>
 

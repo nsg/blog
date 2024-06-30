@@ -1,6 +1,8 @@
 +++
 date = "2007-01-10T22:50:39+00:00"
 title = "Sök efter trackbacks enkelt på knuff"
+[taxonomies]
+tags = ["knuff", "bloggar", "trackback"]
 +++
 
 Johan på knuff.se [skriver][1]:
@@ -20,7 +22,7 @@ Notera &#8220;sajter&#8221;, ja, det går även och få &#8220;trackbacks&#8221;
 
 [Här][2] beskrivs det bättre.
 
-:: Knuff, Bloggar, Trackback
+
 
 <small></small>
 

@@ -1,6 +1,8 @@
 +++
 date = "2007-10-05T09:10:59+00:00"
 title = "Huawei E2200 HSDPA"
+[taxonomies]
+tags = ["tre", "linux", "internet", "bredband"]
 +++
 
 > <p align="left">
@@ -91,7 +93,7 @@ Självklart finns det grafiska sätt att göra <strike>allt</strike> delar av de
 
 Jag skrev om det grafiska sättet [här][1], men där utgår jag från att allt bara funkar direkt, jag rekommenderar att du provar i konsoll först.
 
-:: Tre, Linux, Internet, Bredband
+
 
 <small></small>
 

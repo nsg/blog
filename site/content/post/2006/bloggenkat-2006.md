@@ -1,6 +1,8 @@
 +++
 date = "2006-12-30T02:27:47+00:00"
 title = "Bloggenkät 2006"
+[taxonomies]
+tags = ["bloggenkät"]
 +++
 
 Jag har bloggat ett tag nu, men alldrig svarat på en bloggenkät, tänkte att det var dax för det.
@@ -104,7 +106,7 @@ Informativt, jag har lärt mig mycket inom teknik och politik, ibland så är de
 
 Då jag starkt ogillar kedjebrev så kommer bara luta mig tillbaka och tycka på &#8220;Publish&#8217;&#8221; nu.
 
-:: bloggenkät
+
 
 <small></small>
 

@@ -1,6 +1,8 @@
 +++
 date = "2007-03-13T13:22:11+00:00"
 title = "Var är Springfield?"
+[taxonomies]
+tags = ["springfield", "simpsons"]
 +++
 
 Både [DN][1] och [SvD][2] skriver att det är en debatt ang. i vilken Springfield (i USA) som premiären av Simpsons-filmen. Staden Springfield valdes just för att det var en sådan vanlig stad.
@@ -18,7 +20,7 @@ I närheten så fans det två städer med namnet, [Springfield, Missouri][4] och
 **Bonus**:  
 Här kommer en [intressant länk][6] om du känner för att sitta och fundera på vart Simpsons Springfield skulle kunna ligga.
 
-:: Springfield, Simpsons
+
 
 <small></small>
 

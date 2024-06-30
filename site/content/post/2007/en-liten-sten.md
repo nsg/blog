@@ -1,6 +1,8 @@
 +++
 date = "2007-02-18T16:59:44+00:00"
 title = "En liten sten"
+[taxonomies]
+tags = ["fn", "asteroid", "katastrof"]
 +++
 
 DN skriver om ett förslag att FN ska ta hand om administration bakom finansiella medel för att ta hand om en asteroid som skulle vara på kollisionskurs med Jorden. Jag tror inte att det förvånar någon att det kan bli problem om vem som ska stå för notan på en sådan kostsam operation.
@@ -14,7 +16,7 @@ Om vi upptäcker den i tid så är det &#8220;bara&#8221; en fråga om att knuff
 [DN] [FN ska hantera hot från rymden][1]  
 [Knuff] [Andra bloggar om det på Knuff][2]
 
-:: FN, Asteroid, Katastrof
+
 
 <small></small>
 

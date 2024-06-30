@@ -1,6 +1,8 @@
 +++
 date = "2007-10-25T16:17:26+00:00"
 title = "Nu blev det för mycket te"
+[taxonomies]
+tags = ["tangentbord", "logitech"]
 +++
 
 <img src="/images/2007/10/dsc00007.JPG" title="dsc00007.JPG" alt="dsc00007.JPG" align="left" />För ungefär tre år sedan köpte jag ett nytt tangentbord, 39 kr kostade jag på mig ([läs lite mer här][1]). Det var ett lyft från mitt gamla IBM-tangentbord från 90-talet, det var inget speciellt jämfört från det gamla förutom att det var tystare. Jag hade börjat tröttat på det gamlas klick-kopeli-klick-ljud som många säkert känner till.
@@ -13,7 +15,7 @@ Så nu sitter jag med ett nytt tangentbord. Det blev ett [Logitech Ultra-X Media
 
 Det återstå och se hur te-tåligt det här är, men jag hoppas att det dröjer ett tag innan jag får veta det.
 
-:: Tangentbord, Logitech
+
 
 <small></small>
 

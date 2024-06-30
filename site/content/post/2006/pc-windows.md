@@ -1,6 +1,8 @@
 +++
 date = "2006-11-16T01:57:36+00:00"
 title = "PC != Windows"
+[taxonomies]
+tags = ["pc", "mac", "windows", "ibm", "linux", "osx"]
 +++
 
 Efter att ha kollat på en bunt lagom underhållande reklamfilmer från Apple så väcktes lusten att uttrycka vad en PC är.  
@@ -43,7 +45,7 @@ Mac med Linux
 
 Mac med Annat OS
 
-:: PC, Mac, Windows, IBM, Linux, OSX
+
 
 <small></small>
 

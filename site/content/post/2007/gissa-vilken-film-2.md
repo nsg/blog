@@ -1,6 +1,8 @@
 +++
 date = "2007-04-23T00:59:41+00:00"
 title = "Gissa vilken film 2"
+[taxonomies]
+tags = ["lek", "lekar"]
 +++
 
 Det känns som det är dax för ännu en gissa filmen, denna gången är det tre stycken bilder från filmen i stället.
@@ -13,7 +15,7 @@ Det känns som det är dax för ännu en gissa filmen, denna gången är det tre
 
 [Mer information][1]
 
-:: Lek, Lekar
+
 
 <small></small>
 

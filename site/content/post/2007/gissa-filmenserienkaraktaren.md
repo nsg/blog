@@ -1,6 +1,8 @@
 +++
 date = "2007-04-03T14:33:13+00:00"
 title = "Gissa filmen/serien/karaktären …"
+[taxonomies]
+tags = ["lek", "lekar"]
 +++
 
 Den här posten har två syften, för det första att kort och gott göra lite mer reklam till min lek där du ska gissa vilken film/serie/karaktär&#8230; dessutom kommer jag även använda denna posten som en samlingssida för alla lekar med information och länkar.
@@ -17,7 +19,7 @@ Du vinner inget på minna lekar, bara äran. Det finns ibland tipps i senare pos
 5. [Gissa vilken film][6], vinnare [Linus][7]  
 6. [Gissa tv-serie][8], vinnare [Mickey J Barczyk][9]
 
-:: Lek, Lekar
+
 
 <small></small>
 

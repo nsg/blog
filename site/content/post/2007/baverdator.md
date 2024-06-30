@@ -1,6 +1,8 @@
 +++
 date = "2007-04-16T13:53:00+00:00"
 title = "Bäverdator"
+[taxonomies]
+tags = ["bäver", "dator", "datorbygge"]
 +++
 
 <div class="middle">
@@ -11,7 +13,7 @@ Ja, någon har byggt in en dator i en bäver, en riktigt en (dock död). [Här k
 
 Bilden är &#8220;lånad&#8221; från sidan, och editerad med [wiredness.com][3], klart intressant sida.
 
-:: Bäver, Dator, Datorbygge
+
 
 <small></small>
 

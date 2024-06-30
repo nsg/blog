@@ -1,6 +1,8 @@
 +++
 date = "2007-11-01T11:31:52+00:00"
 title = "Nya Gmail"
+[taxonomies]
+tags = ["gmail", "mail", "e-post", "google"]
 +++
 
 <img src="/images/2007/11/actions-new.png" title="actions-new.png" alt="actions-new.png" align="left" />Om du använder Gmail kanske du redan lagt märke till att en ny version är på gång. På vanligt google-vis så flyttar dom över några personer åt gången till den nya versionen och i natt var det min tur.
@@ -21,7 +23,7 @@ Det går nu att använda webbläsarens fram och bakåtknappar för att navigera 
 
 När man höll musen ovanför en kontakt i &#8220;Quick Contacts&#8221; så kom det fram en ruta med namn och lite alternativ, den rutan är uppdaterad och tillsnyggad (se bilder). Samma ruta används nu även om du håller musen ovanför namnet på en kontakt i ett e-mail istället för bara bilden.
 
-:: Gmail, Mail, E-post, Google
+
 
 <small></small>
 

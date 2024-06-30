@@ -1,6 +1,8 @@
 +++
 date = "2007-01-01T22:12:53+00:00"
 title = "Alla älskar statistik"
+[taxonomies]
+tags = ["statistik", "knuff"]
 +++
 
 Ah, att läsa intressant statistik, roligare kan man inte ha :)  
@@ -10,7 +12,7 @@ Folk verkar använda [wikipedia][3] till att beskriv ord som t.ex. RSS eller DRM
 
 [Se inlägget för mer info][2].
 
-:: Statistik, Knuff
+
 
 <small></small>
 

@@ -1,6 +1,8 @@
 +++
 date = "2007-02-12T17:20:38+00:00"
 title = "Trängselglömska"
+[taxonomies]
+tags = ["vägverket", "skatt", "trängselskatt"]
 +++
 
 Tydligen så har folk betalat in för mycket i skatt under trängselförsöket. Kan förstå att det kan vara lätt och göra det, då man själv fick hålla reda på det om man inte hade någon transponder, eller annan automatisk lösn.
@@ -11,7 +13,7 @@ Men det skadar ju inte med en vinst för vägverket på 2 miljoner, även om det
 
 [[SvD] Trängselpengar söker sina ägare][1]
 
-:: Vägverket, skatt, trängselskatt
+
 
 <small></small>
 

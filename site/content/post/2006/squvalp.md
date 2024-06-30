@@ -1,6 +1,8 @@
 +++
 date = "2006-05-17T21:47:01+00:00"
 title = "SquVALp"
+[taxonomies]
+tags = ["squvalp", "fest", "fryshuset"]
 +++
 
 *Jag började skriva på den här posten redan i måndags, men den fick ligga på is tills nu*
@@ -21,7 +23,7 @@ Senare stängde vi salarna och folk fick hålla till 1 resp. 2 trappor ner på &
 
 *Nu blev inte det här det mest välskrivna, men jag måste få iväg texten någon gång :) *
 
-:: squVALp, fest, fryshuset
+
 
 <small></small>
 

@@ -1,6 +1,8 @@
 +++
 date = "2007-05-23T00:03:05+00:00"
 title = "Se Richard Stallmans tal"
+[taxonomies]
+tags = ["rms", "richard stallman", "gnu"]
 +++
 
 <div class="left">
@@ -13,7 +15,7 @@ Med tanke på storleken så förstår du säkert att det är video (Ogg Theora) 
 
 **Vet du inte vem RMS är så [kontakta wikipedia][2].*
 
-:: RMS, Richard Stallman, GNU
+
 
 <small></small>
 

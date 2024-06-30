@@ -1,6 +1,8 @@
 +++
 date = "2007-01-01T22:02:26+00:00"
 title = "41 timmar senare"
+[taxonomies]
+tags = ["sök", "google", "msn", "technorati", "google blogsearch", "knuff", "yahoo", "ask", "eniro", "alltheweb", "test"]
 +++
 
 Nu är jag hemma igen och följer upp mitt experiment från min föra post.
@@ -33,7 +35,7 @@ Ska bli intressant och se när, och om msn kommer indexera något. Gissar på at
 **Slutsats**  
 Att sätta sökord i title-elementet vekar inte vara så relevant för en del sökmotorer som jag trodde. Dock verkar dom som överhuvudtaget ha hittat hit vara ok med att indexera sidan då resterade två sökord hittades.
 
-:: Sök, Google, MSN, Technorati, Google Blogsearch, Knuff, Yahoo, Ask, Eniro, Alltheweb, Test
+
 
 <small></small>
 

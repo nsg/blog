@@ -1,6 +1,8 @@
 +++
 date = "2007-01-30T11:26:29+00:00"
 title = "Will It Blend"
+[taxonomies]
+tags = ["will it blend", "humor"]
 +++
 
 Jag roade mig att se ikapp på &#8220;Will It Blend&#8221;-serien på YouTube, här kommer ett smakprov, kanske inte den bästa saken, men dock rolig humor.
@@ -10,7 +12,7 @@ Jag roade mig att se ikapp på &#8220;Will It Blend&#8221;-serien på YouTube, h
 
 [Tidigare relaterad post][2]
 
-:: Will It Blend, Humor
+
 
 <small></small>
 

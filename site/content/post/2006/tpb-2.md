@@ -1,6 +1,8 @@
 +++
 date = "2006-06-02T16:40:21+00:00"
 title = "TPB 2"
+[taxonomies]
+tags = ["prq", "tpb", "the pirate bay"]
 +++
 
 <img id="image69" src="/images/2006/06/thepiratebay.thumbnail.gif" alt="thepiratebay" />  
@@ -14,7 +16,7 @@ T.ex. i [PRQ][4]s lokaler plockade dom med sig t.ex. switchar, som om dom kommer
 
 Slutligen så är <http://www.thepiratebay.org> uppe igen, inte med trackern men det finns information där. Piratbyrån arbetar fortfarande med att återställa sin site.
 
-:: PRQ, TPB, The Pirate Bay
+
 
 <small></small>
 

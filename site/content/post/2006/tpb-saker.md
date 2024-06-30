@@ -1,6 +1,8 @@
 +++
 date = "2006-06-03T02:57:30+00:00"
 title = "TPB &#8211; Saker"
+[taxonomies]
+tags = ["tpb", "the pirate bay", "prq", "polisen", "beslag", "husransakan", "istheshit", "istheshit.net"]
 +++
 
 Jag skrev lite i tidigare inlägget om olika [idiotiska saker][1] som dom hande tagit beslag på.  
@@ -71,7 +73,7 @@ Här kommer en liten lista på folk som har bot i någon av de övriga 60 servra
 
 Ojoj, det blev ett långt blogginlägg, mycket längre än jag trodde. Jag sägar det igen, det ska bli intressant och se vad som händer.
 
-:: TPB, The Pirate Bay, PRQ, Polisen, Beslag, Husransakan, istheshit, istheshit.net
+
 
 <small></small>
 

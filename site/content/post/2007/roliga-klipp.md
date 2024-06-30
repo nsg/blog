@@ -1,6 +1,8 @@
 +++
 date = "2007-06-28T10:36:53+00:00"
 title = "Roliga klipp"
+[taxonomies]
+tags = ["humor", "star trek"]
 +++
 
 När jag skrev föra inlägget så letade jag fram en [rolig parodi på Star Trek][1] som demo, jag letade vidare lite och hittade denna, helt underbar reklam.
@@ -11,7 +13,7 @@ När jag skrev föra inlägget så letade jag fram en [rolig parodi på Star Tre
   
 <font size = 1>[No More Star Trek][2] -- [Watch more amazing videos here][3]</font>
 
-:: Humor, Star Trek
+
 
 <small></small>
 

@@ -1,6 +1,8 @@
 +++
 date = "2007-10-08T10:42:41+00:00"
 title = "Är det här verelikgn så ltät…?"
+[taxonomies]
+tags = ["språk", "text", "hjärnan"]
 +++
 
 Du har säkert hört talats som att det går och läsa text även om man blandar om bokstäverna i ett ord, så länge den första och sista bokstaven sitter på rätt plats. Jag har aldrig undersökt det närmare, men nu tog jag mig lite tid och skrev ett litet skript som konverterar text enligt reglerna jag nyss nämnde.
@@ -30,7 +32,7 @@ Jag har nu uppdaterat skriptet så punkt och komma inte borde vara något proble
 > Udner etrmedidagfen idneleds fröhör med de bdåa kinrnonva.  
 > Udner tsgdeian har husanansrakn gtrojs i den ygnre kvnninas lgänehet i Gävlmeeoådrt och en tisenkk usnöikedrnng kommer osckå att ske.
 
-:: Språk, Text, Hjärnan
+
 
 <small></small>
 

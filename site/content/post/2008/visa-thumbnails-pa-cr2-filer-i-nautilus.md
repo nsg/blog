@@ -1,6 +1,8 @@
 +++
 date = "2008-02-03T20:14:32+00:00"
 title = "Visa thumbnails på CR2-filer i Nautilus"
+[taxonomies]
+tags = ["nautilus", "linux", "canon", "eos 400d", "raw", "gnome"]
 +++
 
 <img src="/images/2008/02/cr2.png" title="cr2.png" alt="cr2.png" align="left" />Har du en digital systemkamera, och kör Gnome. Då vill du nog att Nautilus ska generera thumbnails även för dina raw-bilder. Det är jobbigt och onödigt att behöva använde ett program för att kunna bläddra igenom dem när du letar efter en bild.
@@ -44,7 +46,7 @@ Jag förutsätter att du har samma kamera som jag, och att du kör ubuntu 7.10. 
 
 Guiden är baserad på instruktionerna på <http://www.penguin.cz/~utx/gnome-dcraw>, jag har hoppat över stora delar av hans guide då de inte var nödvändiga för vad jag ville göra, och så gjorde jag mig egen schema-fil då hans lösning var onödig då Nautilus redan hade identifierat minna bilder korrekt.
 
-:: Nautilus, Linux, Canon, EOS 400d, RAW, Gnome
+
 
 <small></small>
 

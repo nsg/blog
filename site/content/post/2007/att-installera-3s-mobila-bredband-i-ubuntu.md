@@ -1,6 +1,8 @@
 +++
 date = "2007-10-05T19:35:00+00:00"
 title = "Att installera 3:s mobila bredband i Ubuntu"
+[taxonomies]
+tags = ["bredband", "internet", "tre"]
 +++
 
 <p style="padding-left: 30px; border: 1px solid black; background: #C3FFC8">
@@ -26,7 +28,7 @@ Funkar allt som det ska så borde du efter ett tag vara uppkopplad, funkar det i
 
 ![screenshot4.png][2]
 
-:: Bredband, Internet, Tre
+
 
 <small></small>
 

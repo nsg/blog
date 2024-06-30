@@ -1,6 +1,8 @@
 +++
 date = "2007-11-22T11:16:16+00:00"
 title = "Liten fågel, större fågel, stor fågel."
+[taxonomies]
+tags = ["fågel", "rovfågel"]
 +++
 
 För någon timma sedan så ställde jag mig vid fönstret och tittade ut, att se fåglar i buskar och på marken är inget jag är ovan med då lägenheten ligger på bottenplan, men i dag var det en ovanligt stor fågel på marken (se bild).
@@ -15,7 +17,7 @@ Alltid kul när det händer något över det vanliga.
 
 *(Jag bor i Stockholm så det är inte direkt vanligt att man ser fåglar av den här typen utanför fönstret)*
 
-:: Fågel, Rovfågel
+
 
 <small></small>
 

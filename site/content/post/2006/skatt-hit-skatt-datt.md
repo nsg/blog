@@ -1,6 +1,8 @@
 +++
 date = "2006-05-27T16:24:17+00:00"
 title = "Skatt hit, skatt datt"
+[taxonomies]
+tags = ["eu", "mail", "skatt"]
 +++
 
 Ja, vet inte om detta känns mer galet än logga-mail-idén, men det är helt orealistiskt att införa tekniskt.
@@ -11,7 +13,7 @@ Det finns för mycket folk som sätter på &#8220;hårddisken&#8221; och &#8220;
 
 Läs mer på: [Solid block of Ice][1], [Copyriot][2], [IDG][3].
 
-:: EU, Mail, Skatt
+
 
 <small></small>
 

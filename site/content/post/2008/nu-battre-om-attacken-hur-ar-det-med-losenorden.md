@@ -1,6 +1,8 @@
 +++
 date = "2008-01-03T12:11:45+00:00"
 title = "Nu bättre om attacken, hur är det med lösenorden?"
+[taxonomies]
+tags = ["aftonbladet", "flashback", "vuxna förbannade hackare", "hackare", "lösenord"]
 +++
 
 **Länkar och allmänt**
@@ -23,7 +25,7 @@ Hackarna lämnar ingen större information om hur dom har tagit sig in i systeme
 
 Nu återstår det att se vad som händer.
 
-:: Aftonbladet, Flashback, Vuxna Förbannade Hackare, Hackare, Lösenord
+
 
 <small></small>
 

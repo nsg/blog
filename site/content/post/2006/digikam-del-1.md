@@ -1,6 +1,8 @@
 +++
 date = "2006-12-10T04:35:13+00:00"
 title = "digiKam, del 1"
+[taxonomies]
+tags = ["digikam", "bilder", "picasa", "linux"]
 +++
 
 Jag skrev om [Picasa Linux][1] för snart en månad sedan, jag blev ingen Picasaanvändare utan fastnade för att annat program.
@@ -50,7 +52,7 @@ Möjligheten att spara träffarna finns även, dom hamnar då under fliken &#822
 
 Det finns många fler möjligheter med digiKam, men dom tar jag upp i del 2 som jag kommer posta den närmaste tiden.
 
-:: digiKam, Bilder, Picasa, Linux
+
 
 <small></small>
 

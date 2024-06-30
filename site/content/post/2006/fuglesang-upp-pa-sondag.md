@@ -1,6 +1,8 @@
 +++
 date = "2006-12-09T01:38:32+00:00"
 title = "Fuglesang upp på Söndag?"
+[taxonomies]
+tags = ["iss", "fuglesang", "rymden", "rymdfärja"]
 +++
 
 Kollade upp så dom inte hade ändrat sig och sköt upp idag då jag hittade följande.
@@ -11,7 +13,7 @@ Kollade upp så dom inte hade ändrat sig och sköt upp idag då jag hittade fö
 
 Får se hur det blir, men tråkigt om dom inte kommer iväg då heller.
 
-:: ISS, Fuglesang, Rymden, Rymdfärja
+
 
 <small></small>
 

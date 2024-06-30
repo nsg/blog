@@ -1,6 +1,8 @@
 +++
 date = "2006-11-11T18:15:31+00:00"
 title = "Ovanliga och okända sidor på Google"
+[taxonomies]
+tags = ["google", "duvor", "mentalplex"]
 +++
 
 Google Labs har producerat en del intressanta saker som aldrig blev klara, men ofta så ligger det någon beta kvar. Sedan har dom en del andra roliga saker för sig som t.ex. [denna][1] (applet).
@@ -23,7 +25,7 @@ Ah, ta även en titt på &#8220;*For April Fool&#8217;s Day, Google &#8220;launc
 
 Ett tips, efter att du gjort din sökning, ladda om sidan lite, det finns många olika felmeddelanden :) 
 
-:: Google, Duvor, MentalPlex
+
 
 <small></small>
 

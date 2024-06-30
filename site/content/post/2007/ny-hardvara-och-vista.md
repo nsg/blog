@@ -1,6 +1,8 @@
 +++
 date = "2007-03-24T05:01:20+00:00"
 title = "Ny hårdvara och vista"
+[taxonomies]
+tags = ["vista", "dator", "hårdvara", "sata"]
 +++
 
 **Inledning**  
@@ -43,6 +45,6 @@ Jag ber om ursäkt för alla eventuella felstavningar och dåliga meniguppbyggna
 
 *PS. Jag har även tagit bilder, men det blir en anna dag DS.*
 
-:: Vista, Dator, Hårdvara, SATA
+
 
 <small></small>

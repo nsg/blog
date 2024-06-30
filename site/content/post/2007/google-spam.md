@@ -1,6 +1,8 @@
 +++
 date = "2007-01-02T00:21:19+00:00"
 title = "Google &#038; Spam"
+[taxonomies]
+tags = ["google", "spam"]
 +++
 
 Använder du Gmail, och besöker sidor du inte litar på? Logga då ut. En person har hittat ett sätt för hemsidor att få fram din kontaktlista från från Google när du är inloggad.
@@ -10,7 +12,7 @@ Google arbetar redan med det, men det skadar inte att vara försiktig.
 [Gmail Contact List Exposure][1]  
 [Bloggar][2] som skriver om [denna][3].
 
-:: Google, Spam
+
 
 <small></small>
 

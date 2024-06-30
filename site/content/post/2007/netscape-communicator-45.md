@@ -1,6 +1,8 @@
 +++
 date = "2007-03-12T01:28:55+00:00"
 title = "Netscape Communicator 4.5"
+[taxonomies]
+tags = ["netscape communicator", "netscape", "communicator", "nostalgi"]
 +++
 
 <img id="image346" src="/images/2007/03/jag-nuforr.gif" alt="Bild på mig, nu och förr" class="left" /> Ah, vet vet inte vilken min första webbläsare var, har minnen av Explorer 3.0 och Netscape. Netscape var dock den jag surfade först med på webben med. Efter att ha provat runt lite så är det version 4.5 som gav den äkta nostalgikänslan, jag minns att jag satt i skolan i årskurs 7 (1997-98) och surfade, det var min riktiga längre kontakt med internet. Visst jag hade varit i kontakt med det tidigare men då i mycket begränsad mängd och mera suttit som åskådare än surfare.  
@@ -24,7 +26,7 @@ Så kul och gå igenom gamla saker som man gjort.
 
 *En sak som jag reagerade på var bilden, om jag mis korrekt så är den tagen i början av högstadiet, d.v.s. årskurs 7. Jag borde vara 13 år på den bilden. Ser man så ung ut när man är 13 år? notera dock att jag alltid har sett något/några år yngre ut.*
 
-:: Netscape Communicator, Netscape, Communicator, Nostalgi
+
 
 <small></small>
 

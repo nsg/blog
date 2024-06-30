@@ -1,6 +1,8 @@
 +++
 date = "2006-07-24T21:43:37+00:00"
 title = "Så, vad händer här?"
+[taxonomies]
+tags = ["ubuntu", "gentoo", "linux", "wlan", "wi-fi"]
 +++
 
 *Notis: jag är inte på humör för perfekt text nu så detta får duga :) *
@@ -29,6 +31,6 @@ Ang. bilden så gillar jag linux, men bilden var så skön :) &#8230; hehe
 
 Måste be om ursäkt för texten, ska se om jag tar mig tid och ordnar upp den, vissa delar fattar jag knappt vad jag själv skriver :) 
 
-:: Ubuntu, Gentoo, Linux, WLAN, Wi-Fi
+
 
 <small></small>

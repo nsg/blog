@@ -1,6 +1,8 @@
 +++
 date = "2007-07-23T12:04:52+00:00"
 title = "Censur finns och används i Sverige"
+[taxonomies]
+tags = ["barnporr", "pedofil", "polisen", "filter", "censur", "tpb", "the pirate bay"]
 +++
 
 Jag har tänkt skiva om det ett tag nu, men jag var borta när det var som mest aktuellt och sedan kom jag av mig. Jag såg nu att [Gardebring har skrivit][1] om polisens filter och lite uppföljning på &#8220;The Pirate Bay&#8221;-skandalen, se [min tidigare post][2] för länkar.
@@ -11,7 +13,7 @@ Som vanligt när någon censurerar så åker det med lite för många sidor, ta 
 
 Har du en operatör som samarbetar med polisen (nästan alla) så får du ip:t [212.247.156.82][3] som svar på adressen <http://www.koreabonsai.com/>, 212.247.156.82 går till polisen som visar en stop-sida. Det korrekta ip-numret till koreabonsai.com får du enkelt fram genom att byta [DNS][4]-servrar till någon utländsk, vi har nu gått runt &#8220;spärren&#8221;, filtret är helt tamt och stoppar inte någon pedofil. Vill du kolla på sidan utan att hålla på med och ändra massa saker, [klicka här][5].
 
-:: Barnporr, Pedofil, Polisen, Filter, Censur, TPB, The Pirate Bay
+
 
 <small></small>
 

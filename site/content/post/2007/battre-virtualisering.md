@@ -1,6 +1,8 @@
 +++
 date = "2007-08-10T22:11:31+00:00"
 title = "Bättre virtualisering"
+[taxonomies]
+tags = ["dell", "bios", "virtualisering", "hypervisor"]
 +++
 
 <a href="/images/2007/08/os-hyper.png" onclick="return false;" title="Direct link to file"><img src="http://cdn.junkpile.se/2007/08/os-hyper.thumbnail.png" title="os-hyper.png" alt="os-hyper.png" align="left" height="128" width="128" /></a>Jag har läge gått och tänkt på att det kommer bli trevligt när man kan köra två operativsystem (OS) samtidigt på datorn utan massa mjukvara, helt enkelt att datorn är designad för det, och med datorn så tänker jag på moderkortet för att vara exakt.
@@ -9,7 +11,7 @@ title = "Bättre virtualisering"
 
 Det återstår att se vad som kommer i handeln i framtiden, virtualisering är en intressant teknik att hålla ögonen på, speciellt när man kör ett operativsystem och vill köra något program som bara finns till ett annat OS.
 
-:: Dell, BIOS,  Virtualisering, Hypervisor
+
 
 <small></small>
 

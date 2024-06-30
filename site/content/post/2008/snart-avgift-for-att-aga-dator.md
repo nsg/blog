@@ -1,6 +1,8 @@
 +++
 date = "2008-03-17T14:23:33+00:00"
 title = "Snart avgift för att äga dator"
+[taxonomies]
+tags = ["svt", "licens", "tv-avgift", "avgift"]
 +++
 
 SVT ska snart börja sända allt sitt materiell på webben, även live. Än så länge låter det bra men dom har en baktanke med det, alla som då har tillgång till svt.se ska bli tvungna att betala samma licensavgift som tv-tittarna i dag betalar, galet.
@@ -9,7 +11,7 @@ Jag kan inte säga att jag gillar dagens system speciellt bra, och att dom kansk
 
 Du kan läsa mer här hos [sr][1], eller på [kulturbloggen][2] ([via][3]).
 
-:: svt, licens, tv-avgift, avgift
+
 
 <small></small>
 

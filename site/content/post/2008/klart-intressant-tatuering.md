@@ -1,6 +1,8 @@
 +++
 date = "2008-05-01T19:22:23+00:00"
 title = "Klart intressant tatuering"
+[taxonomies]
+tags = ["tatuering", "spiderman", "spindelmannen"]
 +++
 
 ![spidermantatoo.png][1]
@@ -11,7 +13,7 @@ Frågan är dock hur han kommer se ut när han blir äldre, eller när han  int
 Källa: [myextralife][2] ([via][3]) ([via][4])[  
 ][2]
 
-:: Tatuering, Spiderman, Spindelmannen
+
 
 <small></small>
 

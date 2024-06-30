@@ -1,6 +1,8 @@
 +++
 date = "2007-07-28T21:36:35+00:00"
 title = "Aftonbladet har humor"
+[taxonomies]
+tags = ["simpsons", "aftonbladet", "humor"]
 +++
 
 *Jag kan inte påstå att jag sitter vid en speciellt snabb uppkopplning nu, 56k-modem, blä. Så jag gjorde lite analog bloggning med digital utrustning. Här kommer det.*
@@ -23,6 +25,6 @@ Efter
 
 *Det är fullt möjligt att samma sak har funnits på aftonbladet.se, och/eller att det finns något mycket roligare någon annan stans, men då jag nu är fast med modem så kommer jag inte ens försöka sitta och surfa runt och kolla.*
 
-:: Simpsons, Aftonbladet, Humor
+
 
 <small></small>

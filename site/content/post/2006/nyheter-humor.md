@@ -1,6 +1,8 @@
 +++
 date = "2006-12-20T02:33:40+00:00"
 title = "Nyheter, Humor"
+[taxonomies]
+tags = ["humor"]
 +++
 
 Denna måste du se, så kul, hehe.
@@ -12,7 +14,7 @@ Denna måste du se, så kul, hehe.
   
 [Most Outrageous Moments On The News][1] ([via][2])
 
-:: Humor
+
 
 <small></small>
 

@@ -1,6 +1,8 @@
 +++
 date = "2008-03-01T15:01:36+00:00"
 title = "Nu bättre kvalité på YouTube"
+[taxonomies]
+tags = ["youtube", "hd", "film", "webb", "google"]
 +++
 
 Du kanske har hört att YouTube håller på att arbeta med att förbättra kvalitén på sina filmer. Det har inte kommit publikt ännu men du kan ta en förhandstitt genom att lägga till **&fmt=18** eller **&fmt=6 **(18 är bättre, tror jag) i adressen. På bilden så ser du en liten inspelning jag gjorde för ett halvår sedan, man ser tydligt att det är bättre kvalité.<img src="/images/2008/03/youtube-hd.png" title="youtube-hd.png" alt="youtube-hd.png" align="left" />
@@ -14,7 +16,7 @@ Vill du läsa mer, gå till den [här forum-tråden][4].
 Kom ihåg att alla klipp är inte ännu konverterade till HD, och att om du har en långsam (eller belastad) uppkoppling så är det inte säkert att du får se HD klippen då den faller tillbaka på det mycket mindre krävande klassiska upplösningen.  
 Tydligen så ska HD-klippen även ha högre kvalité på ljudet.
 
-:: YouTube, HD, Film, Webb, Google
+
 
 <small></small>
 

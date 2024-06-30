@@ -1,6 +1,8 @@
 +++
 date = "2008-02-27T20:59:36+00:00"
 title = "Stallman"
+[taxonomies]
+tags = ["richard matthew stallman", "richard stallman", "stallman", "rms", "kth", "fsf", "fsfe", "gnu", "linux"]
 +++
 
 [Richard Matthew Stallman][1] eller RMS som han även är känd som besökte [KTH][2] i går eftermiddag/kväll. Det var [unionen][3] som hade bjudit hit honom. Jag fick aldrig en vettig förklaring om varför, men visst facket och [fsf][4] är båda rörelser som värnar om personen. Fast jag gillar nog unions representants avslutande ord &#8220;&#8230; and because he is so cool&#8221; som ytligare en förklaring om varför dom bjöd dit honom. En kommentar som fick RMS att lyfta blicken från sin dator och le.
@@ -30,7 +32,7 @@ Det var kul att ha varit med på ett av hans föreläsningar, ha skakat hand och
 **Edit**:  
 Jag hittade en artikel på [IDG][12] dom skriver lite om händelsen, det var synd att han glömde [Saint Ignucius][13] i sin resväska dock. IDG skriver dessutom att han fick **sin** doktorshatt, den uppfattningen fick inte jag då hatten plockades bort direkt efter och logiken säger att han bör ha fått hatten skickad till sig 1996.
 
-:: Richard Matthew Stallman, Richard Stallman, Stallman, RMS, KTH, FSF, FSFE, GNU, Linux
+
 
 <small></small>
 

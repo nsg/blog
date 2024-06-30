@@ -1,6 +1,8 @@
 +++
 date = "2006-11-25T20:52:43+00:00"
 title = "Stackars hundar"
+[taxonomies]
+tags = ["hundar", "lag", "straff"]
 +++
 
 Aftonbladet skriver att det (kanske) är på väg att införas en ny lag i Belgien som medför att hundar ska för straff om dom t.ex. gjort sina behov på fel plats, eller skrämt ett barn.
@@ -12,7 +14,7 @@ Aftonbladet skriver att det (kanske) är på väg att införas en ny lag i Belgi
 
 Vad ska man säga? Hunden kommer ju inte fatta något så länge straffet inte utdelas direkt efter, men det är ju mindre sannolikt. &#8220;Dom slår mig, varför??&#8221;. Jag hoppas för hundarnas skull att lagen inte blir verklighet.
 
-:: Hundar, Lag, Straff
+
 
 <small></small>
 

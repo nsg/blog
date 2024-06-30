@@ -1,6 +1,8 @@
 +++
 date = "2007-06-13T17:10:33+00:00"
 title = "Bara ett kort klipp"
+[taxonomies]
+tags = ["humor", "flygplan"]
 +++
 
 Tänker inte säga vad det här handlar om, mycket roligare om det kommer som en överraskning.
@@ -8,7 +10,7 @@ Tänker inte säga vad det här handlar om, mycket roligare om det kommer som en
   
 [YouTube][1] ([via][2])
 
-:: Humor, Flygplan
+
 
 <small></small>
 

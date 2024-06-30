@@ -1,6 +1,8 @@
 +++
 date = "2006-12-31T03:26:42+00:00"
 title = "Snart nytt år, nu mer statistik. (Njuvll)"
+[taxonomies]
+tags = ["sök", "statistik", "google analytics", "google"]
 +++
 
 Jag har kört [Google Analytics][1] i 7 månader nu, så det är inte hela året jag kommer prata om, men större delen.
@@ -55,7 +57,7 @@ Ett sätter jag i titeln, ett inom ett h1 element och ett rakt upp och ner i tex
 
 &#8230; och slutligen så tar vi ordet zamibxxl som betyder ingenting.
 
-:: Sök, Statistik, Google Analytics, Google
+
 
 <small></small>
 

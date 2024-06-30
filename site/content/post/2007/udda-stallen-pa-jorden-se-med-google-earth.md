@@ -1,6 +1,8 @@
 +++
 date = "2007-07-17T01:48:07+00:00"
 title = "Udda ställen på jorden, se med Google Earth"
+[taxonomies]
+tags = ["jorden", "google earth", "google maps"]
 +++
 
 Jag skrev [tidigare][1] om udda och intressanta ställen på våran jord, nu såg jag att [Beta Alfa][2] tipsar om en artikeln i [PC World][3] som innehåller ett par till, jag listar de jag missade förra gången här.
@@ -64,7 +66,7 @@ Illegalt fiske, Spanien
 
 Jag rekommenderar att du kollar i Google Earth, bara att söka på kordinaterna. Samma gäller det förra inlägget. Notera även att många av bilderna &#8220;färskvara&#8221;, d.v.s. nästa gång en satellit eller flygplan gör ett svep så kan dom försvinna.
 
-:: Jorden, Google Earth, Google Maps
+
 
 <small></small>
 

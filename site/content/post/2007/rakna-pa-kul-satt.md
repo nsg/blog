@@ -1,6 +1,8 @@
 +++
 date = "2007-03-12T02:44:02+00:00"
 title = "Räkna på kul sätt"
+[taxonomies]
+tags = ["räkna", "matte"]
 +++
 
 Vet inte om det är något vidare praktiskt, men klart intressant sätt och räkna på.
@@ -9,7 +11,7 @@ Vet inte om det är något vidare praktiskt, men klart intressant sätt och räk
 
 För en film som visar hur det funkar, [kolla här][1].
 
-:: Räkna, Matte
+
 
 <small></small>
 

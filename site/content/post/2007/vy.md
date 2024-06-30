@@ -1,6 +1,8 @@
 +++
 date = "2007-01-30T09:54:38+00:00"
 title = "Vy"
+[taxonomies]
+tags = ["sol", "solen"]
 +++
 
 Här kommer yttligare en bild ut genom mitt fönster, tanken var att jag skulle posta det i går, [men det inte som jag tänkt mig][1].
@@ -18,7 +20,7 @@ Här kommer yttligare en bild ut genom mitt fönster, tanken var att jag skulle 
 *Slutligen min favorit, här har solen hunnit lite längre upp.*  
 <img id="image282" src="/images/2007/01/vy5.jpg" alt="vy5.jpg" />
 
-:: Sol, Solen
+
 
 <small></small>
 

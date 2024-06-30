@@ -1,6 +1,8 @@
 +++
 date = "2007-04-15T12:22:52+00:00"
 title = "Oändligt långa sidor i Google"
+[taxonomies]
+tags = ["greasemonkey", "google", "sök", "customize google"]
 +++
 
 Titeln är inte helt sann då begränsningen är hur många träffar du fått. Men behovet att trycka på &#8220;nästa sida&#8221;-knappen är borta då den automatiskt laddar nästa sida när du närmar dig slutet. Jag pratar om ett Greasemonkey skript som jag hittade genom [Google Operating System][1].
@@ -39,7 +41,7 @@ Tydligen har [Customize Google][7] ([via][8]) inkluderat en nästan identisk fun
   
 [YouTube][9]
 
-:: Greasemonkey, Google, Sök, Customize Google
+
 
 <small></small>
 

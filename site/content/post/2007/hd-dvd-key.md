@@ -1,6 +1,8 @@
 +++
 date = "2007-05-02T23:24:54+00:00"
 title = "HD-DVD Key"
+[taxonomies]
+tags = ["hd-dvd", "nyckel"]
 +++
 
 <div class="left">
@@ -11,7 +13,7 @@ Nyckel till [HD-DVD][1]s kryptering sprids bra på nätet nu, orsaken är att &#
 
 Beteendet kallas [Streisand effect][2] (Wikipedia)
 
-:: HD-DVD, Nyckel
+
 
 <small></small>
 

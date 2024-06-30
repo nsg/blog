@@ -1,6 +1,8 @@
 +++
 date = "2007-09-28T14:39:49+00:00"
 title = "Äntligen höst"
+[taxonomies]
+tags = ["stargate", "stargate atlantis", "house", "heroes", "kyle xy", "jericho", "tv", "tv-serie"]
 +++
 
 Hösten har kommit, det blir kallare, chansen att bli sjuk ökat och alla saker som skola och jobb kommer tillbaka, men det finns en stor fördel som hösten har. TV-Serier börjar sändas igen.
@@ -18,7 +20,7 @@ Som du säkert förstår så är det Sci-Fi som jag gillar bäst. Jag har snöat
 
 <small>För övrigt kan jag påpeka att jag har varit väldigt inaktiv här då jag inte har haft uppkoppling hemma nu på ett tag, så allt surfande har skett i skolan som t.ex. nu då jag i en datorsal och surfar lite innan jag ska hem. Men jag ska fixa något, datornörd som jag är så överlever jag inte utan uppkoppling :) </small>
 
-:: Stargate, Stargate Atlantis, House, Heroes, Kyle XY, Jericho, TV, TV-Serie
+
 
 <small></small>
 

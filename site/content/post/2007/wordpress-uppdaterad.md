@@ -1,6 +1,8 @@
 +++
 date = "2007-06-04T13:30:20+00:00"
 title = "WordPress uppdaterad"
+[taxonomies]
+tags = ["wordpress", "wp"]
 +++
 
 <div class="left">
@@ -12,7 +14,7 @@ Men uppdateringen gick utmärkt, hade nästan inga problem. Jag tror allt är å
 
 Jag har även rättat (och äntligen hittat) en bugg i &#8220;Populära inlänkar&#8221; här till höger, så nu bör den visa korrekt. Jag har även tagit bort cache-funktionen så bloggen är nu lite långsammare, jag låter det vara så här ett tag och kolla om det går bra utan.
 
-:: WordPress, WP
+
 
 <small></small>
 

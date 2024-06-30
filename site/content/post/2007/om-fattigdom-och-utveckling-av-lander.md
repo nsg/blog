@@ -1,6 +1,8 @@
 +++
 date = "2007-04-01T13:13:47+00:00"
 title = "Om fattigdom och utveckling av länder"
+[taxonomies]
+tags = ["världen", "fattigdom", "hälsa"]
 +++
 
 Tack [Alkanen][1], jag hittade följande klipp genom honom. Det är en svensk som presenterar (på engelska) på ett väldigt snyggt sätt hur värdens länder ser ut i dag och har förändrat sig över tid. Riktigt imponerande program och grafer/animeringar han använder.
@@ -8,7 +10,7 @@ Tack [Alkanen][1], jag hittade följande klipp genom honom. Det är en svensk so
   
 [YouTube][2]
 
-:: Världen, Fattigdom, Hälsa
+
 
 <small></small>
 

@@ -1,6 +1,8 @@
 +++
 date = "2007-06-27T22:39:21+00:00"
 title = "Snap"
+[taxonomies]
+tags = ["snap", "snap shot", "snap shots"]
 +++
 
 <div class="middle">
@@ -26,7 +28,7 @@ Här kommer några exempel på länkar som du kan prova som har speciell innebö
 [Yahoo finans][12], [Google Finans][13], &#8230;  
 + [ett par till][14]
 
-:: Snap, Snap Shot, Snap Shots
+
 
 <small></small>
 

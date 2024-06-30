@@ -1,6 +1,8 @@
 +++
 date = "2007-03-22T14:26:52+00:00"
 title = "Gissa vem/vad 1"
+[taxonomies]
+tags = ["lekar", "gissa"]
 +++
 
 Jag har gått och tänkt ett tag på att sätta igång med en liten gissningslek, med bilder eller ljud från tv-serier eller filmer som jag gillar eller känner väl till. Här kommer den första.
@@ -13,6 +15,6 @@ Jag har gått och tänkt ett tag på att sätta igång med en liten gissningslek
 
 *Notera att du vinner ingenting, förutom ev. en länk till blogg eller hemsida (så vidare du inte har något material på sidan/bloggen som inte passar här). Dessutom är äran inte helt fel.*
 
-:: Lekar, Gissa
+
 
 <small></small>

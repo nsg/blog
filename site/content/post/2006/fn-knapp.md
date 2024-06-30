@@ -1,6 +1,8 @@
 +++
 date = "2006-11-04T03:53:27+00:00"
 title = "Fn-knapp"
+[taxonomies]
+tags = ["tangentbord"]
 +++
 
 Tänka, sig, jag har hittat en användning för min specialknapp på mitt tangentbord. Men först lite bakgrundsinformation.
@@ -17,6 +19,6 @@ Nu för att återkoppla så kom jag på att låsa tangentbordet medan jag rengö
 
 Nu har jag svamlat klart för i natt om tangentbord :) 
 
-:: Tangentbord
+
 
 <small></small>

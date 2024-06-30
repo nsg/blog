@@ -1,6 +1,8 @@
 +++
 date = "2006-08-25T23:59:58+00:00"
 title = "Dwarf Planet"
+[taxonomies]
+tags = ["pluto", "rymden", "dwaf planet", "planet"]
 +++
 
 Jag har roat mig lite med att läsa på om dvärgplaneter (dwarf planet, vet inte om det är rätt svensk översättning).
@@ -20,7 +22,7 @@ Viktigt att veta är ett det är många som är mot den nya definitionen och sä
 **Edit** *2007-12-02*:  
 Jag har ändrar en del stavfel i texten, hoppas det blev mer rätt nu :) 
 
-:: Pluto, Rymden, Dwaf Planet, Planet
+
 
 <small></small>
 

@@ -1,6 +1,8 @@
 +++
 date = "2006-11-11T04:52:00+00:00"
 title = "Picasa"
+[taxonomies]
+tags = ["picasa", "bilder", "linux", "wine"]
 +++
 
 Jag upptäckte idag att [Picasa][1] fanns för Linux ([här][2]). Då jag inte kör windows aktivt så är det ett av många program som jag aldrig hade provat.
@@ -65,7 +67,7 @@ Edit:
 
 [Intressant][4], han tar upp många saker som jag glömde eller inte tog upp då det kändes som att jag har klagat enog :) 
 
-:: Picasa, Bilder, Linux, Wine
+
 
 <small></small>
 

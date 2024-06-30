@@ -1,6 +1,8 @@
 +++
 date = "2007-04-14T00:18:52+00:00"
 title = "Windows Vista &#038; DRM"
+[taxonomies]
+tags = ["drm", "windows", "vista"]
 +++
 
 Det här blir ett kort inlägg som hänvisar till en klart läsvärd text, se dock till att ha mycket tid till övers och ett stort intresse av teknik, annars tar du nog dig inte igenom den :) 
@@ -17,7 +19,7 @@ Några intressanta citat:
 
 Det finns mycket intressant och läsbart i artikeln. Man kan undra vad dom håller på med, hur paranoid är dom egentligen att man ska kopiera filmen eller musiken, dom som kopierar gör det ändå (då skydd knäcks) och de som blir lidande är de stackarna som sitter och har betalat för sig.
 
-:: DRM, Windows, Vista
+
 
 <small></small>
 

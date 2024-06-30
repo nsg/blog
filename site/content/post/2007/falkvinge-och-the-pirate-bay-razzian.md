@@ -1,6 +1,8 @@
 +++
 date = "2007-04-03T15:38:04+00:00"
 title = "Falkvinge och The Pirate Bay Razzian"
+[taxonomies]
+tags = ["the pirate bay", "tpb", "jk", "jo"]
 +++
 
 [Rick Falkvinge][1] (pp) har [JK-anmält][2] JO (gick inte och JO anmäla JO). Han skriver om orsakerna till det [här][3].
@@ -11,7 +13,7 @@ Det är bra att det finns folk som trycker på så att ärendet kanske förhoppn
 
 Se även: [ENESGE: The Pirate Bay][5]
 
-:: The Pirate Bay, TPB, JK, JO
+
 
 <small></small>
 

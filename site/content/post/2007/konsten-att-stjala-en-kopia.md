@@ -1,6 +1,8 @@
 +++
 date = "2007-09-17T14:56:15+00:00"
 title = "Konsten att stjäla en kopia"
+[taxonomies]
+tags = ["guldhorn", "stöld"]
 +++
 
 Läste på DN nyss att två danska guldhorn hade blivit stulna från <span class="nyckelArtikelText">Nationalmuseum, men det var en kopia då de riktiga hornen blev stulna för över 100 år sedan, 1802 för att vara mer exakt. Bortsett från att det är en del guld så är värdet inte så stort, dock för museumet har det ett speciellt värde. </span>
@@ -16,7 +18,7 @@ Jag tycker att det är riktigt synd när något som det här händer, när någo
 
 [Artikeln i DN][1]
 
-:: Guldhorn, Stöld
+
 
 <small></small>
 

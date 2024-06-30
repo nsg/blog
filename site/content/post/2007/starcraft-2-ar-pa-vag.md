@@ -1,6 +1,8 @@
 +++
 date = "2007-05-19T12:00:37+00:00"
 title = "StarCraft 2 är på väg"
+[taxonomies]
+tags = ["starcraft", "starcraft 2", "sc", "sc2", "spel", "blizzard"]
 +++
 
 <div class="middle">
@@ -16,7 +18,7 @@ Se mer på:
   
 [YouTube: Starcraft 2 gameplay video][4]
 
-:: StarCraft, StarCraft 2, SC, SC2, Spel, Blizzard
+
 
 <small></small>
 

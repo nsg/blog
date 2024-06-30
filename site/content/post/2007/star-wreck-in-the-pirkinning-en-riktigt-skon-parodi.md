@@ -1,6 +1,8 @@
 +++
 date = "2007-06-13T23:52:50+00:00"
 title = "Star WreckIn the Pirkinning &#8211; En riktigt skön parodi"
+[taxonomies]
+tags = ["babylon 5", "babel 13", "star trek", "star wrek", "in the pirkinning", "parodi", "humor", "film"]
 +++
 
 <div class="middle">
@@ -45,7 +47,7 @@ Det finns dock en nackdel, dom pratar finska. Dock är det textat, men man missa
   <a href='/images/2007/06/starwrek5a.png' title='starwrek5a.png'><img src='http://cdn.junkpile.se/2007/06/starwrek5a-150x150.png' alt='starwrek5a.png' /></a><a href='http://cdn.junkpile.se/2007/06/starwrek5b.png' title='starwrek5b.png'><img src='http://cdn.junkpile.se/2007/06/starwrek5b-150x150.png' alt='starwrek5b.png' /></a><a href='http://cdn.junkpile.se/2007/06/starwrek5c.png' title='starwrek5c.png'><img src='http://cdn.junkpile.se/2007/06/starwrek5c-150x150.png' alt='starwrek5c.png' /></a><a href='http://cdn.junkpile.se/2007/06/starwrek5d.png' title='starwrek5d.png'><img src='http://cdn.junkpile.se/2007/06/starwrek5d-150x150.png' alt='starwrek5d.png' /></a><a href='http://cdn.junkpile.se/2007/06/starwrek5e.png' title='starwrek5e.png'><img src='http://cdn.junkpile.se/2007/06/starwrek5e-150x150.png' alt='starwrek5e.png' /></a>
 </div>
 
-:: Babylon 5, Babel 13, Star Trek, Star Wrek, In the Pirkinning, Parodi, Humor, Film
+
 
 <small></small>
 

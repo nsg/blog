@@ -1,6 +1,8 @@
 +++
 date = "2008-05-31T16:33:27+00:00"
 title = "Facebook Chat i Pidgin"
+[taxonomies]
+tags = ["facebook", "chat", "pidgin", "plugin"]
 +++
 
 <img src="/images/2008/05/screenshot19.png" title="screenshot19.png" alt="screenshot19.png" align="left" />Det har funnits i [Adium][1] nu ett tag så nu är det [Pidgins][2] tur att stödja [Facebook][3]
@@ -32,7 +34,7 @@ Som jag skrev så testade jag det lite, det var ganska jobbigt att jag tappade k
 
 Jag kollade i dag och såg att version 1.15 fanns, och nu även som en .deb så det är nu superlätt och installera. Jag ska prova den senaste versionen nu i dag så får vi se om den är användbar nu.
 
-:: Facebook, Chat, Pidgin, Plugin
+
 
 <small></small>
 

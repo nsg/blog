@@ -1,6 +1,8 @@
 +++
 date = "2007-06-10T20:57:03+00:00"
 title = "Gottfrid “Anakata” Svartholm i intervju"
+[taxonomies]
+tags = ["svartholm", "gottfrid svartholm", "anakata"]
 +++
 
 <div class="left">
@@ -11,7 +13,7 @@ title = "Gottfrid “Anakata” Svartholm i intervju"
 
 [Artikeln på svt.se][2] (video-klippen finns där)
 
-:: Svartholm, Gottfrid Svartholm, Anakata
+
 
 <small></small>
 

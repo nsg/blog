@@ -1,6 +1,8 @@
 +++
 date = "2007-11-18T16:53:32+00:00"
 title = "Morgondagen modell för kortköp"
+[taxonomies]
+tags = ["kontokort", "kreditkort", "kort", "bank", "betalning", "köp"]
 +++
 
 Att betala med kort är bra, och det borde så många som möjligt göra. Men det finns ett problem, säkerhet. Visst att betala med t.ex. ditt VISA i en ICA-Butik är inget problem för du litar på butiken, men vad händer när du inte gör det?
@@ -34,6 +36,6 @@ Snabbt, enkelt och säkert. Jag kan se både fristående terminaler som är tjoc
 
 Vad säger ni om min idé? Har jag något fel i min logik? Finns det ett uppenbart säkerhetshål i mitt tänkande? Eller är det säkert?
 
-:: Kontokort, Kreditkort, Kort, Bank, Betalning, Köp
+
 
 <small></small>

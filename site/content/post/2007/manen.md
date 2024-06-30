@@ -1,6 +1,8 @@
 +++
 date = "2007-03-03T16:26:29+00:00"
 title = "Månen"
+[taxonomies]
+tags = ["månen", "månförmörkelse", "solen"]
 +++
 
 <img id="image332" src="/images/2007/03/manen.png" alt="Månen" />
@@ -25,7 +27,7 @@ Kom in nu efter att ha vandrat runt en timma ute, månen var klart fin, dock had
 
 <img id="image336" src="/images/2007/03/flickr_steffe.jpg" alt="Månförmörkelse" />
 
-:: Månen, Månförmörkelse, Solen
+
 
 <small></small>
 

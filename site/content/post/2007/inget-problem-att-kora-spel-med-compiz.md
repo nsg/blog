@@ -1,6 +1,8 @@
 +++
 date = "2007-07-25T17:39:46+00:00"
 title = "Inget problem att köra spel med compiz"
+[taxonomies]
+tags = ["linux", "compiz", "gentoo", "ubuntu", "cedega", "wine", "eve", "eve online", "spel"]
 +++
 
 För ca en månad sedan så bestämde jag mig för att börja spela spelet [Eve Online][1], jag hade spelat det för något år sedan med slutade till huvudsak att jag oftast tyckte det var jobbigt att behöva starta om datorn för att starta Windows för att kunna spela det. Jag spelade det mindre och mindre och tyckte tillslut att det inte var värt och betala för längre.
@@ -22,7 +24,7 @@ Jag tog tre skärmbilder, en på min cpu där du ser minna två kärnor, man ser
 Slutligen spelade jag även in en video, den flimrar lite men det är programmet som jag spelade in meds fel, på skärmen flöt och såg det perfekt ut.
 
   
-:: Linux, Compiz, Gentoo, Ubuntu, Cedega, Wine, Eve, Eve Online, Spel
+
 
 <small></small>
 

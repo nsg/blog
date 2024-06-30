@@ -1,6 +1,8 @@
 +++
 date = "2007-06-05T11:48:11+00:00"
 title = "Googles Street View"
+[taxonomies]
+tags = ["google", "googlevan", "google maps"]
 +++
 
 <div class="left">
@@ -13,7 +15,7 @@ Visst kan man diskutera hur trevligt det är för folk och bli fotade utan deras
 
 [En samling av roliga/intressanta bilder][2].
 
-:: Google, Googlevan, Google Maps
+
 
 <small></small>
 

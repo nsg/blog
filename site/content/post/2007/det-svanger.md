@@ -1,6 +1,8 @@
 +++
 date = "2007-01-03T06:18:27+00:00"
 title = "Det svänger"
+[taxonomies]
+tags = ["djungelboken", "politik"]
 +++
 
 <embed src="http://www.youtube.com/v/OWVSOvqlB_Q" width="425" height="350" type="application/x-shockwave-flash" wmode="transparent">
@@ -9,7 +11,7 @@ title = "Det svänger"
   
 [YouTube][1] ([via][2])
 
-:: Djungelboken, Politik
+
 
 <small></small>
 

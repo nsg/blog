@@ -1,6 +1,8 @@
 +++
 date = "2007-05-05T14:20:11+00:00"
 title = "Pelikan äter duva"
+[taxonomies]
+tags = ["pelikan", "duva"]
 +++
 
 <div class="middle">
@@ -9,6 +11,6 @@ title = "Pelikan äter duva"
 
 Inte varje dag man ser en pelikan äta en fågel, är förvånad att den gick ner.
 
-:: Pelikan, Duva
+
 
 <small></small>

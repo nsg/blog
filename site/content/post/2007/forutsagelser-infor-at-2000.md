@@ -1,6 +1,8 @@
 +++
 date = "2007-04-24T15:57:58+00:00"
 title = "Förutsägelser inför åt 2000"
+[taxonomies]
+tags = ["framtiden", "förutsägelse", "teknik"]
 +++
 
 [Stationsvakt][1] tipsar om en [intressant lista][2] från 1900, den innehåller 29 punkter (tycker dock att 13 &#038; 26 var mycket lika). Här kommer några tänkvärda citat.
@@ -21,7 +23,7 @@ En sak som skulle göra en stor skillnad skulle vara en [Replicator][6] eller li
 
 Framtiden är intressant, ska bli intressant och se vad som händer, bara och vänta och se.
 
-:: Framtiden, Förutsägelse, Teknik
+
 
 <small></small>
 

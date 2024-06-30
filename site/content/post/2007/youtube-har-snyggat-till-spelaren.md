@@ -1,6 +1,8 @@
 +++
 date = "2007-06-07T20:47:38+00:00"
 title = "YouTube har snyggat till spelaren"
+[taxonomies]
+tags = ["youtube", "video"]
 +++
 
 <div class="left">
@@ -11,7 +13,7 @@ Jag upptäckte just att YouTube har snyggat till sin spelare (embeded-versionen)
 
 Lite ovant, men snyggt gjort, lite appleTV/iPhone över det.
 
-:: YouTube, Video
+
 
 <small></small>
 

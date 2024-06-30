@@ -1,6 +1,8 @@
 +++
 date = "2007-04-24T20:54:30+00:00"
 title = "Tänk om …"
+[taxonomies]
+tags = ["rymden", "mars"]
 +++
 
 Tänk om mars hade sett ut så här
@@ -15,7 +17,7 @@ Mitt hopp de senaste åren har varit till den privata marknaden, inte att dom å
 
 Relaterat: [Se klippet med Burt Rutan][1].
 
-:: Rymden, Mars
+
 
 <small></small>
 

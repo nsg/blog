@@ -1,6 +1,8 @@
 +++
 date = "2006-06-15T15:36:12+00:00"
 title = "Mer om razzian &#038; Skadestånd"
+[taxonomies]
+tags = ["tpb", "the pirate bay", "razzian", "skadestånd"]
 +++
 
 **Mer länkar**  
@@ -15,7 +17,7 @@ Trevlig att de som ligger bakom det hela får en smäll på nosen, men åt andra
 
 Rellevent är [denna posten][4] där jag listar en del &#8220;skumma&#8221; saker som polisen tog.
 
-:: TPB, The Pirate Bay, razzian, skadestånd
+
 
 <small></small>
 

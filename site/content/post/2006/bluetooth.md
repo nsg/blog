@@ -1,6 +1,8 @@
 +++
 date = "2006-10-27T00:51:08+00:00"
 title = "Bluetooth"
+[taxonomies]
+tags = ["bluetooth", "blåtand"]
 +++
 
 Nu är jag glad, fick bluetooth att funka under gentoo. Provade lite på det för några månader sedan då jag köpte min usb-bluetooth-adapter, men det funkade inge bra. Men då jag hade en extrapartition på min laptop med ubuntu där den funkade perfekt så orkade jag inte bry mig med det lilla jag använde den. Men den senaste tiden har telefonen fyllts upp med filmer och bilder som borde över till datorn. Men det tar i mot och starta ubuntu på min gamla laptop (Dell c400, 1Ghz, 256Mb), det går som sirap (gentoo med fluxbox flyter perfekt).
@@ -11,7 +13,7 @@ Har dock haft lite problem med gnome:s usb-program, men kde:s funkar perfekt, gi
 <img id="image121" src="/images/2006/10/bluetooth.png" alt="BlÃ¥tand i bruk" />  
 Nu ska jag skyffla runt lite mer filer :) kanske prova lite program för att läsa adressbok, skicka sms &#8230;
 
-:: Bluetooth, Blåtand
+
 
 <small></small>
 

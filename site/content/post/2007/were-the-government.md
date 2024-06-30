@@ -1,6 +1,8 @@
 +++
 date = "2007-02-13T23:28:12+00:00"
 title = "We’re the Government"
+[taxonomies]
+tags = ["usa", "politik"]
 +++
 
 Hittade denna på [bloggen Gardebring][1].
@@ -8,7 +10,7 @@ Hittade denna på [bloggen Gardebring][1].
   
 [[YouTube] We&#8217;re the Government &#8212; and You&#8217;re Not][2]
 
-:: USA, Politik
+
 
 <small></small>
 

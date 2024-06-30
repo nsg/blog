@@ -1,6 +1,8 @@
 +++
 date = "2007-09-06T08:46:06+00:00"
 title = "Förvräng och förändra ansikten"
+[taxonomies]
+tags = ["bild", "bilder", "transformering"]
 +++
 
 [<img src="/images/2007/09/phppt46dt-150x150.jpg" title="phppt46dt.jpg" alt="phppt46dt.jpg" align="left" />][1][Mickey tipsade][2] om en intressant sida där man laddade upp en bild på sig själv (eller någon annan) och sedan få ansiktet förändrat hur man skulle se ut om man kom från en annan plats i värden, eller en förändring av ålder och en del annat kul.
@@ -15,7 +17,7 @@ Slutligen om någon undrar varför jag har varit så inaktiv den närmaste tiden
 
 <a href="http://morph.cs.st-andrews.ac.uk/Transformer/" target="_blank">Faces of the Future</a>
 
-:: Bild, Bilder, Transformering
+
 
 <small></small>
 

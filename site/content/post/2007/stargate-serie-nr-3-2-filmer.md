@@ -1,6 +1,8 @@
 +++
 date = "2007-01-03T01:47:52+00:00"
 title = "StargateSerie nr 3 &#038; 2 filmer"
+[taxonomies]
+tags = ["scifi", "sf", "stargate", "stargate: sg-1", "sg-1", "sg1", "stargate: atlantis", "atlantis", "ori", "altarans", "lanteans", "tau&#8217;ri", "tv", "tv-serie", "serie"]
 +++
 
 Jag kollade in [Gateworld][1] som jag inte varit på ett tag, jag läste en hel den där efter att Stargate: SG-1 las ner.  
@@ -24,7 +26,7 @@ Jag ser fram i mot framtida äventyr för Tau&#8217;ri
 <http://en.wikipedia.org/wiki/Stargate>  
 <http://www.gateworld.net/>
 
-:: SciFi, SF, Stargate, Stargate: SG-1, SG-1, SG1, Stargate: Atlantis, Atlantis, Ori, Altarans, Lanteans, Tau&#8217;ri, TV, TV-Serie, Serie
+
 
 <small></small>
 

@@ -1,6 +1,8 @@
 +++
 date = "2007-05-19T12:28:31+00:00"
 title = "Roliga och ovanliga skyltar"
+[taxonomies]
+tags = ["skyltar", "vägskyltar"]
 +++
 
 <div class="middle">
@@ -12,7 +14,7 @@ Det är en del skyltar från lite här och var i värden, vissa är roliga, intr
 
 [MinTur.se: Bildspecial: Skyltar världen över][1]
 
-:: Skyltar, Vägskyltar
+
 
 <small></small>
 

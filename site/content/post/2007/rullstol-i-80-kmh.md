@@ -1,6 +1,8 @@
 +++
 date = "2007-06-09T18:40:02+00:00"
 title = "Rullstol i 80 km/h"
+[taxonomies]
+tags = ["lastbil", "rullstol"]
 +++
 
 <div class="middle">
@@ -11,7 +13,7 @@ title = "Rullstol i 80 km/h"
 
 Nu hade han tur och den satt fast tills en civilpolis som såg vad som hände fick stopp på lastbilen. En sak funderade jag dock på, hängde den i luften eller rullade hjulen mot marken, om den rullande, imponerande att den inte gick i bitar i 80 km/h.
 
-:: Lastbil, Rullstol
+
 
 <small></small>
 

@@ -1,6 +1,8 @@
 +++
 date = "2007-02-10T22:34:39+00:00"
 title = "Luuk"
+[taxonomies]
+tags = ["luuk", "humor", "tv", "melodifestivalen", "carola"]
 +++
 
 Luuk är rolig ibland, bilden tog jag för ca 2-3 timmar sedan när jag var hemma hos mamma och satt och slötittade på melodifestivalen.
@@ -14,7 +16,7 @@ Uppdatering:
 
 Här kommer en förklaring ang. [klädstilen][1] <img id="image294" src="/images/2007/02/aft.png" alt="Aftonbladet" />.
 
-:: Luuk, Humor, TV, Melodifestivalen, Carola
+
 
 <small></small>
 

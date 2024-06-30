@@ -1,6 +1,8 @@
 +++
 date = "2007-05-23T13:33:43+00:00"
 title = "Är det verkligen bra att blocka reklam"
+[taxonomies]
+tags = ["annonser", "pengar", "intäkter"]
 +++
 
 <div class="left">
@@ -15,7 +17,7 @@ Jag har i två omgångar tagit bort annonser, vissa sidor som aftonbladet blir f
 
 Jag har personligen kommit fram till att jag inte vill ta bort annonser, jag vill göra min del i &#8220;betalningen&#8221; till sidan jag besöker i förhoppning att det även i fortsättningen kommer vara gratis att besöka den. När det kommer en hoppande och fladdrade annons som gör att det inte går och läsa, ja då är det tillåtet att ta bort den, men annars. Låt den vara kvar.
 
-:: Annonser, Pengar, Intäkter
+
 
 <small></small>
 

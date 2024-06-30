@@ -1,6 +1,8 @@
 +++
 date = "2007-04-22T03:46:05+00:00"
 title = "Intervju av Googles CEO"
+[taxonomies]
+tags = ["google", "eric schmidt"]
 +++
 
 Hittade följande klipp på [Google Operating System][1], rekommenderas.
@@ -8,7 +10,7 @@ Hittade följande klipp på [Google Operating System][1], rekommenderas.
   
 [YouTube][2]
 
-:: Google, Eric Schmidt
+
 
 <small></small>
 

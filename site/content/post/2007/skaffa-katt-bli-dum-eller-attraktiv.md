@@ -1,6 +1,8 @@
 +++
 date = "2007-03-01T15:06:24+00:00"
 title = "Skaffa katt, bli dum ELLER attraktiv"
+[taxonomies]
+tags = ["katt", "katter", "kvinnor", "män", "parasit", "toxoplasma gondii"]
 +++
 
 Är du kille och känner att din tjej kunde vara lite mer öppen, skaffa en katt, det finns en risk att hon blir infekterad med toxoplasma gondii som är en parasit om finns en del katter. Hon kommer bli mer öppen och sexlusten kommer öka. På den negativa sidan är att du kommer bli dum och bli lite mer lik en grottmänniska.
@@ -11,7 +13,7 @@ I alla fall om man ska tro ett par tjeckiska forskare. Lite läskigt att en para
 
 *Notera: Om du inte redan förstått det så är det med en viss ironi och humor jag skev första stycket*
 
-:: Katt, Katter, Kvinnor, Män, Parasit, Toxoplasma gondii
+
 
 <small></small>
 

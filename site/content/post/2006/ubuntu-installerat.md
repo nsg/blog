@@ -1,6 +1,8 @@
 +++
 date = "2006-05-22T18:07:26+00:00"
 title = "Ubuntu &#8211; Installerat"
+[taxonomies]
+tags = ["ubuntu", "linux", "gnome", "vlc", "totem", "mplayer", "kmplayer", "xine"]
 +++
 
 Jag har alltid varit en [gentoo][1]-person, Kört det på både min stationära och laptop.
@@ -37,7 +39,7 @@ Notis: Jag försökte få divx/xvid-stödj i [totem][8] player oxå utan att lyc
 
 Jag återkommer med mer information längre fram när jag har hittat nått nytt att prisa eller klaga på :) 
 
-:: ubuntu, linux, gnome, vlc, totem, mplayer, KMplayer, xine
+
 
 <small></small>
 

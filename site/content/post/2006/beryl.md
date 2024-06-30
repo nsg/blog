@@ -1,6 +1,8 @@
 +++
 date = "2006-12-16T23:06:48+00:00"
 title = "Beryl"
+[taxonomies]
+tags = ["linux", "beryl", "xgl"]
 +++
 
 Jag har haft lite problem med [Xgl][1] och [Beryl][2]/[Compiz][3]/&#8230; innan, men nu kör jag Xgl och Beryl för fullt.
@@ -26,7 +28,7 @@ Jag kör även [3D Window Layer][6], uteslutande för att det är snyggt och jag
 [Beryl &#038; (AI)XGL][6]  
 [XGL -- Video][7]
 
-:: Linux, Beryl, Xgl
+
 
 <small></small>
 

@@ -1,6 +1,8 @@
 +++
 date = "2007-02-07T14:21:46+00:00"
 title = "Bildt"
+[taxonomies]
+tags = ["bildt", "carl bildt", "blogg", "bloggar"]
 +++
 
 <img id="image289" src="/images/2007/02/alladessadagar.png" alt="Alla Dessa Dagar" />  
@@ -21,7 +23,7 @@ Jag hoppas att han i fortsättningen kommer ha kvar möjligheten att kommentera 
 [Nya bloggen][1] ([första inlägget][3])  
 [Gamla bloggen][2]
 
-:: Bildt, Carl Bildt, Blogg, Bloggar
+
 
 <small></small>
 

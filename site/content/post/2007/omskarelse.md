@@ -1,6 +1,8 @@
 +++
 date = "2007-02-11T00:11:38+00:00"
 title = "Omskärelse"
+[taxonomies]
+tags = ["omskärelse", "omskuren", "religion", "könsstympning"]
 +++
 
 <img id="image297" src="/images/2007/02/omsk.png" alt="Omskärelse" />  
@@ -29,7 +31,7 @@ Klart intressant sak om diskutera, vad tycker du? Vad har du för inställning?
 
 Även [denna][5] verkar intressant, dock inte läst hela.
 
-:: Omskärelse, Omskuren, Religion, Könsstympning
+
 
 <small></small>
 

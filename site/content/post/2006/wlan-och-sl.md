@@ -1,6 +1,8 @@
 +++
 date = "2006-11-20T22:28:41+00:00"
 title = "WLAN och SL"
+[taxonomies]
+tags = ["sl", "wlan"]
 +++
 
 Enligt [denna][1] artikel i DN [via [Webbsnack][2]] så planerar [SL][3] att sätta upp ett helt öppet trådlöst nätverk på bussar, tunnelbana, pendeltåg och andra ställen dom förväntar sig att man kan behöva och ha tid för att surfa.
@@ -20,7 +22,7 @@ Ska även notera att det är ett förslag, styrelsen har inte bestämt sig ännu
 
 > Enligt planerna ska SL:s resenärer framåt nästa sommar kunna koppla upp sina laptops med trådlös anslutning och surfa på internet gratis i kollektivtrafiken. Om styrelsen ger sitt godkännande /&#8230;/
 
-:: SL, WLAN
+
 
 <small></small>
 

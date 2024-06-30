@@ -1,6 +1,8 @@
 +++
 date = "2007-03-28T11:44:57+00:00"
 title = "Himmla brännare"
+[taxonomies]
+tags = ["philips", "brännare", "hårdvara", "problem"]
 +++
 
 <div class="middle">
@@ -13,6 +15,6 @@ Mitt nya moderkort har bara en ide-kanal för PATA, så jag var tvungen att låt
 
 **Philips modell PCRW1610, tillverkad 2001*
 
-:: Philips, Brännare, Hårdvara, Problem
+
 
 <small></small>

@@ -1,6 +1,8 @@
 +++
 date = "2007-02-18T17:28:18+00:00"
 title = "Mount"
+[taxonomies]
+tags = ["linux", "ubuntu", "mount"]
 +++
 
 Jag provade Ubuntu för snart ett år sedan på min bärbara, det har kommit en del ingooglingar sedan det, söktermer har varit i stil med &#8220;**ubuntu mount**&#8220;, så här kommer lite hjälp.
@@ -59,6 +61,6 @@ Du har en partition på /dev/hda1 som windows ligger installerat på, det är av
 
 Förklaringen blev mer rörig än jag trodde, men det få duga som det är nu, behöver någon hjälp så låt mig veta.
 
-:: Linux, Ubuntu, Mount
+
 
 <small></small>

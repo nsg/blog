@@ -1,6 +1,8 @@
 +++
 date = "2007-02-07T23:42:42+00:00"
 title = "TWINGLY &#038; Maffia"
+[taxonomies]
+tags = ["maffia", "facket", "dn", "svd", "bloggar", "twingly"]
 +++
 
 Jag är för trött nu för att skriva ett långt, eller snarare två inlägg. Men jag vill få iväg inlägget medan det är aktuellt om du missat det.
@@ -10,7 +12,7 @@ Jag är för trött nu för att skriva ett långt, eller snarare två inlägg. M
 
 ZzzzZzzz
 
-:: Maffia, Facket, DN, SvD, Bloggar, Twingly
+
 
 <small></small>
 

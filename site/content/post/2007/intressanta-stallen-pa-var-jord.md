@@ -1,6 +1,8 @@
 +++
 date = "2007-04-14T16:24:54+00:00"
 title = "Intressanta ställen på vår jord"
+[taxonomies]
+tags = ["google", "google earth", "google maps", "jorden", "bilder"]
 +++
   
 [YouTube: Secret Places of The Earth (By Argosax)][1] ([via][2])
@@ -38,7 +40,7 @@ Något man inte ser så tydligt dock på filmen när firefox-loggon visas är bi
   <img id="image388" src="/images/2007/04/google-earth-3.png" alt="google-earth-3.png" /><br /> FX + folk, att personerna ligger och väntar i gräset är nog bevis nog att flygfotot är beställt.
 </div>
 
-:: Google, Google Earth, Google Maps, Jorden, Bilder
+
 
 <small></small>
 

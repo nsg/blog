@@ -1,6 +1,8 @@
 +++
 date = "2006-07-27T12:17:03+00:00"
 title = "OpenSUSE &#8211; SUSE Linux 10.1"
+[taxonomies]
+tags = ["linux", "suse", "opensuse", "yast", "yast2", "novell"]
 +++
 
 **SUSE Linux 10.1**
@@ -48,7 +50,7 @@ En intressant sak var att det som standard bara var ett skrivbord inställt, anv
 
 Suse märks att den är anpassad till företag, iallfall till mycket större del än Ubuntu var, [Ubuntu][6] är hittils min rekommandation om du inte kan så mycket om linux. Kan du mycket, kör [Gentoo][7]!
 
-:: Linux, SUSE, OpenSUSE, YaST, YaST2, Novell
+
 
 <small></small>
 

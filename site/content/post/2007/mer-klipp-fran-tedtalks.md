@@ -1,6 +1,8 @@
 +++
 date = "2007-04-01T22:32:15+00:00"
 title = "Mer klipp från TEDTalks"
+[taxonomies]
+tags = ["ted", "tedtalks", "vetenskap"]
 +++
 
 Har suttit och kollat runt lite nu på olika TEDTalks på YouTube. Här kommer några som jag rekommenderar.
@@ -18,7 +20,7 @@ Personligen så det jag rymdindustrin som en MYCKET lönsam bransch när den har
 [Richard Dawkins on the strangeness of science: TEDTalks][5]  
 Ett utmärkt föredrag om hjärnan och hur den tolkar omgivningen. Mycket intressant om du är intresserad av vetenskap, fysik och människokroppen.
 
-:: TED, TEDTalks, Vetenskap
+
 
 <small></small>
 

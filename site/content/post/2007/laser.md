@@ -1,6 +1,8 @@
 +++
 date = "2007-02-28T15:42:11+00:00"
 title = "Laser"
+[taxonomies]
+tags = ["laser", "grön laser"]
 +++
 
 Starka lasrar för privatpersoner har man sett ett tag på nätet som t.ex. på [ThinkGeek][1]. Idag så kom jag förbi ett klipp på YouTube där en person visade en, vet dock inte om det är samma produkt som ThinkGeek har man den är likvärd.
@@ -16,7 +18,7 @@ När man läser sådant så blir man lite rädd, ska man börja oroa sig för at
 
 Men lasern kan vara en utmärkt &#8220;leksak&#8221; eller verktyg om man handskas med den korrekt. Nästan lust och köpa en, men samtidigt, vad onödigt. Men det viktigaste är att man bör se lasern för vad den är, ett verktyg, inte en leksak.
 
-:: Laser, Grön Laser
+
 
 <small></small>
 

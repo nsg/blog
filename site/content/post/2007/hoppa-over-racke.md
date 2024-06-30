@@ -1,6 +1,8 @@
 +++
 date = "2007-02-20T23:59:06+00:00"
 title = "Hoppa över räcke"
+[taxonomies]
+tags = ["livräddarna", "bro", "brandkår"]
 +++
 
 Blev tipsad om programmet [Livräddarna][1] som går på SVT, dom följer en grupp brandmän i en bradstation i Solna (Tänk Stockholm, om du inte vart vart det ligger). Sitter nu och strömmar avsnitten över nätet.
@@ -22,7 +24,7 @@ Det kommer vara svårt och gå där nu och inte tänka på det, när jag hoppar 
 
 En sak till som är intressant, när jag fortfarande bodde hemma gick jag över bron varje dag för att ta tunnelbanan till skolan. En dag när jag kom hem så var det full rulle, båtar i vattnet, helikopter som flög runt efter stranden, massa brandmänn om letade efter strandkanten. Det kanske var detta jag såg, eller så var det inte första gången dom var där och letade efter hoppare eller &#8220;hoppare&#8221;.
 
-:: Livräddarna, Bro, Brandkår
+
 
 <small></small>
 
