@@ -1,16 +1,10 @@
 <!DOCTYPE HTML>
 <html>
 
-{% if config.feed_filename == "atom.xml" %}
-  {% set atom_type = "application/atom+xml" %}
-{% else %}
-  {% set atom_type = "application/rss+xml" %}
-{% endif %}
-
 <head>
   <meta charset="UTF-8">
   <link rel="stylesheet" href="{{ get_url(path="main.css") | safe }}">
-  <link rel="alternate" type="{{ atom_type | safe }}" title="RSS"  href="{{ get_url(path=config.feed_filename) | safe }}">
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ get_url(path="rss.xml", trailing_slash=false) }}">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
   <title>{% block title %}{{ config.title }}{% endblock title %}</title>
 </head>

@@ -3,11 +3,10 @@ title = "nsg's blog"
 compile_sass = true
 minify_html = true
 build_search_index = true
-generate_feed = true
-feed_filename = "rss.xml"
-paginate_by = 10
+generate_feeds = true
+feed_filenames = ["rss.xml"]
+feed_limit = 20
 default_language = "en"
-port = 8080
 
 taxonomies = [
     { name = "tags", feed = true}

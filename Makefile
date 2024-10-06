@@ -1,5 +1,5 @@
 IMAGE = nsgb/blog
-ZOLA_IMAGE = ghcr.io/getzola/zola:v0.16.1
+ZOLA_IMAGE = ghcr.io/getzola/zola:v0.19.2
 HOSTNAME := $(shell hostname)
 
 run:

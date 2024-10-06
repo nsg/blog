@@ -1,5 +1,5 @@
 # https://github.com/getzola/zola/pkgs/container/zola
-FROM ghcr.io/getzola/zola:v0.16.1 AS build
+FROM ghcr.io/getzola/zola:v0.19.2 AS build
 
 ADD site /site
 WORKDIR /site
