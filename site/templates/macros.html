@@ -20,7 +20,7 @@
           {% if paragraph | wordcount > 20 %}
             {% if image_url %}
               <a href="{{ page.permalink }}">
-                <img class="latest-image-preview" src="{{ image_url }}">
+                <img class="latest-image-preview" src="{{ image_url | safe }}">
               </a>
             {% endif %}
             {{ paragraph | safe}}
