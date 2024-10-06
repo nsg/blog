@@ -31,3 +31,9 @@
 .flag-container {
     text-align: center;
 }
+
+[data-theme="dark"] {
+    .image-invert-allowed {
+        filter: invert(93%) hue-rotate(180deg) brightness(1.8);
+    }
+}
