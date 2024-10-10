@@ -1,20 +1,14 @@
 {% extends "base.html" %}
 {% block title %}All Tags | {{ config.title }}{% endblock title %}
 {% block page_header %}
-    <h2>All tags in all posts</h2>
+    <h2>Tag cloud</h2>
 {% endblock page_header %}
 {% block section %}
-        {% set_global first_char_last = "" %}
-        {% for term in terms %}
-            {% set first_char = term.name | truncate(length=1, end="") | upper %}
-            {% if first_char != first_char_last %}
-                {% if first_char_last != "" %}
-                    </article>
-                {% endif %}
-                <article class="tags">
-                <h3>{{ first_char }}</h3>
-            {% endif %}
-            <a href="{{ term.permalink }}" class="tagsq">{{ term.name | lower }}</a> 
-            {% set_global first_char_last = first_char %}
-        {% endfor %}
+    <article class="tags">
+        <ul>
+            {% for term in terms %}
+                <li><a href="{{ term.permalink }}" class="tagsq" data-weight="{{ term.pages | length }}" style="font-size: calc({{ term.pages | length }} * 0.25rem + 0.5rem);">{{ term.name | lower }}</a></li>
+            {% endfor %}
+        </ul>
+    </article>
 {% endblock section %}

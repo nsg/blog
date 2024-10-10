@@ -453,7 +453,30 @@ footer {
     }
 }
 
-.tagsq, .tags .tag {
+.tags ul {
+    list-style: none;
+    padding-left: 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    line-height: 2.5rem;
+
+    a {
+        display: block;
+        padding: 0.125rem 0.25rem;
+        text-decoration: none;
+        position: relative;
+    }
+
+    a::after {
+        content: " (" attr(data-weight) ")";
+        font-size: 1rem;
+    }
+
+}
+
+.tags .tag {
     display: inline-block;
     margin: 0.2rem;
     padding: 0.2rem 0.4rem;
