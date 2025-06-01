@@ -2,9 +2,17 @@ IMAGE = nsgb/blog
 ZOLA_IMAGE = ghcr.io/getzola/zola:v0.19.2
 HOSTNAME := $(shell hostname)
 
+debug:
+	podman run \
+		-v$(shell pwd)/site:/site:z \
+		--workdir /site \
+		-p 1111:1111 \
+		-p 1024:1024 \
+		-ti \
+		docker.io/library/debian
 run:
 	podman run \
-		-v$(shell pwd)/site:/site \
+		-v$(shell pwd)/site:/site:z \
 		--workdir /site \
 		-p 1111:1111 \
 		-p 1024:1024 \
@@ -16,7 +24,7 @@ run:
 
 build:
 	podman run \
-		-v$(shell pwd)/site:/site \
+		-v$(shell pwd)/site:/site:z \
 		--workdir /site \
 		${ZOLA_IMAGE} build -o /site/build-out
 
