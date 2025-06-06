@@ -10,13 +10,9 @@
 {% endblock page_header %}
 {% block section %}
 
-  <article>
-    <ul>
-      {% for page in section.pages %}
-        {{ macros::post_preview(page=page) }}
-      {% endfor %}
-    </ul>
-  </article>
+  {% for page in section.pages %}
+    {{ macros::post_preview(page=page) }}
+  {% endfor %}
   
   <article>
     {% for year in section.subsections | sort | reverse %}

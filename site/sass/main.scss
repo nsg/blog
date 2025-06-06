@@ -158,6 +158,9 @@ main {
     h2 {
         margin: 1rem;
         font-size: 2rem;
+        text-align: center;
+        padding: 1rem 0;
+        border-bottom: 1px solid rgba(153, 153, 153, 0.6);
 
         a {
             text-decoration: none;
@@ -169,11 +172,21 @@ main {
                 color: var(--link-hover)
             }
         }
+
+        em {
+            color: var(--text-color);
+            font-style: normal;
+            font-weight: 900;
+            font-family: 'Arial Black', 'Impact', 'Franklin Gothic Medium', 'Arial Narrow Bold', sans-serif;
+            font-stretch: expanded;
+        }
     }
 
     article {
-        margin: 1rem;
+        margin: 1rem 1rem 2.2rem 1rem;
         font-size: 1.2rem;
+        clear: both;
+        overflow: hidden;
 
         img {
             max-width: 100%;
@@ -182,8 +195,22 @@ main {
         }
 
         h2 {
-            margin: 0;
-            font-size: 1.6rem;
+            margin: 1rem 0rem;
+            font-size: 2rem;
+            text-align: left;
+            padding: 0;
+            border-bottom: none;
+
+            a {
+                text-decoration: none;
+                color: var(--text-color);
+                transition: border-bottom 0.2s ease-in-out;
+
+                &:hover {
+                    border-bottom: 10px solid var(--nav-bg2);
+                    color: var(--link-hover)
+                }
+            }
         }
 
         h3 {

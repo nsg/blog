@@ -1,14 +1,17 @@
 {% macro post_preview(page) %}
-    <h2><a href="{{ page.permalink }}">{{ page.title }}</a></h2>
-    <article>
+      <article>
+        <h2><a href="{{ page.permalink }}">{{ page.title }}</a></h2>
         {% set_global image_url = false %}
         {% set paragraphs = page.content | split(pat="\n") %}
         {% for paragraph in paragraphs %}
           {% if paragraph is containing("img") %}
-            {% for p in paragraph | split(pat='"') %}
-              {% if p is containing("image") %}
-                {% set_global image_url = p %}
-                {% break %}
+            {% for p in paragraph | split(pat=' ') %}
+              {% if p is containing("src=") %}
+                {% set clean_path = p | replace(from="src=", to="") | replace(from='"', to="") | replace(from="'", to="") %}
+                {% if clean_path is containing("/images/") %}
+                  {% set_global image_url = clean_path %}
+                  {% break %}
+                {% endif %}
               {% endif %}
             {% endfor %}
             {% break %}
@@ -19,11 +22,12 @@
         {% for paragraph in paragraphs %}
           {% if paragraph | wordcount > 20 %}
             {% if image_url %}
+              {% set resized_image_info = resize_image(path=image_url, width=120, op="fit_width", format="webp", quality=80) %}
               <a href="{{ page.permalink }}">
-                <img class="latest-image-preview" src="{{ image_url | safe }}">
+                <img class="latest-image-preview" src="{{ resized_image_info.url }}">
               </a>
             {% endif %}
-            {{ paragraph | safe}}
+            {{ paragraph | striptags }}
             {% break %}
           {% endif %}
         {% endfor %}
