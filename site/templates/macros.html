@@ -22,7 +22,7 @@
         {% for paragraph in paragraphs %}
           {% if paragraph | wordcount > 20 %}
             {% if image_url %}
-              {% set resized_image_info = resize_image(path=image_url, width=120, op="fit_width", format="webp", quality=80) %}
+              {% set resized_image_info = resize_image(path=image_url, width=120, height=120, op="fill", format="webp", quality=80) %}
               <a href="{{ page.permalink }}">
                 <img class="latest-image-preview" src="{{ resized_image_info.url }}">
               </a>
