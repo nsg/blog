@@ -6,7 +6,7 @@ tags = ["Gnome", "Jaunty Jackalope", "Linux", "Notifyosd", "Ubuntu"]
 +++
 
 <p style="text-align: center;">
-  <a href="/images/2009/04/desktop1.png"></a><a href="http://cdn.junkpile.se/2009/04/desktop1.png"><img class="aligncenter size-full wp-image-110" title="desktop1" src="http://cdn.junkpile.se/2009/04/desktop1.png" alt="desktop1" width="700" height="118" /></a>
+  <a href="/images/2009/04/desktop1.png"></a><a href="/images/2009/04/desktop1.png"><img class="aligncenter size-full wp-image-110" title="desktop1" src="/images/2009/04/desktop1.png" alt="desktop1" width="700" height="118" /></a>
 </p>
 
 Sådär, det är en del kvar att göra innan jag känner mig nöjd med Jaunty, men det känns bra, har inte haft några större problem och den enda irritationen löste jag just (efter att ha suttit och läst på ubuntus bugtracker i ca ~30 minuter).
@@ -26,7 +26,7 @@ Det bör räcka, eventuellt måste du logga ut/in för att ändringen ska börja
 </p>
 
 <p style="text-align: center;">
-  <a href="/images/2009/04/new-wave.png"><img class="aligncenter size-full wp-image-109" title="new-wave" src="http://cdn.junkpile.se/2009/04/new-wave.png" alt="new-wave" width="287" height="220" /></a>
+  <a href="/images/2009/04/new-wave.png"><img class="aligncenter size-full wp-image-109" title="new-wave" src="/images/2009/04/new-wave.png" alt="new-wave" width="287" height="220" /></a>
 </p>
 
 <small> <p class='technorati-tags'>

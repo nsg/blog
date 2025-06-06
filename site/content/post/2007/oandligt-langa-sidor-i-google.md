@@ -14,7 +14,7 @@ Nu lite bilder för att illustrera.
 *Här kommer tre bilder där jag har gått ner tre &#8220;sidor&#8221; i sökningen. Notera att scrollbaren har minskat då sidan växer.*
 
 <div class="middle">
-  <img id="image391" src="/images/2007/04/google1.png" alt="google1.png" /><br /> <img id="image392" src="http://cdn.junkpile.se/2007/04/google2.png" alt="google2.png" /><br /> <img id="image393" src="http://cdn.junkpile.se/2007/04/google3.png" alt="google3.png" />
+  <img id="image391" src="/images/2007/04/google1.png" alt="google1.png" /><br /> <img id="image392" src="/images/2007/04/google2.png" alt="google2.png" /><br /> <img id="image393" src="/images/2007/04/google3.png" alt="google3.png" />
 </div>
 
 **Edit**: Glömde en sak, skriptet ändrar även alla länkar till `target="_blank"`, d.v.s. öppna i nytt fönster/tab. För att stänga av det kommentera bort, eller ta bort följande del av skriptet.

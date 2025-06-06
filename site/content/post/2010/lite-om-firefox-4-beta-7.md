@@ -16,19 +16,19 @@ En funktion som använde ofta var status-baren, jag använde den både för att 
 Jag noterade att det är väldigt svårt och se vilken tabb som jag är på, alla tabbarna är transparenta vilket är snyggt, men samtidigt gör det svårare att läsa texten. Ett större problem är att man knappt märker vilken som är vald tabb om du har ett mörkare tema (persona), det syns ganska tydligt på standardutseendet som är grått. Tillsivare bytte jag till ett ljusare tema.
 
 <div id="attachment_870" style="width: 324px" class="wp-caption aligncenter">
-  <a href="/images/2010/11/ff4b7-tab1.png"><img class="size-full wp-image-870" title="ff4b7-tab1" src="http://cdn.junkpile.se/2010/11/ff4b7-tab1.png" alt="" width="314" height="41" /></a><p class="wp-caption-text">
+  <a href="/images/2010/11/ff4b7-tab1.png"><img class="size-full wp-image-870" title="ff4b7-tab1" src="/images/2010/11/ff4b7-tab1.png" alt="" width="314" height="41" /></a><p class="wp-caption-text">
     Mitt gamla tema
   </p>
 </div>
 
 <div id="attachment_868" style="width: 318px" class="wp-caption aligncenter">
-  <a href="/images/2010/11/ff4b7-tab2.png"><img class="size-full wp-image-868" title="ff4b7-tab2" src="http://cdn.junkpile.se/2010/11/ff4b7-tab2.png" alt="" width="308" height="34" /></a><p class="wp-caption-text">
+  <a href="/images/2010/11/ff4b7-tab2.png"><img class="size-full wp-image-868" title="ff4b7-tab2" src="/images/2010/11/ff4b7-tab2.png" alt="" width="308" height="34" /></a><p class="wp-caption-text">
     Mitt nya tema
   </p>
 </div>
 
 <div id="attachment_869" style="width: 323px" class="wp-caption aligncenter">
-  <a href="/images/2010/11/ff4b7-tab3.png"><img class="size-full wp-image-869" title="ff4b7-tab3" src="http://cdn.junkpile.se/2010/11/ff4b7-tab3.png" alt="" width="313" height="34" /></a><p class="wp-caption-text">
+  <a href="/images/2010/11/ff4b7-tab3.png"><img class="size-full wp-image-869" title="ff4b7-tab3" src="/images/2010/11/ff4b7-tab3.png" alt="" width="313" height="34" /></a><p class="wp-caption-text">
     Firefox utan tema
   </p>
 </div>
