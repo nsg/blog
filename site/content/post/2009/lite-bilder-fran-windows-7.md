@@ -7,7 +7,7 @@ tags = ["IE", "IE8", "Internet Explorer", "Microsoft", "Win7", "Windows", "Windo
 
 Tidigare i dag spenderade jag ungefär två timmar med betan av Windows 7, vill du veta vad den innehåller så finns det mängder av bättre ställen att kolla på är den här bloggen ([wikipedia][1] är som alltid en bra källa). Jag sparade några bilder på lite olika detaljer under tiden jag provade runt det och här kommer dem.
 
-<img class="alignnone size-full wp-image-31" title="1-desktop1" src="/images/2009/01/1-desktop1.png" alt="1-desktop1" width="791" height="351" />*Det var så här jag blev mött efter en installation på runt 1 timma (inte helt sant, jag satte först min stora skärm som huvudskärm då windows utgick från att den vänstra var min huvudskärm)*
+<img class="alignnone size-full wp-image-31" title="1-desktop1" src="/images/2009/01/1-desktop.png" alt="1-desktop1" width="791" height="351" />*Det var så här jag blev mött efter en installation på runt 1 timma (inte helt sant, jag satte först min stora skärm som huvudskärm då windows utgick från att den vänstra var min huvudskärm)*
 
 *[<img class="alignnone size-full wp-image-33" title="2-paint" src="/images/2009/01/2-paint.png" alt="2-paint" width="791" height="632" />][2]*
 
