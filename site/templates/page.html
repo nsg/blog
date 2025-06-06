@@ -17,3 +17,61 @@
     </div>
     {{ page.content | safe }}
 {% endblock article %}
+
+{% block related %}
+    {% if page.taxonomies.tags %}
+        <div class="related-posts">
+            {% if config.mode == "serve" %}
+                <p>
+                    <em>
+                        Related posts are disabled during development for faster builds.
+                        Run <code>zola build</code> to see the full tag clouds.
+                    </em>
+                </p>
+            {% else %}
+                {% set related_posts = [] %}
+                {% set tag_taxonomy = get_taxonomy(kind="tags") %}
+        
+                {% for current_tag in page.taxonomies.tags %}
+                    {% for tag_item in tag_taxonomy.items %}
+                        {% if tag_item.name == current_tag %}
+                            {% for tagged_page in tag_item.pages %}
+                                {% if tagged_page.permalink != page.permalink %}
+                                    {% set_global related_posts = related_posts | concat(with=tagged_page) %}
+                                {% endif %}
+                            {% endfor %}
+                        {% endif %}
+                    {% endfor %}
+                {% endfor %}
+        
+                {% if related_posts | length > 0 %}
+                    <h3>Related Posts</h3>
+                    <ul>
+                        {% for related_page in related_posts | unique(attribute="permalink") | sort(attribute="date") | reverse | slice(end=5) %}
+                            {% set current_year = now() | date(format="%Y") | int %}
+                            {% set post_year = related_page.date | date(format="%Y") | int %}
+                            {% set is_old = current_year - post_year > 8 %}
+                            <li{% if is_old %} class="old-post"{% endif %}>
+                                <div class="related-post-header">
+                                    <a href="{{ related_page.permalink }}">{{ related_page.title }}</a>
+                                    <div class="tags">
+                                        {% for current_tag in page.taxonomies.tags %}
+                                            {% if current_tag in related_page.taxonomies.tags %}
+                                                <span class="tag">
+                                                    <a href="/tags/{{ current_tag | slugify }}">{{ current_tag }}</a>
+                                                </span>
+                                            {% endif %}
+                                        {% endfor %}
+                                    </div>
+                                </div>
+                                {% if related_page.date %}
+                                    <span class="date">{{ related_page.date | date(format="%Y-%m-%d") }}</span>
+                                {% endif %}
+                            </li>
+                        {% endfor %}
+                    </ul>
+                {% endif %}
+            {% endif %}
+        </div>
+    {% endif %}
+{% endblock related %}
