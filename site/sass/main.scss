@@ -492,24 +492,55 @@ footer {
 .tags ul {
     list-style: none;
     padding-left: 0;
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: center;
-    line-height: 2.5rem;
+    text-align: center;
+    line-height: 0.8;
+    margin: 2rem 0;
+
+    li {
+        display: inline-block;
+        margin: -0.1rem -0.2rem;
+        vertical-align: middle;
+        
+        // Random rotation for different tags
+        &:nth-child(5n+1) { transform: rotate(-8deg); opacity: 0.8; }
+        &:nth-child(5n+2) { transform: rotate(5deg); opacity: 0.85; }
+        &:nth-child(5n+3) { transform: rotate(-4deg); opacity: 0.9; }
+        &:nth-child(5n+4) { transform: rotate(6deg); opacity: 0.75; }
+        &:nth-child(5n+5) { transform: rotate(-2deg); opacity: 0.95; }
+    }
 
     a {
-        display: block;
-        padding: 0.125rem 0.25rem;
+        display: inline-block;
+        padding: 0.05rem 0.15rem;
         text-decoration: none;
         position: relative;
+        transition: all 0.3s ease;
+        color: var(--text-color);
+        margin: -0.05rem;
+        border-radius: 0.5rem;
+        
+        &:hover {
+            color: var(--link-hover);
+            transform: scale(1.3) !important;
+            z-index: 10;
+            opacity: 1;
+            position: relative;
+            padding: 0.3rem 0.5rem;
+        }
     }
 
     a::after {
         content: " (" attr(data-weight) ")";
-        font-size: 1rem;
+        font-size: 0.5em;
+        opacity: 0;
+        margin-left: 0.05em;
+        font-weight: normal;
+        transition: opacity 0.3s ease;
     }
 
+    a:hover::after {
+        opacity: 0.8;
+    }
 }
 
 .tags .tag {
