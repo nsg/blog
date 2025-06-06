@@ -5,6 +5,10 @@
 {% endblock page_header %}
 {% block section %}
 
+{% if config.mode == "serve" %}
+    <p><em>Tag clouds are disabled during development for faster builds. Run <code>zola build</code> to see the full tag clouds.</em></p>
+{% else %}
+
 {% set terms_english = [] %}
 {% set terms_swedish = [] %}
 {% set added_english_names = [] %}
@@ -44,5 +48,7 @@
             {% endfor %}
         </ul>
     </article>
+
+{% endif %}
 
 {% endblock section %}
