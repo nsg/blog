@@ -71,19 +71,24 @@
       <section class="postend">
         {% set this_ts = now() | date(format="%s") | int %}
         {% set post_ts = page.date | date(format="%s") | int %}
-        {% if post_ts < this_ts - 86400 * 365 * 2 %}
-          <strong>Please note</strong> that this is a old post from the
-          year <strong>{{ page.year }}</strong> and the information may
-          be outdated.
+        {% set my_age = (post_ts - 433728000) / 31536000 | round %}
+        {% if post_ts < this_ts - 86400 * 365 * 10 %}
+          <strong>Please note</strong> that this is a old post from the year <strong>{{ page.year }}</strong>,
+          a lof of time has passed since I wrote this text. The information may be outdated, and
+          <strong>my opinions may have changed</strong>, I'm not {{ my_age }} years old anymore.
+        {% elif post_ts < this_ts - 86400 * 365 * 2 %}
+          <strong>Please note</strong> that this is a old post from the year <strong>{{ page.year }}</strong>
+          and the information may be outdated.
         {% endif %}
+
         {% if page.backlinks %}
           Pages that link here are
           {% for backlink in page.backlinks %}
             <a href="{{ backlink.permalink }}">{{ backlink.title }}</a>
           {% endfor %} and they may be relevant.
         {% endif %}
-        All these {{ page.word_count }} words are written by 
-        <a href="/about">Stefan Berggren</a>, feel free and contact
+
+        All these {{ page.word_count }} words are written by <a href="/about">Stefan Berggren</a>, feel free and contact
         me if you like.
       </section>
     {% endif %}
