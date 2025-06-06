@@ -75,3 +75,20 @@
         </div>
     {% endif %}
 {% endblock related %}
+
+{% block backlinks %}
+    {% if page.backlinks %}
+        <div class="related-posts">
+            <h3>Pages that link here</h3>
+            <ul>
+                {% for backlink in page.backlinks %}
+                    <li>
+                        <div class="related-post-header">
+                            <a href="{{ backlink.permalink }}">{{ backlink.title }}</a>
+                        </div>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+    {% endif %}
+{% endblock backlinks %}

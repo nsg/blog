@@ -62,6 +62,11 @@
       {% endblock section %}
     </section>
 
+    <section class="backlinks">
+      {% block backlinks %}
+      {% endblock backlinks %}
+    </section>
+
     <section class="related">
       {% block related %}
       {% endblock related %}
@@ -79,13 +84,6 @@
         {% elif post_ts < this_ts - 86400 * 365 * 2 %}
           <strong>Please note</strong> that this is a old post from the year <strong>{{ page.year }}</strong>
           and the information may be outdated.
-        {% endif %}
-
-        {% if page.backlinks %}
-          Pages that link here are
-          {% for backlink in page.backlinks %}
-            <a href="{{ backlink.permalink }}">{{ backlink.title }}</a>
-          {% endfor %} and they may be relevant.
         {% endif %}
 
         All these {{ page.word_count }} words are written by <a href="/about">Stefan Berggren</a>, feel free and contact

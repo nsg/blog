@@ -593,6 +593,10 @@ footer {
     background-color: var(--bg-color-darker);
     border-radius: 0.5rem;
 
+    &:not(:first-child) {
+        margin-top: 1rem;
+    }
+
     h3 {
         border-bottom: 1px solid var(--middle-gray);
         margin-bottom: 1rem;
