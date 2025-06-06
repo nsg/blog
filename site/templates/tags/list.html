@@ -1,14 +1,48 @@
 {% extends "base.html" %}
 {% block title %}All Tags | {{ config.title }}{% endblock title %}
 {% block page_header %}
-    <h2>Tag cloud</h2>
+    <h2>Tag clouds</h2>
 {% endblock page_header %}
 {% block section %}
+
+{% set terms_english = [] %}
+{% set terms_swedish = [] %}
+{% set added_english_names = [] %}
+{% set added_swedish_names = [] %}
+{% for term in terms %}
+    {% for page in term.pages %}
+        {% if page.date and page.date | date(format="%Y") | int > 2014 %}
+            {% if term.name not in added_english_names %}
+                {% set_global terms_english = terms_english | concat(with=term) %}
+                {% set_global added_english_names = added_english_names | concat(with=term.name) %}
+            {% endif %}
+        {% else %}
+            {% if term.name not in added_swedish_names %}
+                {% set_global terms_swedish = terms_swedish | concat(with=term) %}
+                {% set_global added_swedish_names = added_swedish_names | concat(with=term.name) %}
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
     <article class="tags">
         <ul>
-            {% for term in terms %}
+            {% for term in terms_english %}
                 <li><a href="{{ term.permalink }}" class="tagsq" data-weight="{{ term.pages | length }}" style="font-size: calc({{ term.pages | length }} * 0.25rem + 0.5rem);">{{ term.name | lower }}</a></li>
             {% endfor %}
         </ul>
     </article>
+
+    <div class="flag-container">
+        <div class="flag"></div>
+    </div>
+
+    <article class="tags">
+        <ul>
+            {% for term in terms_swedish %}
+                <li><a href="{{ term.permalink }}" class="tagsq" data-weight="{{ term.pages | length }}" style="font-size: calc({{ term.pages | length }} * 0.25rem + 0.5rem);">{{ term.name | lower }}</a></li>
+            {% endfor %}
+        </ul>
+    </article>
+
 {% endblock section %}
