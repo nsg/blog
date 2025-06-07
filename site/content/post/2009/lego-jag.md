@@ -7,7 +7,7 @@ tags = ["Lego", "Sci-fi", "Star Trek"]
 
 [<img class="alignleft size-medium wp-image-126" title="lego-jag" src="/images/2009/05/lego-jag-198x300.png" alt="lego-jag" width="129" height="196" />][1]Sitter och läser ikapp inlägg hos stationsvakt så jag hittar det [här inlägget][2] där han länkar till en kul sida där man kan designa en legogubbe. Jag gjorde som <span class="entry-author-name">Johnny gjorde och försökte få den att likna mig, gick sådär då det inte fanns så mycket som passade mig.</span>
 
-<span class="entry-author-name"><a href="https://web.archive.org/web/20090717095133/http://www.reasonablyclever.com/mm2/mini2.swf">Skapa din egen legogubbe</a></span>
+<span class="entry-author-name"><a href="https://web.archive.org/web/20090717095133if_/http://www.reasonablyclever.com/mm2/mini2.swf">Skapa din egen legogubbe</a></span>
 
 <span class="entry-author-name">Blå för att det är min favoritfärg, svart hår för att det var mer likt mitt mörk-bruna är den bruna färgen och star trek-jackan för att jag tycker om det och annan sci-fi. Handen? blev en avslagen lightsaber (tror jag).</span>
 
