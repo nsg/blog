@@ -1,1 +1,1 @@
-<img src="{{ src | safe }}"{% if invert %} class="image-invert-allowed"{% endif %}>
+<img src="{{ src | safe }}" alt="{{ alt | default(value="Image") | safe }}"{% if width %} width="{{ width }}"{% endif %}{% if height %} height="{{ height }}"{% endif %}{% if invert %} class="image-invert-allowed"{% endif %}>
