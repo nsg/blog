@@ -13,4 +13,4 @@ tags = ["sr", "tpb", "the pirate bay", "razzia"]
 
 <small></small>
 
- [1]: http://www.sr.se/ekot/artikel.asp?artikel=879159
+ [1]: https://web.archive.org/web/20060812212309/http://www.sr.se/ekot/artikel.asp?artikel=879159

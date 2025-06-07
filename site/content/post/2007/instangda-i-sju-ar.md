@@ -15,4 +15,4 @@ Tydligen hade hon fått tillåtelse att undervisa dom hemifrån, annars skulle s
 
 <small></small>
 
- [1]: http://www.svd.se/dynamiskt/utrikes/did_14609756.asp
+ [1]: https://web.archive.org/web/20070214114753/http://www.svd.se/dynamiskt/utrikes/did_14609756.asp

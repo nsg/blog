@@ -12,4 +12,4 @@ Expressen har en bra artikel [här][1], läs den.
 
 <small></small>
 
- [1]: http://expressen.se/index.jsp?a=601757
+ [1]: https://web.archive.org/web/20060908112636/http://expressen.se/index.jsp?a=601757

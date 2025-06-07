@@ -26,7 +26,7 @@ Här kommer en [intressant länk][6] om du känner för att sitta och fundera p�
 
  [1]: http://www.dn.se/DNet/jsp/polopoly.jsp?d=2374&#038;a=626929
  [2]: http://www.svd.se/ego/140/http://www.svd.se/dynamiskt/noje/did_14799762.asp
- [3]: http://junkpile.se/~s/wp/2007/03/simpsons-intros/
+ [3]: https://nsg.cc/post/2007/simpsons-intros/
  [4]: http://en.wikipedia.org/wiki/Springfield%2C_Missouri
  [5]: http://en.wikipedia.org/wiki/Springfield%2C_Illinois
- [6]: http://www.snpp.com/guides/springfield.list.html
+ [6]: https://web.archive.org/web/20070324181440/http://www.snpp.com/guides/springfield.list.html

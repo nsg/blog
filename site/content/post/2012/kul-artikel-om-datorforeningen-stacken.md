@@ -18,5 +18,5 @@ Tyvärr känns artikeln lite nedkortar, men jag vet hur det är ibland när man 
   Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/Stacken' rel='tag' target='_self'>Stacken</a>
 </p></small>
 
- [1]: http://www.idg.se/2.1085/1.454545/the-stacken-story
+ [1]: https://web.archive.org/web/20120619060039/http://www.idg.se/2.1085/1.454545/the-stacken-story
  [2]: http://www.stacken.kth.se/

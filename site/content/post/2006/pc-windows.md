@@ -50,4 +50,4 @@ Mac med Annat OS
 <small></small>
 
  [1]: http://www.youtube.com/watch?v=FxLdLBxHRkA&#038;mode=related
- [2]: http://www.komplett.se/k/ki.asp?sku=322885
+ [2]: https://web.archive.org/web/20060721091412/http://www.komplett.se/k/ki.asp?sku=322885

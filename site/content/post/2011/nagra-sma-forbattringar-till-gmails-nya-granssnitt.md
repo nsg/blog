@@ -48,7 +48,7 @@ Happy hacking!
   Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/gmail' rel='tag' target='_self'>gmail</a>, <a class='technorati-link' href='http://bloggar.se/om/google' rel='tag' target='_self'>google</a>, <a class='technorati-link' href='http://bloggar.se/om/stylish' rel='tag' target='_self'>stylish</a>
 </p></small>
 
- [1]: http://nsg.cc/2011/07/10/det-ar-inte-alltid-bast-att-kora-paketen-fran-dist/
+ [1]: https://nsg.cc/post/2011/det-ar-inte-alltid-bast-att-kora-paketen-fran-dist/
  [2]: /images/2011/07/gmail-gp-stylish-before1.png
  [3]: https://addons.mozilla.org/en-US/firefox/addon/stylish/
  [4]: /images/2011/07/gmail-gp-stylish-after1.png

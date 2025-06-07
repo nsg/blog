@@ -21,4 +21,4 @@ Relaterat: [Se klippet med Burt Rutan][1].
 
 <small></small>
 
- [1]: http://junkpile.se/~s/wp/2007/04/mer-klipp-fran-tedtalks/
+ [1]: https://nsg.cc/post/2007/mer-klipp-fran-tedtalks/

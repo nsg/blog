@@ -19,4 +19,4 @@ Det känns som det är dax för ännu en gissa filmen, denna gången är det tre
 
 <small></small>
 
- [1]: http://junkpile.se/~s/wp/2007/04/gissa-filmenserienkaraktaren/
+ [1]: https://nsg.cc/post/2007/gissa-filmenserienkaraktaren/

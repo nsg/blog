@@ -12,4 +12,4 @@ Här kommer lite intressanta relaterade klipp.
     <br /> <a href="http://www.youtube.com/watch?v=ij_LuMFYykg">YouTube</a> </div> <small></small>
 
  [1]: http://pc.feber.se//feber/art/14369/ocz_kontrollerar_spel_med_tank/
- [2]: http://www.bit-tech.net/news/2007/03/17/ocz_controls_games_with_your_mind/
+ [2]: https://web.archive.org/web/20070320012743/http://www.bit-tech.net/news/2007/03/17/ocz_controls_games_with_your_mind/

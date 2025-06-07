@@ -88,6 +88,6 @@ Men mer om detaljer som jag stör mig på i Sense längre ner, nu först kommer 
   </p></small>
 
  [1]: /images/2010/11/IMG_4143.jpg
- [2]: http://www.cyanogenmod.com
+ [2]: https://web.archive.org/web/20101201031349/http://www.cyanogenmod.com/
  [3]: http://www.swedroid.se
  [4]: http://www.swedroid.se/forum/showthread.php?t=26299

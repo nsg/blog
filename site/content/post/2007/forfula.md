@@ -19,7 +19,7 @@ Kul och kolla på :)
 
 <small></small>
 
- [1]: http://www.moderskeppet.se/live/arkiv/2007/bloggar-och-poddcastar-om-photoshop/
+ [1]: https://web.archive.org/web/20070304085727/http://www.moderskeppet.se/live/arkiv/2007/bloggar-och-poddcastar-om-photoshop/
  [2]: http://photoshopideer.blogspot.com/2007/03/retuschering-t-fel-hll.html
  [3]: http://www.worth1000.com/emailthis.asp?entry=286672
  [4]: http://www.worth1000.com/galleries.asp?rel=Detouching&#038;display=photoshop&#038;id=12926

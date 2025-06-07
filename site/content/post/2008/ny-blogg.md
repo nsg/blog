@@ -15,4 +15,4 @@ Jag bestämde mig även för att ta ett färdigt tema och modifera det för att 
   Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/blogg' rel='tag' target='_self'>blogg</a>, <a class='technorati-link' href='http://bloggar.se/om/Bloggen' rel='tag' target='_self'>Bloggen</a>, <a class='technorati-link' href='http://bloggar.se/om/nsg' rel='tag' target='_self'>nsg</a>
 </p></small>
 
- [1]: http://junkpile.se/~s/wp/2008/04/vilket-webhotell-ska-man-ha/
+ [1]: https://nsg.cc/post/2008/vilket-webhotell-ska-man-ha/

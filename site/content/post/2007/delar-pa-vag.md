@@ -32,5 +32,5 @@ Hoppas nu jag får ut den idag :)
 
 <small></small>
 
- [1]: http://junkpile.se/~s/wp/2007/03/gissa-vemvad-1/
- [2]: http://junkpile.se/~s/wp/2006/10/wiie/
+ [1]: https://nsg.cc/post/2007/gissa-vemvad-1/
+ [2]: https://nsg.cc/post/2006/wiie/

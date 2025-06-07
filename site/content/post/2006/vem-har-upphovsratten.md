@@ -13,4 +13,4 @@ Det skapar en intressant utveckling, nu så är det jag som tolkar en som tolkar
 
 <small></small>
 
- [1]: http://www.falkvinge.com/2006/06/hoppsan-up-yours-mpaa-och-riaa.html
+ [1]: https://web.archive.org/web/20060701064400/http://www.falkvinge.com/2006/06/hoppsan-up-yours-mpaa-och-riaa.html

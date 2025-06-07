@@ -56,7 +56,7 @@ Det finns många fler möjligheter med digiKam, men dom tar jag upp i del 2 som 
 
 <small></small>
 
- [1]: http://www.junkpile.se/~s/wp/2006/11/picasa/
+ [1]: https://nsg.cc/post/2006/picasa/
  [2]: http://www.trolltech.com/products/qt
  [3]: http://www.kde.org/
  [4]: http://www.gnome.org/

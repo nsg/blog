@@ -13,13 +13,13 @@ Nu kanske du reagerade med misstänksamhet när du såg att att den även synkro
 
 Om du känner för att prova weave så finns det ett hinder, du behöver senaste utvecklingsversionen av Firefox, just nu heter den Firefox 3.1 Beta 3 och kan laddas ner här:
 
-> <http://www.mozilla.com/en-US/firefox/all-beta.html>
+> <https://web.archive.org/web/20090306020535/http://www.mozilla.com/en-US/firefox/all-beta.html>
 
 Längre fram när betan är klartestad och Firefox släpps i en stabil version så tror jag att den kommer få heta Firefox 3.5, så om du kör Firefox 3.5 eller senare så funkar den versionen du har.
 
 Nu behöver du installera weave, du hittar weave här:
 
-> <http://labs.mozilla.com/projects/weave/>
+> <https://web.archive.org/web/20090326200246/http://labs.mozilla.com/projects/weave/>
 
 Inte heller weave är i dagsläget helt klar, då du behöver förfråga efter en beta-nyckel för att få ett konto men det skedde helt automatiskt och jag hade en nyckel efter bara 10 minuter efter att jag hade skickat en förfrågan. Planerar du dessutom att sätta upp en egen server så finns det ingen poäng att skapa ett konto hos Mozilla, men jag rekommenderar det då det är mycket enklare.
 
@@ -47,6 +47,6 @@ Vill du läsa på hur weave fungerar på har du här ett intressant (och teknisk
   Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/extensions' rel='tag' target='_self'>extensions</a>, <a class='technorati-link' href='http://bloggar.se/om/firefox' rel='tag' target='_self'>firefox</a>, <a class='technorati-link' href='http://bloggar.se/om/mozilla' rel='tag' target='_self'>mozilla</a>, <a class='technorati-link' href='http://bloggar.se/om/mozilla+firefox' rel='tag' target='_self'>mozilla firefox</a>, <a class='technorati-link' href='http://bloggar.se/om/mozilla+weave' rel='tag' target='_self'>mozilla weave</a>, <a class='technorati-link' href='http://bloggar.se/om/synkronisera' rel='tag' target='_self'>synkronisera</a>, <a class='technorati-link' href='http://bloggar.se/om/weave' rel='tag' target='_self'>weave</a>
 </p></small>
 
- [1]: http://nsg.cc/2008/12/25/god-jul-till-mig-sjalv/
+ [1]: https://nsg.cc/post/2008/god-jul-till-mig-sjalv/
  [2]: http://www.toolness.com/wp/?p=41
- [3]: http://remcobressers.nl/2008/07/create-your-own-mozilla-weave-server/
+ [3]: https://web.archive.org/web/20090217223008/http://remcobressers.nl/2008/07/create-your-own-mozilla-weave-server/

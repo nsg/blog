@@ -15,7 +15,7 @@ title = "EVE Online på Linux och OSX"
 
 <small></small>
 
- [1]: http://junkpile.se/~s/wp/2007/07/inget-problem-att-kora-spel-med-compiz/
+ [1]: https://nsg.cc/post/2007/inget-problem-att-kora-spel-med-compiz/
  [2]: http://www.eve-online.com/
  [3]: http://www.cedega.com/
  [4]: http://www.ccpgames.com/

@@ -23,6 +23,6 @@ Se mer på:
 <small></small>
 
  [1]: http://spel.feber.se/feber/art/19945/starcraft_2/
- [2]: http://pc.ign.com/articles/788/788627p1.html
+ [2]: https://web.archive.org/web/20070520095227/http://pc.ign.com/articles/788/788627p1.html
  [3]: http://www.starcraft2.com
  [4]: http://www.youtube.com/watch?v=Sog2k6s7xVQ

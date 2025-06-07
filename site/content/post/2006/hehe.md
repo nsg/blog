@@ -9,4 +9,4 @@ Hehe, sedan kan [detta][1] vara intressant och läsa, men notera Damons kommenta
 
 <small></small>
 
- [1]: http://www.tjuvlyssnat.se/2006/10/det_r_lugnt_det.html
+ [1]: https://web.archive.org/web/20061109055803/http://www.tjuvlyssnat.se/2006/10/det_r_lugnt_det.html

@@ -18,4 +18,4 @@ Notera även att när dom tror att Australien är Nord Korea resp. Iran så stå
 <small></small>
 
  [1]: http://www.youtube.com/watch?v=GkkbAyibomE
- [2]: http://mj.barczyk.se/blog/1225/och-du-trodde-att-amerikanerna-var-outbildade
+ [2]: https://web.archive.org/web/20070117113412/http://mj.barczyk.se/blog/1225/och-du-trodde-att-amerikanerna-var-outbildade

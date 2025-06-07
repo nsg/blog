@@ -34,5 +34,5 @@ Nu väntar jag bara på skype, en bra twitterklient (inte hittat någon som funk
  [2]: ../2009/08/02/anslut-automatiskt-med-azilink-och-android/
  [3]: http://forum.xda-developers.com/showthread.php?t=548061
  [4]: http://forum.xda-developers.com/showthread.php?t=537204
- [5]: http://www.swedroid.se/wiki/index.php/Huvudsida
+ [5]: https://web.archive.org/web/20090929121319/http://www.swedroid.se/wiki/index.php/Huvudsida
  [6]: http://code.google.com/p/android-wifi-tether/

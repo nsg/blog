@@ -25,4 +25,4 @@ På [OneSwarms wiki][1] så står det att i nästa version (0.7) så kommer de s
   Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/fildelning' rel='tag' target='_self'>fildelning</a>, <a class='technorati-link' href='http://bloggar.se/om/oneswarm' rel='tag' target='_self'>oneswarm</a>
 </p></small>
 
- [1]: http://wiki.oneswarm.org/index.php/Version_0.7
+ [1]: https://web.archive.org/web/20090415110953/http://wiki.oneswarm.org/index.php/Version_0.7

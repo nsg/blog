@@ -87,5 +87,5 @@ Så där, det här var ett långt och krångligt, men lärorikt! sätt att insta
   Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/beta' rel='tag' target='_self'>beta</a>, <a class='technorati-link' href='http://bloggar.se/om/firefox' rel='tag' target='_self'>firefox</a>, <a class='technorati-link' href='http://bloggar.se/om/firefox+beta' rel='tag' target='_self'>firefox beta</a>, <a class='technorati-link' href='http://bloggar.se/om/Linux' rel='tag' target='_self'>Linux</a>, <a class='technorati-link' href='http://bloggar.se/om/ubuntu' rel='tag' target='_self'>ubuntu</a>
 </p></small>
 
- [1]: http://nsg.cc/2009/03/20/mozilla-weave-synkronisera-din-data/
+ [1]: https://nsg.cc/post/2009/mozilla-weave-synkronisera-din-data/
  [2]: /images/2009/03/ff_sw.sh

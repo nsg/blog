@@ -15,6 +15,6 @@ Du kan läsa mer här hos [sr][1], eller på [kulturbloggen][2] ([via][3]).
 
 <small></small>
 
- [1]: http://www.sr.se/cgi-bin/ekot/artikel.asp?Artikel=1955005
- [2]: http://kulturbloggen.com/?p=3329
- [3]: http://mj.barczyk.se/blog/2354/nu-ska-alla-betala-tv-licens-sekt-fasoner-fran-svt
+ [1]: https://web.archive.org/web/20080320053110/http://www.sr.se/cgi-bin/ekot/artikel.asp?Artikel=1955005
+ [2]: https://web.archive.org/web/20080420201953/http://kulturbloggen.com/?p=3329
+ [3]: https://web.archive.org/web/20080420025055/http://mj.barczyk.se/blog/2354/nu-ska-alla-betala-tv-licens-sekt-fasoner-fran-svt

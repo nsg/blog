@@ -26,6 +26,6 @@ Filmen hittar du på bl.a. [Google Video][3].
 
 <small></small>
 
- [1]: http://aftonbladet.se/vss/nyheter/story/0,2789,1006904,00.html
+ [1]: https://web.archive.org/web/20070225074904/http://aftonbladet.se/vss/nyheter/story/0,2789,1006904,00.html
  [2]: http://novus.blogsome.com/2007/02/22/den-okanda-filmen-fran-wtc/
- [3]: http://video.google.com/videoplay?docid=-5370762387415552903
+ [3]: https://web.archive.org/web/20070223000240/http://video.google.com/videoplay?docid=-5370762387415552903

@@ -15,4 +15,4 @@ Då förra frågan blev besvarad så fort så lägger jag ut en ny redan nu. Den
 
 <small></small>
 
- [1]: http://junkpile.se/~s/wp/2007/04/gissa-filmenserienkaraktaren/
+ [1]: https://nsg.cc/post/2007/gissa-filmenserienkaraktaren/

@@ -19,5 +19,5 @@ Det återstå och se hur te-tåligt det här är, men jag hoppas att det dröjer
 
 <small></small>
 
- [1]: http://junkpile.se/~s/wp/2006/11/fn-knapp/
+ [1]: https://nsg.cc/post/2006/fn-knapp/
  [2]: http://www.webhallen.com/prod.php?id=48929

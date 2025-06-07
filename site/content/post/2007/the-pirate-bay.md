@@ -16,7 +16,7 @@ Nu (3 Jan) har han skrivit ett uppföljande inlägg som tar upp historian från 
 <small></small>
 
  [1]: http://junkpile.se/~s/wp/?s=tpb
- [2]: http://junkpile.se/~s/wp/2006/06/mer-om-razzian-skadestand/
- [3]: http://gardebring.com/2006/06/228.html
- [4]: http://www.gardebring.com/2007/01/317.html
+ [2]: https://nsg.cc/post/2006/mer-om-razzian-skadestand/
+ [3]: https://web.archive.org/web/20070113203018/http://gardebring.com/2006/06/228.html
+ [4]: https://web.archive.org/web/20071104154135/http://www.gardebring.com/2007/01/317.html
  [5]: http://ravens-blog.blogspot.com/2007/01/tillslaget-mot-tpb-och-dess-bristande.html

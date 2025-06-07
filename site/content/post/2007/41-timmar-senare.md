@@ -41,13 +41,13 @@ Att sätta sökord i title-elementet vekar inte vara så relevant för en del s�
 
  [1]: http://www.junkpile.se/~s/wp/?p=252
  [2]: http://www.google.com
- [3]: http://www.msn.se
- [4]: http://www.yahoo.com
+ [3]: https://web.archive.org/web/20070101103333/http://se.msn.com/
+ [4]: https://web.archive.org/web/20070101071337/http://www.yahoo.com/
  [5]: http://www.ask.com
- [6]: http://www.alltheweb.com
- [7]: http://www.eniro.se
- [8]: http://www.spray.se
- [9]: http://se.altavista.com
+ [6]: https://web.archive.org/web/20070102122031/http://alltheweb.com/
+ [7]: https://web.archive.org/web/20070101213526/http://www.eniro.se/
+ [8]: https://web.archive.org/web/20070105044417/http://www.spray.se/
+ [9]: https://web.archive.org/web/20070101030558/http://se.altavista.com/
  [10]: http://www.knuff.se
  [11]: http://blogsearch.google.com
  [12]: http://technorati.com

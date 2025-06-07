@@ -31,4 +31,4 @@ För en komplett lista över genvägar gå [hit][1].
   Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/etikett' rel='tag' target='_self'>etikett</a>, <a class='technorati-link' href='http://bloggar.se/om/gmail' rel='tag' target='_self'>gmail</a>, <a class='technorati-link' href='http://bloggar.se/om/google' rel='tag' target='_self'>google</a>, <a class='technorati-link' href='http://bloggar.se/om/google+labs' rel='tag' target='_self'>google labs</a>, <a class='technorati-link' href='http://bloggar.se/om/google+mail' rel='tag' target='_self'>google mail</a>, <a class='technorati-link' href='http://bloggar.se/om/label' rel='tag' target='_self'>label</a>, <a class='technorati-link' href='http://bloggar.se/om/mail' rel='tag' target='_self'>mail</a>, <a class='technorati-link' href='http://bloggar.se/om/tag' rel='tag' target='_self'>tag</a>
 </p></small>
 
- [1]: http://mail.google.com/support/bin/answer.py?hl=en&answer=6594
+ [1]: https://web.archive.org/web/20090522220023/http://mail.google.com/support/bin/answer.py?hl=en&answer=6594

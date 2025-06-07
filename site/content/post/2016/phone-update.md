@@ -19,7 +19,7 @@ I have my [pebble connected](https://launchpad.net/rockwork) and can use it to l
 ### Podcasts
 [Podbird](https://launchpad.net/podbird) is buggy, but it works and I can live with a crash from time to time. A few times a week, it will lose track of where I was after a few hours, and sometimes the playback will be messed up when I fast-forward. Just a easy close and open again will alway fix it.
 
-At the moment I'm experimenting to use the default [Music player](https://developer.ubuntu.com/en/community/core-apps/music/) to play the podcasts, but still use Podbird to download the shows. I did a simple symlink:
+At the moment I'm experimenting to use the default [Music player](https://web.archive.org/web/20160512163511/https://developer.ubuntu.com/en/community/core-apps/music/) to play the podcasts, but still use Podbird to download the shows. I did a simple symlink:
 
 ```
 cd Music
@@ -34,7 +34,7 @@ This is one of the things that I really like, It's a computer that I can SSH in 
 Pictures and files are synced with my Nextcloud install with the [Owncloud-sync](https://launchpad.net/owncloud-sync) application. Works perfectly. I use the build in sync provider to sync my calendar and contacts, more about that later. I have spent quite some time experimenting with different solutions to get my work calender *correctly* synced to my phone. I will write a separate post about this later.
 
 ### X Apps
-I can actually use classic desktop apps in the phone with [Libertine](https://wiki.ubuntu.com/Touch/Libertine). Then of course "use" can be a strong word, the apps are tiny on the screen and my fingers are large. This is of course much more usable if you uses an external monitor.
+I can actually use classic desktop apps in the phone with [Libertine](https://web.archive.org/web/20160827175053/https://wiki.ubuntu.com/Touch/Libertine). Then of course "use" can be a strong word, the apps are tiny on the screen and my fingers are large. This is of course much more usable if you uses an external monitor.
 
 ## The bad
 

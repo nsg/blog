@@ -30,7 +30,7 @@ Som du ser är det många som sökt på ubuntu eller linuxrellaterat och hamnat 
  [3]: http://www.junkpile.se/~s/wordpress/?page_id=63
  [4]: http://www.knuff.se/q/Datateknik/
  [5]: http://www.google.se/search?q=har%20inte%20r%C3%A4ttigheter%20till%20installerade%20paket%20i%20ubuntu&#038;hl=sv&#038;meta=
- [6]: http://blogg.enesge.eu/?p=61
+ [6]: https://web.archive.org/web/20060925140225/http://web.enesge.eu/~s/wordpress/?p=61
  [7]: http://www.junkpile.se/~s/wordpress/?cat=18
  [8]: http://www.junkpile.se/~s/wordpress/?cat=12
  [9]: http://www.google.se/search?q=media+skadest%C3%A5nd&#038;hl=sv&#038;meta=

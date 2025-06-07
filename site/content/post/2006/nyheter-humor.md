@@ -18,5 +18,5 @@ Denna måste du se, så kul, hehe.
 
 <small></small>
 
- [1]: http://www.metacafe.com/watch/139758/most_outrageous_moments_on_the_news/
+ [1]: https://web.archive.org/web/20070108234552/http://www.metacafe.com/watch/139758/most_outrageous_moments_on_the_news/
  [2]: http://bildligttalat.com/?p=1244

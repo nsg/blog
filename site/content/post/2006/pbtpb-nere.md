@@ -58,17 +58,17 @@ Edit 3: [Rick Falkvinge][15] skriver en del intressanta saker på sin blogg, rek
 <small></small>
 
  [1]: http://www.thepiratebay.org
- [2]: http://tv4.se/467680.html
- [3]: http://pirazine.blogspot.com/2006/05/razzia-mot-pirate-bay.html
+ [2]: https://web.archive.org/web/20060630015939/http://tv4.se/467680.html
+ [3]: https://web.archive.org/web/20070921071753/http://pirazine.blogspot.com/2006/05/razzia-mot-pirate-bay.html
  [4]: http://www.piratpartiet.se
  [5]: http://www2.piratpartiet.se
  [6]: http://www.piratbyran.org
- [7]: http://piratbyran.blogspot.com/
- [8]: http://www.katallaxi.se/2006/05/31/huh-6/
- [9]: http://blog.isecore.net/2006/05/31/razzia-mot-pirate-bay/
+ [7]: https://web.archive.org/web/20060613191057/http://piratbyran.blogspot.com/
+ [8]: https://web.archive.org/web/20060619203056/http://www.katallaxi.se/2006/05/31/huh-6/
+ [9]: https://web.archive.org/web/20060614042224/http://blog.isecore.net/2006/05/31/razzia-mot-pirate-bay/
  [10]: http://alkanen.blogspot.com/2006/05/rttsskerhet.html
  [11]: http://johannanylander.blogspot.com/2006/05/razzia-mot-svenska-fildelare.html
  [12]: http://luf.se/index.php?show=305_SWE&#038;article=517&#038;page_anchor=http://luf.se/p305/p305_swe.php?article=517
  [13]: http://swebits.org/
  [14]: http://svt.se/svt/jsp/Crosslink.jsp?d=22620&#038;a=601194&#038;lid=puff_401860&#038;lpos=rubrik
- [15]: http://www.falkvinge.com/2006/05/fem-rttsskandaler-p-en-gng.html
+ [15]: https://web.archive.org/web/20060716132117/http://www.falkvinge.com/2006/05/fem-rttsskandaler-p-en-gng.html

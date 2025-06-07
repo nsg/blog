@@ -7,5 +7,5 @@ Här kommer ett nytt klipp från [Will it Blend][1] som jag har [skrivit om tidi
 
 <small></small>
 
- [1]: http://www.willitblend.com
+ [1]: https://web.archive.org/web/20070628092057/http://www.willitblend.com/
  [2]: http://junkpile.se/~s/wp/?s=burkar+i+mixern

@@ -6,7 +6,7 @@ tags = ["asus", "eee", "jaunty jackalope", "Linux", "netbook", "notifyosd", "ubu
 +++
 
 <p style="text-align: left;">
-  Jag sitter just nu och uppdaterar från <a href="http://www.ubuntu.com/">ubuntu</a> 8.10 till 9.04 som släpptes i går. Jag installerade även ubuntu:s &#8220;Netbook Remix&#8221; på min <a href="http://nsg.cc/2008/12/25/god-jul-till-mig-sjalv/">Asus Eee</a> (netbook) tidigare i dag, har inte bestämt mig ännu hur jag tycker om den, återkommer när jag har använt den några dagar.
+  Jag sitter just nu och uppdaterar från <a href="http://www.ubuntu.com/">ubuntu</a> 8.10 till 9.04 som släpptes i går. Jag installerade även ubuntu:s &#8220;Netbook Remix&#8221; på min <a href="https://nsg.cc/post/2008/god-jul-till-mig-sjalv/">Asus Eee</a> (netbook) tidigare i dag, har inte bestämt mig ännu hur jag tycker om den, återkommer när jag har använt den några dagar.
 </p>
 
 <p style="text-align: left;">
@@ -18,7 +18,7 @@ tags = ["asus", "eee", "jaunty jackalope", "Linux", "netbook", "notifyosd", "ubu
 </p>
 
 <p style="text-align: left;">
-  Till skillnad mot tidigare versioner så är det inget större jag har att se fram i mot, allt är lite uppdaterat och funkar lite bättre men inget nytt, stort coolt. Den punkten som jag just nu är mest intresserad av är nog det <a href="https://wiki.ubuntu.com/NotifyOSD">nya systemet för att visa händelser</a> (se bild), det är snyggt och riktigt välgjort. Hittar jag något nytt intressant så återkommer jag med ett nytt inlägg, blir jag tyst, ja, då var den här uppdateringen lika ointressant som jag misstänkte.
+  Till skillnad mot tidigare versioner så är det inget större jag har att se fram i mot, allt är lite uppdaterat och funkar lite bättre men inget nytt, stort coolt. Den punkten som jag just nu är mest intresserad av är nog det <a href="https://web.archive.org/web/20090304134638/https://wiki.ubuntu.com/NotifyOSD">nya systemet för att visa händelser</a> (se bild), det är snyggt och riktigt välgjort. Hittar jag något nytt intressant så återkommer jag med ett nytt inlägg, blir jag tyst, ja, då var den här uppdateringen lika ointressant som jag misstänkte.
 </p>
 
 <p style="text-align: left;">

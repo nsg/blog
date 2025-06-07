@@ -16,4 +16,4 @@ Här kommer en konspirationsteori ang. 911 (WTC/Pentagon/&#8230;). Visst man få
 
 <small></small>
 
- [1]: http://video.google.com/videoplay?docid=7866929448192753501
+ [1]: https://web.archive.org/web/20070313070514/http://video.google.com/videoplay?docid=7866929448192753501

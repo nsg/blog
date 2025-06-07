@@ -51,6 +51,6 @@ Det finns dock en nackdel, dom pratar finska. Dock är det textat, men man missa
 
 <small></small>
 
- [1]: http://video.starwreck.com/legacy.php
+ [1]: https://web.archive.org/web/20070613222641/http://video.starwreck.com/legacy.php
  [2]: http://www.starwreck.com/download.php
  [3]: http://en.wikipedia.org/wiki/Star_Wreck:_In_the_Pirkinning

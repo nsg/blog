@@ -26,4 +26,4 @@ Källor: [DN][2], [Space.com][3], [SvD][4].
  [1]: http://www.xingfu.se/blogge/posts/07/04/25/Tung+planet/
  [2]: http://www.dn.se/DNet/jsp/polopoly.jsp?d=597&#038;a=643007
  [3]: http://www.space.com/scienceastronomy/070424_hab_exoplanet.html
- [4]: http://www.svd.se/dynamiskt/inrikes/did_15230999.asp
+ [4]: https://web.archive.org/web/20070505055510/http://www.svd.se/dynamiskt/inrikes/did_15230999.asp

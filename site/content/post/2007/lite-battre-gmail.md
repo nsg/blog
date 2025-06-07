@@ -27,7 +27,7 @@ Lite snabbt om du vill prova:
  [1]: http://www.gmail.com
  [2]: https://addons.mozilla.org/en-US/firefox/addon/748
  [3]: http://www.youtube.com/watch?v=AcSiGmlnJTk
- [4]: http://mail.google.com/support/bin/answer.py?ctx=%67mail&hl=en&answer=6594
+ [4]: https://web.archive.org/web/20070704014843/http://mail.google.com/support/bin/answer.py?ctx=%67mail&hl=en&answer=6594
  [5]: http://persistent.info/images/gmail-macros.png
  [6]: http://blog.persistent.info/2005/12/greasemonkey-christmas.html
  [7]: http://www.greasespot.net/

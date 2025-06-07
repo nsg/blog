@@ -17,4 +17,4 @@ Det är fortfarande mycket saker kvar innan jag känner mig klar med designen, j
   Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/Bloggen' rel='tag' target='_self'>Bloggen</a>, <a class='technorati-link' href='http://bloggar.se/om/nsg' rel='tag' target='_self'>nsg</a>
 </p></small>
 
- [1]: http://nsg.cc/2008/06/26/ny-blogg/
+ [1]: https://nsg.cc/post/2008/ny-blogg/

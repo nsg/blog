@@ -17,7 +17,7 @@ Jag har en HTC Magic som är köpt i Sverige, något som de nordiska telefonerna
 
 Innan du börjar måste du installera lite saker på datorn, så glöm inte att förbereda det först innan kopplar bort din vanlig uppkoppling för att prova.
 
-*   Ladda ner *Android SDK* från <http://developer.android.com/sdk/> och packa upp det på valfritt ställe, lägg det t.ex. i din hemkatalog.
+*   Ladda ner *Android SDK* från <https://web.archive.org/web/20090701081106/http://developer.android.com/sdk/1.5_r2/index.html och packa upp det på valfritt ställe, lägg det t.ex. i din hemkatalog.
 *   Ladda ner och installera OpenVPN med:  
     *sudo apt-get install network-manager-openvpn openvpn*
 *   Ladda ner filen azilink.ovpn från <http://code.google.com/p/azilink/downloads/list> och lägg på valfritt ställe.
@@ -104,4 +104,4 @@ När jag fick ner alla steg på svart och vitt så insåg jag att det blev ett p
   Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/Android' rel='tag' target='_self'>Android</a>, <a class='technorati-link' href='http://bloggar.se/om/htc+magic' rel='tag' target='_self'>htc magic</a>, <a class='technorati-link' href='http://bloggar.se/om/openvpn' rel='tag' target='_self'>openvpn</a>, <a class='technorati-link' href='http://bloggar.se/om/ubuntu' rel='tag' target='_self'>ubuntu</a>
 </p></small>
 
- [1]: http://nsg.cc/2009/07/20/tankar-och-skillnader-om-htcs-android-telefoner/
+ [1]: https://nsg.cc/post/2009/tankar-och-skillnader-om-htcs-android-telefoner/

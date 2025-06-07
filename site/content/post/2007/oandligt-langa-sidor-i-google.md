@@ -51,6 +51,6 @@ Tydligen har [Customize Google][7] ([via][8]) inkluderat en nästan identisk fun
  [4]: http://www.mozilla.com/en-US/firefox/
  [5]: http://userscripts.org/
  [6]: http://www.youtube.com/watch?v=BgKDsP_ETVE
- [7]: http://www.customizegoogle.com/
+ [7]: https://web.archive.org/web/20070507131417/http://www.customizegoogle.com/
  [8]: http://googlesystem.blogspot.com/2007/04/customize-google-adds-infinite.html
  [9]: http://www.youtube.com/watch?v=HSQBXrRY-iY

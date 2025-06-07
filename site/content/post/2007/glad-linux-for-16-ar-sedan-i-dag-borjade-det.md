@@ -17,7 +17,7 @@ Lite kul när man tänker på hur hans lilla projekt tog fart, men då GNU:s ege
 
 <small>HIRD of Unix Replacing Daemons Interfaces Representing Depth of Unix Replacing Daemons Interfaces Representing Depth of Unix Replacing Daemons Interfaces Representing Depth of Unix Replacing Daemons och så vidare &#8230;</small>
 
-<http://linuxday.getnix.com/>  
+<https://web.archive.org/web/20071005194801/http://linuxday.getnix.com/  
 [ http://www.linuxportalen.se/node/7556][4] (via)[  
 ][4]
 

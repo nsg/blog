@@ -17,4 +17,4 @@ Nu kommer del 4 av min lek, gissa vad det är för serie.
 
 <small></small>
 
- [1]: http://junkpile.se/~s/wp/2007/04/gissa-filmenserienkaraktaren/
+ [1]: https://nsg.cc/post/2007/gissa-filmenserienkaraktaren/

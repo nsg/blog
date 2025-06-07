@@ -34,9 +34,9 @@ Jag hittade bara en annan bloggare som sett samma sak, [Johan på knuff][4].
 
 <small></small>
 
- [1]: http://www.metrobloggen.se/
- [2]: http://www.metrobloggen.se/jsp/public/index.jsp?article=19.706
- [3]: http://konsumbloggen.com/
+ [1]: https://web.archive.org/web/20070623140914/http://www.metrobloggen.se/
+ [2]: https://web.archive.org/web/20070623140914/https://web.archive.org/web/20070621083342/http://www.metrobloggen.se/jsp/public/index.jsp?article=19.706
+ [3]: https://web.archive.org/web/20070708080859/http://konsumbloggen.com/
  [4]: http://knuff.se/johan/0706181619
  [5]: http://metro.se/se/article/2007/06/18/18/1845-42/index.xml
- [6]: http://www.svd.se/dynamiskt/blogg/did_12676000.asp?id=4171
+ [6]: https://web.archive.org/web/20070621141808/http://www.svd.se/dynamiskt/blogg/did_12676000.asp?id=4171

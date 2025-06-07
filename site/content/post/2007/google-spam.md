@@ -18,4 +18,4 @@ Google arbetar redan med det, men det skadar inte att vara försiktig.
 
  [1]: http://googlesystem.blogspot.com/2007/01/gmail-contact-list-exposure.html
  [2]: http://knuff.se/u/15899b/119/n
- [3]: http://idg.se/2.1085/1.90157
+ [3]: https://web.archive.org/web/20070103052802/http://idg.se/2.1085/1.90157

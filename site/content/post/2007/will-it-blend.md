@@ -17,4 +17,4 @@ Jag roade mig att se ikapp på &#8220;Will It Blend&#8221;-serien på YouTube, h
 <small></small>
 
  [1]: http://www.youtube.com/watch?v=Ax2BOCoVDJk
- [2]: http://junkpile.se/~s/wp/2006/11/kora-burkar-i-mixern/
+ [2]: https://nsg.cc/post/2006/kora-burkar-i-mixern/

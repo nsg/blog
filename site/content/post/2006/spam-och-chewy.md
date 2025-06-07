@@ -14,5 +14,5 @@ Sedan kom jag över [denna bloggen][3], så söt (kolla så förstår du)
 <small></small>
 
  [1]: http://akismet.com/
- [2]: http://rrrrrrrrrrrrrnnnnnnnnnnhhhh.blogspot.com/
- [3]: http://www.baruchito.com/
+ [2]: https://web.archive.org/web/20060610094549/http://rrrrrrrrrrrrrnnnnnnnnnnhhhh.blogspot.com/
+ [3]: https://web.archive.org/web/20060505060819/http://www.baruchito.com/

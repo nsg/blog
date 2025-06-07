@@ -17,6 +17,6 @@ Läs mer på: [Solid block of Ice][1], [Copyriot][2], [IDG][3].
 
 <small></small>
 
- [1]: http://blog.isecore.net/2006/05/27/skatt-pa-epost-och-sms/
+ [1]: https://web.archive.org/web/20060813120324/http://blog.isecore.net/2006/05/27/skatt-pa-epost-och-sms/
  [2]: http://copyriot.blogspot.com/2006/05/protokollverket.html
  [3]: http://www.idg.se/ArticlePages/200605/27/20060527031129_PFA/20060527031129_PFA.dbp.asp

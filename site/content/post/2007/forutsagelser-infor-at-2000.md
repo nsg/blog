@@ -28,7 +28,7 @@ Framtiden är intressant, ska bli intressant och se vad som händer, bara och v�
 <small></small>
 
  [1]: http://stationsvakt.blogspot.com/2007/04/som-vanligt-i-framtiden.html
- [2]: http://www.yorktownhistory.org/homepages/1900_predictions.htm
+ [2]: https://web.archive.org/web/20070422045220/http://www.yorktownhistory.org/homepages/1900_predictions.htm
  [3]: http://en.wikipedia.org/wiki/Mars
  [4]: http://en.wikipedia.org/wiki/Io_%28moon%29
  [5]: http://en.wikipedia.org/wiki/Titan_%28moon%29

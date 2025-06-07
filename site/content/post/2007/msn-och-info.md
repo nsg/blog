@@ -20,7 +20,7 @@ Skapade en liten irritation och vi fortsatte prata på Jabber/Gtalk istället.
 
 Jag tycker att det är lite väl hårt att stänga av ett helt domännamn bara för att det finns mycket spamare som äger info-domäner.
 
-<small>Ska även påpeka att jag kommer inte vara så aktiv här den närmaste tiden då <a href="http://www.d.kth.se/mottagningen/">mottagningen</a> i skolan börjar.</small>
+<small>Ska även påpeka att jag kommer inte vara så aktiv här den närmaste tiden då <a href="https://web.archive.org/web/20070908175228/http://www.d.kth.se/mottagningen/">mottagningen</a> i skolan börjar.</small>
 
 
 

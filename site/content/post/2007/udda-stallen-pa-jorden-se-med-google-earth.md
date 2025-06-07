@@ -70,9 +70,9 @@ Jag rekommenderar att du kollar i Google Earth, bara att söka på kordinaterna.
 
 <small></small>
 
- [1]: http://junkpile.se/~s/wp/2007/04/intressanta-stallen-pa-var-jord/
+ [1]: https://nsg.cc/post/2007/intressanta-stallen-pa-var-jord/
  [2]: http://betaalfa.polymono.net/2007/07/10/i-korthet-2/
- [3]: http://www.pcworld.com/article/id,134186-page,1-c,mapping/article.html
+ [3]: https://web.archive.org/web/20070711120306/http://www.pcworld.com/article/id,134186-page,1-c,mapping/article.html
  [4]: http://maps.google.com/maps?f=q&hl=en&geocode=&q=44.244273,7.769737&ie=UTF8&ll=44.244273,7.769737&spn=0.002702,0.005021&t=k&z=18&om=1
  [5]: http://maps.google.com/maps?f=q&hl=en&geocode=&q=33.225488,-111.5955&ie=UTF8&ll=33.225486,-111.595495&spn=0.006309,0.010042&t=k&z=17&om=1
  [6]: http://maps.google.com/maps?f=q&hl=en&geocode=&q=38.265652,105.9517&ie=UTF8&ll=38.265652,105.9517&spn=0.011844,0.020084&t=k&z=16&om=1

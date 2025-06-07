@@ -20,4 +20,4 @@ Så vidare du inte använder ett larm med någon unik och specifik finess så re
 </p></small>
 
  [1]: /images/2014/01/Screen-Shot-2014-01-06-at-12.51.57.png
- [2]: https://play.google.com/store/apps/details?id=ch.bitspin.timely
+ [2]: https://web.archive.org/web/20140105025559/https://play.google.com/store/apps/details?id=ch.bitspin.timely

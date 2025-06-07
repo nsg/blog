@@ -40,7 +40,7 @@ Komplett:s svar att det skulle vara inne nästa vecka verkar nog stämma då jag
  [5]: http://en.wikipedia.org/wiki/Intel_atom
  [6]: http://en.wikipedia.org/wiki/Solid-state_drive
  [7]: http://en.wikipedia.org/wiki/Hsupa
- [8]: http://www.komplett.se/k/ki.aspx?sku=356025
+ [8]: https://web.archive.org/web/20081217070739/http://www.komplett.se/k/ki.aspx?sku=356025
  [9]: http://www.komplett.se
  [10]: http://www.webhallen.com
  [11]: http://prisjakt.nu/produkt.php?p=360851

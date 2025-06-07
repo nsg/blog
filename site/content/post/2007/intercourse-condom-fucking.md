@@ -13,6 +13,6 @@ Hittade med hjälp av [knuff][2] även [denna bloggpost][3] med fler orter i Sve
 
 <small></small>
 
- [1]: http://aftonbladet.se/vss/nyheter/story/0,2789,968430,00.html
+ [1]: https://web.archive.org/web/20070119102143/http://aftonbladet.se:80/vss/nyheter/story/0%2C2789%2C968430%2C00.html
  [2]: http://knuff.se/u/15b5f5/485/n
  [3]: http://frankenfurter691.blogspot.com/2007/01/welcome-to-rva.html

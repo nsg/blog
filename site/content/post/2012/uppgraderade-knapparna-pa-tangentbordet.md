@@ -23,5 +23,5 @@ Perfekt, nu kan jag fuska när det behövs igen.
 </p></small>
 
  [1]: /post/2011/hur-mycket-ska-man-lagga-pa-ett-tangentbord/
- [2]: http://www.wasdkeyboards.com/
+ [2]: https://web.archive.org/web/20120415034318/http://www.wasdkeyboards.com/
  [3]: /images/2012/04/visa-tbord.jpg

@@ -20,4 +20,4 @@ Frågan är även om MPEG4 kommer räcka, jag citerar en kommentar på sidan.
 <small></small>
 
  [1]: http://www.e24.se/branscher/reklammedia/artikel_105583.e24
- [2]: http://betaalfa.polymono.net/2007/11/21/nu-slacks-det-digitala-marknatet/
+ [2]: https://web.archive.org/web/20080828012744/http://betaalfa.polymono.net/2007/11/21/nu-slacks-det-digitala-marknatet/

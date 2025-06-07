@@ -19,6 +19,6 @@ Jag hörde talas om wave väldigt tidigt, men jag var dum nog att inte hitta [in
 
  [1]: /images/2009/09/spotify-logo.jpg
  [2]: http://www.spotify.com
- [3]: http://wave.google.com
+ [3]: https://web.archive.org/web/20091219010612/https://www.google.com/accounts/ServiceLogin?service=wave&passive=true&nui=1&continue=https%3A%2F%2Fwave.google.com%2Fwave%2F&followup=https%3A%2F%2Fwave.google.com%2Fwave%2F&ltmpl=standard
  [4]: https://services.google.com/fb/forms/wavesignup/
- [5]: http://www.tmn.nu/blog/2009/07/12/tavling-101-spotify-invites-att-vinna/
+ [5]: https://web.archive.org/web/20090719021441/http://www.tmn.nu/blog/2009/07/12/tavling-101-spotify-invites-att-vinna/

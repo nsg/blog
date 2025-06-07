@@ -32,5 +32,5 @@ Funkar allt som det ska så borde du efter ett tag vara uppkopplad, funkar det i
 
 <small></small>
 
- [1]: http://junkpile.se/~s/wp/2007/10/huawei-e2200-hsdpa/
+ [1]: https://nsg.cc/post/2007/huawei-e2200-hsdpa/
  [2]: /images/2007/10/screenshot4.png "screenshot4.png"

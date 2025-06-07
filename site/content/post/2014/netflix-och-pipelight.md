@@ -24,6 +24,6 @@ Om du vill prova så hittar du en bra beskrivning här:
   Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/Netflix' rel='tag' target='_self'>Netflix</a>, <a class='technorati-link' href='http://bloggar.se/om/Pipelight' rel='tag' target='_self'>Pipelight</a>, <a class='technorati-link' href='http://bloggar.se/om/Silverlight' rel='tag' target='_self'>Silverlight</a>
 </p></small>
 
- [1]: http://nsg.cc/2012/10/22/tankar-om-netflix/
+ [1]: https://nsg.cc/post/2012/tankar-om-netflix/
  [2]: https://launchpad.net/pipelight
  [3]: https://launchpad.net/netflix-desktop

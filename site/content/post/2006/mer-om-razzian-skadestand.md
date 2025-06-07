@@ -21,7 +21,7 @@ Rellevent är [denna posten][4] där jag listar en del &#8220;skumma&#8221; sake
 
 <small></small>
 
- [1]: http://svt.se/svt/jsp/Crosslink.jsp?d=52352&#038;a=601587&#038;lid=puff_599769&#038;lpos=lasMer
- [2]: http://gardebring.com/2006/06/228.html
- [3]: http://web.enesge.eu/~s/wordpress/?p=79
- [4]: http://web.enesge.eu/~s/wordpress/?p=70
+ [1]: https://web.archive.org/web/20060814034905/http://svt.se/svt/jsp/Crosslink.jsp?d=52352&#038;a=601587&#038;lid=puff_599769&#038;lpos=lasMer
+ [2]: https://web.archive.org/web/20060615050458/http://gardebring.com/2006/06/228.html
+ [3]: https://web.archive.org/web/20060808182657/http://web.enesge.eu/~s/wordpress/?p=79
+ [4]: https://web.archive.org/web/20060813143552/http://web.enesge.eu/~s/wordpress/?p=70

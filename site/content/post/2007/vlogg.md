@@ -16,5 +16,5 @@ Video Blogga, eller vlogga är att filma sig själv och prata i stället för at
     
     <small></small>
 
- [1]: http://www.zefrank.com/theshow/popular.html
+ [1]: https://web.archive.org/web/20070323060637/http://www.zefrank.com/theshow/popular.html
  [2]: http://1000ord.blogspot.com/2007_03_01_archive.html#3098197067618875603

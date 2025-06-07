@@ -43,7 +43,7 @@ Various apps that I seldom use, like Uber, YouTube, Skype, and so one are good c
 
 Let get the project started, my plan is to migrate to the Ubuntu Phone in a few days!
 
-[1]: http://nsg.cc/2016/09/17/meizu-pro-5/
+[1]: https://nsg.cc/post/2016/meizu-pro-5/
 [2]: https://www.pebble.com/
 [3]: https://launchpad.net/rockwork
 [4]: https://en.wikipedia.org/wiki/Office_365

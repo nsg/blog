@@ -17,4 +17,4 @@ Nu hade han tur och den satt fast tills en civilpolis som såg vad som hände fi
 
 <small></small>
 
- [1]: http://www.svd.se/dynamiskt/utrikes/did_15728060.asp
+ [1]: https://web.archive.org/web/20070716161627/http://www.svd.se/dynamiskt/utrikes/did_15728060.asp

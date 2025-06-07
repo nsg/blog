@@ -17,6 +17,6 @@ När jag skrev föra inlägget så letade jag fram en [rolig parodi på Star Tre
 
 <small></small>
 
- [1]: http://www.metacafe.com/watch/391440/robot_chicken_star_trek/
- [2]: http://www.metacafe.com/watch/47214/no_more_star_trek/
- [3]: http://www.metacafe.com/
+ [1]: https://web.archive.org/web/20070705053250/https://web.archive.org/web/20070628133743/http://www.metacafe.com/watch/391440/robot_chicken_star_trek/
+ [2]: https://web.archive.org/web/20070223083917/https://web.archive.org/web/20070628133743/http://www.metacafe.com/watch/47214/no_more_star_trek/
+ [3]: https://web.archive.org/web/20070628133743/http://www.metacafe.com/

@@ -17,4 +17,4 @@ I alla fall om man ska tro ett par tjeckiska forskare. Lite läskigt att en para
 
 <small></small>
 
- [1]: http://www.nyteknik.se/art/48561
+ [1]: https://web.archive.org/web/20070402205608/http://www.nyteknik.se/art/48561

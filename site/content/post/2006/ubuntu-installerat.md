@@ -50,4 +50,4 @@ Jag återkommer med mer information längre fram när jag har hittat nått nytt 
  [5]: http://kmplayer.kde.org/
  [6]: http://xinehq.de/
  [7]: http://www.videolan.org/vlc/
- [8]: http://www.gnome.org/projects/totem/
+ [8]: https://web.archive.org/web/20060529014506/http://www.gnome.org/projects/totem/

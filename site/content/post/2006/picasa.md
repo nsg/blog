@@ -72,6 +72,6 @@ Edit:
 <small></small>
 
  [1]: http://picasa.google.com/
- [2]: http://picasa.google.com/linux/index.html
+ [2]: https://web.archive.org/web/20061115175415/http://picasa.google.com/linux/index.html
  [3]: http://www.winehq.com/
- [4]: http://www.theinquirer.net/default.aspx?article=32088
+ [4]: https://web.archive.org/web/20070106094220/http://www.theinquirer.net/default.aspx?article=32088

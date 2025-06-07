@@ -17,7 +17,7 @@ Läs även den mycket intressanta [intervjun med honom på Wired][4].
 
 <small></small>
 
- [1]: http://www.aftonbladet.se/vss/nyheter/story/0,2789,1125142,00.html
+ [1]: https://web.archive.org/web/20080115092526/http://www.aftonbladet.se/nyheter/article552876.ab
  [2]: http://www.linuxportalen.se/node/6931
  [3]: http://en.wikipedia.org/wiki/Hans_Reiser
- [4]: http://www.wired.com/techbiz/people/magazine/15-07/ff_hansreiser
+ [4]: https://web.archive.org/web/20080501152218/http://www.wired.com/techbiz/people/magazine/15-07/ff_hansreiser

@@ -39,4 +39,4 @@ Klart intressant sak om diskutera, vad tycker du? Vad har du för inställning?
  [2]: http://biggles-filosoferar.blogspot.com/2007/01/10-saker-du-inte-visste-om-frhuden-p.html
  [3]: http://sv.wikipedia.org/wiki/Manlig_omsk%C3%A4relse
  [4]: http://www.vardguiden.se/Article.asp?c=2824
- [5]: http://www.cirp.org/pages/anat/
+ [5]: https://web.archive.org/web/20070218175548/http://www.cirp.org/pages/anat/

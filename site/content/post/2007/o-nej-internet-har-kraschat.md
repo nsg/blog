@@ -9,6 +9,6 @@ Vill tipsa som ett [roligt klipp][1] som jag hittade hos Beta Alfa (via [TechCru
 
 <small></small>
 
- [1]: http://betaalfa.polymono.net/2007/07/23/extra-internet-har-kraschat/
+ [1]: https://web.archive.org/web/20081203191752/http://betaalfa.polymono.net/2007/07/23/extra-internet-har-kraschat/
  [2]: http://www.techcrunch.com/2007/07/22/the-great-internet-crash-of-2007/
- [3]: http://www.idg.se/2.1085/1.114698
+ [3]: https://web.archive.org/web/20070823004628/http://www.idg.se/2.1085/1.114698

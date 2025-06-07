@@ -29,14 +29,14 @@ Nu återstår det att se vad som händer.
 
 <small></small>
 
- [1]: http://junkpile.se/~s/wp/2008/01/lite-om-attacken-pa-aftonbladet/
- [2]: http://www.idg.se/2.1085/1.138671
- [3]: http://sydsvenskan.se/sverige/article290841.ece
- [4]: http://hd.se/inrikes/2008/01/03/aftonbladets-e-post-hackad/
- [5]: http://www.dagensmedia.se/mallar/dagensmedia_mall.asp?version=141580
- [6]: http://betaalfa.polymono.net/2008/01/03/hackare-avslojade-aftonbladets-mejllosenord/
- [7]: http://www.mindpark.se/2008/01/03/aftonbladet-under-attack/
+ [1]: https://nsg.cc/post/2008/lite-om-attacken-pa-aftonbladet/
+ [2]: https://web.archive.org/web/20080104024428/http://www.idg.se/2.1085/1.138671
+ [3]: https://web.archive.org/web/20080104105248/http://sydsvenskan.se/sverige/article290841.ece
+ [4]: https://web.archive.org/web/20080104164422/http://hd.se/inrikes/2008/01/03/aftonbladets-e-post-hackad/
+ [5]: https://web.archive.org/web/20080106052739/http://www.dagensmedia.se/mallar/dagensmedia_mall.asp?version=141580
+ [6]: https://web.archive.org/web/20080106081012/http://betaalfa.polymono.net/2008/01/03/hackare-avslojade-aftonbladets-mejllosenord/
+ [7]: https://web.archive.org/web/20080106133233/http://www.mindpark.se/2008/01/03/aftonbladet-under-attack/
  [8]: http://www.gate303.net/2008/01/03/aftonbladet-utsatt-for-intrang/
- [9]: http://blog.perhellqvist.se/?p=273
- [10]: http://rstvideo.com/2008/01/03/aftonbladet-hackade-av-vuxna-forbannade-hackare/
+ [9]: https://web.archive.org/web/20080116224023/http://blog.perhellqvist.se/?p=273
+ [10]: https://web.archive.org/web/20080106054320/http://rstvideo.com/2008/01/03/aftonbladet-hackade-av-vuxna-forbannade-hackare/
  [11]: http://stupid.domain.name/node/514

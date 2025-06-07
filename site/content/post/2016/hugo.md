@@ -11,4 +11,4 @@ Hugo has a nice collection of [themes][2] and I liked one called [Angel's Ladder
 
 [1]: https://gohugo.io/
 [2]: http://themes.gohugo.io/
-[3]: http://themes.gohugo.io/angels-ladder/
+[3]: https://web.archive.org/web/20160914010216/http://themes.gohugo.io/angels-ladder/

@@ -44,12 +44,12 @@ Du ska allt vara klart, logga ut och in, eller kör *killall nautilus* från en 
 **Notis**  
 Jag förutsätter att du har samma kamera som jag, och att du kör ubuntu 7.10. Om du inte har det så är det ingen garanti att minna instruktioner kommer funka. Om din kamera t.ex. inte bäddar in tumnaglar i raw-filen som min gör så behöver du det alternativa skriptet. Kanske inte dina bilder är identifierade som image/x-canon-cr2 (högerklicka och välj Properties på en bild), ändra i så fall i cr2.schemas så att det stämmer mot din kamera.
 
-Guiden är baserad på instruktionerna på <http://www.penguin.cz/~utx/gnome-dcraw>, jag har hoppat över stora delar av hans guide då de inte var nödvändiga för vad jag ville göra, och så gjorde jag mig egen schema-fil då hans lösning var onödig då Nautilus redan hade identifierat minna bilder korrekt.
+Guiden är baserad på instruktionerna på https://web.archive.org/web/20080509044527/http://www.penguin.cz/~utx/gnome-dcraw jag har hoppat över stora delar av hans guide då de inte var nödvändiga för vad jag ville göra, och så gjorde jag mig egen schema-fil då hans lösning var onödig då Nautilus redan hade identifierat minna bilder korrekt.
 
 
 
 <small></small>
 
- [1]: http://ftp.penguin.cz/pub/users/utx/gnome-dcraw/dcraw-thumbnailer
- [2]: http://ftp.penguin.cz/pub/users/utx/gnome-dcraw/alternative_thumbnailer/dcraw-thumbnailer
+ [1]: https://web.archive.org/web/20080929162118/https://web.archive.org/web/20080929162118/http://ftp.penguin.cz/pub/users/utx/gnome-dcraw/dcraw-thumbnailer
+ [2]: https://web.archive.org/web/20080929162113/http://ftp.penguin.cz/pub/users/utx/gnome-dcraw/alternative_thumbnailer/dcraw-thumbnailer
  [3]: http://junkpile.se/~s/inpub/cr2.schemas

@@ -18,4 +18,4 @@ Intressant, undra om det ligger något i det.
 <small></small>
 
  [1]: http://knuff.se
- [2]: http://www.twingly.se/
+ [2]: https://web.archive.org/web/20070216225620/http://www.twingly.se/

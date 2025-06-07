@@ -17,8 +17,8 @@ Se även: [ENESGE: The Pirate Bay][5]
 
 <small></small>
 
- [1]: http://www.falkvinge.com
- [2]: http://www.falkvinge.com/2007/04/jk-anmlan-av-jo.html
- [3]: http://www.falkvinge.com/2007/04/min-kritik-mot-jo.html
- [4]: http://junkpile.se/~s/wp/2006/06/tpb-saker/
- [5]: http://junkpile.se/~s/wp/2007/01/the-pirate-bay/
+ [1]: https://web.archive.org/web/20070405160956/http://falkvinge.com/
+ [2]: https://web.archive.org/web/20070405160956/http://falkvinge.com//2007/04/jk-anmlan-av-jo.html
+ [3]: https://web.archive.org/web/20070405160956/http://falkvinge.com//2007/04/min-kritik-mot-jo.html
+ [4]: https://nsg.cc/post/2006/tpb-saker/
+ [5]: https://nsg.cc/post/2007/the-pirate-bay/

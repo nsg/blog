@@ -13,4 +13,4 @@ Hittade detta roliga klipp på [Skrattamera][1].
 
 <small></small>
 
- [1]: http://www.skrattamera.se/181/disko-i-hiss/
+ [1]: https://web.archive.org/web/20070609174732/http://www.skrattamera.se/181/disko-i-hiss/

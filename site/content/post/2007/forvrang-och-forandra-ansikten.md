@@ -15,12 +15,12 @@ Kan du gissa vem det är här under?
 
 Slutligen om någon undrar varför jag har varit så inaktiv den närmaste tiden så är det för att jag nu och ett tag fram över inte har uppkoppling hemma. Tack och lov så finns skolan :) 
 
-<a href="http://morph.cs.st-andrews.ac.uk/Transformer/" target="_blank">Faces of the Future</a>
+<a href="https://web.archive.org/web/20071014041029/http://morph.cs.st-andrews.ac.uk/Transformer/" target="_blank">Faces of the Future</a>
 
 
 
 <small></small>
 
  [1]: /images/2007/09/phppt46dt.jpg "phppt46dt.jpg"
- [2]: http://mj.barczyk.se/blog/2230/mitt-fejs-ur-olika-synvinklar
+ [2]: https://web.archive.org/web/20070904202801/http://mj.barczyk.se/blog/2230/mitt-fejs-ur-olika-synvinklar
  [3]: /images/2007/09/phpmdazlg.jpg "phpmdazlg.jpg"

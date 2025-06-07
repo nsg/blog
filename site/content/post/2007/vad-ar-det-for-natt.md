@@ -27,4 +27,4 @@ Frågan är om ramsan har någon relevans, kan det då kanske ha med [Coca-Cola 
  [2]: http://www.tjuvlyssnat.se
  [3]: http://www.fatale.se/
  [4]: http://www.wordpress.org
- [5]: http://www.cocacolazero.com/
+ [5]: https://web.archive.org/web/20070406200920/http://www.cocacolazero.com/

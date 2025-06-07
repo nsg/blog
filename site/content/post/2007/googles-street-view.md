@@ -20,4 +20,4 @@ Visst kan man diskutera hur trevligt det är för folk och bli fotade utan deras
 <small></small>
 
  [1]: http://maps.google.com
- [2]: http://blog.wired.com/27bstroke6/2007/05/request_for_urb.html
+ [2]: https://web.archive.org/web/20070607162855/http://blog.wired.com/27bstroke6/2007/05/request_for_urb.html

@@ -35,7 +35,7 @@ Jag kör även [3D Window Layer][6], uteslutande för att det är snyggt och jag
  [1]: http://en.wikipedia.org/wiki/Xgl
  [2]: http://www.beryl-project.org/
  [3]: http://en.wikipedia.org/wiki/Compiz
- [4]: http://www.beryl-project.org/features.php
+ [4]: https://web.archive.org/web/20061219221310/http://www.beryl-project.org/features.php
  [5]: http://krusader.sourceforge.net/
- [6]: http://nsg.cc/2006/11/beryl-aixgl/
- [7]: http://nsg.cc/2006/07/xgl-video/
+ [6]: https://nsg.cc/post/2006/beryl-aixgl/
+ [7]: https://nsg.cc/post/2006/xgl-video/

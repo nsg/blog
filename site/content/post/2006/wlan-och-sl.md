@@ -28,4 +28,4 @@ Ska även notera att det är ett förslag, styrelsen har inte bestämt sig ännu
 
  [1]: http://www.dn.se/DNet/jsp/polopoly.jsp?d=1298&#038;a=590230&#038;previousRenderType=6
  [2]: http://webbsnack.wordpress.com/2006/11/20/sl-satsar-pa-gratis-internet-i-kollektivtrafiken/
- [3]: http://www.sl.se
+ [3]: https://web.archive.org/web/20061205053300/http://sl.se/

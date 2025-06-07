@@ -20,4 +20,4 @@ Här kommer en förklaring ang. [klädstilen][1] <img id="image294" src="/images
 
 <small></small>
 
- [1]: http://www.aftonbladet.se/vss/noje/story/0,2789,997388,00.html
+ [1]: https://web.archive.org/web/20070219185516/http://www.aftonbladet.se/vss/noje/story/0,2789,997388,00.html

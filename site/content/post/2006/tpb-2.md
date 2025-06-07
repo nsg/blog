@@ -14,7 +14,7 @@ En sak som jag har funderat på länge är, varje gång man se en polis som besl
 
 T.ex. i [PRQ][4]s lokaler plockade dom med sig t.ex. switchar, som om dom kommer vara till någon nytta. Hemma hoss TPBs juridiske rådgivare plockade dom med sig, microfon, tangentbord, PS2 handkontroll o.s.v. samma sak där, hu? Vad ska dom med det till?
 
-Slutligen så är <http://www.thepiratebay.org> uppe igen, inte med trackern men det finns information där. Piratbyrån arbetar fortfarande med att återställa sin site.
+Slutligen så är <https://web.archive.org/web/20060613070105/http://thepiratebay.org/> uppe igen, inte med trackern men det finns information där. Piratbyrån arbetar fortfarande med att återställa sin site.
 
 
 

@@ -19,4 +19,4 @@ title = "Graf över bloggen"
 <small></small>
 
  [1]: http://www.tmn.nu/blog/?p=407
- [2]: http://www.aharef.info/static/htmlgraph/
+ [2]: https://web.archive.org/web/20060622195155/http://www.aharef.info/static/htmlgraph/

@@ -25,4 +25,4 @@ Asurans är nog minna favorit-fiender nog tror jag, Wraith har ibland känns lit
 
 <small></small>
 
- [1]: http://junkpile.se/~s/wp/2007/01/stargate-serie-nr-3-2-filmer/
+ [1]: https://nsg.cc/post/2007/stargate-serie-nr-3-2-filmer/

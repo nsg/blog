@@ -32,6 +32,6 @@ Ett tips, efter att du gjort din sökning, ladda om sidan lite, det finns många
  [1]: http://www.google.com/Easter/feature_easter.html
  [2]: http://googlesystem.blogspot.com/2006/04/google-pages-youve-never-seen.html
  [3]: http://www.google.com/holidaylogos.html
- [4]: http://www.google.com/press/zeitgeist/9-11-search.html
- [5]: http://www.google.com/technology/pigeonrank.html
+ [4]: https://web.archive.org/web/20061123115918/http://www.google.com/press/zeitgeist/9-11-search.html
+ [5]: https://web.archive.org/web/20061206103944/http://www.google.com/technology/pigeonrank.html
  [6]: http://www.google.com/holidaylogos00.html

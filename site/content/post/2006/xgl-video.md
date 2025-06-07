@@ -15,4 +15,4 @@ Jag hittade dinna video pa google video i gar, yttligare en i mangden som visar 
 
 <small></small>
 
- [1]: http://video.google.com/videoplay?docid=-3304682858126153303
+ [1]: https://web.archive.org/web/20060613211520/http://video.google.com:80/videoplay?docid=-3304682858126153303

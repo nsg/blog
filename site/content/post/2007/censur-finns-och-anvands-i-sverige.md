@@ -17,8 +17,8 @@ Har du en operatör som samarbetar med polisen (nästan alla) så får du ip:t [
 
 <small></small>
 
- [1]: http://gardebring.com/2007/07/345.html
- [2]: http://junkpile.se/~s/wp/2007/01/the-pirate-bay/
+ [1]: https://web.archive.org/web/20080720183013/http://gardebring.com/2007/07/345.html
+ [2]: https://nsg.cc/post/2007/the-pirate-bay/
  [3]: http://212.247.156.82
  [4]: http://sv.wikipedia.org/wiki/DNS
  [5]: http://web.archive.org/web/*/http://koreabonsai.com/

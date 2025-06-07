@@ -37,13 +37,13 @@ Du kan hålla koll på saker på [knuff][11] om du vill följa nyheten, eller bl
 </p></small>
 
  [1]: http://thepiratebay.org/blog/164
- [2]: http://www.globalgamingfactory.com/
- [3]: http://www.globalgamingfactory.com/pressrelease-090630-sv.pdf
- [4]: http://www.peerialism.com
+ [2]: https://web.archive.org/web/20090707180635/http://www.globalgamingfactory.com/
+ [3]: https://web.archive.org/web/20090707180635/https://web.archive.org/web/20090806112857/http://www.globalgamingfactory.com/pressrelease-090630-sv.pdf
+ [4]: https://web.archive.org/web/20090725055128/http://www.peerialism.com/
  [5]: http://aftonbladet.se/nyheter/article5449732.ab
- [6]: http://www.dn.se/ekonomi/noterat-bolag-och-the-pirate-bay-har-kopeavtal-1.901267
+ [6]: https://web.archive.org/web/20090721012621/http://www.dn.se/ekonomi/noterat-bolag-och-the-pirate-bay-har-kopeavtal-1.901267
  [7]: http://www.svd.se/naringsliv/nyheter/artikel_3138745.svd
  [8]: http://di.se/Nyheter/?page=/Avdelningar/Artikel.aspx%3FArticleID%3D2009630343286
- [9]: http://www.idg.se/2.1085/1.237980/de-koper-pirate-bay-for-60-miljoner
- [10]: http://hd.se/ekonomi/2009/06/30/noterat-bolag-uppges-koepa-pirate/
+ [9]: https://web.archive.org/web/20110704143256/http://www.idg.se/2.1085/1.237980/de-koper-pirate-bay-for-60-miljoner
+ [10]: https://web.archive.org/web/20090704212816/http://hd.se/ekonomi/2009/06/30/noterat-bolag-uppges-koepa-pirate/
  [11]: http://knuff.se/u/6f5d1d

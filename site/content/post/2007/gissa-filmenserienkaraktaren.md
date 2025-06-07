@@ -15,7 +15,7 @@ Du vinner inget på minna lekar, bara äran. Det finns ibland tipps i senare pos
 
 **Avslutade lekar**  
 3. [Gissa filmen][3], vinnare [Naseer][4]  
-4. [Gissa vilken tv-serie][5], vinnare <cite><a href="http://www.danielswe.com/" rel="external nofollow">Daniel Swe</a></cite>  
+4. [Gissa vilken tv-serie][5], vinnare <cite><a href="https://web.archive.org/web/20071018121514/http://www.danielswe.com/" rel="external nofollow">Daniel Swe</a></cite>  
 5. [Gissa vilken film][6], vinnare [Linus][7]  
 6. [Gissa tv-serie][8], vinnare [Mickey J Barczyk][9]
 
@@ -23,12 +23,12 @@ Du vinner inget på minna lekar, bara äran. Det finns ibland tipps i senare pos
 
 <small></small>
 
- [1]: http://junkpile.se/~s/wp/2007/03/gissa-vemvad-1/
- [2]: http://junkpile.se/~s/wp/2007/04/gissa-vilken-film/
- [3]: http://junkpile.se/~s/wp/2007/04/gissa-vilken-film-2/
- [4]: http://tmn.nu/blog
- [5]: http://junkpile.se/~s/wp/2007/05/gissa-vilken-tv-serie/
- [6]: http://junkpile.se/~s/wp/2007/06/gissa-vilken-film-3/
+ [1]: https://nsg.cc/post/2007/gissa-vemvad-1/
+ [2]: https://nsg.cc/post/2007/gissa-vilken-film/
+ [3]: https://nsg.cc/post/2007/gissa-vilken-film-2/
+ [4]: https://web.archive.org/web/20070409122833/http://www.tmn.nu/blog/
+ [5]: https://nsg.cc/post/2007/gissa-vilken-tv-serie/
+ [6]: https://nsg.cc/post/2007/gissa-vilken-film-3/
  [7]: http://blogg.sugoi.se/
- [8]: http://junkpile.se/~s/wp/2007/06/gissa-tv-serie/
- [9]: http://mj.barczyk.se/blog/
+ [8]: https://nsg.cc/post/2007/gissa-tv-serie/
+ [9]: https://web.archive.org/web/20070405093231/http://mj.barczyk.se/blog/

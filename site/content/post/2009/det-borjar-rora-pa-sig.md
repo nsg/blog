@@ -15,6 +15,6 @@ Så länge jag hade planer på att göra ett riktigt seriöst försök så hade 
 
 <small></small>
 
- [1]: http://nsg.cc/2009/03/20/uppdaterat-och-snart-gor-jag-en-flytt-hit/
- [2]: http://nsg.cc/2008/10/18/det-har-ar-planen/
- [3]: http://nsg.cc/2008/06/26/ny-blogg/
+ [1]: https://nsg.cc/post/2009/uppdaterat-och-snart-gor-jag-en-flytt-hit/
+ [2]: https://nsg.cc/post/2008/det-har-ar-planen/
+ [3]: https://nsg.cc/post/2008/ny-blogg/

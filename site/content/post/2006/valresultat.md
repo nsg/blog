@@ -16,5 +16,5 @@ Jag blev förvånad att det blev så lika som det blev, det var inte samma fråg
 
 <small></small>
 
- [1]: http://www.gp.se/valkompassen/
+ [1]: https://web.archive.org/web/20060528095022/http://www.gp.se/valkompassen/
  [2]: http://dn.se

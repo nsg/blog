@@ -13,4 +13,4 @@ Hittade denna sköna texten, vill bara dela mig mig av en länk till den.
 
 <small></small>
 
- [1]: http://www.hurjagblevrik.se/den-som-tjanar-mest-betalar-mest/
+ [1]: https://web.archive.org/web/20070401182929/http://www.hurjagblevrik.se/den-som-tjanar-mest-betalar-mest/

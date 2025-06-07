@@ -62,5 +62,5 @@ Ett sätter jag i titeln, ett inom ett h1 element och ett rakt upp och ner i tex
 <small></small>
 
  [1]: http://www.google.com/analytics/
- [2]: http://www.junkpile.se/~s/wp/2006/10/wiie/
- [3]: http://www.junkpile.se/~s/wp/2006/08/sammling-av-partitest/
+ [2]: https://nsg.cc/post/2006/wiie/
+ [3]: https://nsg.cc/post/2006/sammling-av-partitest/

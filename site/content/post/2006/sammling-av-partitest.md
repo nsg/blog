@@ -29,7 +29,7 @@ Tuvärr blev det inga fler då jag har haft mycket och göra, sedan därefter ha
 
 <small></small>
 
- [1]: http://www.svd.se/dynamiskt/inrikes/did_12754625.asp
- [2]: http://www.svd.se/dynamiskt/stockholm24/did_13304528.asp
- [3]: http://www.dn.se/DNet/jsp/polopoly.jsp?d=1264&#038;a=44220&#038;previousRenderType=3
- [4]: http://www.dn.se/DNet/jsp/polopoly.jsp?d=2428
+ [1]: https://web.archive.org/web/20060717230445/http://www.svd.se/dynamiskt/inrikes/did_12754625.asp
+ [2]: https://web.archive.org/web/20060813115324/http://www.svd.se/dynamiskt/stockholm24/did_13304528.asp
+ [3]: https://web.archive.org/web/20061004192033/http://www.dn.se:80/DNet/jsp/polopoly.jsp?d=1264&
+ [4]: https://web.archive.org/web/20061022005243/http://www.dn.se/DNet/jsp/polopoly.jsp?d=2428

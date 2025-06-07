@@ -17,4 +17,4 @@ Nu ska jag skyffla runt lite mer filer :) kanske prova lite program för att lä
 
 <small></small>
 
- [1]: http://gentoo-wiki.com/HOWTO_mobile_phone,_Bluetooth_and_GNOME
+ [1]: https://web.archive.org/web/20061028062055/http://gentoo-wiki.com/HOWTO_mobile_phone,_Bluetooth_and_GNOME

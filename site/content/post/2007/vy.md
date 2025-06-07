@@ -24,5 +24,5 @@ Här kommer yttligare en bild ut genom mitt fönster, tanken var att jag skulle 
 
 <small></small>
 
- [1]: http://junkpile.se/~s/wp/2007/01/100-packet-loss/
- [2]: http://junkpile.se/~s/wp/2007/01/min-utsikt/
+ [1]: https://nsg.cc/post/2007/100-packet-loss/
+ [2]: https://nsg.cc/post/2007/min-utsikt/

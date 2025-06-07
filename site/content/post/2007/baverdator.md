@@ -19,4 +19,4 @@ Bilden är &#8220;lånad&#8221; från sidan, och editerad med [wiredness.com][3]
 
  [1]: http://yourpsychogirlfriend.com/beav/
  [2]: http://pc.feber.se/feber/art/16958/pc_i_uppstoppad_bver/
- [3]: http://www.wiredness.com/
+ [3]: https://web.archive.org/web/20070423003921/http://www.wiredness.com:80/

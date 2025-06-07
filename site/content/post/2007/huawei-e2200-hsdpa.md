@@ -33,7 +33,7 @@ Jag försökte olika trix med att ladda ut/in moduler, m.m. men inget verkade hj
 > 
 > Programmet jag pratar om är:
 > 
-> https://forge.vodafonebetavine.net/projects/vodafonemobilec/
+> https://web.archive.org/web/20071010142859/https://forge.vodafonebetavine.net/projects/vodafonemobilec
 > 
 > Du kan behöva installera lite bibliotek innan men det tar installern hand om.
 > 
@@ -97,4 +97,4 @@ Jag skrev om det grafiska sättet [här][1], men där utgår jag från att allt 
 
 <small></small>
 
- [1]: http://junkpile.se/~s/wp/2007/10/att-installera-3s-mobila-bredband-i-ubuntu/
+ [1]: https://nsg.cc/post/2007/att-installera-3s-mobila-bredband-i-ubuntu/

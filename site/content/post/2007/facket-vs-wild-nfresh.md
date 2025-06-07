@@ -16,5 +16,5 @@ Jag tycker bara att facket borde få lägga sig i om det finns en medlem på fö
 
 <small></small>
 
- [1]: http://www.hurjagblevrik.se/det-goda-facket/
+ [1]: https://web.archive.org/web/20070310220219/http://www.hurjagblevrik.se/det-goda-facket/
  [2]: http://bubblare.se/det_goda_facket/

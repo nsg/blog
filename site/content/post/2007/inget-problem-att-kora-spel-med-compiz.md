@@ -34,5 +34,5 @@ Slutligen spelade jag även in en video, den flimrar lite men det är programmet
  [4]: /images/2007/07/expo.png "Direct link to file"
  [5]: http://www.gentoo.org
  [6]: http://www.ubuntu.com
- [7]: http://junkpile.se/~s/wp/2006/12/beryl/
+ [7]: https://nsg.cc/post/2006/beryl/
  [8]: /images/2007/07/scale.png "Direct link to file"

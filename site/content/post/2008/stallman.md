@@ -43,9 +43,9 @@ Jag hittade en artikel på [IDG][12] dom skriver lite om händelsen, det var syn
  [5]: http://sv.wikipedia.org/wiki/BIOS
  [6]: http://sv.wikipedia.org/wiki/OLPC
  [7]: http://www.lysator.liu.se/upplysning/film/20070517_RMS/
- [8]: http://www.w3web.se/
+ [8]: https://web.archive.org/web/20080528232308/http://www.w3web.se/
  [9]: http://static.jonasbjork.net/rms20080226.torrent
  [10]: http://www.flickr.com/photos/9043155@N07/2295579109/
  [11]: http://creativecommons.org/licenses/by-nc-sa/2.0/deed.en_GB
- [12]: http://www.idg.se/2.1085/1.147552
+ [12]: https://web.archive.org/web/20080303000144/http://www.idg.se/2.1085/1.147552
  [13]: http://www.softpanorama.org/People/Stallman/Images/saintignucius.jpg

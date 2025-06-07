@@ -110,6 +110,6 @@ Då jag starkt ogillar kedjebrev så kommer bara luta mig tillbaka och tycka på
 
 <small></small>
 
- [1]: http://blogg.aftonbladet.se/1/perma/218519/
- [2]: http://www.frihetfildelningfeminism.se/
+ [1]: https://web.archive.org/web/20070108213253/http://blogg.aftonbladet.se/1/perma/218519/
+ [2]: https://web.archive.org/web/20061231161849/http://www.frihetfildelningfeminism.se/
  [3]: http://blog.isecore.net/

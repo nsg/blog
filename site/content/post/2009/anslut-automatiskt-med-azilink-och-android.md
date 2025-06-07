@@ -71,7 +71,7 @@ Jag har märkt att ibland hakar saker upp sig, det är inget jag har kontroll ö
   Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/Android' rel='tag' target='_self'>Android</a>, <a class='technorati-link' href='http://bloggar.se/om/azid' rel='tag' target='_self'>azid</a>, <a class='technorati-link' href='http://bloggar.se/om/google+calendar' rel='tag' target='_self'>google calendar</a>, <a class='technorati-link' href='http://bloggar.se/om/Linux' rel='tag' target='_self'>Linux</a>, <a class='technorati-link' href='http://bloggar.se/om/snotify' rel='tag' target='_self'>snotify</a>
 </p></small>
 
- [1]: http://nsg.cc/2009/07/22/anvand-din-androidhtc-magic-som-modem/
+ [1]: https://nsg.cc/post/2009/anvand-din-androidhtc-magic-som-modem/
  [2]: /images/2009/08/snotify
  [3]: /images/2009/08/snotify1
  [4]: /images/2009/08/azid.tar

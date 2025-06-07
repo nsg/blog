@@ -29,6 +29,6 @@ Det ska bli intressant och se hur det utvecklar sig, och hur man ser tillbaka p√
 <small></small>
 
  [1]: http://johannanylander.blogspot.com/2007/02/antipirater-p-svensk-polishgskola.html
- [2]: http://www.dn.se/DNet/jsp/polopoly.jsp?a=619433
- [3]: http://betaalfa.polymono.net/2007/02/19/3/
- [4]: http://www.svd.se/dynamiskt/inrikes/did_14658478.asp
+ [2]: https://web.archive.org/web/20070513164739/http://www.dn.se/DNet/jsp/polopoly.jsp?a=619433
+ [3]: https://web.archive.org/web/20070224001512/http://betaalfa.polymono.net/2007/02/19/3/
+ [4]: https://web.archive.org/web/20070221030442/http://www.svd.se/dynamiskt/inrikes/did_14658478.asp

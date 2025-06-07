@@ -17,4 +17,4 @@ Men det skadar ju inte med en vinst för vägverket på 2 miljoner, även om det
 
 <small></small>
 
- [1]: http://www.svd.se/dynamiskt/inrikes/did_14607376.asp
+ [1]: https://web.archive.org/web/20070214085029/http://www.svd.se/dynamiskt/inrikes/did_14607376.asp

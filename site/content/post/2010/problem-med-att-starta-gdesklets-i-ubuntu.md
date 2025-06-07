@@ -18,7 +18,7 @@ till:
 Klart, saker bör nu funka som de ska.
 
 Du kan läsa mer om det här:  
-<http://forum.linuxmint.com/viewtopic.php?f=90&t=32554>
+<https://web.archive.org/web/20101007083449/http://forum.linuxmint.com/viewtopic.php?f=90&t=32554>
 
 <small> <p class='technorati-tags'>
   Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/gdesklets' rel='tag' target='_self'>gdesklets</a>, <a class='technorati-link' href='http://bloggar.se/om/Linux' rel='tag' target='_self'>Linux</a>, <a class='technorati-link' href='http://bloggar.se/om/python' rel='tag' target='_self'>python</a>

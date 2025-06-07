@@ -37,5 +37,5 @@ Ni andra som använder wave, vad tycker ni? Vill ni prova så har jag ett tiotal
   Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/google' rel='tag' target='_self'>google</a>, <a class='technorati-link' href='http://bloggar.se/om/google+wave' rel='tag' target='_self'>google wave</a>, <a class='technorati-link' href='http://bloggar.se/om/wave' rel='tag' target='_self'>wave</a>
 </p></small>
 
- [1]: http://wave.google.com
+ [1]: https://web.archive.org/web/20091214043658/http://wave.google.com/
  [2]: http://www.google.com/chrome

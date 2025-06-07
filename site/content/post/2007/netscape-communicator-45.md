@@ -32,4 +32,4 @@ Så kul och gå igenom gamla saker som man gjort.
 
  [1]: http://hemsidor.torget.se/users/d/darkwar/
  [2]: http://blog.isecore.net/2007/03/11/netscape-navigator-304/
- [3]: http://sillydog.org/narchive/
+ [3]: https://web.archive.org/web/20070316052107/http://sillydog.org/narchive/

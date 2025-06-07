@@ -23,5 +23,5 @@ För att återknyta till början så tvivlar jag på att det är min idé då de
 <small></small>
 
  [1]: http://stationsvakt.blogspot.com/
- [2]: http://betaalfa.polymono.net/2007/03/04/knuff-och-bloggar-pa-din-egen-blogg/
- [3]: http://magnus.ljungkvist.nu/blogg/2007/03/04/blogg-johan-bjussar-pa-magiskt-betatest/
+ [2]: https://web.archive.org/web/20070306071042/http://betaalfa.polymono.net/2007/03/04/knuff-och-bloggar-pa-din-egen-blogg/
+ [3]: https://web.archive.org/web/20070306123017/http://magnus.ljungkvist.nu/blogg/2007/03/04/blogg-johan-bjussar-pa-magiskt-betatest/

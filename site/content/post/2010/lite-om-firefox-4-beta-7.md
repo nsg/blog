@@ -51,4 +51,4 @@ Jag körde ett test nu mha. [SunSpider][4] som är ett test för att mäta hur s
  [1]: /images/2010/11/ff4b7-status.png
  [2]: /images/2010/11/ff4-sw-tab.png
  [3]: /images/2010/11/ff4-sw-tab1.png
- [4]: http://www2.webkit.org/perf/sunspider/sunspider.html
+ [4]: https://web.archive.org/web/20101101111953/http://www2.webkit.org/perf/sunspider/sunspider.html

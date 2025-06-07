@@ -21,14 +21,14 @@ So, I now has a Ubuntu Phone and I intend to try to use it as my primary phone. 
 
 ... and yes, the phone is huge, a real phablet.
 
-[1]: http://www.ubuntu.com/phone
+[1]: https://web.archive.org/web/20160916092916/http://www.ubuntu.com/phone
 [2]: https://en.wikipedia.org/wiki/Nexus_5
 [3]: https://en.wikipedia.org/wiki/Nexus_6
 [4]: https://en.wikipedia.org/wiki/Nexus_6P
 [5]: https://en.wikipedia.org/wiki/Nexus_5X
 [6]: http://www.jupiterbroadcasting.com
-[7]: http://www.jupiterbroadcasting.com/show/linuxun/
-[8]: http://www.jupiterbroadcasting.com/102656/binary-decisions-lup-160/
+[7]: https://web.archive.org/web/20160925170043/http://www.jupiterbroadcasting.com:80/show/linuxun
+[8]: https://web.archive.org/web/20160906072208/http://www.jupiterbroadcasting.com/102656/binary-decisions-lup-160/
 [9]: https://www.amazon.co.uk/Meizu/b/?ie=UTF8&node=1746105031&field-lbr_brands_browse-bin=Meizu
-[10]: https://flexion.org/pages/about/
+[10]: https://web.archive.org/web/20161230093044/https://flexion.org/pages/about/
 [11]: https://en.wikipedia.org/wiki/Meizu_Pro_5

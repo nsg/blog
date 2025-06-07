@@ -22,6 +22,6 @@ Men lasern kan vara en utmärkt &#8220;leksak&#8221; eller verktyg om man handsk
 
 <small></small>
 
- [1]: http://www.thinkgeek.com/gadgets/lights/8a39/
+ [1]: https://web.archive.org/web/20070225142342/http://www.thinkgeek.com/gadgets/lights/8a39/
  [2]: http://www.youtube.com/watch?v=jXl7T1sCrKk
  [3]: http://ehs.uky.edu/radiation/laser_fs.html

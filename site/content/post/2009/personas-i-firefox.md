@@ -18,6 +18,6 @@ Prova det, själv är jag riktigt nöjd då jag hittade ett persona ([Dark Light
 </p></small>
 
  [1]: http://www.mozilla.com/en-US/firefox/features/
- [2]: http://www.getpersonas.com/persona/2167
- [3]: http://www.gnome-look.org/content/show.php?content=87134
+ [2]: https://web.archive.org/web/20090621130427/http://www.getpersonas.com/persona/2167
+ [3]: https://web.archive.org/web/20090502173450/http://www.gnome-look.org/content/show.php?content=87134
  [4]: http://www.getpersonas.com/

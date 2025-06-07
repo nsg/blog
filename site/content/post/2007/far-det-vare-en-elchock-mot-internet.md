@@ -17,4 +17,4 @@ Undrar starkt på om det hjälper, inte som det är tänkt ialfall, dock så kom
 
 <small></small>
 
- [1]: http://www.svd.se/dynamiskt/utrikes/did_14691378.asp
+ [1]: https://web.archive.org/web/20070301160525/http://www.svd.se/dynamiskt/utrikes/did_14691378.asp

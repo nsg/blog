@@ -36,13 +36,13 @@ Här kommer några exempel på länkar som du kan prova som har speciell innebö
  [2]: http://en.wikipedia.org/wiki/Star_Wrek
  [3]: http://www.myspace.com/askaninja
  [4]: http://youtube.com/watch?v=Gp-AnK3DJpE
- [5]: http://www.metacafe.com/watch/391440/robot_chicken_star_trek/
- [6]: http://www.amazon.com/Nokia-N95-Silver-Phone-Unlocked/dp/B000PEOLAG/
- [7]: http://imdb.com/name/nm0424060
- [8]: http://mj.barczyk.se/blog/
+ [5]: https://web.archive.org/web/20070705053250/http://www.metacafe.com/watch/391440/robot_chicken_star_trek/
+ [6]: https://web.archive.org/web/20070629003942/http://www.amazon.com/Nokia-N95-Silver-Phone-Unlocked/dp/B000PEOLAG/
+ [7]: https://web.archive.org/web/20070708050026/http://imdb.com/name/nm0424060/
+ [8]: https://web.archive.org/web/20070705051025/http://mj.barczyk.se/blog/
  [9]: http://www.bahnhof.se/wb379880/podcast/podcast_forsvarets_radioanstalt.mp3
  [10]: http://i116.photobucket.com/albums/o34/perspexspaceship/
  [11]: http://flickr.com/photos/kayo_iz-source/tags/glass
- [12]: http://finance.yahoo.com/q?s=aapl
+ [12]: https://web.archive.org/web/20070630045035/http://finance.yahoo.com/q?s=aapl
  [13]: http://finance.google.com/finance?q=goog
- [14]: http://www.snap.com/about/shots_central.php
+ [14]: https://web.archive.org/web/20070705215641/http://www.snap.com/about/shots_central.php

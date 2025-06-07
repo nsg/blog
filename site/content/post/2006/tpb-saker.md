@@ -79,22 +79,22 @@ Ojoj, det blev ett långt blogginlägg, mycket längre än jag trodde. Jag säga
 
  [1]: http://blogg.enesge.eu/?p=68
  [2]: http://www.istheshit.net/
- [3]: http://www.hayon.org/pdf/
+ [3]: https://web.archive.org/web/20060830234307/http://www.hayon.org/pdf/README.txt
  [4]: http://www.flickr.com/photos/19502181@N00/
  [5]: http://erikhultgren.blogspot.com/2006/05/de-som-inte-hade-med-piratebay-att-gra.html
  [6]: http://www.fragbite.com
  [7]: http://www.istheshit.net
- [8]: http://www.planka.nu
+ [8]: https://web.archive.org/web/20060610191126/http://planka.nu/
  [9]: http://www.ostfrallan.com
  [10]: http://www.swebits.org
  [11]: http://www.piratbyran.org
- [12]: http://www.snabbstart.com
+ [12]: https://web.archive.org/web/20060605211032/http://www.snabbstart.com/
  [13]: http://www.anstalten.nu
- [14]: http://www.ccnordic.net
- [15]: http://www.muffinmilitia.net
+ [14]: https://web.archive.org/web/20060619211334/http://www.ccnordic.net/
+ [15]: https://web.archive.org/web/20060406083059/http://www.muffinmilitia.net/
  [16]: http://www.prq.se
  [17]: http://www.asiandvdclub.org
- [18]: http://www.gameswitch.co.uk
+ [18]: https://web.archive.org/web/20060420025912/http://www.gameswitch.co.uk/
  [19]: http://www.fattaru.nu
  [20]: http://www.mutant.se
  [21]: http://www.midsommar.org

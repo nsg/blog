@@ -26,6 +26,6 @@ Ett utmärkt föredrag om hjärnan och hur den tolkar omgivningen. Mycket intres
 
  [1]: http://www.youtube.com/watch?v=NEjZt0y6OOw
  [2]: http://www.youtube.com/watch?v=FMkJVXi7Rp8
- [3]: http://junkpile.se/~s/wp/2007/03/vlogg/
+ [3]: https://nsg.cc/post/2007/vlogg/
  [4]: http://www.youtube.com/watch?v=nwfSENkvJXY
  [5]: http://www.youtube.com/watch?v=1APOxsp1VFw

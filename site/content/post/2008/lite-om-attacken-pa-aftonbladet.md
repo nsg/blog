@@ -17,6 +17,6 @@ Det finns mycket att säga om lösenorden, men det kommer i ett senare inlägg. 
 
 <small></small>
 
- [1]: http://junkpile.se/~s/wp/2008/01/nu-battre-om-attacken-hur-ar-det-med-losenorden/
- [2]: http://www.flashback.info/showthread.php?t=597565
- [3]: http://www.idg.se/2.1085/1.138671
+ [1]: https://nsg.cc/post/2008/nu-battre-om-attacken-hur-ar-det-med-losenorden/
+ [2]: https://web.archive.org/web/20080105092811/http://www.flashback.info/showthread.php?t=597565
+ [3]: https://web.archive.org/web/20080104024428/http://www.idg.se/2.1085/1.138671

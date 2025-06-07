@@ -20,5 +20,5 @@ Om vi upptäcker den i tid så är det &#8220;bara&#8221; en fråga om att knuff
 
 <small></small>
 
- [1]: http://www.dn.se/DNet/jsp/polopoly.jsp?a=618795
+ [1]: https://web.archive.org/web/20070302205757/http://www.dn.se/DNet/jsp/polopoly.jsp?a=618795
  [2]: http://knuff.se/u/186667/100/n

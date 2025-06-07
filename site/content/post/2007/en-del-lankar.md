@@ -21,7 +21,7 @@ Beta Alfa: [Du kan bli utlämnad utan att du vet om det][4]
 
 <small></small>
 
- [1]: http://www.idg.se/2.1085/1.106378
- [2]: http://www.idg.se/2.1085/1.113987
+ [1]: https://web.archive.org/web/20070823223726/http://www.idg.se/2.1085/1.106378
+ [2]: https://web.archive.org/web/20071114005611/http://www.idg.se/2.1085/1.113987
  [3]: http://www.youtube.com/watch?v=j3W9FbhzVLE&mode=related&search=
- [4]: http://betaalfa.polymono.net/2007/07/24/du-kan-bli-utlamnad-utan-att-du-vet-om-det/
+ [4]: https://web.archive.org/web/20081008000822/http://betaalfa.polymono.net/2007/07/24/du-kan-bli-utlamnad-utan-att-du-vet-om-det/

@@ -17,4 +17,4 @@ Lite ovant, men snyggt gjort, lite appleTV/iPhone över det.
 
 <small></small>
 
- [1]: http://junkpile.se/~s/wp/2007/06/en-liten-overraskning-i-hissen/
+ [1]: https://nsg.cc/post/2007/en-liten-overraskning-i-hissen/
