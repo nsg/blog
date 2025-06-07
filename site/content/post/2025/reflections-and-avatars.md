@@ -19,7 +19,7 @@ During that process I rediscovered the original avatar generator I used back in 
 
 Here you can see my original blog post when I discovered this generator: [my 2009 post on this blog](/post/2009/lego-jag/). If you want to try it out yourself, here's a direct link to the file through the Wayback Machine: [original Flash file](https://web.archive.org/web/20090717095133if_/http://www.reasonablyclever.com/mm2/mini2.swf).
 
-{{ image(src="/images/nsg.jpg", alt="Current Blog Avatar", width="200") }}
+{{ image(src="/images/2025/current-avatar.jpg", alt="Current Blog Avatar", width="200") }}
 
 And here's my current avatar that I've been using since 2009 – started with Twitter, then spread it everywhere. I've modified it quite a bit over the years: flattened it, removed the plastic glare, added a beard when I grew one. What you see now is more inspired by the original than actually being it. Funny thing is, I'd completely forgotten about the hands holding something until I saw the full image again after all these years.
 
