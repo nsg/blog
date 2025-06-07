@@ -5,7 +5,9 @@ title = "Immich Presentation"
 tags = ["immich", "self hosted", "futo"]
 +++
 
-[FUTO](https://futo.org) the company that supports (funds the development of) the Open Source image management solution [Immich](https://immich.app) held a conference where its creator and a few developers discussed Immich. It was a good talk, and you can see it [here](https://www.youtube.com/watch?v=BrlOxXzs9Dg).
+[FUTO](https://futo.org) the company that supports (funds the development of) the Open Source image management solution [Immich](https://immich.app) held a conference where its creator and a few developers discussed Immich. It was a good talk, and you can see it [here](https://www.youtube.com/watch?v=BrlOxXzs9Dg):
+
+[![](/images/2025/immich-presentation.png)](https://www.youtube.com/watch?v=BrlOxXzs9Dg)
 
 I have been a user of Immich for a little over two years now, and almost all that time I've been using my own package, or distribution, that I call [Immich Distribution](https://immich-distribution.nsg.cc). In short, I have replaced the Docker Compose-based setup with a single snap package.
 
