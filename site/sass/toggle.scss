@@ -17,7 +17,7 @@ nav {
             position: absolute;
             right: 0;
             top: 0;
-            transition: .4s;
+            transition: 0.3s ease;
             border-radius: 26px;
 
             &:before {
@@ -25,7 +25,7 @@ nav {
                 bottom: 4px;
                 left: 4px;
                 position: absolute;
-                transition: .4s;
+                transition: 0.3s ease;
                 width: 18px;
                 height: 18px;
                 border-radius: 50%;

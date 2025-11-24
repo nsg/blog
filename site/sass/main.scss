@@ -105,6 +105,7 @@ nav {
 
     background: linear-gradient(90deg, var(--nav-bg) 0%, var(--nav-bg2) 100%);
     padding: 1rem;
+    transition: background 0.3s ease;
 
     &:before {
         content: '';
@@ -114,6 +115,7 @@ nav {
         border-top: 10px solid var(--bg-color);
         border-left: 10px solid var(--nav-bg2);
         width: 0;
+        transition: border-color 0.3s ease;
     }
 
     &:after {
@@ -124,6 +126,7 @@ nav {
         border-bottom: 10px solid var(--bg-color);
         border-right: 10px solid var(--nav-bg);
         width: 0;
+        transition: border-color 0.3s ease;
     }
 
     ul {
@@ -140,6 +143,7 @@ nav {
             a {
                 color: var(--nav-text);
                 text-decoration: none;
+                transition: color 0.3s ease, border-bottom 0.2s ease-in-out;
 
                 &:hover {
                     border-bottom: 3px solid var(--nav-text);
