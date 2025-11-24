@@ -141,25 +141,19 @@ function os_prefer_dark_mode() {
   return window.matchMedia("(prefers-color-scheme: dark)").matches
 }
 
-function user_prefer_dark_mode() {
-  return sessionStorage.getItem("toggle_checked") == "true";
-}
-
-function user_prefer_undefined() {
-  return sessionStorage.getItem("toggle_checked") == null;
+function get_saved_theme() {
+  return localStorage.getItem("theme");
 }
 
 function update_theme() {
   let toggle = document.getElementById('theme-toggle')
-  if (toggle.checked) {
-    set_theme('dark');
-  } else {
-    set_theme('light');
-  }
+  const theme = toggle.checked ? 'dark' : 'light';
+  set_theme(theme);
+  localStorage.setItem("theme", theme);
 }
 
 function set_theme(mode) {
-  document.querySelector('body').setAttribute('data-theme', mode);
+  document.documentElement.setAttribute('data-theme', mode);
 }
 
 function init_theme() {
@@ -167,13 +161,13 @@ function init_theme() {
 
   toggle.addEventListener('change', (event) => {
     update_theme()
-    sessionStorage.setItem("toggle_checked", event.target.checked ? true : false);
   });
 
-  if (user_prefer_undefined()) {
-    toggle.checked = os_prefer_dark_mode();
+  const savedTheme = get_saved_theme();
+  if (savedTheme) {
+    toggle.checked = savedTheme === 'dark';
   } else {
-    toggle.checked = user_prefer_dark_mode();
+    toggle.checked = os_prefer_dark_mode();
   }
 
   update_theme();

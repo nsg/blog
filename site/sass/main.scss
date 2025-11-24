@@ -37,6 +37,9 @@
     --nav-text: #222;
     --link-hover: rgb(134, 126, 240);
     --code-background: rgb(48, 48, 48);
+    --code-block-background: rgb(32, 32, 32);
+    --code-block-background2: rgb(48, 48, 48);
+    --code-block-text: #eee;
 }
 
 @keyframes pulsate {
@@ -56,6 +59,7 @@ body {
     font-family: HankenGrotesk;
     background-color: var(--bg-color);
     color: var(--text-color);
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 header {
