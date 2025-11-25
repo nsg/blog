@@ -10,6 +10,8 @@
       const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
       const theme = savedTheme || (prefersDark ? 'dark' : 'light');
       document.documentElement.setAttribute('data-theme', theme);
+      // Store initial theme state for toggle initialization
+      window.__initialTheme = theme;
     })();
   </script>
   <link rel="stylesheet" href="{{ get_url(path="main.css") | safe }}">
@@ -38,7 +40,7 @@
     <div class="theme-toggle">
       <label class="switch" for="theme-toggle">
         <input type="checkbox" id="theme-toggle">
-        <span class="slider"></span>
+        <span class="slider preload"></span>
       </label>
     </div>
   </nav>

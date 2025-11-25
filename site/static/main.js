@@ -158,19 +158,22 @@ function set_theme(mode) {
 
 function init_theme() {
   let toggle = document.getElementById('theme-toggle')
+  let slider = document.querySelector('.theme-toggle .slider')
+
+  // Set initial state from the theme that was set in the inline script
+  // This prevents the animation from playing on page load
+  if (window.__initialTheme) {
+    toggle.checked = window.__initialTheme === 'dark';
+  }
+
+  // Remove preload class to enable transitions after initial state is set
+  setTimeout(() => {
+    slider.classList.remove('preload');
+  }, 100);
 
   toggle.addEventListener('change', (event) => {
     update_theme()
   });
-
-  const savedTheme = get_saved_theme();
-  if (savedTheme) {
-    toggle.checked = savedTheme === 'dark';
-  } else {
-    toggle.checked = os_prefer_dark_mode();
-  }
-
-  update_theme();
 }
 
 function content_loaded() {

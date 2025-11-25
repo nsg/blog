@@ -20,6 +20,13 @@ nav {
             transition: 0.3s ease;
             border-radius: 26px;
 
+            &.preload {
+                    transition: none !important;
+            
+                    &:before {
+                        transition: none !important;
+                    }
+                }
             &:before {
                 background-color: #fff;
                 bottom: 4px;
