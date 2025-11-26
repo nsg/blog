@@ -254,6 +254,26 @@ main {
             font-size: 1.4rem;
         }
 
+                // About page section styling - better visual hierarchy
+                >h2 {
+                    margin-top: 2.5rem;
+                    margin-bottom: 1rem;
+                    padding-bottom: 0.5rem;
+                    border-bottom: 2px solid var(--nav-bg);
+                    font-size: 1.3rem;
+                    text-transform: uppercase;
+                    letter-spacing: 0.05em;
+                    color: var(--text-color);
+        
+                    &:first-of-type {
+                        margin-top: 2rem;
+                    }
+                }
+        
+                // Style paragraphs following h2 with slight indent
+                >h2+p {
+                    margin-top: 0.5rem;
+                }
         .continue {
             text-align: right;
         }
@@ -822,6 +842,31 @@ article.post-card {
     }
 }
 
+.language-divider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    margin: 3rem 0;
+
+    .divider-line {
+        flex: 1;
+        max-width: 100px;
+        height: 1px;
+        background: linear-gradient(to right, transparent, var(--middle-gray), transparent);
+    }
+
+    .flag {
+        margin: 0;
+    }
+
+    .divider-text {
+        font-size: 0.85rem;
+        color: var(--middle-gray);
+        font-style: italic;
+        white-space: nowrap;
+    }
+}
 .tags .tag {
     display: inline-block;
     margin: 0.2rem;
