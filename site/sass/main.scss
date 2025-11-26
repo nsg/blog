@@ -365,15 +365,61 @@ main {
 
         .post-header {
             display: flex;
-            flex-wrap: wrap;
+            justify-content: space-between;
+                align-items: center;
+                margin-bottom: 1.5rem;
+                padding-bottom: 1rem;
+                border-bottom: 1px solid rgba(153, 153, 153, 0.3);
+            
+                .post-meta {
+                    color: var(--middle-gray);
+                    font-size: 0.95rem;
+            
+                    .date {
+                        font-weight: 500;
+                    }
+                }
+            
+                .tags {
+                    display: flex;
+                flex-wrap: wrap;
+                gap: 0.5rem;
+                
+                    .tag {
+                        display: inline-block;
+                        padding: 0.3rem 0.7rem;
+                        border-radius: 2rem;
+                        background-color: var(--bg-color-darker);
+                        color: var(--text-color);
+                        font-size: 0.85rem;
+                        text-decoration: none;
+                        transition: background-color 0.2s ease, color 0.2s ease;
+                        border: 1px solid rgba(153, 153, 153, 0.3);
 
+                    &:hover {
+                            background-color: var(--nav-bg);
+                            color: var(--nav-text);
+                        }
+                    }
+                    }
         }
 
-        .post-header > * {
-            flex-grow: 1;
-        }
+                .post-content {
+                    line-height: 1.8;
+        
+                    p {
+                        margin: 1.5rem 0;
+                    }
 
-        .tags {
+                        h2,
+                        h3,
+                        h4 {
+                            margin-top: 2.5rem;
+                            margin-bottom: 1rem;
+                        }
+                        }
+            
+                        .tags:not(.post-header .tags) {
             text-align: right;
         }
 
@@ -398,25 +444,40 @@ main {
         }
 
         blockquote {
-            padding: 1.2rem 2rem 1.2rem;
-            margin: 1rem 0;
+            padding: 1.5rem 2rem 1.5rem 3rem;
+                margin: 2rem 0;
             position: relative;
             font-style: italic;
-            background: linear-gradient(90deg, var(--code-block-background) 0%, var(--code-block-background2) 100%);
+            background: linear-gradient(135deg, var(--code-block-background) 0%, var(--code-block-background2) 100%);
             color: var(--code-block-text);
+            border-left: 4px solid var(--middle-gray);
+                border-radius: 0 0.5rem 0.5rem 0;
 
             &:before {
                 content: "\201C";
-                font-size:4em;
-                font-family:Arial;
+                font-size: 3rem;
+                    font-family: Georgia, serif;
                 position: absolute;
-                left: 0.1rem;
-                top: 0rem;
+                left: 0.6rem;
+                    top: 0.8rem;
                 color: var(--middle-gray);
+                opacity: 0.5;
+                    line-height: 1;
+                }
+                
+                p {
+                    margin: 0;
+                    line-height: 1.6;
             }
 
             a {
                 color: var(--code-block-text);
+                text-decoration: underline;
+                    text-decoration-color: var(--middle-gray);
+                
+                    &:hover {
+                        opacity: 0.8;
+                    }
             }
         }
 

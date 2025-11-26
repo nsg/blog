@@ -2,20 +2,24 @@
 {% block title %} {{ page.title }} | {{ config.title }} {% endblock title %}
 {% block article %}
     <div class="post-header">
-        {% if page.date %}
-            <span class="date">{{ page.date | date(format="%Y-%m-%d") }}</span>
-        {% endif %}
+        <div class="post-meta">
+            {% if page.date %}
+                <time class="date" datetime="{{ page.date | date(format=" %Y-%m-%d") }}">
+                    {{ page.date | date(format="%B %d, %Y") }}
+                </time>
+                {% endif %}
+        </div>
         {% if page.taxonomies.tags %}
             <div class="tags">
                 {% for tag in page.taxonomies.tags %}
-                    <span class="tag">
-                        <a href="/tags/{{ tag | slugify }}">{{ tag }}</a>
-                    </span>
+                    <a class="tag" href="/tags/{{ tag | slugify }}">{{ tag }}</a>
                 {% endfor %}
             </div>
         {% endif %}
     </div>
-    {{ page.content | safe }}
+    <div class="post-content">
+        {{ page.content | safe }}
+    </div>
 {% endblock article %}
 
 {% block related %}
