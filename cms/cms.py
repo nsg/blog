@@ -57,7 +57,22 @@ class BlogCMS:
 
     def scan_vault(self):
         """Scan vault for publishable notes."""
-        for md_file in self.vault_dir.rglob("*.md"):
+        if self.verbose:
+            # Debug: show what we find
+            items = list(self.vault_dir.iterdir())
+            print(f"  Vault contents: {[i.name for i in items]}")
+            for item in items:
+                if item.is_symlink():
+                    print(f"    {item.name} -> symlink to {item.resolve()}")
+                elif item.is_dir():
+                    print(f"    {item.name}/ (dir)")
+
+        # Use resolve() on vault_dir to follow symlinks
+        resolved_vault = self.vault_dir.resolve()
+        if self.verbose and resolved_vault != self.vault_dir:
+            print(f"  Resolved vault: {resolved_vault}")
+
+        for md_file in resolved_vault.rglob("*.md"):
             # Skip .obsidian folder
             if ".obsidian" in md_file.parts:
                 continue
@@ -69,7 +84,7 @@ class BlogCMS:
 
             has_tag = self._has_publish_tag(md_file)
             if self.verbose:
-                print(f"  Checking: {md_file.relative_to(self.vault_dir)} -> publish={has_tag}")
+                print(f"  Checking: {md_file.name} -> publish={has_tag}")
 
             if has_tag:
                 print(f"Found: {md_file.name}")
