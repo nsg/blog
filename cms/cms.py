@@ -67,33 +67,40 @@ class BlogCMS:
                 elif item.is_dir():
                     print(f"    {item.name}/ (dir)")
 
-        # Use resolve() on vault_dir to follow symlinks
-        resolved_vault = self.vault_dir.resolve()
-        if self.verbose and resolved_vault != self.vault_dir:
-            print(f"  Resolved vault: {resolved_vault}")
+        # Collect all directories to scan (resolve symlinks)
+        dirs_to_scan: list[Path] = []
+        for item in self.vault_dir.iterdir():
+            if item.is_dir() or item.is_symlink():
+                resolved = item.resolve()
+                if resolved.is_dir():
+                    dirs_to_scan.append(resolved)
 
-        for md_file in resolved_vault.rglob("*.md"):
-            # Skip .obsidian folder
-            if ".obsidian" in md_file.parts:
-                continue
+        # Also scan vault root
+        dirs_to_scan.append(self.vault_dir)
 
-            mtime = md_file.stat().st_mtime
+        for scan_dir in dirs_to_scan:
+            for md_file in scan_dir.rglob("*.md"):
+                # Skip .obsidian folder
+                if ".obsidian" in md_file.parts:
+                    continue
 
-            if md_file in self.file_mtimes and self.file_mtimes[md_file] >= mtime:
-                continue
+                mtime = md_file.stat().st_mtime
 
-            has_tag = self._has_publish_tag(md_file)
-            if self.verbose:
-                print(f"  Checking: {md_file.name} -> publish={has_tag}")
+                if md_file in self.file_mtimes and self.file_mtimes[md_file] >= mtime:
+                    continue
 
-            if has_tag:
-                print(f"Found: {md_file.name}")
-                try:
-                    self._publish(md_file)
-                    self.file_mtimes[md_file] = mtime
-                    print("  ✓ Published")
-                except Exception as e:
-                    print(f"  ✗ Failed: {e}")
+                has_tag = self._has_publish_tag(md_file)
+                if self.verbose:
+                    print(f"  Checking: {md_file.name} -> publish={has_tag}")
+
+                if has_tag:
+                    print(f"Found: {md_file.name}")
+                    try:
+                        self._publish(md_file)
+                        self.file_mtimes[md_file] = mtime
+                        print("  ✓ Published")
+                    except Exception as e:
+                        print(f"  ✗ Failed: {e}")
 
     # -------------------------------------------------------------------------
     # Publishing
