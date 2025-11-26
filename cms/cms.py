@@ -288,7 +288,7 @@ Content:
         return slug.strip("-")
 
     def _git_commit(self, file_path: Path, title: str, image_files: list[Path] | None = None):
-        """Commit new blog post and images to git."""
+        """Commit new blog post and images to git, then push."""
         rel_path = file_path.relative_to(self.blog_dir)
         files_to_commit = [rel_path]
 
@@ -308,7 +308,8 @@ Content:
             cwd=self.blog_dir,
             check=True,
         )
-        print(f"  Committed: {rel_path}")
+        subprocess.run(["git", "push"], cwd=self.blog_dir, check=True)
+        print(f"  Committed and pushed: {rel_path}")
 
 
 # -----------------------------------------------------------------------------
