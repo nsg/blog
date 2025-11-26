@@ -1,38 +1,50 @@
 {% macro post_preview(page) %}
-      <article>
-        <h2><a href="{{ page.permalink }}">{{ page.title }}</a></h2>
-        {% set_global image_url = false %}
-        {% set paragraphs = page.content | split(pat="\n") %}
-        {% for paragraph in paragraphs %}
+      <article class="post-card">
+        <a href="{{ page.permalink }}" class="post-card-image">
+          {% set_global image_url = false %}
+          {% set paragraphs = page.content | split(pat="\n") %}
+          {% for paragraph in paragraphs %}
           {% if paragraph is containing("img") %}
-            {% for p in paragraph | split(pat=' ') %}
-              {% if p is containing("src=") %}
-                {% set clean_path = p | replace(from="src=", to="") | replace(from='"', to="") | replace(from="'", to="") %}
-                {% if clean_path is containing("/images/") %}
-                  {% set_global image_url = clean_path %}
-                  {% break %}
+          {% for p in paragraph | split(pat=' ') %}
+          {% if p is containing("src=") %}
+          {% set clean_path = p | replace(from="src=", to="") | replace(from='"', to="") | replace(from="'", to="") %}
+          {% if clean_path is containing("/images/") %}
+          {% set_global image_url = clean_path %}
+          {% break %}
+          {% endif %}
+          {% endif %}
+          {% endfor %}
+          {% break %}
+          {% endif %}
+          {% endfor %}
+          {% if image_url %}
+          {% set resized_image_info = resize_image(path=image_url, width=140, height=140, op="fill", format="webp", quality=80) %}
+          <img src="{{ resized_image_info.url }}" alt="">
+          {% else %}
+          <div class="post-card-placeholder">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+              <path d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v12a2 2 0 01-2 2z" />
+              <path d="M12 11l-3 3m0 0l3 3m-3-3h6" />
+              <circle cx="8.5" cy="8.5" r="1.5" />
+              <path d="M21 15l-5-5L5 21" />
+            </svg>
+          </div>
+          {% endif %}
+          </a>
+          <div class="post-card-content">
+            <h2><a href="{{ page.permalink }}">{{ page.title }}</a></h2>
+            <p class="post-card-excerpt">
+              {% set paragraphs = page.content | split(pat="\n") %}
+              {% for paragraph in paragraphs %}
+              {% if paragraph | wordcount > 20 %}
+                {{ paragraph | striptags | truncate(length=180) }}
+                {% break %}
                 {% endif %}
-              {% endif %}
-            {% endfor %}
-            {% break %}
-          {% endif %}
-        {% endfor %}
-
-        {% set paragraphs = page.content | split(pat="\n") %}
-        {% for paragraph in paragraphs %}
-          {% if paragraph | wordcount > 20 %}
-            {% if image_url %}
-              {% set resized_image_info = resize_image(path=image_url, width=120, height=120, op="fill", format="webp", quality=80) %}
-              <a href="{{ page.permalink }}">
-                <img class="latest-image-preview" src="{{ resized_image_info.url }}">
-              </a>
-            {% endif %}
-            {{ paragraph | striptags }}
-            {% break %}
-          {% endif %}
-        {% endfor %}
-        <div class="continue">
-          <a href="{{ page.permalink }}">Continue Reading</a>
+                {% endfor %}
+          </p>
+          <a href="{{ page.permalink }}" class="post-card-link">
+            Read more <span class="arrow">→</span>
+          </a>
         </div>
       </article>
 {% endmacro post_preview %}
