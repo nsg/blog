@@ -8,6 +8,7 @@ converts them to Zola blog posts, and commits to the repository.
 
 import json
 import re
+import shutil
 import subprocess
 import time
 import urllib.request
@@ -27,6 +28,7 @@ class BlogCMS:
         self.vault_dir = vault_dir
         self.blog_dir = blog_dir
         self.posts_dir = blog_dir / "site/content/post"
+        self.images_dir = blog_dir / "site/static/images"
         self.dev_mode = dev_mode
         self.file_mtimes: dict[Path, float] = {}
         self._existing_tags: list[str] | None = None
@@ -101,19 +103,22 @@ class BlogCMS:
         """Convert Obsidian note to blog post and commit."""
         content = md_file.read_text()
         body = self._extract_body(content)
-        tags = self._generate_tags(body)
-
-        blog_content = self._build_post(md_file.stem, body, tags)
 
         year = datetime.now().year
+        slug = self._slugify(md_file.stem)
         year_dir = self.posts_dir / str(year)
         self._ensure_year_dir(year_dir, year)
 
-        slug = self._slugify(md_file.stem)
+        # Process images before generating tags
+        body, image_files = self._process_images(body, md_file, year, slug)
+
+        tags = self._generate_tags(body)
+        blog_content = self._build_post(md_file.stem, body, tags)
+
         output_file = year_dir / f"{slug}.md"
         output_file.write_text(blog_content)
 
-        self._git_commit(output_file, md_file.stem)
+        self._git_commit(output_file, md_file.stem, image_files)
 
     def _extract_body(self, content: str) -> str:
         """Extract body content, removing YAML frontmatter."""
@@ -122,6 +127,49 @@ class BlogCMS:
             if len(parts) >= 3:
                 return parts[2].strip()
         return content
+
+    def _process_images(self, body: str, md_file: Path, year: int, post_slug: str) -> tuple[str, list[Path]]:
+        """Find Obsidian images, copy them, and transform syntax."""
+        image_files: list[Path] = []
+        year_images_dir = self.images_dir / str(year)
+        year_images_dir.mkdir(parents=True, exist_ok=True)
+
+        # Find all ![[image]] references
+        pattern = r'!\[\[([^\]]+)\]\]'
+
+        def replace_image(match: re.Match) -> str:
+            image_name = match.group(1)
+
+            # Search for the image in vault (check attachments folder and root)
+            source_image = None
+            for search_path in [
+                md_file.parent / "attachments" / image_name,
+                md_file.parent / image_name,
+                self.vault_dir / "attachments" / image_name,
+            ]:
+                if search_path.exists():
+                    source_image = search_path
+                    break
+
+            if not source_image:
+                print(f"  [warn] Image not found: {image_name}")
+                return match.group(0)  # Keep original if not found
+
+            # Build unique image name: postslug-originalname.ext
+            stem = source_image.stem.lower()
+            stem = re.sub(r"[^\w\s-]", "", stem)
+            stem = re.sub(r"[\s_]+", "-", stem).strip("-")
+            dest_name = f"{post_slug}-{stem}{source_image.suffix.lower()}"
+
+            dest_image = year_images_dir / dest_name
+            shutil.copy2(source_image, dest_image)
+            image_files.append(dest_image)
+            print(f"  Copied image: {dest_name}")
+
+            return f"![](/images/{year}/{dest_name})"
+
+        body = re.sub(pattern, replace_image, body)
+        return body, image_files
 
     def _build_post(self, name: str, body: str, tags: list[str]) -> str:
         """Build Zola post with TOML frontmatter."""
@@ -235,15 +283,22 @@ Content:
         slug = re.sub(r"[\s_]+", "-", slug)
         return slug.strip("-")
 
-    def _git_commit(self, file_path: Path, title: str):
-        """Commit new blog post to git."""
+    def _git_commit(self, file_path: Path, title: str, image_files: list[Path] | None = None):
+        """Commit new blog post and images to git."""
         rel_path = file_path.relative_to(self.blog_dir)
+        files_to_commit = [rel_path]
+
+        if image_files:
+            for img in image_files:
+                files_to_commit.append(img.relative_to(self.blog_dir))
 
         if self.dev_mode:
-            print(f"  [dev] Would commit: {rel_path}")
+            print(f"  [dev] Would commit: {', '.join(str(f) for f in files_to_commit)}")
             return
 
-        subprocess.run(["git", "add", str(rel_path)], cwd=self.blog_dir, check=True)
+        for f in files_to_commit:
+            subprocess.run(["git", "add", str(f)], cwd=self.blog_dir, check=True)
+
         subprocess.run(
             ["git", "commit", "-m", f"feat: add blog post '{title}'"],
             cwd=self.blog_dir,
