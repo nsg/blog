@@ -17,7 +17,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 # Configuration
-POLL_INTERVAL = 5  # seconds
+POLL_INTERVAL = 60  # seconds
 OLLAMA_HOST = "grond"
 OLLAMA_PORT = 11434
 OLLAMA_MODEL = "gemma3:4b"
