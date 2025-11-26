@@ -1,8 +1,8 @@
 +++
-date = "2025-11-26T20:09:27+00:00"
+date = "2025-11-26T20:12:17+00:00"
 title = "Hacky Simple Hack"
 [taxonomies]
-tags = ["python", "personal", "ai"]
+tags = ["personal", "ai", "python", "phone"]
 +++
 
 I just did write a simple a little hacky python script. And by I, and write I mean, I prompted my AI agent. I short is a simple tool who that enables me to block from my phone. 
