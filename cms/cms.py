@@ -24,13 +24,12 @@ OLLAMA_MODEL = "gemma3:4b"
 
 
 class BlogCMS:
-    def __init__(self, vault_dir: Path, blog_dir: Path, dev_mode: bool = False, verbose: bool = False):
+    def __init__(self, vault_dir: Path, blog_dir: Path, dev_mode: bool = False):
         self.vault_dir = vault_dir
         self.blog_dir = blog_dir
         self.posts_dir = blog_dir / "site/content/post"
         self.images_dir = blog_dir / "site/static/images"
         self.dev_mode = dev_mode
-        self.verbose = verbose
         self.file_mtimes: dict[Path, float] = {}
         self._existing_tags: list[str] | None = None
 
@@ -57,50 +56,24 @@ class BlogCMS:
 
     def scan_vault(self):
         """Scan vault for publishable notes."""
-        if self.verbose:
-            # Debug: show what we find
-            items = list(self.vault_dir.iterdir())
-            print(f"  Vault contents: {[i.name for i in items]}")
-            for item in items:
-                if item.is_symlink():
-                    print(f"    {item.name} -> symlink to {item.resolve()}")
-                elif item.is_dir():
-                    print(f"    {item.name}/ (dir)")
+        for md_file in self.vault_dir.rglob("*.md"):
+            # Skip .obsidian and .stfolder directories
+            if ".obsidian" in md_file.parts or ".stfolder" in md_file.parts:
+                continue
 
-        # Collect all directories to scan (resolve symlinks)
-        dirs_to_scan: list[Path] = []
-        for item in self.vault_dir.iterdir():
-            if item.is_dir() or item.is_symlink():
-                resolved = item.resolve()
-                if resolved.is_dir():
-                    dirs_to_scan.append(resolved)
+            mtime = md_file.stat().st_mtime
 
-        # Also scan vault root
-        dirs_to_scan.append(self.vault_dir)
+            if md_file in self.file_mtimes and self.file_mtimes[md_file] >= mtime:
+                continue
 
-        for scan_dir in dirs_to_scan:
-            for md_file in scan_dir.rglob("*.md"):
-                # Skip .obsidian folder
-                if ".obsidian" in md_file.parts:
-                    continue
-
-                mtime = md_file.stat().st_mtime
-
-                if md_file in self.file_mtimes and self.file_mtimes[md_file] >= mtime:
-                    continue
-
-                has_tag = self._has_publish_tag(md_file)
-                if self.verbose:
-                    print(f"  Checking: {md_file.name} -> publish={has_tag}")
-
-                if has_tag:
-                    print(f"Found: {md_file.name}")
-                    try:
-                        self._publish(md_file)
-                        self.file_mtimes[md_file] = mtime
-                        print("  ✓ Published")
-                    except Exception as e:
-                        print(f"  ✗ Failed: {e}")
+            if self._has_publish_tag(md_file):
+                print(f"Found: {md_file.name}")
+                try:
+                    self._publish(md_file)
+                    self.file_mtimes[md_file] = mtime
+                    print("  ✓ Published")
+                except Exception as e:
+                    print(f"  ✗ Failed: {e}")
 
     # -------------------------------------------------------------------------
     # Publishing
@@ -347,7 +320,6 @@ def main():
 
     parser = argparse.ArgumentParser(description="Obsidian to Blog Publisher")
     parser.add_argument("--dev", action="store_true", help="Dev mode: skip git commit")
-    parser.add_argument("--verbose", "-v", action="store_true", help="Verbose output")
     args = parser.parse_args()
 
     script_dir = Path(__file__).parent
@@ -358,14 +330,12 @@ def main():
     print("Blog CMS - Obsidian to Blog Publisher")
     if args.dev:
         print("[DEV MODE - no git commits]")
-    if args.verbose:
-        print("[VERBOSE]")
     print("=" * 50)
     print(f"Vault: {vault_dir}")
     print(f"Blog:  {blog_dir}")
     print()
 
-    cms = BlogCMS(vault_dir, blog_dir, dev_mode=args.dev, verbose=args.verbose)
+    cms = BlogCMS(vault_dir, blog_dir, dev_mode=args.dev)
     cms.watch()
 
 
