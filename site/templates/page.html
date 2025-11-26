@@ -1,30 +1,26 @@
 {% extends "base.html" %}
 {% block title %} {{ page.title }} | {{ config.title }} {% endblock title %}
 {% block article %}
-    <div class="post-header">
-        <div class="post-meta">
-            {% if page.date %}
-                <time class="date" datetime="{{ page.date | date(format=" %Y-%m-%d") }}">
-                    {{ page.date | date(format="%B %d, %Y") }}
-                </time>
-                {% endif %}
-        </div>
+    <header class="post-header">
+        {% if page.date %}
+            <time class="date" datetime="{{ page.date | date(format=" %Y-%m-%d") }}">
+                {{ page.date | date(format="%B %d, %Y") }}
+            </time>
+            {% endif %}
         {% if page.taxonomies.tags %}
-            <div class="tags">
+            <ul class="tags">
                 {% for tag in page.taxonomies.tags %}
-                    <a class="tag" href="/tags/{{ tag | slugify }}">{{ tag }}</a>
+                    <li><a class="tag" href="/tags/{{ tag | slugify }}">{{ tag }}</a></li>
                 {% endfor %}
-            </div>
+            </ul>
         {% endif %}
-    </div>
-    <div class="post-content">
-        {{ page.content | safe }}
-    </div>
+    </header>
+    {{ page.content | safe }}
 {% endblock article %}
 
 {% block related %}
     {% if page.taxonomies.tags %}
-        <div class="related-posts">
+        <aside class="related-posts">
             {% if config.mode == "serve" %}
                 <p>
                     <em>
@@ -56,9 +52,9 @@
                             {% set post_year = related_page.date | date(format="%Y") | int %}
                             {% set is_old = current_year - post_year > 8 %}
                             <li{% if is_old %} class="old-post"{% endif %}>
-                                <div class="related-post-header">
+                                <header class="related-post-header">
                                     <a href="{{ related_page.permalink }}">{{ related_page.title }}</a>
-                                    <div class="tags">
+                                    <span class="tags">
                                         {% for current_tag in page.taxonomies.tags %}
                                             {% if current_tag in related_page.taxonomies.tags %}
                                                 <span class="tag">
@@ -66,33 +62,34 @@
                                                 </span>
                                             {% endif %}
                                         {% endfor %}
-                                    </div>
-                                </div>
+                                    </span>
+                                    </header>
                                 {% if related_page.date %}
-                                    <span class="date">{{ related_page.date | date(format="%Y-%m-%d") }}</span>
+                                    <time class="date" datetime="{{ related_page.date | date(format=" %Y-%m-%d") }}">{{ related_page.date |
+                                        date(format="%Y-%m-%d") }}</time>
                                 {% endif %}
                             </li>
                         {% endfor %}
                     </ul>
                 {% endif %}
             {% endif %}
-        </div>
+        </aside>
     {% endif %}
 {% endblock related %}
 
 {% block backlinks %}
     {% if page.backlinks %}
-        <div class="related-posts">
+        <aside class="related-posts">
             <h3>Pages that link here</h3>
             <ul>
                 {% for backlink in page.backlinks %}
                     <li>
-                        <div class="related-post-header">
+                        <header class="related-post-header">
                             <a href="{{ backlink.permalink }}">{{ backlink.title }}</a>
-                        </div>
+                        </header>
                     </li>
                 {% endfor %}
             </ul>
-        </div>
+        </aside>
     {% endif %}
 {% endblock backlinks %}
