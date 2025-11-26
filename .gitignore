@@ -2,3 +2,10 @@
 /site/build-out
 /site/static/processed_images/
 /.github/chatmodes
+
+# CMS
+/cms/vault/*
+!/cms/vault/.gitkeep
+/cms/.venv/
+__pycache__/
+*.pyc

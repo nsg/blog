@@ -61,4 +61,14 @@ new:
 	echo "" >> "$$file"; \
 	echo "Created new blog post: $$file"
 
-.PHONY: new
+cms: cms/.venv
+	cd cms && uv run cms.py
+
+cms-dev: cms/.venv
+	cd cms && uv run cms.py --dev
+
+cms/.venv: cms/requirements.txt
+	cd cms && uv venv
+	cd cms && uv pip install -r requirements.txt
+
+.PHONY: new cms cms-dev
