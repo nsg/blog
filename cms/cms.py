@@ -113,13 +113,19 @@ class BlogCMS:
         year_dir = self.posts_dir / str(year)
         self._ensure_year_dir(year_dir, year)
 
+        output_file = year_dir / f"{slug}.md"
+
+        # Preserve existing date if updating
+        existing_date = None
+        if output_file.exists():
+            existing_date = self._extract_date(output_file)
+
         # Process images before generating tags
         body, image_files = self._process_images(body, md_file, year, slug)
 
         tags = self._generate_tags(body)
-        blog_content = self._build_post(md_file.stem, body, tags)
+        blog_content = self._build_post(md_file.stem, body, tags, existing_date)
 
-        output_file = year_dir / f"{slug}.md"
         output_file.write_text(blog_content)
 
         self._git_commit(output_file, md_file.stem, image_files)
@@ -131,6 +137,20 @@ class BlogCMS:
             if len(parts) >= 3:
                 return parts[2].strip()
         return content
+
+    def _extract_date(self, md_file: Path) -> str | None:
+        """Extract date from existing Zola post."""
+        try:
+            content = md_file.read_text()
+            if content.startswith("+++"):
+                parts = content.split("+++", 2)
+                if len(parts) >= 3:
+                    match = re.search(r'date\s*=\s*"([^"]+)"', parts[1])
+                    if match:
+                        return match.group(1)
+        except Exception:
+            pass
+        return None
 
     def _process_images(self, body: str, md_file: Path, year: int, post_slug: str) -> tuple[str, list[Path]]:
         """Find Obsidian images, copy them, and transform syntax."""
@@ -175,13 +195,13 @@ class BlogCMS:
         body = re.sub(pattern, replace_image, body)
         return body, image_files
 
-    def _build_post(self, name: str, body: str, tags: list[str]) -> str:
+    def _build_post(self, name: str, body: str, tags: list[str], existing_date: str | None = None) -> str:
         """Build Zola post with TOML frontmatter."""
         # Transform [[wiki links]] to inline code
         body = re.sub(r"\[\[([^\]]+)\]\]", r"`\1`", body)
 
         title = name.replace("-", " ").replace("_", " ").title()
-        date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
+        date = existing_date or datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
         tags_str = ", ".join(f'"{t}"' for t in tags)
 
         frontmatter = (
