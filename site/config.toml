@@ -15,3 +15,7 @@ taxonomies = [
 [markdown]
 highlight_code = true
 highlight_theme = "zenburn"
+
+[extra]
+# Set to true to force full rendering (related posts, tag clouds) even in dev mode
+force_full_render = true

@@ -21,7 +21,7 @@
 {% block related %}
     {% if page.taxonomies.tags %}
         <aside class="related-posts">
-            {% if config.mode == "serve" %}
+            {% if config.mode == "serve" and not config.extra.force_full_render %}
                 <p>
                     <em>
                         Related posts are disabled during development for faster builds.

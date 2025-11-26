@@ -5,7 +5,7 @@
 {% endblock page_header %}
 {% block section %}
 
-{% if config.mode == "serve" %}
+{% if config.mode == "serve" and not config.extra.force_full_render %}
     <p><em>Tag clouds are disabled during development for faster builds. Run <code>zola build</code> to see the full tag clouds.</em></p>
 {% else %}
 

@@ -62,7 +62,7 @@ body {
     transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-header {
+header.site-header {
     max-width: 800px;
     margin: auto;
     padding: 1rem;
@@ -437,38 +437,36 @@ main {
 
         blockquote {
             padding: 1.5rem 2rem 1.5rem 3rem;
-                margin: 2rem 0;
+            margin: 2rem 0;
             position: relative;
             font-style: italic;
-            background: linear-gradient(135deg, var(--code-block-background) 0%, var(--code-block-background2) 100%);
-            color: var(--code-block-text);
-            border-left: 4px solid var(--middle-gray);
-                border-radius: 0 0.5rem 0.5rem 0;
+            background-color: var(--bg-color-darker);
+                color: var(--text-color);
 
             &:before {
                 content: "\201C";
-                font-size: 3rem;
+                font-size: 4rem;
                     font-family: Georgia, serif;
                 position: absolute;
-                left: 0.6rem;
-                    top: 0.8rem;
-                color: var(--middle-gray);
-                opacity: 0.5;
+                left: 0.5rem;
+                    top: 0.5rem;
+                    color: var(--text-color);
+                    opacity: 0.15;
                     line-height: 1;
                 }
                 
-                p {
-                    margin: 0;
-                    line-height: 1.6;
+                        p {
+                            margin: 0;
+                            line-height: 1.6;
             }
 
             a {
-                color: var(--code-block-text);
+                color: var(--text-color);
                 text-decoration: underline;
-                    text-decoration-color: var(--middle-gray);
+                text-decoration-color: var(--middle-gray);
                 
-                    &:hover {
-                        opacity: 0.8;
+                &:hover {
+                    color: var(--link-hover);
                     }
             }
         }
@@ -854,7 +852,7 @@ article.post-card {
 
 .related-posts {
     margin: 2rem 1rem;
-    padding: 1.5rem;
+    padding: 1rem 1.5rem;
     background-color: var(--bg-color-darker);
     border-radius: 0.5rem;
 
@@ -863,39 +861,32 @@ article.post-card {
     }
 
     h3 {
-        border-bottom: 1px solid var(--middle-gray);
-        margin-bottom: 1rem;
-        margin-top: 0;
-        font-size: 1.4rem;
-        color: var(--text-color);
+        margin: 0 0 0.75rem 0;
+            font-size: 1.1rem;
+            color: var(--middle-gray);
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
     }
 
     ul {
         padding: 0;
         margin: 0;
+        list-style: none;
 
         li {
-            list-style: none;
-            padding: 0.5rem 0;
-            border-bottom: 1px solid rgba(153, 153, 153, 0.2);
+            padding: 0.6rem 0;
             display: flex;
             justify-content: space-between;
             align-items: center;
+            gap: 0.5rem;
 
             &:last-child {
-                border-bottom: none;
+                padding-bottom: 0;
             }
 
             &.old-post {
-                opacity: 0.8;
-                
-                a {
-                    color: var(--middle-gray);
-                    
-                    &:hover {
-                        color: var(--text-color);
-                    }
-                }
+                opacity: 0.7;
             }
 
             .related-post-header {
@@ -903,9 +894,17 @@ article.post-card {
                 align-items: center;
                 gap: 0.5rem;
                 flex-grow: 1;
+                min-width: 0;
+                
+                    >a {
+                        white-space: nowrap;
+                        overflow: hidden;
+                        text-overflow: ellipsis;
+                    }
             }
 
-            a {
+                                                >a,
+                                                .related-post-header>a {
                 color: var(--text-color);
                 text-decoration: none;
                 font-weight: 500;
@@ -916,10 +915,32 @@ article.post-card {
                 }
             }
 
+                                                .tags {
+                                                    display: flex;
+                                                    gap: 0.25rem;
+                                                    flex-shrink: 0;
+                        
+                                                    .tag {
+                                                        display: inline-block;
+                                                        padding: 0.15rem 0.4rem;
+                                                        background-color: var(--nav-bg);
+                                                        color: var(--nav-text);
+                                                        font-size: 0.7rem;
+                                                        text-decoration: none;
+                                                        clip-path: polygon(0 0, calc(100% - 4px) 0, 100% 4px, 100% 100%, 4px 100%, 0 calc(100% - 4px));
+                        
+                                                        a {
+                                                            color: var(--nav-text);
+                                                            text-decoration: none;
+                                                        }
+                                                    }
+                                                }
             .date {
-                font-size: 0.9rem;
+                font-size: 0.8rem;
                 color: var(--middle-gray);
                 font-weight: normal;
+                white-space: nowrap;
+                    flex-shrink: 0;
             }
         }
     }
