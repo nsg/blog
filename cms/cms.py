@@ -24,12 +24,13 @@ OLLAMA_MODEL = "gemma3:4b"
 
 
 class BlogCMS:
-    def __init__(self, vault_dir: Path, blog_dir: Path, dev_mode: bool = False):
+    def __init__(self, vault_dir: Path, blog_dir: Path, dev_mode: bool = False, verbose: bool = False):
         self.vault_dir = vault_dir
         self.blog_dir = blog_dir
         self.posts_dir = blog_dir / "site/content/post"
         self.images_dir = blog_dir / "site/static/images"
         self.dev_mode = dev_mode
+        self.verbose = verbose
         self.file_mtimes: dict[Path, float] = {}
         self._existing_tags: list[str] | None = None
 
@@ -57,12 +58,20 @@ class BlogCMS:
     def scan_vault(self):
         """Scan vault for publishable notes."""
         for md_file in self.vault_dir.rglob("*.md"):
+            # Skip .obsidian folder
+            if ".obsidian" in md_file.parts:
+                continue
+
             mtime = md_file.stat().st_mtime
 
             if md_file in self.file_mtimes and self.file_mtimes[md_file] >= mtime:
                 continue
 
-            if self._has_publish_tag(md_file):
+            has_tag = self._has_publish_tag(md_file)
+            if self.verbose:
+                print(f"  Checking: {md_file.relative_to(self.vault_dir)} -> publish={has_tag}")
+
+            if has_tag:
                 print(f"Found: {md_file.name}")
                 try:
                     self._publish(md_file)
@@ -316,6 +325,7 @@ def main():
 
     parser = argparse.ArgumentParser(description="Obsidian to Blog Publisher")
     parser.add_argument("--dev", action="store_true", help="Dev mode: skip git commit")
+    parser.add_argument("--verbose", "-v", action="store_true", help="Verbose output")
     args = parser.parse_args()
 
     script_dir = Path(__file__).parent
@@ -326,12 +336,14 @@ def main():
     print("Blog CMS - Obsidian to Blog Publisher")
     if args.dev:
         print("[DEV MODE - no git commits]")
+    if args.verbose:
+        print("[VERBOSE]")
     print("=" * 50)
     print(f"Vault: {vault_dir}")
     print(f"Blog:  {blog_dir}")
     print()
 
-    cms = BlogCMS(vault_dir, blog_dir, dev_mode=args.dev)
+    cms = BlogCMS(vault_dir, blog_dir, dev_mode=args.dev, verbose=args.verbose)
     cms.watch()
 
 
