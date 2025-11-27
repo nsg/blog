@@ -115,6 +115,14 @@ class BlogCMS:
 
         output_file = year_dir / f"{slug}.md"
 
+        # Skip if output file exists and is newer than source
+        if output_file.exists():
+            source_mtime = md_file.stat().st_mtime
+            output_mtime = output_file.stat().st_mtime
+            if output_mtime >= source_mtime:
+                print(f"  Skipping: output file is up to date")
+                return
+
         # Preserve existing date if updating
         existing_date = None
         if output_file.exists():
