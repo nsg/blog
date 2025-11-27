@@ -320,6 +320,9 @@ Content:
             print(f"  [dev] Would commit: {', '.join(str(f) for f in files_to_commit)}")
             return
 
+        # Pull latest changes before committing
+        subprocess.run(["git", "pull"], cwd=self.blog_dir, check=True)
+
         for f in files_to_commit:
             subprocess.run(["git", "add", str(f)], cwd=self.blog_dir, check=True)
 
