@@ -14,8 +14,6 @@
     --middle-gray: #999;
     --nav-bg: #222;
     --nav-bg2: #444;
-    --nav-bg-search: #666;
-    --nav-bg-search2: rgb(161, 161, 161);
     --nav-text: #eee;
     --link-hover: rgb(40, 34, 121);
     --code-background: #eee;
@@ -32,8 +30,6 @@
     --middle-gray: #999;
     --nav-bg: #eee;
     --nav-bg2: #ccc;
-    --nav-bg-search: #eee;
-    --nav-bg-search2: #fff;
     --nav-text: #222;
     --link-hover: rgb(134, 126, 240);
     --code-background: rgb(48, 48, 48);
@@ -273,10 +269,7 @@ main {
                 // Style paragraphs following h2 with slight indent
                 >h2+p {
                     margin-top: 0.5rem;
-                }
-        .continue {
-            text-align: right;
-        }
+                
 
                 // New post card styles
                 &.post-card {
@@ -370,22 +363,7 @@ main {
                             }
                         }
                     }
-                }
-        .latest-image-preview {
-            width: 120px;
-            height: 120px;
-            float: left;
-            margin-right: 1rem;
-            object-fit: cover;
-            border: 1px solid var(--middle-gray);
-            filter: grayscale(100%);
-            transition: filter 0.4s ease-in-out;
-
-            &:hover {
-                filter: grayscale(0%);
-            }
-        }
-
+                                }
         .post-header {
             display: flex;
             justify-content: space-between;
@@ -751,7 +729,7 @@ article.post-card {
             padding: 0.3em;
 
             a {
-                color: var(--link-color);
+                color: var(--text-color);
                 white-space: nowrap;
                 text-decoration: none;
                 display: block;
@@ -866,33 +844,6 @@ article.post-card {
         font-style: italic;
         white-space: nowrap;
     }
-}
-.tags .tag {
-    display: inline-block;
-    margin: 0.2rem;
-    padding: 0.2rem 0.4rem;
-    border-radius: 0.2rem;
-    background-color: var(--nav-bg);
-    color: var(--nav-text);
-    font-size: 0.8em;
-    text-decoration: none;
-    transition: background-color 0.4s ease-in-out;
-
-    a {
-        color: var(--nav-text);
-        text-decoration: none;
-    }
-
-    &:hover {
-        background-color: var(--nav-bg2);
-        color: var(--nav-text);
-    }
-}
-
-.tags h3 {
-    border-bottom: 1px solid var(--middle-gray);
-    margin-bottom: 0.4em;
-    margin-top: 2em;
 }
 
 .related-posts {
