@@ -12,11 +12,11 @@ make cms-dev   # Run without git commits
 
 ## Publishing
 
-Add `publish` to tags in YAML frontmatter:
+Add `publish` or `draft` to tags in YAML frontmatter:
 
 ```yaml
 ---
-tags: [publish]
+tags: [publish]  # or [draft] for unpublished drafts
 ---
 ```
 

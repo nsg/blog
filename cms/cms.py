@@ -80,7 +80,7 @@ class BlogCMS:
     # -------------------------------------------------------------------------
 
     def _has_publish_tag(self, md_file: Path) -> bool:
-        """Check if note has 'publish' tag in YAML frontmatter."""
+        """Check if note has 'publish' or 'draft' tag in YAML frontmatter."""
         try:
             content = md_file.read_text()
             if not content.startswith("---"):
@@ -96,17 +96,41 @@ class BlogCMS:
 
             tags = frontmatter["tags"]
             if isinstance(tags, list):
-                return "publish" in tags
-            return tags == "publish"
+                return "publish" in tags or "draft" in tags
+            return tags in ("publish", "draft")
 
         except Exception as e:
             print(f"Error reading {md_file}: {e}")
+            return False
+
+    def _is_draft(self, md_file: Path) -> bool:
+        """Check if note has 'draft' tag in YAML frontmatter."""
+        try:
+            content = md_file.read_text()
+            if not content.startswith("---"):
+                return False
+
+            parts = content.split("---", 2)
+            if len(parts) < 3:
+                return False
+
+            frontmatter = yaml.safe_load(parts[1])
+            if not frontmatter or "tags" not in frontmatter:
+                return False
+
+            tags = frontmatter["tags"]
+            if isinstance(tags, list):
+                return "draft" in tags
+            return tags == "draft"
+
+        except Exception:
             return False
 
     def _publish(self, md_file: Path):
         """Convert Obsidian note to blog post and commit."""
         content = md_file.read_text()
         body = self._extract_body(content)
+        is_draft = self._is_draft(md_file)
 
         year = datetime.now().year
         slug = self._slugify(md_file.stem)
@@ -132,11 +156,11 @@ class BlogCMS:
         body, image_files = self._process_images(body, md_file, year, slug)
 
         tags = self._generate_tags(body)
-        blog_content = self._build_post(md_file.stem, body, tags, existing_date)
+        blog_content = self._build_post(md_file.stem, body, tags, existing_date, is_draft)
 
         output_file.write_text(blog_content)
 
-        self._git_commit(output_file, md_file.stem, image_files)
+        self._git_commit(output_file, md_file.stem, image_files, is_draft)
 
     def _extract_body(self, content: str) -> str:
         """Extract body content, removing YAML frontmatter."""
@@ -203,7 +227,7 @@ class BlogCMS:
         body = re.sub(pattern, replace_image, body)
         return body, image_files
 
-    def _build_post(self, name: str, body: str, tags: list[str], existing_date: str | None = None) -> str:
+    def _build_post(self, name: str, body: str, tags: list[str], existing_date: str | None = None, draft: bool = False) -> str:
         """Build Zola post with TOML frontmatter."""
         # Transform [[wiki links]] to inline code
         body = re.sub(r"\[\[([^\]]+)\]\]", r"`\1`", body)
@@ -212,10 +236,11 @@ class BlogCMS:
         date = existing_date or datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
         tags_str = ", ".join(f'"{t}"' for t in tags)
 
-        frontmatter = (
-            f'+++\ndate = "{date}"\ntitle = "{title}"\n'
-            f'[taxonomies]\ntags = [{tags_str}]\n+++\n\n'
-        )
+        frontmatter = f'+++\ndate = "{date}"\ntitle = "{title}"\n'
+        if draft:
+            frontmatter += "draft = true\n"
+        frontmatter += f'[taxonomies]\ntags = [{tags_str}]\n+++\n\n'
+
         return frontmatter + body
 
     # -------------------------------------------------------------------------
@@ -315,7 +340,7 @@ Content:
         slug = re.sub(r"[\s_]+", "-", slug)
         return slug.strip("-")
 
-    def _git_commit(self, file_path: Path, title: str, image_files: list[Path] | None = None):
+    def _git_commit(self, file_path: Path, title: str, image_files: list[Path] | None = None, is_draft: bool = False):
         """Commit new blog post and images to git, then push."""
         rel_path = file_path.relative_to(self.blog_dir)
         files_to_commit = [rel_path]
@@ -334,8 +359,9 @@ Content:
         for f in files_to_commit:
             subprocess.run(["git", "add", str(f)], cwd=self.blog_dir, check=True)
 
+        commit_type = "draft" if is_draft else "feat"
         subprocess.run(
-            ["git", "commit", "-m", f"feat: add blog post '{title}'"],
+            ["git", "commit", "-m", f"{commit_type}: add blog post '{title}'"],
             cwd=self.blog_dir,
             check=True,
         )
