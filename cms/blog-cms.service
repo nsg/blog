@@ -1,0 +1,13 @@
+[Unit]
+Description=Blog CMS - Obsidian to Blog Publisher
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/root/blog/cms
+ExecStart=/usr/bin/uv run cms.py
+Restart=on-failure
+RestartSec=60
+
+[Install]
+WantedBy=multi-user.target

@@ -71,4 +71,10 @@ cms/.venv: cms/requirements.txt
 	cd cms && uv venv
 	cd cms && uv pip install -r requirements.txt
 
-.PHONY: new cms cms-dev
+install: cms/.venv
+	cp cms/blog-cms.service /etc/systemd/system/
+	systemctl daemon-reload
+	systemctl enable --now blog-cms.service
+	@echo "Service installed and started. Check status with: systemctl status blog-cms"
+
+.PHONY: new cms cms-dev install
