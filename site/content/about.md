@@ -2,6 +2,8 @@
 title = "About"
 +++
 
+<img class="about-lineart image-invert-allowed" src="/images/about-lineart.png" alt="Line art drawing of Stefan Berggren">
+
 I like to write from time to time and have used this space since 2005 to write about various things in my life. If there is a theme to this blog, it's things that I find interesting.
 
 I have a background in system administration and programming, turned product owner, turned IT architect. I have built computers and played with servers since my early teens. When I started working, I built and administered HPC clusters, and later moved on to more classic servers.

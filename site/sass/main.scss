@@ -255,6 +255,12 @@ main {
             margin: auto;
         }
 
+        img.about-lineart {
+            float: right;
+            width: min(42%, 300px);
+            margin: 0 0 1rem 1.5rem;
+        }
+
         h2 {
             margin: 1rem 0rem;
             font-size: 2rem;
@@ -787,6 +793,14 @@ footer {
         section {
             h2 {
                 font-size: 1.6rem;
+            }
+        }
+
+        article {
+            img.about-lineart {
+                float: none;
+                width: min(82vw, 260px);
+                margin: 0 auto 1.25rem;
             }
         }
 	article.post-card {
