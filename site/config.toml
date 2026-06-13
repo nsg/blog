@@ -13,7 +13,9 @@ taxonomies = [
 ]
 
 [markdown]
-highlight_code = true
-highlight_theme = "zenburn"
+
+[markdown.highlighting]
+enable = true
+theme = "gruvbox-dark-soft"
 
 [extra]
