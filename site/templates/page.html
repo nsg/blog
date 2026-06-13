@@ -15,7 +15,9 @@
             </ul>
         {% endif %}
     </header>
-    {{ page.content | safe }}
+    <div class="post-content">
+        {{ page.content | safe }}
+    </div>
 {% endblock article %}
 
 {% block related %}

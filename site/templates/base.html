@@ -22,26 +22,29 @@
 
 <body>
   <header class="site-header">
-    <img src="{{ get_url(path="images/nsg.jpg") | safe }}" alt="Profile" class="profile-image">
-    <h1><a href="/">{{ config.title }}</a></h1>
-  </header>
-  <nav>
-    <ul>
-      <li><a href="/">Latest</a></li>
-      <li><a href="/post">Archive</a></li>
-      <li><a href="/tags">Tags</a></li>      
-      <li><a href="/about">About</a></li>
-    </ul>
-
-    <div class="search">
-      <button id="search-button">🔍</button>
+    <div class="header-controls">
+      <div class="theme-toggle">
+        <label class="switch" for="theme-toggle">
+          <input type="checkbox" id="theme-toggle">
+          <span class="slider preload"></span>
+        </label>
+      </div>
     </div>
 
-    <div class="theme-toggle">
-      <label class="switch" for="theme-toggle">
-        <input type="checkbox" id="theme-toggle">
-        <span class="slider preload"></span>
-      </label>
+    <div class="site-header-inner">
+      <img src="{{ get_url(path="images/nsg.jpg") | safe }}" alt="Profile" class="profile-image">
+      <h1><a href="/">{{ config.title }}</a></h1>
+    </div>
+  </header>
+  <nav>
+    <div class="nav-inner">
+      <ul>
+        <li><a href="/">Latest</a></li>
+        <li><a href="/post">Archive</a></li>
+        <li><a href="/tags">Tags</a></li>
+        <li><a href="/about">About</a></li>
+        <li class="search"><button id="search-button">Search</button></li>
+      </ul>
     </div>
   </nav>
   <div id="search">

@@ -81,7 +81,7 @@ function init_search() {
 
     form.addEventListener("submit", (event) => {
       let text = event.target.getElementsByTagName("input")[0].value;
-      do_search(index, options, text);
+      do_search(text);
       event.preventDefault();
     });
 
@@ -108,33 +108,43 @@ function do_search(text) {
 
   if (results.length == 0) {
     var li = document.createElement("li");
+    li.className = "empty";
     li.innerHTML = "No results found";
     ul.appendChild(li);
-    result_div.style.height = "2em";
   }
 
   results.forEach(r => {
     var li = document.createElement("li");
     var a = document.createElement("a");
-    
-    if (r.doc.title == "") {
-      a.innerHTML = "➢ No title";
-    } else {
-      a.innerHTML = "➢ " + r.doc.title;
+    // r.doc.id is an absolute permalink (built from base_url); use just the
+    // path so links resolve against the current host (dev or prod).
+    try {
+      a.href = new URL(r.doc.id).pathname;
+    } catch (e) {
+      a.href = r.doc.id;
     }
 
-    a.href = r.doc.id;
+    var title = document.createElement("span");
+    title.className = "result-title";
+    title.textContent = (r.doc.title && r.doc.title != "") ? r.doc.title : "No title";
+    a.appendChild(title);
+
+    if (r.doc.body) {
+      var snippet = document.createElement("span");
+      snippet.className = "result-snippet";
+      var body = r.doc.body.replace(/\s+/g, " ").trim();
+      snippet.textContent = body.length > 200 ? body.slice(0, 200).trim() + "…" : body;
+      a.appendChild(snippet);
+    }
+
     li.appendChild(a);
     ul.appendChild(li);
-
   });
-  
-  if (results.length > 0) {
-    result_div.style.height = Math.ceil(results.length * 2.1) + "em";
-  }
 
   result_div.appendChild(ul);
   result_div.style.display = "block";
+  // Reveal to the actual content height so the snippet rows can't clip.
+  result_div.style.height = result_div.scrollHeight + "px";
 }
 
 function os_prefer_dark_mode() {
