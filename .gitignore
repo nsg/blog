@@ -3,6 +3,11 @@
 /site/static/processed_images/
 /.github/chatmodes
 
+
+.claude-sandbox/
+.mcp.json
+.playwright-mcp/
+
 # CMS
 /cms/vault/*
 !/cms/vault/.gitkeep
