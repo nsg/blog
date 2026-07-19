@@ -5,34 +5,18 @@
 {% endblock page_header %}
 {% block section %}
 
-{% if config.mode == "serve" and not config.extra.force_full_render %}
-    <p><em>Tag clouds are disabled during development for faster builds. Run <code>zola build</code> to see the full tag clouds.</em></p>
-{% else %}
-
-{% set terms_english = [] %}
-{% set terms_swedish = [] %}
-{% set added_english_names = [] %}
-{% set added_swedish_names = [] %}
-{% for term in terms %}
-    {% for page in term.pages %}
-        {% if page.date and page.date | date(format="%Y") | int > 2014 %}
-            {% if term.name not in added_english_names %}
-                {% set_global terms_english = terms_english | concat(with=term) %}
-                {% set_global added_english_names = added_english_names | concat(with=term.name) %}
-            {% endif %}
-        {% else %}
-            {% if term.name not in added_swedish_names %}
-                {% set_global terms_swedish = terms_swedish | concat(with=term) %}
-                {% set_global added_swedish_names = added_swedish_names | concat(with=term.name) %}
-            {% endif %}
-        {% endif %}
-    {% endfor %}
-{% endfor %}
-
     <article class="tags">
         <ul>
-            {% for term in terms_english %}
-                <li><a href="{{ term.permalink }}" class="tagsq" data-weight="{{ term.pages | length }}" style="font-size: calc({{ term.pages | length }} * 0.25rem + 0.5rem);">{{ term.name | lower }}</a></li>
+            {% for term in terms %}
+                {% set_global is_english = false %}
+                {% for page in term.pages %}
+                    {% if page.date and page.date | date(format="%Y") | int > 2014 %}
+                        {% set_global is_english = true %}
+                    {% endif %}
+                {% endfor %}
+                {% if is_english %}
+                    <li><a href="{{ term.permalink }}" data-weight="{{ term.pages | length }}">{{ term.name | lower }}</a></li>
+                {% endif %}
             {% endfor %}
         </ul>
     </article>
@@ -46,12 +30,18 @@
 
     <article class="tags">
         <ul>
-            {% for term in terms_swedish %}
-                <li><a href="{{ term.permalink }}" class="tagsq" data-weight="{{ term.pages | length }}" style="font-size: calc({{ term.pages | length }} * 0.25rem + 0.5rem);">{{ term.name | lower }}</a></li>
+            {% for term in terms %}
+                {% set_global is_swedish = false %}
+                {% for page in term.pages %}
+                    {% if not page.date or page.date | date(format="%Y") | int <= 2014 %}
+                        {% set_global is_swedish = true %}
+                    {% endif %}
+                {% endfor %}
+                {% if is_swedish %}
+                    <li><a href="{{ term.permalink }}" data-weight="{{ term.pages | length }}">{{ term.name | lower }}</a></li>
+                {% endif %}
             {% endfor %}
         </ul>
     </article>
-
-{% endif %}
 
 {% endblock section %}

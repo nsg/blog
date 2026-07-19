@@ -31,6 +31,14 @@
     --tint-3: linear-gradient(135deg, #f5e8e0, #e6cfc2);
     --tint-4: linear-gradient(135deg, #ece7f2, #d8d0e6);
     --tint-5: linear-gradient(135deg, #e3f0ef, #cbe2e0);
+    // Tag cloud text colors, all site colors: header navys, accent
+    // golds, the Swedish flag blue, body text and middle gray.
+    --cloud-0: #0a1f33;
+    --cloud-1: #16456e;
+    --cloud-2: #8a6a1d;
+    --cloud-3: #006aa7;
+    --cloud-4: #222;
+    --cloud-5: #999;
 }
 
 [data-theme="dark"] {
@@ -58,6 +66,15 @@
     --tint-3: linear-gradient(135deg, #3a2d26, #251c17);
     --tint-4: linear-gradient(135deg, #322e3c, #1f1d28);
     --tint-5: linear-gradient(135deg, #263735, #172322);
+    // Site colors that stay readable on the dark background: accent
+    // gold, the Swedish flag yellow, a lightened flag blue (the true
+    // #006aa7 gets muted at small sizes here), header text and gray.
+    --cloud-0: #eee;
+    --cloud-1: #c79a2e;
+    --cloud-2: #fecc00;
+    --cloud-3: #4d9fd6;
+    --cloud-4: #eee;
+    --cloud-5: #999;
 }
 
 @keyframes pulsate {
@@ -1000,57 +1017,65 @@ footer {
     }
 }
 
-.tags ul {
-    list-style: none;
-    padding-left: 0;
-    text-align: center;
-    line-height: 0.8;
+// The flat list only serves as the data source for the packed cloud
+// that JS builds from it; it is never shown.
+article.tags > ul {
+    display: none;
+}
+
+.tag-cloud {
+    position: relative;
     margin: 2rem 0;
-
-    li {
-        display: inline-block;
-        margin: -0.1rem -0.2rem;
-        vertical-align: middle;
-
-        // Random rotation for different tags
-        &:nth-child(5n+1) { transform: rotate(-8deg); opacity: 0.8; }
-        &:nth-child(5n+2) { transform: rotate(5deg); opacity: 0.85; }
-        &:nth-child(5n+3) { transform: rotate(-4deg); opacity: 0.9; }
-        &:nth-child(5n+4) { transform: rotate(6deg); opacity: 0.75; }
-        &:nth-child(5n+5) { transform: rotate(-2deg); opacity: 0.95; }
-    }
+    animation: tag-cloud-fade 0.4s ease;
 
     a {
-        display: inline-block;
-        padding: 0.05rem 0.15rem;
+        position: absolute;
+        white-space: nowrap;
         text-decoration: none;
-        position: relative;
-        transition: all 0.3s ease;
+        font-weight: 700;
+        line-height: 1;
         color: var(--text-color);
-        margin: -0.05rem;
-        border-radius: 0.5rem;
+        transform: var(--tr);
+        transition: transform 0.2s ease, color 0.2s ease;
+
+        &.c0 { color: var(--cloud-0); }
+        &.c1 { color: var(--cloud-1); }
+        &.c2 { color: var(--cloud-2); }
+        &.c3 { color: var(--cloud-3); }
+        &.c4 { color: var(--cloud-4); }
+        &.c5 { color: var(--cloud-5); }
 
         &:hover {
             color: var(--link-hover);
-            transform: scale(1.3) !important;
+            background: var(--bg-color);
+            border: 1px solid var(--link-hover);
+            border-radius: 0.45em;
+            padding: 0.12em 0.3em;
+            box-shadow: 0 2px 12px rgba(0, 0, 0, 0.25);
+            transform: var(--tr) scale(1.3);
             z-index: 10;
-            opacity: 1;
-            position: relative;
-            padding: 0.3rem 0.5rem;
+        }
+
+        &::after {
+            content: " (" attr(data-weight) ")";
+            font-size: 0.55em;
+            opacity: 0;
+            font-weight: normal;
+            transition: opacity 0.2s ease;
+        }
+
+        &:hover::after {
+            opacity: 0.8;
         }
     }
+}
 
-    a::after {
-        content: " (" attr(data-weight) ")";
-        font-size: 0.5em;
+@keyframes tag-cloud-fade {
+    from {
         opacity: 0;
-        margin-left: 0.05em;
-        font-weight: normal;
-        transition: opacity 0.3s ease;
     }
-
-    a:hover::after {
-        opacity: 0.8;
+    to {
+        opacity: 1;
     }
 }
 
