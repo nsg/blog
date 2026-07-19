@@ -108,7 +108,7 @@ header.site-header {
         font-size: 4rem;
         text-transform: uppercase;
         text-shadow: var(--header-text-shadow) 1px 1px;
-        margin: -4.5rem 0 2rem;
+        margin: -4.5rem 0 0;
         position: relative;
         z-index: 2;
 
@@ -116,6 +116,19 @@ header.site-header {
             color: var(--header-text);
             text-decoration: none;
         }
+    }
+
+    .tagline {
+        text-align: center;
+        color: var(--header-text);
+        opacity: 0.8;
+        font-size: 0.95rem;
+        font-weight: 500;
+        letter-spacing: 0.35em;
+        text-transform: uppercase;
+        margin: -0.1rem 0 1.4rem;
+        position: relative;
+        z-index: 2;
     }
 }
 
@@ -785,6 +798,13 @@ footer {
             font-size: 2.45rem;
             line-height: 1;
             margin: -1.5rem 0 0;
+            white-space: nowrap;
+        }
+
+        .tagline {
+            font-size: 0.7rem;
+            letter-spacing: 0.28em;
+            margin: 0.35rem 0 0;
             white-space: nowrap;
         }
     }
