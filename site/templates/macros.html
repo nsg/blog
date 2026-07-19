@@ -1,7 +1,7 @@
 {% macro post_preview(page) %}
       <article class="post-card">
         <a href="{{ page.permalink }}" class="post-card-inner">
-          <span class="post-card-image">
+          <div class="post-card-image">
           {% set_global image_url = false %}
           {% set paragraphs = page.content | split(pat="\n") %}
           {% for paragraph in paragraphs %}
@@ -35,15 +35,15 @@
             </svg>
           </div>
           {% endif %}
-          </span>
-          <span class="post-card-content">
+          </div>
+          <div class="post-card-content">
             {% if page.date %}
             <time class="post-card-date" datetime="{{ page.date | date(format="%Y-%m-%d") }}">
               {{ page.date | date(format="%B %d, %Y") }}
             </time>
             {% endif %}
             <h2 class="post-card-title">{{ page.title }}</h2>
-            <span class="post-card-excerpt">
+            <div class="post-card-excerpt">
               {% set paragraphs = page.content | split(pat="\n") %}
               {% for paragraph in paragraphs %}
               {% if paragraph | wordcount > 20 %}
@@ -51,11 +51,11 @@
                 {% break %}
                 {% endif %}
                 {% endfor %}
-            </span>
+            </div>
           <span class="post-card-link">
             Continue reading <span class="arrow">→</span>
           </span>
-        </span>
+          </div>
         </a>
       </article>
 {% endmacro post_preview %}
