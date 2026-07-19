@@ -530,6 +530,8 @@ main {
 
         a {
             color: var(--text-color);
+            text-decoration-color: var(--link-hover);
+            text-underline-offset: 0.15em;
 
             &:hover {
                 color: var(--link-hover);
@@ -576,8 +578,8 @@ main {
             a {
                 color: var(--text-color);
                 text-decoration: underline;
-                text-decoration-color: var(--middle-gray);
-                
+                text-decoration-color: var(--link-hover);
+
                 &:hover {
                     color: var(--link-hover);
                     }
