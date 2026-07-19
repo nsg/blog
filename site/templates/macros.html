@@ -22,7 +22,11 @@
           {% set resized_image_info = resize_image(path=image_url, width=140, height=140, op="fill", format="webp", quality=80) %}
           <img src="{{ resized_image_info.url }}" alt="">
           {% else %}
-          <div class="post-card-placeholder">
+          {% set slug_len = page.slug | default(value="") | length %}
+          {% set title_len = page.title | default(value="") | length %}
+          {% set tint = slug_len * 5 + title_len * 3 %}
+          {% set tint = tint % 6 %}
+          <div class="post-card-placeholder tint-{{ tint }}">
             <svg viewBox="0 0 64 64" fill="none" aria-hidden="true">
               <path class="prompt" d="M16 22L24 30L16 38" />
               <path class="line line-long" d="M30 24H48" />

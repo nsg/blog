@@ -25,6 +25,12 @@
     --code-block-background2: #444;
     --code-block-text: #eee;
     --placeholder-bg: #f1f1f1;
+    --tint-0: linear-gradient(135deg, #e9eff5, #d3dfeb);
+    --tint-1: linear-gradient(135deg, #f5eeda, #e7d9b8);
+    --tint-2: linear-gradient(135deg, #e8f1e6, #d2e3cf);
+    --tint-3: linear-gradient(135deg, #f5e8e0, #e6cfc2);
+    --tint-4: linear-gradient(135deg, #ece7f2, #d8d0e6);
+    --tint-5: linear-gradient(135deg, #e3f0ef, #cbe2e0);
 }
 
 [data-theme="dark"] {
@@ -46,6 +52,12 @@
     --code-block-background2: rgb(48, 48, 48);
     --code-block-text: #eee;
     --placeholder-bg: rgb(18, 18, 18);
+    --tint-0: linear-gradient(135deg, #2a3540, #1b2530);
+    --tint-1: linear-gradient(135deg, #3a3422, #262112);
+    --tint-2: linear-gradient(135deg, #2a3729, #1a251b);
+    --tint-3: linear-gradient(135deg, #3a2d26, #251c17);
+    --tint-4: linear-gradient(135deg, #322e3c, #1f1d28);
+    --tint-5: linear-gradient(135deg, #263735, #172322);
 }
 
 @keyframes pulsate {
@@ -396,6 +408,13 @@ main {
                         justify-content: center;
                         filter: grayscale(100%);
                         transition: filter 0.4s ease-in-out;
+
+                        &.tint-0 { background: var(--tint-0); }
+                        &.tint-1 { background: var(--tint-1); }
+                        &.tint-2 { background: var(--tint-2); }
+                        &.tint-3 { background: var(--tint-3); }
+                        &.tint-4 { background: var(--tint-4); }
+                        &.tint-5 { background: var(--tint-5); }
         
                         svg {
                             width: 58px;
