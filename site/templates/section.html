@@ -2,42 +2,39 @@
 {% import "macros.html" as macros %}
 {% block title %} Year {{ section.title }} | {{ config.title }}{% endblock title %}
 {% block page_header %}
-  {% if section.title == "all" %}
-    <h2 class="no-border">Showing all posts from the entire archive</h2>
-  {% else %}
-    <h2 class="no-border">Showing posts from year <em>{{ section.title }}</em></h2>
-  {% endif %}
+  {%- if section.title == "all" %}
+  <h2 class="no-border">Showing all posts from the entire archive</h2>
+  {%- else %}
+  <h2 class="no-border">Showing posts from year <em>{{ section.title }}</em></h2>
+  {%- endif %}
 {% endblock page_header %}
 {% block section %}
-
-  {% for page in section.pages %}
-    {{ macros::post_preview(page=page) }}
-  {% endfor %}
-  
+  {%- for page in section.pages %}
+{{ macros::post_preview(page=page) }}
+  {%- endfor %}
   <article class="archive">
-    {% for year in section.subsections | sort | reverse %}
-      {% set year_section = get_section(path=year) %}
-      {% if year_section.title == "2015" %}
-      <div class="language-notice">
-          <div class="flag"></div>
-          <span>Posts before 2015 are written in Swedish</span>
-        </div>
-      {% endif %}
-      <section class="archive-year">
-        <h3 class="year-heading">
-          <a href="{{ year_section.permalink }}">{{ year_section.title }}</a>
-          <span class="post-count">{{ year_section.pages | length }} posts</span>
-        </h3>
-        <ul>
-          {% for page in year_section.pages %}
-          <li>
-            <a href="{{ page.permalink }}">{{ page.title }}</a>
-            <span class="date">{{ page.date | date(format="%Y-%m-%d") }}</span>
-          </li>
-          {% endfor %}
-        </ul>
-      </section>
-    {% endfor %}
+    {%- for year in section.subsections | sort | reverse %}
+    {%- set year_section = get_section(path=year) %}
+    {%- if year_section.title == "2015" %}
+    <div class="language-notice">
+      <div class="flag"></div>
+      <span>Posts before 2015 are written in Swedish</span>
+    </div>
+    {%- endif %}
+    <section class="archive-year">
+      <h3 class="year-heading">
+        <a href="{{ year_section.permalink }}">{{ year_section.title }}</a>
+        <span class="post-count">{{ year_section.pages | length }} posts</span>
+      </h3>
+      <ul>
+        {%- for page in year_section.pages %}
+        <li>
+          <a href="{{ page.permalink }}">{{ page.title }}</a>
+          <span class="date">{{ page.date | date(format="%Y-%m-%d") }}</span>
+        </li>
+        {%- endfor %}
+      </ul>
+    </section>
+    {%- endfor %}
   </article>
-
 {% endblock section %}

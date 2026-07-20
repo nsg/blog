@@ -4,20 +4,19 @@
     <h2>Tag clouds</h2>
 {% endblock page_header %}
 {% block section %}
-
     <article class="tags">
         <ul>
-            {% for term in terms %}
-                {% set_global is_english = false %}
-                {% for page in term.pages %}
-                    {% if page.date and page.date | date(format="%Y") | int > 2014 %}
-                        {% set_global is_english = true %}
-                    {% endif %}
-                {% endfor %}
-                {% if is_english %}
-                    <li><a href="{{ term.permalink }}" data-weight="{{ term.pages | length }}">{{ term.name | lower }}</a></li>
-                {% endif %}
-            {% endfor %}
+            {%- for term in terms %}
+              {%- set_global is_english = false %}
+              {%- for page in term.pages %}
+                {%- if page.date and page.date | date(format="%Y") | int > 2014 %}
+                  {%- set_global is_english = true %}
+                {%- endif %}
+              {%- endfor %}
+              {%- if is_english %}
+            <li><a href="{{ term.permalink }}" data-weight="{{ term.pages | length }}">{{ term.name | lower }}</a></li>
+              {%- endif %}
+            {%- endfor %}
         </ul>
     </article>
 
@@ -30,18 +29,17 @@
 
     <article class="tags">
         <ul>
-            {% for term in terms %}
-                {% set_global is_swedish = false %}
-                {% for page in term.pages %}
-                    {% if not page.date or page.date | date(format="%Y") | int <= 2014 %}
-                        {% set_global is_swedish = true %}
-                    {% endif %}
-                {% endfor %}
-                {% if is_swedish %}
-                    <li><a href="{{ term.permalink }}" data-weight="{{ term.pages | length }}">{{ term.name | lower }}</a></li>
-                {% endif %}
-            {% endfor %}
+            {%- for term in terms %}
+              {%- set_global is_swedish = false %}
+              {%- for page in term.pages %}
+                {%- if not page.date or page.date | date(format="%Y") | int <= 2014 %}
+                  {%- set_global is_swedish = true %}
+                {%- endif %}
+              {%- endfor %}
+              {%- if is_swedish %}
+            <li><a href="{{ term.permalink }}" data-weight="{{ term.pages | length }}">{{ term.name | lower }}</a></li>
+              {%- endif %}
+            {%- endfor %}
         </ul>
     </article>
-
 {% endblock section %}

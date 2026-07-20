@@ -2,30 +2,30 @@
       <article class="post-card">
         <a href="{{ page.permalink }}" class="post-card-inner">
           <div class="post-card-image">
-          {% set_global image_url = false %}
-          {% set paragraphs = page.content | split(pat="\n") %}
-          {% for paragraph in paragraphs %}
-          {% if paragraph is containing("img") %}
-          {% for p in paragraph | split(pat=' ') %}
-          {% if p is containing("src=") %}
-          {% set clean_path = p | replace(from="src=", to="") | replace(from='"', to="") | replace(from="'", to="") %}
-          {% if clean_path is containing("/images/") %}
-          {% set_global image_url = clean_path %}
-          {% break %}
-          {% endif %}
-          {% endif %}
-          {% endfor %}
-          {% break %}
-          {% endif %}
-          {% endfor %}
-          {% if image_url %}
-          {% set resized_image_info = resize_image(path=image_url, width=140, height=140, op="fill", format="webp", quality=80) %}
+          {%- set_global image_url = false %}
+          {%- set paragraphs = page.content | split(pat="\n") %}
+          {%- for paragraph in paragraphs %}
+            {%- if paragraph is containing("img") %}
+              {%- for p in paragraph | split(pat=' ') %}
+                {%- if p is containing("src=") %}
+                  {%- set clean_path = p | replace(from="src=", to="") | replace(from='"', to="") | replace(from="'", to="") %}
+                  {%- if clean_path is containing("/images/") %}
+                    {%- set_global image_url = clean_path %}
+                    {%- break %}
+                  {%- endif %}
+                {%- endif %}
+              {%- endfor %}
+              {%- break %}
+            {%- endif %}
+          {%- endfor %}
+          {%- if image_url %}
+          {%- set resized_image_info = resize_image(path=image_url, width=140, height=140, op="fill", format="webp", quality=80) %}
           <img src="{{ resized_image_info.url }}" alt="">
-          {% else %}
-          {% set slug_len = page.slug | default(value="") | length %}
-          {% set title_len = page.title | default(value="") | length %}
-          {% set tint = slug_len * 5 + title_len * 3 %}
-          {% set tint = tint % 6 %}
+          {%- else %}
+          {%- set slug_len = page.slug | default(value="") | length %}
+          {%- set title_len = page.title | default(value="") | length %}
+          {%- set tint = slug_len * 5 + title_len * 3 %}
+          {%- set tint = tint % 6 %}
           <div class="post-card-placeholder tint-{{ tint }}">
             <svg viewBox="0 0 64 64" fill="none" aria-hidden="true">
               <path class="prompt" d="M16 22L24 30L16 38" />
@@ -34,23 +34,23 @@
               <path class="line line-short" d="M30 40H36" />
             </svg>
           </div>
-          {% endif %}
+          {%- endif %}
           </div>
           <div class="post-card-content">
-            {% if page.date %}
+            {%- if page.date %}
             <time class="post-card-date" datetime="{{ page.date | date(format="%Y-%m-%d") }}">
               {{ page.date | date(format="%B %d, %Y") }}
             </time>
-            {% endif %}
+            {%- endif %}
             <h2 class="post-card-title">{{ page.title }}</h2>
             <div class="post-card-excerpt">
-              {% set paragraphs = page.content | split(pat="\n") %}
-              {% for paragraph in paragraphs %}
-              {% if paragraph | wordcount > 20 %}
-                {{ paragraph | striptags | truncate(length=150) }}
-                {% break %}
-                {% endif %}
-                {% endfor %}
+              {%- set paragraphs = page.content | split(pat="\n") %}
+              {%- for paragraph in paragraphs %}
+                {%- if paragraph | wordcount > 20 %}
+              {{ paragraph | striptags | truncate(length=150) }}
+                  {%- break %}
+                {%- endif %}
+              {%- endfor %}
             </div>
           <span class="post-card-link">
             Continue reading <span class="arrow">→</span>
@@ -58,4 +58,4 @@
           </div>
         </a>
       </article>
-{% endmacro post_preview %}
+{%- endmacro post_preview %}
