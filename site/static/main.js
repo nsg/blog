@@ -252,6 +252,16 @@ function build_tag_cloud(ul) {
     const tw = Math.ceil(m.width) + 2;
     const th = asc + desc + 2;
 
+    // How far the ink sits below the line box middle, descenders included.
+    const fasc = m.fontBoundingBoxAscent || it.size * 0.8;
+    const fdesc = m.fontBoundingBoxDescent || it.size * 0.2;
+    const baseline = (it.size - (fasc + fdesc)) / 2 + fasc;
+    it.dy = baseline + (desc - asc) / 2 - it.size / 2;
+
+    it.cnt_size = it.size * 0.55;
+    sctx.font = it.cnt_size + "px " + family;
+    it.cnt_w = sctx.measureText("(" + it.weight + ")").width + it.cnt_size * 0.25;
+
     scratch.width = tw;
     scratch.height = th;
     sctx.font = font; // canvas resize resets state
@@ -393,7 +403,22 @@ function build_tag_cloud(ul) {
     a.style.fontSize = it.size + "px";
     a.style.left = (it.x + it.bw / 2) + "px";
     a.style.top = (it.y + it.bh / 2) + "px";
-    a.style.setProperty("--tr", "translate(-50%, -50%) rotate(" + it.deg + "deg)");
+    // Base values mirror the CSS shorthand; dy pads the box onto the glyphs.
+    const base_v = it.size * 0.12, base_h = it.size * 0.3;
+    const pad_t = Math.max(base_v - it.dy, 0), pad_b = Math.max(base_v + it.dy, 0);
+    const pad_l = base_h, pad_r = base_h + it.cnt_w;
+    a.style.padding = pad_t + "px " + pad_r + "px " + pad_b + "px " + pad_l + "px";
+    a.style.setProperty("--cnt-size", it.cnt_size + "px");
+    a.style.setProperty("--cnt-right", base_h + "px");
+
+    // Undo the box shift from the asymmetric padding, in the glyphs' frame.
+    const ox = (pad_l - pad_r) / 2;
+    const oy = it.dy + (pad_t - pad_b) / 2;
+    a.style.setProperty(
+      "--tr",
+      "translate(-50%, -50%) rotate(" + it.deg + "deg) translate(" +
+        (-ox).toFixed(2) + "px, " + (-oy).toFixed(2) + "px)"
+    );
     cloud.appendChild(a);
   });
 

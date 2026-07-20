@@ -1054,6 +1054,11 @@ article.tags > ul {
     display: none;
 }
 
+// The generic article's overflow:hidden clips hover boxes at the edge.
+article.tags {
+    overflow: visible;
+}
+
 .tag-cloud {
     position: relative;
     margin: 2rem 0;
@@ -1067,8 +1072,13 @@ article.tags > ul {
         line-height: 1;
         color: var(--text-color);
         transform: var(--tr);
+        // Resizing on hover would shift the word off its packed slot.
+        padding: 0.12em 0.3em;
+        border: 1px solid transparent;
+        border-radius: 0.45em;
         transition:
-            transform 0.2s ease,
+            background 0.2s ease,
+            border-color 0.2s ease,
             color 0.2s ease;
 
         &.c0 {
@@ -1093,17 +1103,19 @@ article.tags > ul {
         &:hover {
             color: var(--link-hover);
             background: var(--bg-color);
-            border: 1px solid var(--link-hover);
-            border-radius: 0.45em;
-            padding: 0.12em 0.3em;
+            border-color: var(--link-hover);
             box-shadow: 0 2px 12px rgba(0, 0, 0, 0.25);
-            transform: var(--tr) scale(1.3);
             z-index: 10;
         }
 
+        // Out of flow: the packer sized the slot for the word alone.
         &::after {
-            content: " (" attr(data-weight) ")";
-            font-size: 0.55em;
+            content: "(" attr(data-weight) ")";
+            position: absolute;
+            right: var(--cnt-right, 0.3em);
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: var(--cnt-size, 0.55em);
             opacity: 0;
             font-weight: normal;
             transition: opacity 0.2s ease;
