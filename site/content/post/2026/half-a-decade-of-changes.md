@@ -3,7 +3,7 @@ date = "2026-08-13T13:30:00+02:00"
 title = "Half a decade of changes"
 
 [taxonomies]
-tags = []
+tags = ["personal", "reflections", "COVID"]
 +++
 Things have really changed for me, a little over five years ago at the end of 2019 my life was quite stable. I had my apartment that I had been living in for over six years and I had been working with the same people for more or less the same time. I still spent most of my free time with the same old friends, and as the nerd I am, plenty of time on the computer. I was also long time single. I was comfortable and my life felt familiar and safe and it can be a little tricky to get out of the comfort zone. 
 
