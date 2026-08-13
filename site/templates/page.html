@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% import "macros.html" as macros %}
 {% block title %} {{ page.title }} | {{ config.title }} {% endblock title %}
 {% block article %}
     <header class="post-header">
@@ -10,7 +11,15 @@
         {%- if page.taxonomies.tags %}
         <ul class="tags">
             {%- for tag in page.taxonomies.tags %}
-            <li><a class="tag" href="/tags/{{ tag | slugify }}">{{ tag }}</a></li>
+            {%- set is_blogger = tag | lower == "blogger" %}
+            <li>
+                <a class="tag{% if is_blogger %} tag-blogger{% endif %}"
+                   href="/tags/{{ tag | slugify }}"
+                   {% if is_blogger %}title="Partially written with AI; proofread and approved by me" aria-label="Blogger tag: partially written with AI; proofread and approved by me"{% endif %}>
+                    {%- if is_blogger %}{{ macros::blogger_sparkle() }}{% endif -%}
+                    {{ tag }}
+                </a>
+            </li>
             {%- endfor %}
         </ul>
         {%- endif %}
@@ -57,8 +66,10 @@
                     <span class="tags">
                         {%- for current_tag in page.taxonomies.tags %}
                           {%- if current_tag in related_page.taxonomies.tags %}
-                        <span class="tag">
-                            <a href="/tags/{{ current_tag | slugify }}">{{ current_tag }}</a>
+                          {%- set is_blogger = current_tag | lower == "blogger" %}
+                        <span class="tag{% if is_blogger %} tag-blogger{% endif %}">
+                            <a href="/tags/{{ current_tag | slugify }}"
+                               {% if is_blogger %}title="Partially written with AI; proofread and approved by me" aria-label="Blogger tag: partially written with AI; proofread and approved by me"{% endif %}>{% if is_blogger %}{{ macros::blogger_sparkle() }}{% endif %}{{ current_tag }}</a>
                         </span>
                           {%- endif %}
                         {%- endfor %}

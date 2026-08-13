@@ -42,6 +42,10 @@
     --cloud-3: #006aa7;
     --cloud-4: #222;
     --cloud-5: #999;
+    --blogger-tag-bg: linear-gradient(135deg, #6d28d9, #2563eb);
+    --blogger-tag-bg-hover: linear-gradient(135deg, #7c3aed, #1d4ed8);
+    --blogger-tag-border: #a78bfa;
+    --blogger-tag-text: #fff;
 }
 
 [data-theme="dark"] {
@@ -78,6 +82,10 @@
     --cloud-3: #4d9fd6;
     --cloud-4: #eee;
     --cloud-5: #999;
+    --blogger-tag-bg: linear-gradient(135deg, #7c3aed, #2563eb);
+    --blogger-tag-bg-hover: linear-gradient(135deg, #8b5cf6, #3b82f6);
+    --blogger-tag-border: #c4b5fd;
+    --blogger-tag-text: #fff;
 }
 
 @keyframes pulsate {
@@ -90,6 +98,16 @@
     100% {
         transform: scale(1);
     }
+}
+
+.tag-blogger-sparkle {
+    display: inline-block;
+    width: 1em;
+    height: 0.84em;
+    margin-right: 0.28em;
+    overflow: visible;
+    vertical-align: -0.05em;
+    fill: #fde047;
 }
 
 body {
@@ -296,6 +314,39 @@ main {
             border-bottom: none;
             margin-bottom: 0;
             padding-bottom: 0;
+        }
+    }
+
+    .tag-description {
+        display: flex;
+        align-items: flex-start;
+        gap: 1rem;
+        margin: 0.75rem 1rem 1.5rem;
+        padding: 1rem 1.15rem;
+        background-color: var(--bg-color-darker);
+        border-left: 4px solid var(--blogger-tag-border);
+        border-radius: 0.3rem;
+
+        .tag-description-label {
+            display: inline-flex;
+            align-items: center;
+            flex-shrink: 0;
+            padding: 0.35rem 0.7rem;
+            background: var(--blogger-tag-bg);
+            border: 1px solid var(--blogger-tag-border);
+            border-radius: 0.3rem;
+            color: var(--blogger-tag-text);
+            font-size: 0.85rem;
+            font-weight: 700;
+        }
+
+        p {
+            margin: 0;
+            line-height: 1.5;
+
+            + p {
+                margin-top: 0.75rem;
+            }
         }
     }
 
@@ -564,6 +615,18 @@ main {
                         color: var(--nav-text);
                     }
                 }
+
+                .tag-blogger {
+                    background: var(--blogger-tag-bg);
+                    color: var(--blogger-tag-text);
+                    font-weight: 700;
+
+                    &:hover {
+                        background: var(--blogger-tag-bg-hover);
+                        color: var(--blogger-tag-text);
+                    }
+                }
+
             }
         }
 
@@ -853,6 +916,10 @@ footer {
     }
 
     main {
+        .tag-description {
+            flex-direction: column;
+        }
+
         section {
             h2 {
                 font-size: 1.6rem;
@@ -1250,6 +1317,15 @@ article.tags {
                     a {
                         color: var(--nav-text);
                         text-decoration: none;
+                    }
+                }
+
+                .tag-blogger {
+                    background: var(--blogger-tag-bg);
+
+                    a {
+                        color: var(--blogger-tag-text);
+                        font-weight: 700;
                     }
                 }
             }
