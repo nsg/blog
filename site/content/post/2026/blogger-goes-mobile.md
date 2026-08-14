@@ -5,6 +5,9 @@ title = "Blogger goes mobile"
 [taxonomies]
 tags = ["ai", "tools", "personal", "ai-scribed"]
 +++
+
+![](/images/2026/1786723533-1000029368.png)
+
 A while ago I wrote about [Blogger](/post/2026/blogger-helper/), a little tool I vibe coded to help me write posts like these. Since then I have kept tinkering with it, and it has changed quite a bit.
 
 This blog has been around for over twenty years, I started it back in 2005. In the beginning I posted often, several times a week. Scroll through the archive and you will notice that the posts get further and further apart. Some years there is only one or two. The reason is simple, I have prioritized other things. And the urge to write has always tended to strike when I'm out and about, not sitting in front of the keyboard.
