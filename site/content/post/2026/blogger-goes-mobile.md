@@ -3,7 +3,7 @@ date = 2026-08-13
 title = "Blogger goes mobile"
 
 [taxonomies]
-tags = ["ai", "tools", "personal", "blogger"]
+tags = ["ai", "tools", "personal", "ai-scribed"]
 +++
 A while ago I wrote about [Blogger](/post/2026/blogger-helper/), a little tool I vibe coded to help me write posts like these. Since then I have kept tinkering with it, and it has changed quite a bit.
 

@@ -42,10 +42,10 @@
     --cloud-3: #006aa7;
     --cloud-4: #222;
     --cloud-5: #999;
-    --blogger-tag-bg: linear-gradient(135deg, #6d28d9, #2563eb);
-    --blogger-tag-bg-hover: linear-gradient(135deg, #7c3aed, #1d4ed8);
-    --blogger-tag-border: #a78bfa;
-    --blogger-tag-text: #fff;
+    --ai-scribed-tag-bg: linear-gradient(135deg, #6d28d9, #2563eb);
+    --ai-scribed-tag-bg-hover: linear-gradient(135deg, #7c3aed, #1d4ed8);
+    --ai-scribed-tag-border: #a78bfa;
+    --ai-scribed-tag-text: #fff;
 }
 
 [data-theme="dark"] {
@@ -82,10 +82,10 @@
     --cloud-3: #4d9fd6;
     --cloud-4: #eee;
     --cloud-5: #999;
-    --blogger-tag-bg: linear-gradient(135deg, #7c3aed, #2563eb);
-    --blogger-tag-bg-hover: linear-gradient(135deg, #8b5cf6, #3b82f6);
-    --blogger-tag-border: #c4b5fd;
-    --blogger-tag-text: #fff;
+    --ai-scribed-tag-bg: linear-gradient(135deg, #7c3aed, #2563eb);
+    --ai-scribed-tag-bg-hover: linear-gradient(135deg, #8b5cf6, #3b82f6);
+    --ai-scribed-tag-border: #c4b5fd;
+    --ai-scribed-tag-text: #fff;
 }
 
 @keyframes pulsate {
@@ -100,7 +100,7 @@
     }
 }
 
-.tag-blogger-sparkle {
+.tag-ai-scribed-sparkle {
     display: inline-block;
     width: 1em;
     height: 0.84em;
@@ -324,7 +324,7 @@ main {
         margin: 0.75rem 1rem 1.5rem;
         padding: 1rem 1.15rem;
         background-color: var(--bg-color-darker);
-        border-left: 4px solid var(--blogger-tag-border);
+        border-left: 4px solid var(--ai-scribed-tag-border);
         border-radius: 0.3rem;
 
         .tag-description-label {
@@ -332,10 +332,10 @@ main {
             align-items: center;
             flex-shrink: 0;
             padding: 0.35rem 0.7rem;
-            background: var(--blogger-tag-bg);
-            border: 1px solid var(--blogger-tag-border);
+            background: var(--ai-scribed-tag-bg);
+            border: 1px solid var(--ai-scribed-tag-border);
             border-radius: 0.3rem;
-            color: var(--blogger-tag-text);
+            color: var(--ai-scribed-tag-text);
             font-size: 0.85rem;
             font-weight: 700;
         }
@@ -616,14 +616,14 @@ main {
                     }
                 }
 
-                .tag-blogger {
-                    background: var(--blogger-tag-bg);
-                    color: var(--blogger-tag-text);
+                .tag-ai-scribed {
+                    background: var(--ai-scribed-tag-bg);
+                    color: var(--ai-scribed-tag-text);
                     font-weight: 700;
 
                     &:hover {
-                        background: var(--blogger-tag-bg-hover);
-                        color: var(--blogger-tag-text);
+                        background: var(--ai-scribed-tag-bg-hover);
+                        color: var(--ai-scribed-tag-text);
                     }
                 }
 
@@ -1320,11 +1320,11 @@ article.tags {
                     }
                 }
 
-                .tag-blogger {
-                    background: var(--blogger-tag-bg);
+                .tag-ai-scribed {
+                    background: var(--ai-scribed-tag-bg);
 
                     a {
-                        color: var(--blogger-tag-text);
+                        color: var(--ai-scribed-tag-text);
                         font-weight: 700;
                     }
                 }

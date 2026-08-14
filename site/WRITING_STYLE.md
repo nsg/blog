@@ -44,4 +44,4 @@
 - Implying something is universal when it isn't (say "posts like these," not "these posts").
 
 ## Notes / conventions
-- The "blogger" tag is machine-readable: my site template detects it and auto-generates a disclaimer that the post was dictated and proofread by me, not written word-for-word. So never hardcode that disclaimer in the post body.
+- The "ai-scribed" tag is machine-readable: my site template detects it and adds a disclosure explaining that AI acted as a scribe while the ideas, critical review, editing, and final approval remained mine. So never hardcode that disclosure in the post body.

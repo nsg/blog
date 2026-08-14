@@ -3,16 +3,16 @@
 {% block title %}Tag {{ term.name }} | {{ config.title }}{% endblock title %}
 {% block page_header %}
     <h2>Showing posts tagged with <em>{{ term.name }}</em></h2>
-    {%- if term.name | lower == "blogger" %}
-    <aside class="tag-description" aria-label="About the blogger tag">
+    {%- if term.name | lower == "ai-scribed" %}
+    <aside class="tag-description" aria-label="About the AI-scribed tag">
         <span class="tag-description-label">
-            {{ macros::blogger_sparkle() }}blogger
+            {{ macros::ai_scribed_sparkle() }}AI-scribed
         </span>
         <div>
             <p>
-                Posts with this tag were created with AI assistance. I may not have written every sentence word for
-                word, but the ideas are mine. I worked through the material critically, edited and approved the final
-                text, and I stand behind what it says.
+                Posts with this tag were written with AI acting as a scribe. I may not have written every sentence
+                word for word, but the ideas are mine. I worked through the material critically, edited and approved
+                the final text, and I stand behind what it says.
             </p>
             <p>
                 This is not an entirely new kind of authorship. For centuries, people dictated letters and documents
