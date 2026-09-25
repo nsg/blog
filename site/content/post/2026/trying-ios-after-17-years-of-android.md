@@ -1,6 +1,5 @@
 +++
 date = 2026-09-24
-draft = true
 title = "Trying iOS after 17 years of Android"
 
 [taxonomies]
