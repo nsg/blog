@@ -430,17 +430,25 @@ function init_tag_clouds() {
   const lists = document.querySelectorAll("article.tags > ul");
   if (lists.length === 0) return;
 
+  let rendered_width = null;
+
   // Wait for the web font: text must be measured with the real face.
   document.fonts.ready.then(() => {
     lists.forEach(build_tag_cloud);
+    rendered_width = lists[0].parentElement.clientWidth;
   });
 
   let resize_timer = null;
   window.addEventListener("resize", () => {
     clearTimeout(resize_timer);
     resize_timer = setTimeout(() => {
-      document.querySelectorAll(".tag-cloud").forEach(c => c.remove());
+      const width = lists[0].parentElement.clientWidth;
+      if (rendered_width === null || width === rendered_width) return;
+
+      const old_clouds = document.querySelectorAll(".tag-cloud");
       lists.forEach(build_tag_cloud);
+      old_clouds.forEach(c => c.remove());
+      rendered_width = width;
     }, 200);
   });
 }
