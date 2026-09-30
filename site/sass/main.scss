@@ -572,9 +572,10 @@ main {
             }
         }
         .post-header {
-            display: grid;
-            grid-template-columns: max-content minmax(0, 1fr);
-            align-items: start;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            align-items: center;
             gap: 0.6rem 1rem;
             margin: 0 0 1rem 0;
             padding: 0 0 0.5rem 0;
@@ -590,8 +591,10 @@ main {
                 display: flex;
                 flex-wrap: wrap;
                 justify-content: flex-end;
+                flex: 0 0 auto;
                 gap: 0.3rem;
                 min-width: 0;
+                max-width: 100%;
                 margin: 0;
                 padding: 0;
                 list-style: none;
@@ -924,19 +927,6 @@ footer {
     main {
         .tag-description {
             flex-direction: column;
-        }
-
-        article .post-header {
-            grid-template-columns: 1fr;
-
-            .tags {
-                justify-content: flex-start;
-
-                .tag {
-                    padding: 0.3rem 0.6rem;
-                    font-size: 0.78rem;
-                }
-            }
         }
 
         section {
