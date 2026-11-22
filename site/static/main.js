@@ -91,6 +91,13 @@ function init_search() {
     });
 }
 
+// The results have a fixed height so that it can animate. Follow the list,
+// which also changes height when the window is resized.
+const results_observer = new ResizeObserver(([entry]) => {
+  const list = entry.target;
+  list.parentElement.style.height = list.getBoundingClientRect().height + "px";
+});
+
 function do_search(text) {
 
   let result_div = document.querySelector("#search .results");
@@ -138,9 +145,8 @@ function do_search(text) {
 
   result_div.appendChild(ul);
   result_div.style.display = "block";
-  // Measure the list: the container's scrollHeight never drops below the
-  // height it was last given.
-  result_div.style.height = ul.getBoundingClientRect().height + "px";
+  results_observer.disconnect();
+  results_observer.observe(ul);
 }
 
 function os_prefer_dark_mode() {
