@@ -143,8 +143,9 @@ function do_search(text) {
 
   result_div.appendChild(ul);
   result_div.style.display = "block";
-  // Reveal to the actual content height so the snippet rows can't clip.
-  result_div.style.height = result_div.scrollHeight + "px";
+  // Measure the list: the container's scrollHeight never drops below the
+  // height it was last given.
+  result_div.style.height = ul.getBoundingClientRect().height + "px";
 }
 
 function os_prefer_dark_mode() {
