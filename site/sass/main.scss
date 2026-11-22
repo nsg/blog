@@ -28,6 +28,8 @@
     --code-block-background2: #444;
     --code-block-text: #eee;
     --placeholder-bg: #f1f1f1;
+    --chip-bg: var(--nav-bg);
+    --postend-border: var(--nav-bg);
     --tint-0: linear-gradient(135deg, #e9eff5, #d3dfeb);
     --tint-1: linear-gradient(135deg, #f5eeda, #e7d9b8);
     --tint-2: linear-gradient(135deg, #e8f1e6, #d2e3cf);
@@ -49,11 +51,14 @@
 }
 
 [data-theme="dark"] {
-    --bg-color: rgb(42, 42, 42);
-    --bg-color-darker: rgb(3, 3, 3);
-    --text-color: #eee;
+    color-scheme: dark;
+    --bg-color: #131a22;
+    --bg-color-darker: #0c1218;
+    --text-color: #e4e6e8;
     --text-shadow: #aaa;
-    --middle-gray: #999;
+    --middle-gray: #9aa3ad;
+    --chip-bg: #1d3550;
+    --postend-border: rgba(199, 154, 46, 0.35);
     --header-bg: #0a1f33;
     --header-text: #eee;
     --header-text-shadow: #666;
@@ -62,11 +67,11 @@
     --nav-text: #eee;
     --link-hover: #c79a2e;
     --focus-color: #c79a2e;
-    --code-background: rgb(48, 48, 48);
+    --code-background: #212b37;
     --code-block-background: rgb(32, 32, 32);
     --code-block-background2: rgb(48, 48, 48);
     --code-block-text: #eee;
-    --placeholder-bg: rgb(18, 18, 18);
+    --placeholder-bg: #0c1218;
     --tint-0: linear-gradient(135deg, #2a3540, #1b2530);
     --tint-1: linear-gradient(135deg, #3a3422, #262112);
     --tint-2: linear-gradient(135deg, #2a3729, #1a251b);
@@ -610,7 +615,7 @@ main {
                 .tag {
                     display: inline-block;
                     padding: 0.35rem 0.7rem;
-                    background-color: var(--nav-bg);
+                    background-color: var(--chip-bg);
                     color: var(--nav-text);
                     font-size: 0.85rem;
                     line-height: 1.2;
@@ -789,6 +794,7 @@ main {
         padding: 2rem;
         font-size: 1rem;
         background-color: var(--nav-bg);
+        border: 1px solid var(--postend-border);
         color: var(--nav-text);
 
         a {
@@ -1338,7 +1344,7 @@ article.tags > ul {
                 .tag {
                     display: inline-block;
                     padding: 0.15rem 0.4rem;
-                    background-color: var(--nav-bg);
+                    background-color: var(--chip-bg);
                     color: var(--nav-text);
                     font-size: 0.7rem;
                     text-decoration: none;
