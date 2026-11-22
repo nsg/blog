@@ -275,6 +275,7 @@ nav {
 main {
     max-width: 800px;
     margin: auto;
+    overflow-wrap: break-word;
 
     h2 {
         margin: 1rem;
@@ -354,7 +355,8 @@ main {
         margin: 1rem 1rem 2.2rem 1rem;
         font-size: 1.2rem;
         clear: both;
-        overflow: hidden;
+        // Contains floats without clipping what is inside.
+        display: flow-root;
 
         img {
             max-width: 100%;
@@ -729,6 +731,27 @@ main {
     }
 
     .post-content {
+        // Old posts carry fixed-size images and embeds.
+        img,
+        embed,
+        iframe,
+        object,
+        video,
+        div {
+            max-width: 100%;
+            box-sizing: border-box;
+        }
+
+        img[width] {
+            height: auto;
+        }
+
+        table {
+            display: block;
+            max-width: 100%;
+            overflow-x: auto;
+        }
+
         p {
             margin: 1rem 0;
             line-height: 1.5;
@@ -820,6 +843,8 @@ main {
                     list-style: none;
 
                     a {
+                        min-width: 0;
+                        overflow-wrap: anywhere;
                         color: var(--text-color);
                         text-decoration: none;
 
@@ -1130,11 +1155,6 @@ article.tags > ul {
     display: none;
 }
 
-// The generic article's overflow:hidden clips hover boxes at the edge.
-article.tags {
-    overflow: visible;
-}
-
 .tag-cloud {
     position: relative;
     margin: 2rem 0;
@@ -1285,7 +1305,7 @@ article.tags {
 
             .related-post-header {
                 display: grid;
-                grid-template-columns: minmax(0, 1fr) max-content;
+                grid-template-columns: minmax(0, 1fr) fit-content(55%);
                 align-items: center;
                 column-gap: 0.5rem;
                 min-width: 0;
@@ -1311,6 +1331,7 @@ article.tags {
 
             .tags {
                 display: flex;
+                flex-wrap: wrap;
                 gap: 0.25rem;
                 justify-content: flex-end;
 
