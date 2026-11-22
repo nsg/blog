@@ -25,7 +25,8 @@
         {%- endif %}
     </header>
     <div class="post-content"{% if page.date and page.year < 2015 %} lang="sv"{% endif %}>
-        {{ page.content | safe }}
+        {#- Here rather than in Markdown, most images are raw HTML in old posts. #}
+        {{ page.content | replace(from="<img ", to='<img loading="lazy" decoding="async" ') | safe }}
     </div>
 {% endblock article %}
 

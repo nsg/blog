@@ -62,7 +62,7 @@
           {%- endfor %}
           {%- if image_url %}
           {%- set resized_image_info = resize_image(path=image_url, width=140, height=140, op="fill", format="webp", quality=80) %}
-          <img src="{{ resized_image_info.url }}" alt="">
+          <img src="{{ resized_image_info.url }}" alt="" width="140" height="140" loading="lazy" decoding="async">
           {%- else %}
           {%- set tint = page.date | default(value="1970-01-01") | date(format="%s") | int %}
           {%- set tint = tint % 6 %}
