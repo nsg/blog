@@ -1,6 +1,8 @@
 +++
 date = "2007-08-11T11:47:13+00:00"
 title = "Vad är det med DN.se?"
+[taxonomies]
+tags = ["dn", "ddos"]
 +++
 
 <p>Det känns som att något inte står rätt till hos DN.se i dag, alla normala länkar funkar inte utan ger bara meddelandet att sidan inte finns, om man går direkt till <a href="http://www.dn.se">dn.se</a> istället så kommer man fram, men till en mycket nerskalad sida utan reklam och onödig grafik.</p>
@@ -12,5 +14,4 @@ title = "Vad är det med DN.se?"
 <blockquote><p><span class="h5">Tekniska problem</span><br />
 DN.se har haft tekniska problem under lördagen. Vi beklagar detta. Nu fungerar sajten som normalt.</p>
 <p><span class="text"></span></p></blockquote>
-<p>:: DN, DN.se, DDos</p>
 <small></small>

@@ -1,6 +1,8 @@
 +++
 date = "2007-11-22T12:51:23+00:00"
 title = "Kanske snart yttligare en uppdatering av tv-nätet."
+[taxonomies]
+tags = ["TV", "marknätet"]
 +++
 
 [Tv-bolagen: &#8220;Dagens digital-tv boxar är omoderna&#8221;][1] ([via][2])
@@ -12,10 +14,6 @@ Frågan är även om MPEG4 kommer räcka, jag citerar en kommentar på sidan.
 > <p align="left">
 >   <em>Inlagd av: gmo, 2007-11-21 11:41</em><br /> HDTV i MPEG-4 tar mer plats än lågupplöst TV i MPEG-2 så hur skulle en övergång för lågupplöst TV till MPEG-4 kunna hjälpa TV-bolagen, givet att alla vill sända HDTV på sikt?
 > </p>
-
-<p align="left">
-  :: TV, Digital-TV, Marknätet
-</p>
 
 <small></small>
 
