@@ -69,11 +69,6 @@ function init_search() {
   let search_div = document.querySelector("#search");
   let form = search_div.getElementsByTagName("form")[0];
 
-    document.querySelector(".search button").addEventListener("keypress", (event) => {
-      toggle_search(event.target);
-      event.preventDefault();
-    });
-
     document.querySelector(".search button").addEventListener("click", (event) => {
       toggle_search(event.target);
       event.preventDefault();
