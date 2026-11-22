@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 {% import "macros.html" as macros %}
-{% block title %} Year {{ section.title }} | {{ config.title }}{% endblock title %}
+{% block title %}{% if section.title == "all" %}Archive{% else %}Year {{ section.title }}{% endif %} | {{ config.title }}{% endblock title %}
 {% block page_header %}
   {%- if section.title == "all" %}
   <h2 class="no-border">Showing all posts from the entire archive</h2>

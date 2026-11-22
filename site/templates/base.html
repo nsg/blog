@@ -55,6 +55,8 @@
 
   {%- if page.title %}
     {%- set meta_title = page.title %}
+  {%- elif section.title and section.title == "all" %}
+    {%- set meta_title = "Archive" %}
   {%- elif section.title and section.path != "/" %}
     {%- set meta_title = section.title %}
   {%- else %}
