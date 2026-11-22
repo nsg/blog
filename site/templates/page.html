@@ -4,7 +4,7 @@
 {% block article %}
     <header class="post-header">
         {%- if page.date %}
-        <time class="date" datetime="{{ page.date | date(format=" %Y-%m-%d") }}">
+        <time class="date" datetime="{{ page.date | date(format="%Y-%m-%d") }}">
             {{ page.date | date(format="%B %d, %Y") }}
         </time>
         {%- endif %}
@@ -76,7 +76,7 @@
                     </span>
                 </header>
                 {%- if related_page.date %}
-                <time class="date" datetime="{{ related_page.date | date(format=" %Y-%m-%d") }}">{{ related_page.date |
+                <time class="date" datetime="{{ related_page.date | date(format="%Y-%m-%d") }}">{{ related_page.date |
                     date(format="%Y-%m-%d") }}</time>
                 {%- endif %}
             </li>
