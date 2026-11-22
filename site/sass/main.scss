@@ -121,7 +121,7 @@
 }
 
 body {
-    margin: 0 0 8rem;
+    margin: 0 0 3rem;
     font-family: HankenGrotesk, system-ui, sans-serif;
     background-color: var(--bg-color);
     color: var(--text-color);
@@ -914,9 +914,31 @@ main {
     }
 }
 
+.home-more {
+    display: flex;
+    justify-content: space-between;
+    margin: 1.5rem 1.25rem 0;
+    padding-top: 0.75rem;
+    border-top: 1px solid rgba(153, 153, 153, 0.35);
+    font-size: 0.82rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+
+    a {
+        padding: 0.75rem 0;
+        color: var(--text-color);
+        text-decoration: none;
+
+        &:hover {
+            color: var(--link-hover);
+        }
+    }
+}
+
 footer {
     max-width: 800px;
-    margin: 4rem auto 2rem;
+    margin: 3rem auto 2rem;
     text-align: center;
     font-size: small;
     color: var(--middle-gray);

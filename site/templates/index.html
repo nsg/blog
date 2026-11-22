@@ -16,4 +16,8 @@
       {%- endfor %}
     {%- endfor %}
   {%- endfor %}
+      <p class="home-more">
+        <a href="/post/">Archive →</a>
+        <a href="{{ get_url(path="rss.xml", trailing_slash=false) | safe }}">RSS</a>
+      </p>
 {% endblock section %}
