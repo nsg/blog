@@ -94,10 +94,11 @@
   <nav>
     <div class="nav-inner">
       <ul>
-        <li><a href="/">Latest</a></li>
-        <li><a href="/post">Archive</a></li>
-        <li><a href="/tags">Tags</a></li>
-        <li><a href="/about">About</a></li>
+        {%- set here = current_path | default(value="") %}
+        <li><a href="/"{% if here == "/" %} aria-current="page"{% endif %}>Latest</a></li>
+        <li><a href="/post"{% if here == "/post/" %} aria-current="page"{% elif section.title and here is starting_with("/post/") %} aria-current="true"{% endif %}>Archive</a></li>
+        <li><a href="/tags"{% if here == "/tags/" %} aria-current="page"{% elif here is starting_with("/tags/") %} aria-current="true"{% endif %}>Tags</a></li>
+        <li><a href="/about"{% if here == "/about/" %} aria-current="page"{% endif %}>About</a></li>
         <li class="search"><button id="search-button">Search</button></li>
       </ul>
     </div>
