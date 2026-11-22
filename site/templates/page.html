@@ -45,7 +45,7 @@
         {%- set tag_taxonomy = get_taxonomy(kind="tags") %}
         {%- for current_tag in page.taxonomies.tags %}
           {%- for tag_item in tag_taxonomy.items %}
-            {%- if tag_item.name == current_tag %}
+            {%- if tag_item.slug == current_tag | slugify %}
               {%- for tagged_page in tag_item.pages %}
                 {%- if tagged_page.permalink != page.permalink %}
                   {%- set_global related_posts = related_posts | concat(with=tagged_page) %}
@@ -65,8 +65,13 @@
                 <header class="related-post-header">
                     <a href="{{ related_page.permalink }}">{{ related_page.title }}</a>
                     <span class="tags">
+                        {%- set_global related_slugs = [] %}
+                        {%- for related_tag in related_page.taxonomies.tags %}
+                          {%- set_global related_slugs = related_slugs | concat(with=related_tag | slugify) %}
+                        {%- endfor %}
                         {%- for current_tag in page.taxonomies.tags %}
-                          {%- if current_tag in related_page.taxonomies.tags %}
+                          {%- set current_slug = current_tag | slugify %}
+                          {%- if current_slug in related_slugs %}
                           {%- set is_ai_scribed = current_tag | lower == "ai-scribed" %}
                         <span class="tag{% if is_ai_scribed %} tag-ai-scribed{% endif %}">
                             <a href="/tags/{{ current_tag | slugify }}"
