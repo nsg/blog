@@ -24,7 +24,7 @@
         </ul>
         {%- endif %}
     </header>
-    <div class="post-content">
+    <div class="post-content"{% if page.date and page.year < 2015 %} lang="sv"{% endif %}>
         {{ page.content | safe }}
     </div>
 {% endblock article %}

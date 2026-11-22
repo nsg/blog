@@ -26,7 +26,7 @@
         <a href="{{ year_section.permalink }}">{{ year_section.title }}</a>
         <span class="post-count">{{ year_section.pages | length }} posts</span>
       </h3>
-      <ul>
+      <ul{% if year_section.title | int < 2015 %} lang="sv"{% endif %}>
         {%- for page in year_section.pages %}
         <li>
           <a href="{{ page.permalink }}">{{ page.title }}</a>

@@ -47,8 +47,8 @@
               {{ page.date | date(format="%B %d, %Y") }}
             </time>
             {%- endif %}
-            <h2 class="post-card-title">{{ page.title }}</h2>
-            <div class="post-card-excerpt">
+            <h2 class="post-card-title"{% if page.date and page.year < 2015 %} lang="sv"{% endif %}>{{ page.title }}</h2>
+            <div class="post-card-excerpt"{% if page.date and page.year < 2015 %} lang="sv"{% endif %}>
               {%- set paragraphs = page.content | split(pat="\n") %}
               {%- for paragraph in paragraphs %}
                 {%- if paragraph | wordcount > 20 %}

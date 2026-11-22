@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="en">
 
 <head>
   <meta charset="UTF-8">
@@ -113,7 +113,7 @@
     {%- block page_header %}
     <section>
       {%- if page.title %}
-      <h2>{{ page.title }}</h2>
+      <h2{% if page.date and page.year < 2015 %} lang="sv"{% endif %}>{{ page.title }}</h2>
       {%- elif section.title %}
       <h2>{{ section.title }}</h2>
       {%- endif %}
