@@ -100,8 +100,4 @@ Vill du få tillbaka NetworkManager igen så skriv bara:
 
 När jag fick ner alla steg på svart och vitt så insåg jag att det blev ett par steg, eventuellt kan jag hacka ihop några skript för att förenkla installationen och hanteringen längre fram. Någon som känner att dom har nytta av det så säg till. Jag kommer nog dock för min egen skull skiva nått som gör det enklare (automatiskt) att använda när saker redan är konfigurerade.
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/Android' rel='tag' target='_self'>Android</a>, <a class='technorati-link' href='http://bloggar.se/om/htc+magic' rel='tag' target='_self'>htc magic</a>, <a class='technorati-link' href='http://bloggar.se/om/openvpn' rel='tag' target='_self'>openvpn</a>, <a class='technorati-link' href='http://bloggar.se/om/ubuntu' rel='tag' target='_self'>ubuntu</a>
-</p></small>
-
  [1]: https://nsg.cc/post/2009/tankar-och-skillnader-om-htcs-android-telefoner/

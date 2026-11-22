@@ -12,7 +12,3 @@ Saker som ovan för en att fundera på om man kanske kan flytta viktiga saker ti
 Nu har jag flyttat de mest viktiga sakerna (t.ex. den här bloggen) till en ny server som min kompis och jag sätter upp, det är servern som kommer ersätta den gamla servern som min gamla blogg nu ligger på, och snart kommer även den servern läggas ner och allt flyttas hit. Det kommer bli bra, och förhoppningsvis en stabil uppkoppling.
 
 *not: Inlägget började jag skriva för 2 veckor sedan, blev aldrig av att jag publicerade det*. Skrev om och la till lite mer text.
-
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/server' rel='tag' target='_self'>server</a>, <a class='technorati-link' href='http://bloggar.se/om/webhotell' rel='tag' target='_self'>webhotell</a>
-</p></small>

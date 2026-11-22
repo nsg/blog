@@ -12,7 +12,3 @@ Den datan jag förlorade var lite ändringar på designen, mindre detaljer som j
 Saker som det här påminner en om hur viktigt det är att göra bakup, jag sitter t.ex. nu på ett LAN, och tidigare gick strömmen på mitt bord och datorn dog, hade jag haft otur kunde samma sak ha hänt. Riktigt osannolikt, men det kan hända.
 
 Nu ska jag gå och och köpa lite godis så jag får socker i mig och piggnar till.
-
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/backup' rel='tag' target='_self'>backup</a>, <a class='technorati-link' href='http://bloggar.se/om/lan' rel='tag' target='_self'>lan</a>, <a class='technorati-link' href='http://bloggar.se/om/server' rel='tag' target='_self'>server</a>
-</p></small>

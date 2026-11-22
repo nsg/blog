@@ -19,8 +19,4 @@ Har du inte Windows installerat längre, eller vill du inte starta det i onödan
 
 [Mer information på Ubuntus forum][1]
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/Linux' rel='tag' target='_self'>Linux</a>, <a class='technorati-link' href='http://bloggar.se/om/r8169' rel='tag' target='_self'>r8169</a>, <a class='technorati-link' href='http://bloggar.se/om/ubuntu' rel='tag' target='_self'>ubuntu</a>
-</p></small>
-
  [1]: http://ubuntuforums.org/showthread.php?t=538448

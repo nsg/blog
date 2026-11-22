@@ -21,9 +21,5 @@ Nu har jag gjort tillräckligt med reklam, jag får se själv när jag testar ap
 
 En sak till, ni som tycker att Spotify även borde ha haft en reklamfinansierad version på telefonerna så håller jag med er, men det är inte säkert att det är Spotifys fel, det finns helt andra avtal med musikindustrin för datorer med internetuppkoppling och mobiltelefoner med internetuppkoppling. Det kan vara så enkelt att dom inte får. Helt galet i så fall, men det är så det är.
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/Android' rel='tag' target='_self'>Android</a>, <a class='technorati-link' href='http://bloggar.se/om/android+market' rel='tag' target='_self'>android market</a>, <a class='technorati-link' href='http://bloggar.se/om/app+store' rel='tag' target='_self'>app store</a>, <a class='technorati-link' href='http://bloggar.se/om/iphone' rel='tag' target='_self'>iphone</a>, <a class='technorati-link' href='http://bloggar.se/om/ipod' rel='tag' target='_self'>ipod</a>, <a class='technorati-link' href='http://bloggar.se/om/ipod+touch' rel='tag' target='_self'>ipod touch</a>, <a class='technorati-link' href='http://bloggar.se/om/market' rel='tag' target='_self'>market</a>, <a class='technorati-link' href='http://bloggar.se/om/musik' rel='tag' target='_self'>musik</a>, <a class='technorati-link' href='http://bloggar.se/om/spotify' rel='tag' target='_self'>spotify</a>, <a class='technorati-link' href='http://bloggar.se/om/touch' rel='tag' target='_self'>touch</a>
-</p></small>
-
  [1]: http://www.spotify.com/blog/archives/2009/09/06/spotify-mobile/
  [2]: http://en.wikipedia.org/wiki/Spotify

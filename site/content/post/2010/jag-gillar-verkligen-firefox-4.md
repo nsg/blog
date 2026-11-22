@@ -15,8 +15,4 @@ Nu är det självklart inte perfekt än, det flyter inte så bra för mig när f
 
 Självklart finns det mängder med andra trevliga saker i firefox 4, jag är t.ex. glad att se att Mozilla Weave har blivit en del av firefox och kallas nu Sync. Sedan får man inte glömma att de har gjort stora optimeringar av koden, det är snabbare, stabilare och har stödj för en hel del nya saker som t.ex. WebM.
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/firefox' rel='tag' target='_self'>firefox</a>, <a class='technorati-link' href='http://bloggar.se/om/firefox+4' rel='tag' target='_self'>firefox 4</a>, <a class='technorati-link' href='http://bloggar.se/om/mozilla' rel='tag' target='_self'>mozilla</a>, <a class='technorati-link' href='http://bloggar.se/om/mozilla+firefox' rel='tag' target='_self'>mozilla firefox</a>
-</p></small>
-
  [1]: ../wp-content/uploads/2010/10/tabcandy.png

@@ -33,10 +33,6 @@ Tidningar som skriver om händelsen:
 
 Du kan hålla koll på saker på [knuff][11] om du vill följa nyheten, eller bloggar.se (se länkar här under).
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/ggf' rel='tag' target='_self'>ggf</a>, <a class='technorati-link' href='http://bloggar.se/om/global+gaming+factory' rel='tag' target='_self'>global gaming factory</a>, <a class='technorati-link' href='http://bloggar.se/om/p2p' rel='tag' target='_self'>p2p</a>, <a class='technorati-link' href='http://bloggar.se/om/peerialism' rel='tag' target='_self'>peerialism</a>, <a class='technorati-link' href='http://bloggar.se/om/the+pirate+bay' rel='tag' target='_self'>the pirate bay</a>, <a class='technorati-link' href='http://bloggar.se/om/tpb' rel='tag' target='_self'>tpb</a>
-</p></small>
-
  [1]: http://thepiratebay.org/blog/164
  [2]: https://web.archive.org/web/20090707180635/http://www.globalgamingfactory.com/
  [3]: https://web.archive.org/web/20090707180635/https://web.archive.org/web/20090806112857/http://www.globalgamingfactory.com/pressrelease-090630-sv.pdf

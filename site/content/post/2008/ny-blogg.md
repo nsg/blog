@@ -11,8 +11,4 @@ Då jag hade ett konto på ett webhotell sedan tidigare p.g.a. ett annat projekt
 
 Jag bestämde mig även för att ta ett färdigt tema och modifera det för att slippa den ganska långa fasen det annars tar för att komma igång då jag helt enkelt inte har tid att håll på att designa ett tema. Den närmaste tiden kommer det säkert hända en hel del saken här då jag har en del förändringar att prova, plugins att installera och kanse skriva några själv innan jag känner att bloggen är klar att lanseras.
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/blogg' rel='tag' target='_self'>blogg</a>, <a class='technorati-link' href='http://bloggar.se/om/Bloggen' rel='tag' target='_self'>Bloggen</a>, <a class='technorati-link' href='http://bloggar.se/om/nsg' rel='tag' target='_self'>nsg</a>
-</p></small>
-
  [1]: https://nsg.cc/post/2008/vilket-webhotell-ska-man-ha/

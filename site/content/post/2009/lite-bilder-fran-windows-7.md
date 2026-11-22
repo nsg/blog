@@ -71,10 +71,6 @@ Tidigare i dag spenderade jag ungefär två timmar med betan av Windows 7, vill 
 
 Hur funkade systemet då, då installatione tog en timma och jag inte hade tid för länge så blev det en snabbare titt, men jag återkommer om jag hittar något intressant eller stöter på en rolig bugg. Det blir nog att installera ett spel i kväll och prova att spela lite.
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/ie' rel='tag' target='_self'>ie</a>, <a class='technorati-link' href='http://bloggar.se/om/ie8' rel='tag' target='_self'>ie8</a>, <a class='technorati-link' href='http://bloggar.se/om/internet+explorer' rel='tag' target='_self'>internet explorer</a>, <a class='technorati-link' href='http://bloggar.se/om/microsoft' rel='tag' target='_self'>microsoft</a>, <a class='technorati-link' href='http://bloggar.se/om/win7' rel='tag' target='_self'>win7</a>, <a class='technorati-link' href='http://bloggar.se/om/windows' rel='tag' target='_self'>windows</a>, <a class='technorati-link' href='http://bloggar.se/om/windows+7' rel='tag' target='_self'>windows 7</a>
-</p></small>
-
  [1]: http://en.wikipedia.org/wiki/Windows_7
  [2]: /images/2009/01/2-paint.png
  [3]: /images/2009/01/3-startmeny-paint.png

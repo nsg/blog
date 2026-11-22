@@ -20,10 +20,6 @@ Kan även påpeka att Pipelight inte är uteslutande byggt för Silverlight utan
 Om du vill prova så hittar du en bra beskrivning här:  
 <http://www.webupd8.org/2013/08/pipelight-use-silverlight-in-your-linux.html>
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/Netflix' rel='tag' target='_self'>Netflix</a>, <a class='technorati-link' href='http://bloggar.se/om/Pipelight' rel='tag' target='_self'>Pipelight</a>, <a class='technorati-link' href='http://bloggar.se/om/Silverlight' rel='tag' target='_self'>Silverlight</a>
-</p></small>
-
  [1]: https://nsg.cc/post/2012/tankar-om-netflix/
  [2]: https://launchpad.net/pipelight
  [3]: https://launchpad.net/netflix-desktop

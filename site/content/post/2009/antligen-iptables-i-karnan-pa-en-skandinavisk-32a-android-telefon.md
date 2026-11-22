@@ -26,10 +26,6 @@ För ett tag sedan provade jag den nya kärnan med [android-wifi-tether][6], all
 
 Nu väntar jag bara på skype, en bra twitterklient (inte hittat någon som funkar som jag vill) och en bra facebook-applikation (som funkar som jag vill) så är jag nöjd (ett litet tag) :) 
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/Android' rel='tag' target='_self'>Android</a>, <a class='technorati-link' href='http://bloggar.se/om/Cyanogen' rel='tag' target='_self'>Cyanogen</a>, <a class='technorati-link' href='http://bloggar.se/om/htc' rel='tag' target='_self'>htc</a>, <a class='technorati-link' href='http://bloggar.se/om/htc+magic' rel='tag' target='_self'>htc magic</a>, <a class='technorati-link' href='http://bloggar.se/om/Linux' rel='tag' target='_self'>Linux</a>, <a class='technorati-link' href='http://bloggar.se/om/magic' rel='tag' target='_self'>magic</a>
-</p></small>
-
  [1]: ../2009/07/22/anvand-din-androidhtc-magic-som-modem/
  [2]: ../2009/08/02/anslut-automatiskt-med-azilink-och-android/
  [3]: http://forum.xda-developers.com/showthread.php?t=548061

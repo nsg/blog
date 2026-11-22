@@ -17,10 +17,6 @@ Tyvärr så var det inte gratis heller, det gick på runt 1000 kr och sedan till
 
 För mer information se Wikipedia som har en [bra artikel][4], eller Das Keyboards [egen hemsida][2] är en bra källa för information, själv hittade jag tack vare min kompis en EU-version på [getDigital.de][5] som är en skönt nördig sida med massa kul saker på.
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/Das+Keyboard' rel='tag' target='_self'>Das Keyboard</a>, <a class='technorati-link' href='http://bloggar.se/om/Tangentbord' rel='tag' target='_self'>Tangentbord</a>
-</p></small>
-
  [1]: /images/2011/08/mechanical_keyboard.jpg
  [2]: http://www.daskeyboard.com/
  [3]: http://en.wikipedia.org/wiki/Model_M_keyboard

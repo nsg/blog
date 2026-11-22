@@ -126,10 +126,6 @@ Det blir mycket renare och enklare att ha översikt, och risken att du glömmer 
 
 Jag hoppas att det här kan hjälpa någon, är det något som inte funkar, eller har jag missat något. Låt mig veta.
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/apache' rel='tag' target='_self'>apache</a>, <a class='technorati-link' href='http://bloggar.se/om/awstats' rel='tag' target='_self'>awstats</a>, <a class='technorati-link' href='http://bloggar.se/om/cron' rel='tag' target='_self'>cron</a>, <a class='technorati-link' href='http://bloggar.se/om/debian' rel='tag' target='_self'>debian</a>, <a class='technorati-link' href='http://bloggar.se/om/Linux' rel='tag' target='_self'>Linux</a>, <a class='technorati-link' href='http://bloggar.se/om/loggar' rel='tag' target='_self'>loggar</a>, <a class='technorati-link' href='http://bloggar.se/om/statistik' rel='tag' target='_self'>statistik</a>, <a class='technorati-link' href='http://bloggar.se/om/ubuntu' rel='tag' target='_self'>ubuntu</a>
-</p></small>
-
  [1]: http://awstats.sourceforge.net/
  [2]: http://www.nltechno.com/awstats/awstats.pl?config=destailleur.fr
  [3]: https://help.ubuntu.com/community/CronHowto

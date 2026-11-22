@@ -16,7 +16,3 @@ Sedan hände det, jag började skriva ett inlägg och noterade att jag inte kund
 Du kör jag senaste WordPress i stället, manuellt installerat och upp konfigurerat. Allt funkar som det ska, inga problem alls.
 
 Något att tänka på, om det är nu så rekommenderar jag INTE WordPress paketet som finns i Debian/Ubuntu.
-
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/debian' rel='tag' target='_self'>debian</a>, <a class='technorati-link' href='http://bloggar.se/om/ubuntu' rel='tag' target='_self'>ubuntu</a>, <a class='technorati-link' href='http://bloggar.se/om/wordpress' rel='tag' target='_self'>wordpress</a>
-</p></small>

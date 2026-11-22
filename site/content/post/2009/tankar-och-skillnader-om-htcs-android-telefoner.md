@@ -138,10 +138,6 @@ Slutligen kan jag påpeka att den G2:an som säljs i Sverige inte kör en &#8220
 
 Det känns som att jag borde skapa en android-kategori på bloggen nu, jag kommer nog skriva en del om det när jag väl kommer igång.
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/Android' rel='tag' target='_self'>Android</a>, <a class='technorati-link' href='http://bloggar.se/om/g1' rel='tag' target='_self'>g1</a>, <a class='technorati-link' href='http://bloggar.se/om/g2' rel='tag' target='_self'>g2</a>, <a class='technorati-link' href='http://bloggar.se/om/g3' rel='tag' target='_self'>g3</a>, <a class='technorati-link' href='http://bloggar.se/om/google' rel='tag' target='_self'>google</a>, <a class='technorati-link' href='http://bloggar.se/om/htc' rel='tag' target='_self'>htc</a>, <a class='technorati-link' href='http://bloggar.se/om/htc+dream' rel='tag' target='_self'>htc dream</a>, <a class='technorati-link' href='http://bloggar.se/om/htc+hero' rel='tag' target='_self'>htc hero</a>, <a class='technorati-link' href='http://bloggar.se/om/htc+magic' rel='tag' target='_self'>htc magic</a>, <a class='technorati-link' href='http://bloggar.se/om/Linux' rel='tag' target='_self'>Linux</a>
-</p></small>
-
  [1]: http://en.wikipedia.org/wiki/Htc_dream
  [2]: http://en.wikipedia.org/wiki/HTC_Magic
  [3]: http://en.wikipedia.org/wiki/HTC_Hero

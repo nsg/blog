@@ -67,10 +67,6 @@ Jag har märkt att ibland hakar saker upp sig, det är inget jag har kontroll ö
 
 Även om det är ganska smidigt som det är nu så vill jag mycket hellre dela med mig av uppkopplingen via det trådlösa nätverket, [i det här inlägget på xda-developers][7] så har en haft kontakt med HTC, enligt dem skulle deras modifierade kärna vara ute vid slutet av månaden (i förrgår), så kanske snart så :) 
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/Android' rel='tag' target='_self'>Android</a>, <a class='technorati-link' href='http://bloggar.se/om/azid' rel='tag' target='_self'>azid</a>, <a class='technorati-link' href='http://bloggar.se/om/google+calendar' rel='tag' target='_self'>google calendar</a>, <a class='technorati-link' href='http://bloggar.se/om/Linux' rel='tag' target='_self'>Linux</a>, <a class='technorati-link' href='http://bloggar.se/om/snotify' rel='tag' target='_self'>snotify</a>
-</p></small>
-
  [1]: https://nsg.cc/post/2009/anvand-din-androidhtc-magic-som-modem/
  [2]: /images/2009/08/snotify
  [3]: /images/2009/08/snotify1

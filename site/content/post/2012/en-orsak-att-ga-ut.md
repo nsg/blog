@@ -19,10 +19,6 @@ Ett spel var inte det jag förväntade mig att Google skulle skulle släppa som 
 
 Spelet är i dag i en stängd beta, det funkar bra men är \_mycket\_ överbelastat och jag förväntar mig inte att de kommer släppa in fler för än de har löst de problemen. Men för att få en invite när de släpper på fler så gå till [ingress.com][1] och fyll i din e-postadress.
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/Android' rel='tag' target='_self'>Android</a>, <a class='technorati-link' href='http://bloggar.se/om/google' rel='tag' target='_self'>google</a>, <a class='technorati-link' href='http://bloggar.se/om/Ingress' rel='tag' target='_self'>Ingress</a>, <a class='technorati-link' href='http://bloggar.se/om/Niantic+Labs' rel='tag' target='_self'>Niantic Labs</a>
-</p></small>
-
  [1]: http://www.ingress.com/
  [2]: http://en.wikipedia.org/wiki/Ingress_%28game%29
  [3]: http://www.nianticproject.com/

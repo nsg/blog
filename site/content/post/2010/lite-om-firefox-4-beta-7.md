@@ -44,10 +44,6 @@ Jag körde ett test nu mha. [SunSpider][4] som är ett test för att mäta hur s
 
 **Notis: ***Vad ironiskt, när jag skulle lägga på kommentarer på bilder så råkade jag ut för en bugg i wordpress som tog bort halva den här posten och bytta ut den mot biten där jag pratade om Status-baren, om och om igen säkert tjugo gånger. Det intressanta var att den trasiga sidan fick firefox att krascha&#8230; första riktigt stora problemet jag har haft med betan på flera månader nu. Över lag har det varit en ovanligt stabil beta. **Om någon undrar hur det gick med texten som försvann så hittade jag den i databasen under wp\_posts med post\_type &#8220;revision&#8221;. Tur det :) *
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/firefox' rel='tag' target='_self'>firefox</a>, <a class='technorati-link' href='http://bloggar.se/om/firefox+4' rel='tag' target='_self'>firefox 4</a>, <a class='technorati-link' href='http://bloggar.se/om/firefox+beta' rel='tag' target='_self'>firefox beta</a>, <a class='technorati-link' href='http://bloggar.se/om/mozilla+firefox' rel='tag' target='_self'>mozilla firefox</a>
-</p></small>
-
  [1]: /images/2010/11/ff4b7-status.png
  [2]: /images/2010/11/ff4-sw-tab.png
  [3]: /images/2010/11/ff4-sw-tab1.png

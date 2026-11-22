@@ -13,10 +13,6 @@ Frågan är hur mycket färgen på datorn är värd, 500 kr? Om jag inte bryr mi
 
 Jag får fundera på det.
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/asus' rel='tag' target='_self'>asus</a>, <a class='technorati-link' href='http://bloggar.se/om/eee' rel='tag' target='_self'>eee</a>, <a class='technorati-link' href='http://bloggar.se/om/eee+pc' rel='tag' target='_self'>eee pc</a>, <a class='technorati-link' href='http://bloggar.se/om/laptop' rel='tag' target='_self'>laptop</a>, <a class='technorati-link' href='http://bloggar.se/om/netbook' rel='tag' target='_self'>netbook</a>
-</p></small>
-
  [1]: http://prisjakt.nu/produkt.php?p=360851
  [2]: http://www.multitronic.se/index.php?prod=901GO-ELS-BK01
  [3]: http://www.webhallen.com/prod.php?id=93319

@@ -13,10 +13,6 @@ Prova det, själv är jag riktigt nöjd då jag hittade ett persona ([Dark Light
 
 [Kom igång på; getpersonas.com][4]
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/dark+light' rel='tag' target='_self'>dark light</a>, <a class='technorati-link' href='http://bloggar.se/om/firefox' rel='tag' target='_self'>firefox</a>, <a class='technorati-link' href='http://bloggar.se/om/gnome' rel='tag' target='_self'>gnome</a>, <a class='technorati-link' href='http://bloggar.se/om/Linux' rel='tag' target='_self'>Linux</a>, <a class='technorati-link' href='http://bloggar.se/om/new+wave' rel='tag' target='_self'>new wave</a>, <a class='technorati-link' href='http://bloggar.se/om/personas' rel='tag' target='_self'>personas</a>, <a class='technorati-link' href='http://bloggar.se/om/skal' rel='tag' target='_self'>skal</a>, <a class='technorati-link' href='http://bloggar.se/om/skin' rel='tag' target='_self'>skin</a>, <a class='technorati-link' href='http://bloggar.se/om/teman' rel='tag' target='_self'>teman</a>
-</p></small>
-
  [1]: http://www.mozilla.com/en-US/firefox/features/
  [2]: https://web.archive.org/web/20090621130427/http://www.getpersonas.com/persona/2167
  [3]: https://web.archive.org/web/20090502173450/http://www.gnome-look.org/content/show.php?content=87134

@@ -26,8 +26,4 @@ Filen du vill redigera heter &#8220;install.rdf&#8221;, det är bara att dubbekl
 
 Nu ska det vara klar, du kan öppna filen i webbläsaren mha. File > Open File men enklast är det att helt enkelt dra filen och släppa den i webbläsarfönstret. Nu kommer det gå att installera tillägget, att det funkar är dock ingen garanti då det kanske fanns en orsak att din version inte var uppskriven. I mitt fall chansade jag på att utvecklaren bara inte hade hunnit uppdaterat sitt paket och så var fallet.
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/firefox' rel='tag' target='_self'>firefox</a>, <a class='technorati-link' href='http://bloggar.se/om/firefox+4' rel='tag' target='_self'>firefox 4</a>, <a class='technorati-link' href='http://bloggar.se/om/firefox+beta' rel='tag' target='_self'>firefox beta</a>, <a class='technorati-link' href='http://bloggar.se/om/mozilla+firefox' rel='tag' target='_self'>mozilla firefox</a>
-</p></small>
-
  [1]: /images/2010/11/ff-ext4.png

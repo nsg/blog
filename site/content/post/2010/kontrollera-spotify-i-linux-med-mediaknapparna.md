@@ -42,7 +42,3 @@ Har du hittat någon kul användning för xdotool så skriv gärna en kommentar.
 <p style="padding-left: 30px;">
   <a href="http://www.semicomplete.com/projects/xdotool/">xdotool -- fake keyboard/mouse input, window management, and more</a>
 </p>
-
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/Linux' rel='tag' target='_self'>Linux</a>, <a class='technorati-link' href='http://bloggar.se/om/spotify' rel='tag' target='_self'>spotify</a>, <a class='technorati-link' href='http://bloggar.se/om/xdotool' rel='tag' target='_self'>xdotool</a>
-</p></small>

@@ -13,8 +13,4 @@ Det är fortfarande en del pyssel kvar innan jag känner mig klar, t.ex. saknas 
 
 Slutligen finns det fler inlägg som jag borde importera, från den riktigt gamla första bloggarna som jag drev, den här bloggen är nog 5:e bloggen, kanske t.o.m. 6:e. Vissa av de inläggen började jag att importera i den gamla bloggen men projektet rann ut i sanden efter ett tag då det innebär ett ganska stort manuellt arbete.
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/blogg' rel='tag' target='_self'>blogg</a>, <a class='technorati-link' href='http://bloggar.se/om/nsg' rel='tag' target='_self'>nsg</a>, <a class='technorati-link' href='http://bloggar.se/om/wordpress' rel='tag' target='_self'>wordpress</a>
-</p></small>
-
  [1]: /images/2009/06/screenshot10.png

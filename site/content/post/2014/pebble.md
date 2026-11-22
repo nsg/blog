@@ -19,8 +19,4 @@ Då var det slut, inget jättestort nytt skulle jag säga men det känns skönt.
 
 De kommer släppa version 2 av sitt operativsystem som gissningsvis tillhandahåller en hel den nytt kul och så kommer se släppa en app store för Pebble applikationer, fast det var ingen större överraskning för det hade de redan hintat om sedan tidigare.
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/Klocka' rel='tag' target='_self'>Klocka</a>, <a class='technorati-link' href='http://bloggar.se/om/Pebble' rel='tag' target='_self'>Pebble</a>, <a class='technorati-link' href='http://bloggar.se/om/Smartklocka' rel='tag' target='_self'>Smartklocka</a>
-</p></small>
-
  [1]: /images/2014/01/pebble_small.jpg

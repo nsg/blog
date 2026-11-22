@@ -11,9 +11,5 @@ tags = ["Lego", "Sci-fi", "Star Trek"]
 
 <span class="entry-author-name">Blå för att det är min favoritfärg, svart hår för att det var mer likt mitt mörk-bruna är den bruna färgen och star trek-jackan för att jag tycker om det och annan sci-fi. Handen? blev en avslagen lightsaber (tror jag).</span>
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/lego' rel='tag' target='_self'>lego</a>, <a class='technorati-link' href='http://bloggar.se/om/sci-fi' rel='tag' target='_self'>sci-fi</a>, <a class='technorati-link' href='http://bloggar.se/om/star+trek' rel='tag' target='_self'>star trek</a>
-</p></small>
-
  [1]: /images/2009/05/lego-jag.png
  [2]: http://stationsvakt.blogspot.com/2009/05/lego-gubba-dig.html

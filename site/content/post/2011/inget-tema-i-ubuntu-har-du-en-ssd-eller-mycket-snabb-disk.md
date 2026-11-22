@@ -20,7 +20,3 @@ Redigera filen
 Notera &#8220;sleep 2&#8243;, om du vill experimentera kan du prova med en sekund i stället, men en sekund hit eller dit känns inte märkbart. Hjälper inte det prova med en större siffra. Kanske din dator behöver lite mer tid på sig.
 
 Jag hoppas det hjälper någon.
-
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/gnome' rel='tag' target='_self'>gnome</a>, <a class='technorati-link' href='http://bloggar.se/om/Linux' rel='tag' target='_self'>Linux</a>, <a class='technorati-link' href='http://bloggar.se/om/SSD' rel='tag' target='_self'>SSD</a>, <a class='technorati-link' href='http://bloggar.se/om/ubuntu' rel='tag' target='_self'>ubuntu</a>
-</p></small>

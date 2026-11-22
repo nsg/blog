@@ -28,7 +28,3 @@ tags = ["asus", "eee", "jaunty jackalope", "Linux", "netbook", "notifyosd", "ubu
 <p style="text-align: center;">
   <img class="size-full wp-image-95 aligncenter" title="screenshot-distribution-upgrade" src="/images/2009/04/screenshot-distribution-upgrade.png" alt="screenshot-distribution-upgrade" width="374" height="287" />
 </p>
-
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/asus' rel='tag' target='_self'>asus</a>, <a class='technorati-link' href='http://bloggar.se/om/eee' rel='tag' target='_self'>eee</a>, <a class='technorati-link' href='http://bloggar.se/om/jaunty+jackalope' rel='tag' target='_self'>jaunty jackalope</a>, <a class='technorati-link' href='http://bloggar.se/om/Linux' rel='tag' target='_self'>Linux</a>, <a class='technorati-link' href='http://bloggar.se/om/netbook' rel='tag' target='_self'>netbook</a>, <a class='technorati-link' href='http://bloggar.se/om/notifyosd' rel='tag' target='_self'>notifyosd</a>, <a class='technorati-link' href='http://bloggar.se/om/ubuntu' rel='tag' target='_self'>ubuntu</a>
-</p></small>

@@ -43,10 +43,6 @@ Vill du läsa på hur weave fungerar på har du här ett intressant (och teknisk
   Som du ser så finns det mycket som inte går att välja i dag men som kommer komma i framtiden, speciellt extensions är något jag väntar på då jag alltid installerar något smart på en av minna datorer men inte riktigt orkar installera det på den andra.
 </p>
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/extensions' rel='tag' target='_self'>extensions</a>, <a class='technorati-link' href='http://bloggar.se/om/firefox' rel='tag' target='_self'>firefox</a>, <a class='technorati-link' href='http://bloggar.se/om/mozilla' rel='tag' target='_self'>mozilla</a>, <a class='technorati-link' href='http://bloggar.se/om/mozilla+firefox' rel='tag' target='_self'>mozilla firefox</a>, <a class='technorati-link' href='http://bloggar.se/om/mozilla+weave' rel='tag' target='_self'>mozilla weave</a>, <a class='technorati-link' href='http://bloggar.se/om/synkronisera' rel='tag' target='_self'>synkronisera</a>, <a class='technorati-link' href='http://bloggar.se/om/weave' rel='tag' target='_self'>weave</a>
-</p></small>
-
  [1]: https://nsg.cc/post/2008/god-jul-till-mig-sjalv/
  [2]: http://www.toolness.com/wp/?p=41
  [3]: https://web.archive.org/web/20090217223008/http://remcobressers.nl/2008/07/create-your-own-mozilla-weave-server/

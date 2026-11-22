@@ -58,9 +58,5 @@ För den intresserade så är en lista [publicerad på pastebin][2] över vad so
 > data/app/HTC_IME.apk  
 > data/app/teeter.apk
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/Android' rel='tag' target='_self'>Android</a>, <a class='technorati-link' href='http://bloggar.se/om/Cyanogen' rel='tag' target='_self'>Cyanogen</a>, <a class='technorati-link' href='http://bloggar.se/om/cyanogenmod' rel='tag' target='_self'>cyanogenmod</a>, <a class='technorati-link' href='http://bloggar.se/om/google' rel='tag' target='_self'>google</a>, <a class='technorati-link' href='http://bloggar.se/om/Linux' rel='tag' target='_self'>Linux</a>
-</p></small>
-
  [1]: https://web.archive.org/web/20091109093123/http://www.cyanogenmod.com/
  [2]: http://pastebin.com/m1ca395b2

@@ -21,8 +21,4 @@ Jag ger upp och stänger tabben, skriver ett mail och ber han att ge mig filen p
 
 På [OneSwarms wiki][1] så står det att i nästa version (0.7) så kommer de släppa en API-dokumentation, jag hoppas på att dom gör det, och snart. Jag vill ha en vettig OneSwarm-klient som går och använda. Jag har undersökt och hackat lite på programmet men då dom inte ger några instruktioner på hur saker funkar, och sitter ihop och ingen dokumentation så är det svårt &#8230; men man kan alltid hoppas på att det blir bättre.
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/fildelning' rel='tag' target='_self'>fildelning</a>, <a class='technorati-link' href='http://bloggar.se/om/oneswarm' rel='tag' target='_self'>oneswarm</a>
-</p></small>
-
  [1]: https://web.archive.org/web/20090415110953/http://wiki.oneswarm.org/index.php/Version_0.7

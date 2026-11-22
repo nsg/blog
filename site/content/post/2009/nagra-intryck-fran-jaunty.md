@@ -28,7 +28,3 @@ Det bör räcka, eventuellt måste du logga ut/in för att ändringen ska börja
 <p style="text-align: center;">
   <a href="/images/2009/04/new-wave.png"><img class="aligncenter size-full wp-image-109" title="new-wave" src="/images/2009/04/new-wave.png" alt="new-wave" width="287" height="220" /></a>
 </p>
-
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/gnome' rel='tag' target='_self'>gnome</a>, <a class='technorati-link' href='http://bloggar.se/om/jaunty+jackalope' rel='tag' target='_self'>jaunty jackalope</a>, <a class='technorati-link' href='http://bloggar.se/om/Linux' rel='tag' target='_self'>Linux</a>, <a class='technorati-link' href='http://bloggar.se/om/notifyosd' rel='tag' target='_self'>notifyosd</a>, <a class='technorati-link' href='http://bloggar.se/om/ubuntu' rel='tag' target='_self'>ubuntu</a>
-</p></small>

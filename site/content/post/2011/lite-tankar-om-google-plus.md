@@ -19,8 +19,4 @@ För övrigt har Google+ mycket saker som Facebook har, ett nyhetsflöde, en pro
 
 Invite? Ja, jag har den möjligheten men delar bara ut de till folk jag känner, samt andra bloggare som jag &#8220;känner&#8221; sedan tidigare. Passar du inte in på någon av de kategorierna så motivera det bra så får vi se hur det blir.
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/google' rel='tag' target='_self'>google</a>
-</p></small>
-
  [1]: /images/2011/07/google-plus.png

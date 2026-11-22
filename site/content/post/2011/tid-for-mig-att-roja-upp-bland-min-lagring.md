@@ -388,8 +388,4 @@ Förra gången flyttade jag bara 564G, den här gången är det 1,1T så det kom
   Det var allt, några timmar senare var allt klar och jag passade på att uppdatera datorn till 10.11.
 </p>
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/Linux' rel='tag' target='_self'>Linux</a>, <a class='technorati-link' href='http://bloggar.se/om/lvm' rel='tag' target='_self'>lvm</a>, <a class='technorati-link' href='http://bloggar.se/om/md' rel='tag' target='_self'>md</a>, <a class='technorati-link' href='http://bloggar.se/om/mdadm' rel='tag' target='_self'>mdadm</a>, <a class='technorati-link' href='http://bloggar.se/om/parted' rel='tag' target='_self'>parted</a>, <a class='technorati-link' href='http://bloggar.se/om/raid' rel='tag' target='_self'>raid</a>, <a class='technorati-link' href='http://bloggar.se/om/raid5' rel='tag' target='_self'>raid5</a>, <a class='technorati-link' href='http://bloggar.se/om/ubuntu' rel='tag' target='_self'>ubuntu</a>
-</p></small>
-
  [1]: http://www.dustinhome.se/

@@ -23,9 +23,5 @@ En annan fördel är att man kan följa en lista, precis som vilken användare s
   <img class="size-full wp-image-774 aligncenter" title="twitter-lists-2" src="/images/2009/10/twitter-lists-2.png" alt="twitter-lists-2" width="604" height="186" />
 </p>
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/listor' rel='tag' target='_self'>listor</a>, <a class='technorati-link' href='http://bloggar.se/om/twitter' rel='tag' target='_self'>twitter</a>
-</p></small>
-
  [1]: http://twitter.com/cyanogen/status/5132086630
  [2]: http://twitter.com

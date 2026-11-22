@@ -33,9 +33,5 @@ Wave teamet ska dock ha beröm på att de arbetar på problemet, wave är mycket
 
 Ni andra som använder wave, vad tycker ni? Vill ni prova så har jag ett tiotal invites som ligger och skräpar, skriv ett meddelande så skickar jag en invite (kan dröja ett tag innan den kommer, dröjde 6-7 dagar för mig).
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/google' rel='tag' target='_self'>google</a>, <a class='technorati-link' href='http://bloggar.se/om/google+wave' rel='tag' target='_self'>google wave</a>, <a class='technorati-link' href='http://bloggar.se/om/wave' rel='tag' target='_self'>wave</a>
-</p></small>
-
  [1]: https://web.archive.org/web/20091214043658/http://wave.google.com/
  [2]: http://www.google.com/chrome

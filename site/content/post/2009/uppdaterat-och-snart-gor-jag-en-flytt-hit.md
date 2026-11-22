@@ -9,8 +9,4 @@ Nu har jag uppdaterat bloggen till senaste version, det gick som vanligt smidigt
 
 Jag är fortfarande inte nöjd med designen, så jag har inte känt att jag har officiellt flyttat från [gamla bloggen][1] ännu, även om det nu var 9 månader sedan jag skrev något där sist. Men nu snart ska jag ta mig tid och importera alla gamla inlägg hit och peka om en vidareskickning till den här bloggen i stället, inkl. feed:en. Snart, vaknar jag till liv igen :) 
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/wordpress' rel='tag' target='_self'>wordpress</a>
-</p></small>
-
  [1]: http://www.junkpile.se/~s/wp/

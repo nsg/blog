@@ -18,10 +18,6 @@ Perfekt, nu kan jag fuska när det behövs igen.
 
 [<img class="aligncenter size-large wp-image-1155" title="visa-tbord" src="/images/2012/04/visa-tbord-1024x682.jpg" alt="" width="1024" height="682" />][3]
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/Cherry+MX' rel='tag' target='_self'>Cherry MX</a>, <a class='technorati-link' href='http://bloggar.se/om/Das+Keyboard' rel='tag' target='_self'>Das Keyboard</a>, <a class='technorati-link' href='http://bloggar.se/om/Tangentbord' rel='tag' target='_self'>Tangentbord</a>, <a class='technorati-link' href='http://bloggar.se/om/WASD+Keyboards' rel='tag' target='_self'>WASD Keyboards</a>
-</p></small>
-
  [1]: /post/2011/hur-mycket-ska-man-lagga-pa-ett-tangentbord/
  [2]: https://web.archive.org/web/20120415034318/http://www.wasdkeyboards.com/
  [3]: /images/2012/04/visa-tbord.jpg

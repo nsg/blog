@@ -13,8 +13,4 @@ En av de första skerna jag gjorde med dator var att döda allt onödigt i windo
 
 &#8230; hoppas ni har haft en god jul, och får ett gått nytt år!
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/asus' rel='tag' target='_self'>asus</a>, <a class='technorati-link' href='http://bloggar.se/om/eee' rel='tag' target='_self'>eee</a>, <a class='technorati-link' href='http://bloggar.se/om/eee+pc' rel='tag' target='_self'>eee pc</a>, <a class='technorati-link' href='http://bloggar.se/om/Linux' rel='tag' target='_self'>Linux</a>, <a class='technorati-link' href='http://bloggar.se/om/netbook' rel='tag' target='_self'>netbook</a>, <a class='technorati-link' href='http://bloggar.se/om/ubuntu' rel='tag' target='_self'>ubuntu</a>
-</p></small>
-
  [1]: /images/2008/12/eee901.jpg

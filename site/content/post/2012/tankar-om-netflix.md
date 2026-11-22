@@ -22,7 +22,3 @@ Något annat som är helt idiotiskt är att det inte går att stänga av underte
 Jag tackar Netflix för att de låter mig testa tjänsten året ut utan att betala ett öre, det är klart över förväntan. Priset på 79kr är även riktigt trevligt, mycket längre än jag trodde det skulle kosta. Jag vet att många av de sakerna som jag klagar på är media maffians fel med sina antika ineffektiva krav och regler. Det är säkert de som kräver att HD inte får visas via Android, de är de som hindrar Netflix att använda en mer tillgänglig teknik som skulle funka på Linux samt det är även mediamaffian (bekräftat av Netflix via twitter) som kräver att det inte går att ta bort undertexter på vissa filmer/serier.
 
 Tyvärr så kommer jag inte kunna använda tjänsten, eventuellt kan jag tänka mig att betala om löser några av problemen ovan men det återstår att se. Kanske någon annan uppstickare kommer upp men jag har inte för stora förhoppningar då det är mediamaffian som håller i alla rättigheter och alla måste dansa efter dem, tyvärr, som vanligt skjuter de sig själv i foten. Jag vill BETALA, hallå? Någon där ute som vill göra något användbart?
-
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/Film' rel='tag' target='_self'>Film</a>, <a class='technorati-link' href='http://bloggar.se/om/Netflix' rel='tag' target='_self'>Netflix</a>, <a class='technorati-link' href='http://bloggar.se/om/tv' rel='tag' target='_self'>tv</a>
-</p></small>

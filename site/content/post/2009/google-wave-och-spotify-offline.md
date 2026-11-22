@@ -11,12 +11,6 @@ Den andra saker som jag har hållit ett öga på nu ett tag är [Google Wave][3]
 
 Jag hörde talas om wave väldigt tidigt, men jag var dum nog att inte hitta [intresseformuläret][4] som man kunde anmäla sig på förän mycket senare så jag var inte en av den första vågen, jag sitter nu och hoppas på att en google släpper en ny våg av konton eller att någon jag känner har en inbjudan över. Vissa personer gör nästan vad som helst för en inbjudan, så har du inbjudan över så är det ett utmärkt tillfälle att göra reklam för din blogg, din hemsida eller tjänst. Man såg det redan 2004 med gmail och det funkar fortfarande bra nu för tiden, kolla bara på spotify och hur bloggar som normalt fick 2-3 svar på en post [helt plötsligt fick mängder med svar][5].
 
-
-
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/google' rel='tag' target='_self'>google</a>, <a class='technorati-link' href='http://bloggar.se/om/google+wave' rel='tag' target='_self'>google wave</a>, <a class='technorati-link' href='http://bloggar.se/om/spotify' rel='tag' target='_self'>spotify</a>, <a class='technorati-link' href='http://bloggar.se/om/wave' rel='tag' target='_self'>wave</a>
-</p></small>
-
  [1]: /images/2009/09/spotify-logo.jpg
  [2]: http://www.spotify.com
  [3]: https://web.archive.org/web/20091219010612/https://www.google.com/accounts/ServiceLogin?service=wave&passive=true&nui=1&continue=https%3A%2F%2Fwave.google.com%2Fwave%2F&followup=https%3A%2F%2Fwave.google.com%2Fwave%2F&ltmpl=standard

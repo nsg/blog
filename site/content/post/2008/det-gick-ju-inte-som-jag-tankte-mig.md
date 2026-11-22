@@ -13,8 +13,4 @@ Jag valde att börja om med designen och göra en ny, egen, från grunden. Jag v
 
 Det är fortfarande mycket saker kvar innan jag känner mig klar med designen, jag funderar t.ex. att ha olika sidhuvuden beroende vilken typ av post (kategori) som man kollar på, jag får se hur det blir med det. Men jag känner att sidan är nu tillräckligt klar för att börja blogga lite i.
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/Bloggen' rel='tag' target='_self'>Bloggen</a>, <a class='technorati-link' href='http://bloggar.se/om/nsg' rel='tag' target='_self'>nsg</a>
-</p></small>
-
  [1]: https://nsg.cc/post/2008/ny-blogg/

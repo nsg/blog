@@ -27,7 +27,3 @@ proxy() {
   http_proxy="http://$_username:$_password@proxy.url:8080" $@
 }
 ```
-
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/bash' rel='tag' target='_self'>bash</a>, <a class='technorati-link' href='http://bloggar.se/om/Linux' rel='tag' target='_self'>Linux</a>, <a class='technorati-link' href='http://bloggar.se/om/proxy' rel='tag' target='_self'>proxy</a>, <a class='technorati-link' href='http://bloggar.se/om/skript' rel='tag' target='_self'>skript</a>
-</p></small>

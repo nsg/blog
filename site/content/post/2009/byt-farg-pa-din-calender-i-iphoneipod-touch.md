@@ -28,10 +28,6 @@ Sådär, nu har jag en fin cerise kalender precis som i min Google Calendar, nu 
 
 Klart, nu ska jag spendera en 10-15 minuter och uppdatera minna andra kalendrar till rätt färg.
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/google' rel='tag' target='_self'>google</a>, <a class='technorati-link' href='http://bloggar.se/om/google+calendar' rel='tag' target='_self'>google calendar</a>, <a class='technorati-link' href='http://bloggar.se/om/iphone' rel='tag' target='_self'>iphone</a>, <a class='technorati-link' href='http://bloggar.se/om/ipod' rel='tag' target='_self'>ipod</a>, <a class='technorati-link' href='http://bloggar.se/om/ipod+touch' rel='tag' target='_self'>ipod touch</a>, <a class='technorati-link' href='http://bloggar.se/om/Nuevasync' rel='tag' target='_self'>Nuevasync</a>, <a class='technorati-link' href='http://bloggar.se/om/touch' rel='tag' target='_self'>touch</a>
-</p></small>
-
  [1]: https://web.archive.org/web/20090212210053/http://www.nuevasync.com/
  [2]: https://web.archive.org/web/20090226004306/http://www.touchtip.com/iphone-and-ipod-touch/quick-tip-calendar-color-fix-for-iphone-and-ipod-touch/
  [3]: https://web.archive.org/web/20090220092032/http://www.javascripter.net/faq/hextorgb.htm

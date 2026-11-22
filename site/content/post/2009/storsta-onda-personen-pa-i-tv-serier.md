@@ -64,8 +64,4 @@ Ganska olik mot vad folk röstade, men man ska nog även tänka att folk röstar
   <img class="size-full wp-image-140 aligncenter" title="yellow-eyed_demon" src="/images/2009/05/yellow-eyed_demon.jpg" alt="yellow-eyed_demon" width="287" height="235" />
 </p>
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/onda' rel='tag' target='_self'>onda</a>, <a class='technorati-link' href='http://bloggar.se/om/onska' rel='tag' target='_self'>onska</a>, <a class='technorati-link' href='http://bloggar.se/om/tv' rel='tag' target='_self'>tv</a>
-</p></small>
-
  [1]: http://next-episode.net

@@ -13,8 +13,4 @@ Nu är man glad att installationsskriptet var ett skript och inte att program s�
 
 Om du undrar vad det första problemet med mitt användarnamn var så var det en gång för ca 2 år sedan då jag provade att installera SUSE Linux och installationsprogrammet vägrade låta mig välja ett så pass kort användarnamn. Jag löste det genom att skapa ett temporärt för att sedan manuellt byta när installationen var klar, lite jobb men värt det!
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/anv%C3%A4ndarnamn' rel='tag' target='_self'>användarnamn</a>, <a class='technorati-link' href='http://bloggar.se/om/Linux' rel='tag' target='_self'>Linux</a>, <a class='technorati-link' href='http://bloggar.se/om/vmware' rel='tag' target='_self'>vmware</a>, <a class='technorati-link' href='http://bloggar.se/om/vmware+server' rel='tag' target='_self'>vmware server</a>
-</p></small>
-
  [1]: /images/2009/03/vmware-configplfix_username.patch

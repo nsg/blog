@@ -15,9 +15,5 @@ Några saker att tänka på är: När vi väl har valt ett användarnamn så kan
 
 <http://www.facebook.com/username/> (Skapa ett användarnamn)
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/anv%C3%A4ndarnamn' rel='tag' target='_self'>användarnamn</a>, <a class='technorati-link' href='http://bloggar.se/om/facebook' rel='tag' target='_self'>facebook</a>
-</p></small>
-
  [1]: /images/2009/06/facebook-logo.jpg
  [2]: http://www.facebook.com/username/

@@ -19,7 +19,3 @@ Här kommer en liten punktlista på vad som behöver göras.
 Nu är det bara att maximera det igen (om du så önskar) eller ändra till önskad storlek och fortsätta som vanligt.
 
 Hoppas det hjälper någon.
-
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/bugg' rel='tag' target='_self'>bugg</a>, <a class='technorati-link' href='http://bloggar.se/om/fel' rel='tag' target='_self'>fel</a>, <a class='technorati-link' href='http://bloggar.se/om/firefox' rel='tag' target='_self'>firefox</a>, <a class='technorati-link' href='http://bloggar.se/om/fullsk%C3%A4rm' rel='tag' target='_self'>fullskärm</a>, <a class='technorati-link' href='http://bloggar.se/om/gnome' rel='tag' target='_self'>gnome</a>, <a class='technorati-link' href='http://bloggar.se/om/Linux' rel='tag' target='_self'>Linux</a>, <a class='technorati-link' href='http://bloggar.se/om/maximera' rel='tag' target='_self'>maximera</a>, <a class='technorati-link' href='http://bloggar.se/om/storlek' rel='tag' target='_self'>storlek</a>, <a class='technorati-link' href='http://bloggar.se/om/ubuntu' rel='tag' target='_self'>ubuntu</a>
-</p></small>

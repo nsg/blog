@@ -82,10 +82,6 @@ Men mer om detaljer som jag stör mig på i Sense längre ner, nu först kommer 
   
   <h3>
   </h3>
-  
-  <small> <p class='technorati-tags'>
-    Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/Android' rel='tag' target='_self'>Android</a>, <a class='technorati-link' href='http://bloggar.se/om/htc' rel='tag' target='_self'>htc</a>, <a class='technorati-link' href='http://bloggar.se/om/htc+desire+z' rel='tag' target='_self'>htc desire z</a>
-  </p></small>
 
  [1]: /images/2010/11/IMG_4143.jpg
  [2]: https://web.archive.org/web/20101201031349/http://www.cyanogenmod.com/

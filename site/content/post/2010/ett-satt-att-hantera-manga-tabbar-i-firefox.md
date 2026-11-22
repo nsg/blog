@@ -19,10 +19,6 @@ Slutligen färgen, ofta hoppar jag runt mellan ett par tabbar och för att lätt
 
 Slutligen som jag sa, det finns mängder med tillägg som löser tabb-hanteringen, hur löser du problemet med mycket tabbar? Några tipps?
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/aging+tabs' rel='tag' target='_self'>aging tabs</a>, <a class='technorati-link' href='http://bloggar.se/om/firefox' rel='tag' target='_self'>firefox</a>, <a class='technorati-link' href='http://bloggar.se/om/informational+tab' rel='tag' target='_self'>informational tab</a>, <a class='technorati-link' href='http://bloggar.se/om/tabbar' rel='tag' target='_self'>tabbar</a>, <a class='technorati-link' href='http://bloggar.se/om/tree+style+tab' rel='tag' target='_self'>tree style tab</a>
-</p></small>
-
  [1]: /images/2010/02/screenshot3.png
  [2]: https://addons.mozilla.org/en-US/firefox/addon/5890
  [3]: https://addons.mozilla.org/en-US/firefox/addon/4930

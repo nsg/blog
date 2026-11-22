@@ -16,7 +16,3 @@ Jag har även massor av idéer och halvklara projekt som inte gör någon nytta 
 Även blogga tänkte jag börja göra nu igen, 2008 har varit ett mörkt bloggår med mycket få inlägg. Jag flyttade bloggen och började med en ny design i förhoppning om en nystart och nu äntligen börjar det röra på sig.
 
 Jag hoppas på ett innehållrikt och roligt år 2009, hoppas Er det samma.
-
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/2009' rel='tag' target='_self'>2009</a>, <a class='technorati-link' href='http://bloggar.se/om/nytt+%C3%A5r' rel='tag' target='_self'>nytt år</a>
-</p></small>

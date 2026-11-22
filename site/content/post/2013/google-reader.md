@@ -13,8 +13,4 @@ I dag kom nyheten från Google att de kommer stänga ner tjänsten, ingen överr
 
 Tråkigt då den funkade för mig, gjorde det jag ville, det är alltid jobbigt att leta efter nya tjänster. Vad finns det så alternativ där ute i dag? Någon som har något att rekommendera?
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/google' rel='tag' target='_self'>google</a>, <a class='technorati-link' href='http://bloggar.se/om/Google+Reader' rel='tag' target='_self'>Google Reader</a>
-</p></small>
-
  [1]: /images/2013/03/google-reader.png

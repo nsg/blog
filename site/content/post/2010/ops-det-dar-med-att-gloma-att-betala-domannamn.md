@@ -30,9 +30,5 @@ I går köpte jag domänen igen, den blev ledig redan den 1:a men då jag var p�
 
 Det första (check-redemption-period) gör en whois regelbundet och skickar ett mail när frasen &#8220;Status: REDEMPTION-PERIOD&#8221; inte längre finns med, efter det gjorde jag en kopia och gjorde samma sak med PENDING-DELETE. Utskriften på en whois skiljer sig en del mellan domäner så skriptet kommer nog inte funka för dig men du kan använda det som inspiration om du vill ha något liknande. Skriptet bör funka på alla unix och unixliknande system, som t.ex. Linux och OSX. Eventuellt med mindre ändringar.
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/dom%C3%A4nnamn' rel='tag' target='_self'>domännamn</a>, <a class='technorati-link' href='http://bloggar.se/om/nsg.cc' rel='tag' target='_self'>nsg.cc</a>
-</p></small>
-
  [1]: /images/2010/02/check-redemption-period
  [2]: /images/2010/02/check-pending-delete

@@ -29,10 +29,6 @@ Komplett:s svar lät där i mot mer positivt, dom sa att den förmodligen kommer
 
 Komplett:s svar att det skulle vara inne nästa vecka verkar nog stämma då jag redan nu har tittat datorn i tre olika butiker, du kan se dem här på [prisjakt][11]. Tydligen så kallas den 901GO som är ett ganska vettigt och logiskt namn. Läs lite mer här hos siba. Totalt sett verkar priset ligga på runt ~4400 som är dyrt, men för mig är de extra priset värt det för att få ett 3G-modem inbyggt.
 
-<small> <p class='technorati-tags'>
-  Bloggar om: <a class='technorati-link' href='http://bloggar.se/om/asus' rel='tag' target='_self'>asus</a>, <a class='technorati-link' href='http://bloggar.se/om/eee' rel='tag' target='_self'>eee</a>, <a class='technorati-link' href='http://bloggar.se/om/eee+pc' rel='tag' target='_self'>eee pc</a>, <a class='technorati-link' href='http://bloggar.se/om/hsupa' rel='tag' target='_self'>hsupa</a>, <a class='technorati-link' href='http://bloggar.se/om/laptop' rel='tag' target='_self'>laptop</a>, <a class='technorati-link' href='http://bloggar.se/om/netbook' rel='tag' target='_self'>netbook</a>
-</p></small>
-
  [1]: http://en.wikipedia.org/wiki/Netbook
  [2]: http://en.wikipedia.org/wiki/ASUS
  [3]: http://en.wikipedia.org/wiki/ASUS_Eee_PC
