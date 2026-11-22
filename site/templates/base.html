@@ -1,3 +1,4 @@
+{% import "macros.html" as macros -%}
 <!DOCTYPE HTML>
 <html lang="en">
 
@@ -21,16 +22,15 @@
   <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ get_url(path="rss.xml", trailing_slash=false) }}">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  {%- set_global meta_description = config.description %}
+  {#- Always HTML-escaped, as the excerpt already is. #}
+  {%- set_global meta_description = config.description | escape %}
   {%- if page.description %}
-    {%- set_global meta_description = page.description %}
+    {%- set_global meta_description = page.description | escape %}
   {%- elif page.content %}
-    {%- for paragraph in page.content | split(pat="\n") %}
-      {%- if paragraph | wordcount > 20 %}
-        {%- set_global meta_description = paragraph | striptags | truncate(length=160) %}
-        {%- break %}
-      {%- endif %}
-    {%- endfor %}
+    {%- set summary = macros::excerpt(content=page.content, limit=160) %}
+    {%- if summary %}
+      {%- set_global meta_description = summary | replace(from='"', to="&quot;") %}
+    {%- endif %}
   {%- endif %}
 
   {%- set_global meta_image = get_url(path="images/nsg.jpg") %}
@@ -63,11 +63,11 @@
     {%- set meta_title = config.title %}
   {%- endif %}
 
-  <meta name="description" content="{{ meta_description }}">
+  <meta name="description" content="{{ meta_description | safe }}">
   <meta property="og:site_name" content="{{ config.title }}">
   <meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}">
   <meta property="og:title" content="{{ meta_title }}">
-  <meta property="og:description" content="{{ meta_description }}">
+  <meta property="og:description" content="{{ meta_description | safe }}">
   <meta property="og:image" content="{{ meta_image }}">
   <meta property="og:url" content="{{ current_url | default(value=config.base_url) }}">
   <meta name="twitter:card" content="{{ meta_card }}">
