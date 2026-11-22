@@ -1,6 +1,7 @@
 +++
 date = "2009-06-30T11:53:15+00:00"
 title = "The Pirate Bay uppköpt"
+[taxonomies]
 tags = ["ggf", "global gaming factory", "p2p", "peerialism", "the pirate bay", "tpb"]
 +++
 
