@@ -19,14 +19,14 @@ Nu lite bilder för att illustrera.
 
 **Edit**: Glömde en sak, skriptet ändrar även alla länkar till `target="_blank"`, d.v.s. öppna i nytt fönster/tab. För att stänga av det kommentera bort, eller ta bort följande del av skriptet.
 
-`<br />
-var set_links_target = function() {<br />
-    <strong>/*var links = document.getElementsByTagName('a');<br />
-    for (var i = 0; i < links.length; ++i) {<br />
-        links[i].setAttribute('target', '_blank');<br />
-    }*/</strong><br />
-  };<br />
-`  
+```javascript,hl_lines=2-5
+var set_links_target = function() {
+    /*var links = document.getElementsByTagName('a');
+    for (var i = 0; i < links.length; ++i) {
+        links[i].setAttribute('target', '_blank');
+    }*/
+  };
+```  
 Notera /\* och \*/.
 
 **Edit 2**:  

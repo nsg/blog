@@ -14,7 +14,7 @@ Redigera filen
 ändra:  
 `def _new_imp(name, globs = {}, locls = {}, fromlist = []):`  
 till:  
-`def _new_imp(name, globs = {}, locls = {}, fromlist = []<strong>, test = []</strong>):`  
+<code>def _new_imp(name, globs = {}, locls = {}, fromlist = []<strong>, test = []</strong>):</code>  
 Klart, saker bör nu funka som de ska.
 
 Du kan läsa mer om det här:  

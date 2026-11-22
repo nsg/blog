@@ -26,10 +26,12 @@ Jag hittade lösningen för några dagar sedan när jag hittade det mycket trevl
 
 Här ovan ser du logiken för att hantera play/pause för spotify. Här kommer koden:
 
-``cur_focus=`xdotool getactivewindow`<br />
-xdotool windowfocus $(xdotool search --title spotify | head -1)<br />
-xdotool key space<br />
-xdotool windowfocus $cur_focus``
+```bash
+cur_focus=`xdotool getactivewindow`
+xdotool windowfocus $(xdotool search --title spotify | head -1)
+xdotool key space
+xdotool windowfocus $cur_focus
+```
 
 Nu är det bara och göra det till ett litet skript och binda &#8220;play/pause&#8221; knappen till skriptet.
 
