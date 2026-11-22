@@ -9,14 +9,14 @@ De senaste dagarna har jag bråkat lite med nätet, jag har både ett wlan-kort 
 En mindre sak igentligen, men rätt störande i längden, men då jag ändå hoppar mellan skola/hemma en del så gör det inte så mycket.
 
 En smart funktion vore (skriver i psedo-kod):  
-`<br />
-Vid start eller resume:<br />
-&nbsp;&nbsp;&nbsp;&nbsp;wlan: på<br />
-&nbsp;&nbsp;&nbsp;&nbsp;lan: av<br />
-&nbsp;&nbsp;&nbsp;&nbsp;kolla om ett spec wlan-ssid finns, om nej:<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wlan: av<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lan: på<br />
-`
+```
+Vid start eller resume:
+    wlan: på
+    lan: av
+    kolla om ett spec wlan-ssid finns, om nej:
+        wlan: av
+        lan: på
+```
 
 Då skulle den ställa in sig för wlan om jag var i skolan, och lan om jag var hemma, riktigt bekvämt, någon som vet om lått liknade, låt mig veta. Vet ej om jag har tid att skriva ett sådant själv, dessutom försöker jag inte att göra något i shell nu, vill prova hur mycket man kan göra från GUI:t i Ubuntu.
 
