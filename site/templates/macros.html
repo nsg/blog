@@ -5,6 +5,41 @@
 </svg>
 {% endmacro ai_scribed_sparkle %}
 
+{# The opening paragraphs of a post, cut between words. Returns HTML-safe text. #}
+{% macro excerpt(content, limit) %}
+{%- set text = "" -%}
+{%- for chunk in content | split(pat="</p>") -%}
+  {%- if chunk is containing("<p") and text | length < limit -%}
+    {%- set plain = chunk | split(pat="<p>") | last | striptags | trim -%}
+    {%- if plain -%}
+      {%- set_global text = text ~ " " ~ plain -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- if not text -%}
+  {%- set_global text = content | striptags -%}
+{%- endif -%}
+{%- set short = "" -%}
+{%- set cut = false -%}
+{%- for word in text | replace(from="
+", to=" ") | split(pat=" ") -%}
+  {%- if word -%}
+    {%- set next = short ~ " " ~ word -%}
+    {%- if next | length > limit -%}
+      {%- set_global cut = true -%}
+      {%- break -%}
+    {%- endif -%}
+    {%- set_global short = next -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- set short = short | trim | replace(from="<", to="&lt;") -%}
+{%- if cut -%}
+{{ short | trim_end_matches(pat=",") | trim_end_matches(pat=".") | trim_end_matches(pat=":") | safe }}…
+{%- else -%}
+{{ short | safe }}
+{%- endif -%}
+{%- endmacro excerpt %}
+
 {% macro post_preview(page) %}
       <article class="post-card">
         <a href="{{ page.permalink }}" class="post-card-inner">
@@ -49,13 +84,7 @@
             {%- endif %}
             <h2 class="post-card-title"{% if page.date and page.year < 2015 %} lang="sv"{% endif %}>{{ page.title }}</h2>
             <div class="post-card-excerpt"{% if page.date and page.year < 2015 %} lang="sv"{% endif %}>
-              {%- set paragraphs = page.content | split(pat="\n") %}
-              {%- for paragraph in paragraphs %}
-                {%- if paragraph | wordcount > 20 %}
-              {{ paragraph | striptags | truncate(length=150) }}
-                  {%- break %}
-                {%- endif %}
-              {%- endfor %}
+              {{- self::excerpt(content=page.content, limit=150) | safe -}}
             </div>
           <span class="post-card-link">
             Continue reading <span class="arrow">→</span>
