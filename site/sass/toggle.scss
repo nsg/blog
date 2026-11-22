@@ -12,7 +12,11 @@
         }
 
         input {
-            display: none;
+            // Invisible, but still reachable with the keyboard.
+            position: absolute;
+            inset: 0;
+            margin: 0;
+            opacity: 0;
 
             &:focus-visible + .slider {
                 outline: 4px dotted var(--focus-color);
