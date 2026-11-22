@@ -1,6 +1,6 @@
 +++
 date = "2006-08-10T22:55:33+00:00"
-title = "Jagonator &#038; ID-Kort"
+title = "Jagonator & ID-Kort"
 +++
 
 För snart två år sedan när jag började på tekniskt basår så var det fotografering för id-kort som gällde, fotot tog man själv i ett &#8220;bås&#8221; där man knappade in lite info och tog en bild, sedan kunde man hämta kortet efter några minuter.

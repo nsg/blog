@@ -1,6 +1,6 @@
 +++
 date = "2007-04-14T00:18:52+00:00"
-title = "Windows Vista &#038; DRM"
+title = "Windows Vista & DRM"
 [taxonomies]
 tags = ["drm", "windows", "vista"]
 +++

@@ -1,6 +1,6 @@
 +++
 date = "2009-10-24T22:18:28+00:00"
-title = "Twitter Lists &#8211; Gruppera folk du följer"
+title = "Twitter Lists – Gruppera folk du följer"
 [taxonomies]
 tags = ["listor", "twitter"]
 +++

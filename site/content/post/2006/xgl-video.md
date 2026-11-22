@@ -1,6 +1,6 @@
 +++
 date = "2006-07-30T12:28:18+00:00"
-title = "XGL &#8211; Video"
+title = "XGL – Video"
 +++
 
 *Min svenska layout ar lite paj sa du far leva utan svenska tecken :) *

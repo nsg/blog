@@ -1,6 +1,6 @@
 +++
 date = "2007-03-15T02:42:02+00:00"
-title = "Wow sg1&#038;atl"
+title = "Wow sg1&atl"
 [taxonomies]
 tags = ["asuran", "stargate", "atlantis", "stargate sg-1", "stargate atlantis", "sg1", "wraith"]
 +++

@@ -1,6 +1,6 @@
 +++
 date = "2007-01-02T00:21:19+00:00"
-title = "Google &#038; Spam"
+title = "Google & Spam"
 [taxonomies]
 tags = ["google", "spam"]
 +++

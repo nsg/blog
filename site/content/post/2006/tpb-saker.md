@@ -1,6 +1,6 @@
 +++
 date = "2006-06-03T02:57:30+00:00"
-title = "TPB &#8211; Saker"
+title = "TPB – Saker"
 [taxonomies]
 tags = ["tpb", "the pirate bay", "prq", "polisen", "beslag", "husransakan", "istheshit", "istheshit.net"]
 +++

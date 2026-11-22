@@ -1,6 +1,6 @@
 +++
 date = "2007-01-03T01:47:52+00:00"
-title = "StargateSerie nr 3 &#038; 2 filmer"
+title = "StargateSerie nr 3 & 2 filmer"
 [taxonomies]
 tags = ["scifi", "sf", "stargate", "stargate: sg-1", "sg-1", "sg1", "stargate: atlantis", "atlantis", "ori", "altarans", "lanteans", "tau&#8217;ri", "tv", "tv-serie", "serie"]
 +++

@@ -1,6 +1,6 @@
 +++
 date = "2005-09-04T23:00:27+00:00"
-title = "Connections &#038; rum"
+title = "Connections & rum"
 +++
 
 Så, nu börjar det likna nått, har lagt dit Connections för Textpatern som tema, men lugn, jag ska &#8220;modda&#8221; det för att ge en personlig stil men åter igen är jag trött (kanske det finns ett mönster här)

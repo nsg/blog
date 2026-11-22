@@ -1,6 +1,6 @@
 +++
 date = "2006-05-25T13:43:03+00:00"
-title = "Ubuntu &#8211; Mount &#038; Nät"
+title = "Ubuntu – Mount & Nät"
 [taxonomies]
 tags = ["ubuntu", "linux", "mount", "wlan", "nätverk"]
 +++

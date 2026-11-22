@@ -1,6 +1,6 @@
 +++
 date = "2006-06-15T15:36:12+00:00"
-title = "Mer om razzian &#038; Skadestånd"
+title = "Mer om razzian & Skadestånd"
 [taxonomies]
 tags = ["tpb", "the pirate bay", "razzian", "skadestånd"]
 +++

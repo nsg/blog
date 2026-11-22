@@ -1,6 +1,6 @@
 +++
 date = "2007-06-13T23:52:50+00:00"
-title = "Star WreckIn the Pirkinning &#8211; En riktigt skön parodi"
+title = "Star WreckIn the Pirkinning – En riktigt skön parodi"
 [taxonomies]
 tags = ["babylon 5", "babel 13", "star trek", "star wrek", "in the pirkinning", "parodi", "humor", "film"]
 +++

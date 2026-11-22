@@ -1,6 +1,6 @@
 +++
 date = "2006-06-29T10:59:28+00:00"
-title = "Ubuntu &#8211; Vidare information"
+title = "Ubuntu – Vidare information"
 [taxonomies]
 tags = ["ubuntu", "aixgl", "xgl", "modem", "linux", "bluetooh", "ir"]
 +++

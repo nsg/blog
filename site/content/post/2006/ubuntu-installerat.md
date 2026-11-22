@@ -1,6 +1,6 @@
 +++
 date = "2006-05-22T18:07:26+00:00"
-title = "Ubuntu &#8211; Installerat"
+title = "Ubuntu – Installerat"
 [taxonomies]
 tags = ["ubuntu", "linux", "gnome", "vlc", "totem", "mplayer", "kmplayer", "xine"]
 +++

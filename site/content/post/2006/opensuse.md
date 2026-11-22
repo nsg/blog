@@ -1,6 +1,6 @@
 +++
 date = "2006-07-27T12:17:03+00:00"
-title = "OpenSUSE &#8211; SUSE Linux 10.1"
+title = "OpenSUSE – SUSE Linux 10.1"
 [taxonomies]
 tags = ["linux", "suse", "opensuse", "yast", "yast2", "novell"]
 +++

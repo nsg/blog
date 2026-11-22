@@ -1,6 +1,6 @@
 +++
 date = "2007-02-07T23:42:42+00:00"
-title = "TWINGLY &#038; Maffia"
+title = "TWINGLY & Maffia"
 [taxonomies]
 tags = ["maffia", "facket", "dn", "svd", "bloggar", "twingly"]
 +++
