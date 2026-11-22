@@ -1147,6 +1147,14 @@ article.tags > ul {
     display: none;
 }
 
+// Each word reserves invisible room for its hover count, which would make
+// the page scroll sideways once the side margins are narrower than that.
+@media only screen and (max-width: 850px) {
+    article.tags {
+        overflow-x: clip;
+    }
+}
+
 .tag-cloud {
     position: relative;
     margin: 2rem 0;

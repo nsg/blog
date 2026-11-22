@@ -240,6 +240,11 @@ function build_tag_cloud(ul) {
   const sctx = scratch.getContext("2d", { willReadFrequently: true });
 
   items.forEach(it => {
+    // A word wider than the cloud would never find a place in it.
+    sctx.font = font_weight + " " + it.size + "px " + family;
+    const word_width = sctx.measureText(it.name).width + 2 * cell;
+    if (word_width > width) it.size *= width / word_width;
+
     const font = font_weight + " " + it.size + "px " + family;
     sctx.font = font;
     const m = sctx.measureText(it.name);
