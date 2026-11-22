@@ -825,6 +825,29 @@ main {
             margin-bottom: 0;
         }
     }
+    .year-index {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin: 0 1rem 1.5rem;
+
+        a {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            min-width: 3.5rem;
+            min-height: 2.75rem;
+            color: var(--text-color);
+            font-size: 0.95rem;
+            font-variant-numeric: tabular-nums;
+            text-decoration: none;
+
+            &:hover {
+                color: var(--link-hover);
+            }
+        }
+    }
+
     .archive {
         margin: 1rem;
 

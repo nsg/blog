@@ -4,6 +4,13 @@
 {% block page_header %}
   {%- if section.title == "all" %}
   <h2 class="no-border">Showing all posts from the entire archive</h2>
+  {#- Not a <nav>, that element is styled as the masthead menu. #}
+  <div class="year-index" role="navigation" aria-label="Years">
+    {%- for year in section.subsections | sort | reverse %}
+    {%- set year_info = get_section(path=year, metadata_only=true) %}
+    <a href="#year-{{ year_info.title }}">{{ year_info.title }}</a>
+    {%- endfor %}
+  </div>
   {%- else %}
   <h2 class="no-border">Showing posts from year <em>{{ section.title }}</em></h2>
   {%- endif %}
@@ -21,7 +28,7 @@
       <span>Posts before 2015 are written in Swedish</span>
     </div>
     {%- endif %}
-    <section class="archive-year">
+    <section class="archive-year" id="year-{{ year_section.title }}">
       <h3 class="year-heading">
         <a href="{{ year_section.permalink }}">{{ year_section.title }}</a>
         <span class="post-count">{{ year_section.pages | length }} posts</span>
