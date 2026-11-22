@@ -113,9 +113,9 @@
     {%- block page_header %}
     <section>
       {%- if page.title %}
-      <h2{% if page.date and page.year < 2015 %} lang="sv"{% endif %}>{{ page.title }}</h2>
+      <h2 class="page-title"{% if page.date and page.year < 2015 %} lang="sv"{% endif %}>{{ page.title }}</h2>
       {%- elif section.title %}
-      <h2>{{ section.title }}</h2>
+      <h2 class="page-title">{{ section.title }}</h2>
       {%- endif %}
     </section>
     {%- endblock page_header %}
