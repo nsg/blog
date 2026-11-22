@@ -220,7 +220,7 @@ function build_tag_cloud(ul) {
   }));
 
   const max_weight = Math.max.apply(null, items.map(i => i.weight));
-  const min_size = 10, max_size = 92;
+  const min_size = 12, max_size = 92;
   items.forEach(i => {
     const t = (i.weight - 1) / Math.max(max_weight - 1, 1);
     i.size = min_size + (max_size - min_size) * Math.pow(t, 0.5);
