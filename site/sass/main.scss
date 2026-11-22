@@ -1049,11 +1049,12 @@ footer {
 }
 
 #search {
-    max-width: 810px;
+    max-width: 800px;
+    box-sizing: border-box;
     margin: auto;
     overflow: auto;
     display: none;
-    padding-top: 2em;
+    padding: 2em 1rem 0;
 
     .results {
         height: 0px;
@@ -1114,24 +1115,26 @@ footer {
     }
 
     input {
+        font: inherit;
         font-size: 1.4em;
+        color: var(--text-color);
+        background: transparent;
         width: 100%;
         margin: 0;
         padding: 0;
         border: 0;
-        border-bottom: 2px solid var(--nav-bg);
+        border-bottom: 2px solid var(--middle-gray);
 
         &:focus,
         &:active {
             border: 0;
-            border-bottom: 2px solid var(--nav-bg2);
+            border-bottom: 2px solid var(--focus-color);
             outline: none;
             background: linear-gradient(
                 0deg,
                 var(--nav-bg2) 0%,
                 var(--bg-color) 8%
             );
-            color: var(--text-color);
         }
     }
 
@@ -1139,13 +1142,6 @@ footer {
         text-align: center;
         font-size: 1.2em;
         padding: 0.5em;
-    }
-}
-
-@media only screen and (max-width: 810px) {
-    #search {
-        padding-left: 1rem;
-        padding-right: 1rem;
     }
 }
 
