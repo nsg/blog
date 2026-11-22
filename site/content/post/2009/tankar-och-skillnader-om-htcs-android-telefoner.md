@@ -21,124 +21,97 @@ Trots att G1:an är från 2008, G2:an från 2009 och G3:an snart kommer släppas
   <tr>
     <th>
     </th>
-    
     <th>
       G1
     </th>
-    
     <th>
       G2
     </th>
-    
     <th>
       G3
     </th>
   </tr>
-  
   <tr>
     <td>
       Upplösning
     </td>
-    
     <td style="border: 1px solid black" colspan="3">
-      480&#215;320
+      480×320
     </td>
   </tr>
-  
   <tr>
     <td>
       Kamera
     </td>
-    
     <td style="border: 1px solid black" colspan="2">
       3,2Mpix autofokus
     </td>
-    
     <td style="border: 1px solid black">
       5 Mpix autofokus
     </td>
   </tr>
-  
   <tr>
     <td>
       CPU
     </td>
-    
     <td style="border: 1px solid black" colspan="2">
       Qualcomm MSM7201A ARM11 @ 528MHz
     </td>
-    
     <td style="border: 1px solid black">
       Qualcomm MSM7200A, 528 MHz
     </td>
   </tr>
-  
   <tr>
     <td>
       Batteri
     </td>
-    
     <td style="border: 1px solid black">
       1150 mAh
     </td>
-    
     <td style="border: 1px solid black">
       1340 mAh
     </td>
-    
     <td style="border: 1px solid black">
       1350 mAh
     </td>
   </tr>
-  
   <tr>
     <td>
       Minne (RAM)
     </td>
-    
     <td style="border: 1px solid black">
       192 MB
     </td>
-    
     <td style="border: 1px solid black">
       192/288 MB
     </td>
-    
     <td style="border: 1px solid black">
       288 MB
     </td>
   </tr>
-  
   <tr>
     <td>
       Minne (ROM)
     </td>
-    
     <td style="border: 1px solid black">
       256 MB
     </td>
-    
     <td style="border: 1px solid black">
       512 MB
     </td>
-    
     <td style="border: 1px solid black">
       512 MB
     </td>
   </tr>
-  
   <tr>
     <td>
       Övrigt
     </td>
-    
     <td style="border: 1px solid black">
       Riktigt qwerty-tangentbord
     </td>
-    
     <td style="border: 1px solid black">
     </td>
-    
     <td style="border: 1px solid black">
       Riktig (3.5mm) ljudutgång
     </td>
